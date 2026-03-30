@@ -1,13 +1,27 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-03-29T11:56:16.715036+00:00",
-  "story_count": 80,
+  "last_updated": "2026-03-30T00:04:41.307428+00:00",
+  "story_count": 83,
   "stories": [
+    {
+      "title": "Iran, US have expressed confidence in Pakistan to facilitate talks; will be honoured to host dialogue ‘in coming days’: FM Dar",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1986541/iran-us-have-expressed-confidence-in-pakistan-to-facilitate-talks-will-be-honoured-to-host-dialogue-in-coming-days-fm-dar",
+      "published_date": "2026-03-29T20:08:14+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Islamabad to ramp up cooperation with Ankara, Cairo in areas of mutual interest",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1986541/islamabad-to-ramp-up-cooperation-with-ankara-cairo-in-areas-of-mutual-interest",
       "published_date": "2026-03-29T11:48:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "All eyes on Islamabad as Saudi Arabia, Egypt, Turkiye and Pakistan intensify efforts to contain Iran conflict",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2638095/middle-east",
+      "published_date": "2026-03-29T08:03:38+00:00",
       "category": "Diplomacy"
     },
     {
@@ -95,6 +109,34 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Israel parliament to vote on budget boosting defense",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2638100/middle-east",
+      "published_date": "2026-03-30T09:03:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UNIFIL says one peacekeeper killed, one critically injured in southern Lebanon explosion",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2638101/middle-east",
+      "published_date": "2026-03-29T22:03:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "PM Shehbaz commends Kingdom’s ‘remarkable restraint’ in meeting with Saudi FM, assures him of Pakistan’s ‘full support’",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1986574/pm-shehbaz-commends-kingdoms-remarkable-restraint-in-meeting-with-saudi-fm-assures-him-of-pakistans-full-support",
+      "published_date": "2026-03-29T18:03:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "War Diary Day 30: Multifront attrition deepens, strategic picture getting complicated for US and Israel",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1986568/war-diary-day-30-multifront-attrition-deepens-strategic-picture-getting-complicated-for-us-and-israel",
+      "published_date": "2026-03-29T13:13:48+00:00",
+      "category": "Military"
+    },
+    {
       "title": "PIA could be ‘forced to shut down’ due to 150pc jet fuel rate hikes: Arif Habib",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1986553/pia-could-be-forced-to-shut-down-due-to-150pc-jet-fuel-rate-hikes-arif-habib",
@@ -102,10 +144,24 @@
       "category": "Military"
     },
     {
+      "title": "Dar says Turkiye, Saudi Arabia, Egypt back dialogue as only way to 'permanently end' US-Iran war",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2599973/dar-says-turkiye-saudi-arabia-egypt-back-dialogue-as-only-way-to-permanently-end-us-iran-war",
+      "published_date": "2026-03-29T11:47:30+00:00",
+      "category": "Military"
+    },
+    {
       "title": "JD or Marco?: Iran war raises 2028 stakes as Trump weighs Vance vs. Rubio",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1986561/jd-or-marco-iran-war-raises-2028-stakes-as-trump-weighs-vance-vs-rubio",
       "published_date": "2026-03-29T11:41:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Security forces defuse 8 IEDs on Quetta–Karachi highway, averting major attack",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2599964/security-forces-defuse-8-ieds-on-quettakarachi-highway-averting-major-attack",
+      "published_date": "2026-03-29T10:20:22+00:00",
       "category": "Military"
     },
     {
@@ -144,6 +200,13 @@
       "category": "Military"
     },
     {
+      "title": "Founder of Free Syrian Army promoted in new military",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2638094/middle-east",
+      "published_date": "2026-03-29T08:03:32+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Drap dismisses reports of essential medicine price hikes amid global supply chain uncertainty",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1986532/drap-dismisses-reports-of-essential-medicine-price-hikes-amid-global-supply-chain-uncertainty",
@@ -165,6 +228,13 @@
       "category": "Military"
     },
     {
+      "title": "What We Are Reading Today: Boss Lincoln by Matthew Pinsker",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2638090/books",
+      "published_date": "2026-03-29T07:03:54+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Helplines buzz with alerts from seafarers trapped in Middle East war",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1986525/helplines-buzz-with-alerts-from-seafarers-trapped-in-middle-east-war",
@@ -179,60 +249,11 @@
       "category": "Military"
     },
     {
-      "title": "Houthis join fray by firing ballistic missiles at Israel",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1986444/houthis-join-fray-by-firing-ballistic-missiles-at-israel",
-      "published_date": "2026-03-29T02:36:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Anger over Iran war adds fuel to anti-Trump rallies in US",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1986406/anger-over-iran-war-adds-fuel-to-anti-trump-rallies-in-us",
-      "published_date": "2026-03-29T02:06:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi passport directorate: Holders of expired visas can seek help through hotline 992",
+      "title": "Nepal’s former energy minister arrested in corruption probe",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2638006/saudi-arabia",
-      "published_date": "2026-03-28T22:03:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Foreign media association slams Israeli forces’ assault on CNN crew in occupied West Bank",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1986328/foreign-media-association-slams-israeli-forces-assault-on-cnn-crew-in-occupied-west-bank",
-      "published_date": "2026-03-28T18:25:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Blatant crime’: Israeli strike kills 3 journalists in southern Lebanon",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1986274/blatant-crime-israeli-strike-kills-3-journalists-in-southern-lebanon",
-      "published_date": "2026-03-28T17:09:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Exercise in deflection masquerading as concern’: FO rejects India’s comments on Pakistan’s Shia community",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1986308/exercise-in-deflection-masquerading-as-concern-fo-rejects-indias-comments-on-pakistans-shia-community",
-      "published_date": "2026-03-28T16:58:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "War Diary Day 29: Industrial strikes against Iran trigger wider retaliation",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1986309/war-diary-day-29-industrial-strikes-against-iran-trigger-wider-retaliation",
-      "published_date": "2026-03-28T15:36:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Cop martyred in terrorist attack on police vehicle in Bannu",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1986301/cop-martyred-in-terrorist-attack-on-police-vehicle-in-bannu",
-      "published_date": "2026-03-28T14:54:37+00:00",
-      "category": "Military"
+      "url": "https://www.arabnews.pk/node/2638089/world",
+      "published_date": "2026-03-29T07:03:13+00:00",
+      "category": "Energy"
     },
     {
       "title": "Govt allocates Rs125b to shield public from rising oil prices",
@@ -282,6 +303,20 @@
       "url": "https://tribune.com.pk/story/2599533/industries-asked-to-use-more-energy",
       "published_date": "2026-03-27T06:08:14+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "New PIA owners rattled by rising jet fuel costs, worry about sustainability",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1986553/new-pia-owners-rattled-by-rising-jet-fuel-costs-worry-about-sustainability",
+      "published_date": "2026-03-29T12:39:43+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "CM Afridi defends Kasim’s remarks at UNHRC as son’s natural concern for his father",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2599974/cm-afridi-defends-kasims-remarks-at-unhrc-as-sons-natural-concern-for-his-father",
+      "published_date": "2026-03-29T11:50:42+00:00",
+      "category": "Economy"
     },
     {
       "title": "Info ministry refutes reports of ‘complete lockdown’ on weekends as part of fuel-saving measures",
@@ -410,18 +445,53 @@
       "category": "Economy"
     },
     {
-      "title": "Weak governance undermines urban projects",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2599314/weak-governance-undermines-urban-projects",
-      "published_date": "2026-03-25T18:21:14+00:00",
-      "category": "Economy"
+      "title": "In letter to PSL CEO, police detail alleged security protocol breach by Lahore Qalandar’s Shaheen Afridi, Sikandar Raza",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1986590/in-letter-to-psl-ceo-police-detail-alleged-security-protocol-breach-by-lahore-qalandars-shaheen-afridi-sikandar-raza",
+      "published_date": "2026-03-29T22:09:21+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "FY27 budgeting in uncertain times",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2598789/fy27-budgeting-in-uncertain-times",
-      "published_date": "2026-03-22T18:30:30+00:00",
-      "category": "Economy"
+      "title": "Ukrainian drones kill one, damage homes, industry in southern Russia’s Taganrog",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2638104/world",
+      "published_date": "2026-03-29T22:03:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "First PIA direct flight to London in 6 years lands at Heathrow Airport",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1986542/first-pia-direct-flight-to-london-in-6-years-lands-at-heathrow-airport",
+      "published_date": "2026-03-29T18:18:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PTI concerned over reports about Bushra Bibi’s health, demands she be taken to hospital for diagnosis, treatment",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1986585/pti-concerned-over-reports-about-bushra-bibis-health-demands-she-be-taken-to-hospital-for-diagnosis-treatment",
+      "published_date": "2026-03-29T16:08:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "HRCP, civil society organisations demand immediate halt to eviction operations in Islamabad’s katchi abadis",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1986569/hrcp-civil-society-organisations-demand-immediate-halt-to-eviction-operations-in-islamabads-katchi-abadis",
+      "published_date": "2026-03-29T13:58:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel police prevent Jerusalem’s Latin Patriarch from entering Holy Sepulchre on Palm Sunday",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1986571/israel-police-prevent-jerusalems-latin-patriarch-from-entering-holy-sepulchre-on-palm-sunday",
+      "published_date": "2026-03-29T13:45:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In US Supreme Court fight over birthright citizenship, 1898 anti-immigrant sentiment echoes",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1986566/in-us-supreme-court-fight-over-birthright-citizenship-1898-anti-immigrant-sentiment-echoes",
+      "published_date": "2026-03-29T13:32:44+00:00",
+      "category": "Local Events"
     },
     {
       "title": "First PIA direct flight to London in 6 years takes to the skies",
@@ -512,55 +582,6 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2638048/world",
       "published_date": "2026-03-28T22:03:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli police prevent Jerusalem’s Latin Patriarch from celebrating Palm Sunday mass",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2638044/middle-east",
-      "published_date": "2026-03-28T22:03:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PIA completes preparations for Hajj operations",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2599882/pia-completes-preparations-for-hajj-operations",
-      "published_date": "2026-03-28T16:40:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sweet heist? Nestle says 12 tonnes of KitKat stolen in Europe",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1986312/sweet-heist-nestle-says-12-tonnes-of-kitkat-stolen-in-europe",
-      "published_date": "2026-03-28T16:14:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Punjab offers Rs50,000 subsidy for cotton",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2599846/punjab-offers-rs50000-subsidy-for-cotton",
-      "published_date": "2026-03-28T15:44:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lahore hospital’s MS, head of gynae dept suspended following viral video of medical procedure",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1986296/lahore-hospitals-ms-head-of-gynae-dept-suspended-following-viral-video-of-medical-procedure",
-      "published_date": "2026-03-28T15:17:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "FIA director general says agency has compiled data of human smugglers, facilitators",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1986275/fia-director-general-says-agency-has-compiled-data-of-human-smugglers-facilitators",
-      "published_date": "2026-03-28T13:23:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Islamabad authorities deny Edhi’s claim of sealing office in Aabpara",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1986264/islamabad-authorities-deny-edhis-claim-of-sealing-office-in-aabpara",
-      "published_date": "2026-03-28T12:16:18+00:00",
       "category": "Local Events"
     }
   ]
