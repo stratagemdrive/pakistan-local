@@ -1,13 +1,34 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-03-31T14:51:51.170583+00:00",
+  "last_updated": "2026-04-01T00:04:08.908578+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Pakistan, China issue 5-point initiative for restoring peace in Middle East",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1987106/pakistan-china-issue-5-point-initiative-for-restoring-peace-in-middle-east",
+      "published_date": "2026-03-31T16:11:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "King Charles to pay state visit to US as UK seeks to mollify Trump",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1987209/king-charles-to-pay-state-visit-to-us-as-uk-seeks-to-mollify-trump",
+      "published_date": "2026-03-31T14:56:34+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pakistan, China call for cessation of hostilities in Mideast war, starting peace talks as soon as possible",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1987106/pakistan-china-call-for-cessation-of-hostilities-in-mideast-war-starting-peace-talks-as-soon-as-possible",
       "published_date": "2026-03-31T14:04:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Aman jirga calls for immediate ceasefire between Pakistan and Afghanistan",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2600360/aman-jirga-calls-for-immediate-ceasefire-between-pakistan-and-afghanistan",
+      "published_date": "2026-03-31T12:14:16+00:00",
       "category": "Diplomacy"
     },
     {
@@ -123,25 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pakistan emerging as key diplomatic player amid high-level regional visits",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2599807/pakistan-emerging-as-key-diplomatic-player-amid-high-level-regional-visits",
-      "published_date": "2026-03-28T12:44:06+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Syria president to head to Germany, UK for first time since assuming power",
+      "title": "Israel says it struck senior Hezbollah commander and senior member in Beirut",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2637986/middle-east",
-      "published_date": "2026-03-28T08:03:34+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.arabnews.pk/node/2638365/middle-east",
+      "published_date": "2026-03-31T23:04:24+00:00",
+      "category": "Military"
     },
     {
-      "title": "Gold falls Rs1,000/tola to Rs467,262",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2599690/gold-falls-rs1000tola-to-rs467262",
-      "published_date": "2026-03-27T14:44:56+00:00",
-      "category": "Diplomacy"
+      "title": "Trump says US to leave Iran ‘very soon,’ deal or not",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2638366/world",
+      "published_date": "2026-03-31T23:04:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "War Diary Day 32: Still no clear winners as diplomacy yet to take off",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1987223/war-diary-day-32-still-no-clear-winners-as-diplomacy-yet-to-take-off",
+      "published_date": "2026-03-31T15:59:37+00:00",
+      "category": "Military"
     },
     {
       "title": "UNRWA chief seeks probe into killing of hundreds of staff in Gaza",
@@ -176,6 +197,27 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2638216/world",
       "published_date": "2026-03-31T09:03:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Deposed and detained: Niger president’s fate unclear nearly three years on",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2638348/world",
+      "published_date": "2026-03-31T08:03:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US military suicides down in 2024 from previous year",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2638352/world",
+      "published_date": "2026-03-31T08:03:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Iran will be at World Cup’ and play in US — Infantino",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2638346/sport",
+      "published_date": "2026-03-31T07:03:41+00:00",
       "category": "Military"
     },
     {
@@ -242,46 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Israel passes law making death penalty default sentence for Palestinians convicted of lethal attacks",
+      "title": "LNG supplies under force majeure, not available for power generation, say officials",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1986920/israel-passes-law-making-death-penalty-default-sentence-for-palestinians-convicted-of-lethal-attacks",
-      "published_date": "2026-03-30T20:12:04+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/1987262/lng-supplies-under-force-majeure-not-available-for-power-generation-say-officials",
+      "published_date": "2026-03-31T19:17:07+00:00",
+      "category": "Energy"
     },
     {
-      "title": "India planning false flag operation using Pakistani prisoners: security sources",
+      "title": "Ogra notifies 35pc increase in LPG rates for April",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1986909/india-planning-false-flag-operation-using-pakistani-prisoners-security-sources",
-      "published_date": "2026-03-30T18:46:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "War Diary Day 31: Economic shockwaves deepen in absence of diplomatic off-ramps to Iran war",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1986900/war-diary-day-31-economic-shockwaves-deepen-in-absence-of-diplomatic-off-ramps-to-iran-war",
-      "published_date": "2026-03-30T17:30:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What could Trump achieve by threatening Iran’s Kharg Island?",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1986889/what-could-trump-achieve-by-threatening-irans-kharg-island",
-      "published_date": "2026-03-30T16:32:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "PTI's moment lost in the fog of war",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2600256/ptis-moment-lost-in-the-fog-of-war",
-      "published_date": "2026-03-30T16:31:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "President Zardari, PM Shehbaz review regional situation, implications for Pakistan",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1986837/president-zardari-pm-shehbaz-review-regional-situation-implications-for-pakistan",
-      "published_date": "2026-03-30T14:54:18+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/1987222/ogra-notifies-35pc-increase-in-lpg-rates-for-april",
+      "published_date": "2026-03-31T15:47:48+00:00",
+      "category": "Energy"
     },
     {
       "title": "PM directs strict action against smuggling, hoarding of petroleum products",
@@ -309,6 +323,13 @@
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2600322/pm-orders-strictness-against-smuggling-illegal-hoarding-of-petroleum-products-amid-fuel-crunch",
       "published_date": "2026-03-31T08:08:01+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "How Saudi Arabia’s East-West pipeline is easing the Hormuz chokehold on global oil markets",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2638351/saudi-arabia",
+      "published_date": "2026-03-31T08:03:07+00:00",
       "category": "Energy"
     },
     {
@@ -403,25 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Pakistan’s energy crossroads",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2600001/pakistans-energy-crossroads",
-      "published_date": "2026-03-29T14:19:47+00:00",
-      "category": "Energy"
+      "title": "Rising oil prices pose risk to Pakistan’s import bill, macroeconomic conditions, finance ministry warns",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1987221/rising-oil-prices-pose-risk-to-pakistans-import-bill-macroeconomic-conditions-finance-ministry-warns",
+      "published_date": "2026-03-31T15:36:22+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Nepal’s former energy minister arrested in corruption probe",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2638089/world",
-      "published_date": "2026-03-29T07:03:13+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Govt allocates Rs125b to shield public from rising oil prices",
+      "title": "Finance ministry warns rising oil prices may fuel inflation, widen import bill",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2599927/govt-allocates-rs125b-to-shield-public-from-rising-oil-prices",
-      "published_date": "2026-03-29T03:35:33+00:00",
-      "category": "Energy"
+      "url": "https://tribune.com.pk/story/2600372/finance-ministry-warns-rising-oil-prices-may-fuel-inflation-widen-import-bill",
+      "published_date": "2026-03-31T14:02:56+00:00",
+      "category": "Economy"
     },
     {
       "title": "KSE-100 gains 1,900 points day after war-driven meltdown",
@@ -550,18 +564,46 @@
       "category": "Economy"
     },
     {
-      "title": "CM Afridi defends Kasim’s remarks at UNHRC as son’s natural concern for his father",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2599974/cm-afridi-defends-kasims-remarks-at-unhrc-as-sons-natural-concern-for-his-father",
-      "published_date": "2026-03-29T11:50:42+00:00",
-      "category": "Economy"
+      "title": "Judge orders White House ballroom construction to halt in a ruling that leaves Trump seething",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2638364/world",
+      "published_date": "2026-03-31T22:04:55+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Info ministry refutes reports of ‘complete lockdown’ on weekends as part of fuel-saving measures",
+      "title": "US appeals court denies bid from families of Boeing 737 Max crash victims to reopen criminal case",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2638361/world",
+      "published_date": "2026-03-31T22:04:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘What can you expect from a govt with people like Netanyahu?’: Palestinians horrified by Israel’s new death penalty law",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1986556/info-ministry-refutes-reports-of-complete-lockdown-on-weekends-as-part-of-fuel-saving-measures",
-      "published_date": "2026-03-29T11:49:37+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/1987239/what-can-you-expect-from-a-govt-with-people-like-netanyahu-palestinians-horrified-by-israels-new-death-penalty-law",
+      "published_date": "2026-03-31T16:52:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Defamation case: Lahore court orders Meesha Shafi to pay Rs5 million in damages to Ali Zafar",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1987171/defamation-case-lahore-court-orders-meesha-shafi-to-pay-rs5-million-in-damages-to-ali-zafar",
+      "published_date": "2026-03-31T15:20:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Repatriation of Afghans resumes at Torkham as border reopens",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1987201/repatriation-of-afghans-resumes-at-torkham-as-border-reopens",
+      "published_date": "2026-03-31T15:15:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bill seeking up to 5 years in prison for perpetrators of forced conversion submitted in Punjab Assembly",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1987210/bill-seeking-up-to-5-years-in-prison-for-perpetrators-of-forced-conversion-submitted-in-punjab-assembly",
+      "published_date": "2026-03-31T14:54:03+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Defamation case: Lahore court directs Meesha Shafi to pay Rs5 million in damages to Ali Zafar",
@@ -613,10 +655,24 @@
       "category": "Local Events"
     },
     {
+      "title": "PSL match abandoned as heavy downpour cripples life in Lahore",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2600352/psl-match-abandoned-as-heavy-downpour-cripples-life-in-lahore",
+      "published_date": "2026-03-31T10:55:20+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Tribunal dismisses petition against info minister Tarar’s win from Lahore’s NA-127",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1987152/tribunal-dismisses-petition-against-info-minister-tarars-win-from-lahores-na-127",
       "published_date": "2026-03-31T10:50:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Private bill seeks to curb forced conversions, protect minorities in Punjab Assembly",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2600350/private-bill-seeks-to-curb-forced-conversions-protect-minorities-in-punjab-assembly",
+      "published_date": "2026-03-31T10:35:17+00:00",
       "category": "Local Events"
     },
     {
@@ -645,62 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1987054/woman-allegedly-gang-raped-in-moving-van-near-punjabs-rawat",
       "published_date": "2026-03-31T07:18:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AI helps solve businessman Aamir Awan murder and arrest suspects within 24 hours, Islamabad police chief says",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2600315/ai-helps-solve-businessman-aamir-awan-murder-and-arrest-suspects-within-24-hours",
-      "published_date": "2026-03-31T06:48:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan, seven other countries condemn Israeli curbs on Muslim and Christian worship in occupied Jerusalem",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1987120/pakistan-seven-other-countries-condemn-israeli-curbs-on-muslim-and-christian-worship-in-occupied-jerusalem",
-      "published_date": "2026-03-31T06:12:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gold prices rise further in local, international markets",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2600297/gold-prices-rise-further-in-local-international-markets",
-      "published_date": "2026-03-31T03:51:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Provinces to share oil subsidy burden under NFC formula",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1986997/provinces-to-share-oil-subsidy-burden-under-nfc-formula",
-      "published_date": "2026-03-31T02:27:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan eyes disaster management cooperation with 65 states, including Saudi Arabia, China",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2638307/pakistan",
-      "published_date": "2026-03-31T01:03:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan cricketer Zaman gets two-match PSL ban for ball tampering",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2638293/pakistan",
-      "published_date": "2026-03-31T00:03:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fast bowler Naseem Shah slapped with Rs20m fine after social media post about Punjab CM Maryam",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1986867/fast-bowler-naseem-shah-slapped-with-rs20m-fine-after-social-media-post-about-punjab-cm-maryam",
-      "published_date": "2026-03-30T20:00:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lahore Qalandars imposes ‘voluntary’ fine of Rs1m on captain Shaheen Afridi over security protocol breach",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1986905/lahore-qalandars-imposes-voluntary-fine-of-rs1m-on-captain-shaheen-afridi-over-security-protocol-breach",
-      "published_date": "2026-03-30T19:17:05+00:00",
       "category": "Local Events"
     }
   ]
