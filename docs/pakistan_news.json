@@ -1,8 +1,15 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-04-02T14:43:05.551674+00:00",
+  "last_updated": "2026-04-03T00:03:25.171492+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Saudi Arabia welcomes new ambassadors from Portugal and Thailand",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2638602/saudi-arabia",
+      "published_date": "2026-04-02T23:04:06+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Putin floats idea of ‘grain and energy hub’ in Egypt",
       "source": "Arab News Pakistan",
@@ -137,11 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pakistan’s diplomatic moment",
+      "title": "18 European nations urge Israel and Hezbollah to stop fighting",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2638593/middle-east",
+      "published_date": "2026-04-03T09:04:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "War images and video footage created by AI erode trust in genuine news, media analysts warn",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2638594/middle-east",
+      "published_date": "2026-04-03T09:04:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US banks in Paris tighten security, order remote work over pro-Iran threat",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2638596/world",
+      "published_date": "2026-04-02T22:04:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "France bans planned gathering of Muslims in Paris area, citing security risk",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2638599/world",
+      "published_date": "2026-04-02T22:04:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Arab League chief condemns Iranian strikes, urges UN to intervene to stop attacks",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2638598/middle-east",
+      "published_date": "2026-04-02T22:04:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hegseth asked US Army chief of staff to step down",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2638595/world",
+      "published_date": "2026-04-02T22:04:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "War Diary Day 34: Trump’s speech deepens escalation, pushing war into prolonged phase",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1986484/pakistans-diplomatic-moment",
-      "published_date": "2026-03-29T04:00:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/1987906/war-diary-day-34-trumps-speech-deepens-escalation-pushing-war-into-prolonged-phase",
+      "published_date": "2026-04-02T19:41:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump fires Pam Bondi as US attorney general, White House official says",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1987902/trump-fires-pam-bondi-as-us-attorney-general-white-house-official-says",
+      "published_date": "2026-04-02T18:19:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gulf states seek UN mandate for force to protect Strait of Hormuz",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1987881/gulf-states-seek-un-mandate-for-force-to-protect-strait-of-hormuz",
+      "published_date": "2026-04-02T16:24:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UN experts call for investigation into killing of 3 Lebanese journalists in Israeli strike",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1987870/un-experts-call-for-investigation-into-killing-of-3-lebanese-journalists-in-israeli-strike",
+      "published_date": "2026-04-02T15:34:32+00:00",
+      "category": "Military"
     },
     {
       "title": "How international media covered President Trump’s first address to the nation on Iran war",
@@ -165,6 +235,13 @@
       "category": "Military"
     },
     {
+      "title": "4 personnel injured in explosion at Domel police station in K-P's Bannu",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2600732/4-policemen-injured-in-explosion-at-domel-police-station-in-k-ps-bannu",
+      "published_date": "2026-04-02T12:45:12+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Pakistan in talks with Afghanistan but Kabul must demonstrate ‘visible and verifiable actions’: FO",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1987810/pakistan-in-talks-with-afghanistan-but-kabul-must-demonstrate-visible-and-verifiable-actions-fo",
@@ -176,6 +253,20 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1987826/dangerous-escalation-8-muslim-majority-countries-including-pakistan-condemn-israels-death-penalty-law",
       "published_date": "2026-04-02T11:08:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "From international isolation to mediator in Iran war, Pakistan's remarkable makeover",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2600703/from-international-isolation-to-mediator-in-iran-war-pakistans-remarkable-makeover",
+      "published_date": "2026-04-02T09:51:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Leading Iranian human rights lawyer detained in Tehran, daughter says",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2638591/middle-east",
+      "published_date": "2026-04-02T08:04:08+00:00",
       "category": "Military"
     },
     {
@@ -193,101 +284,24 @@
       "category": "Military"
     },
     {
-      "title": "Security forces kill 8 terrorists along Pak-Afghan border in North Waziristan: ISPR",
+      "title": "Pakistan approves host of transshipment measures to stregthen maritime sector",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1987791/security-forces-kill-8-terrorists-along-pak-afghan-border-in-north-waziristan-ispr",
-      "published_date": "2026-04-02T06:59:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Vile, horrifying, evil’: Democrats demand ceasefire as Trump defends costly war on Iran",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1987773/vile-horrifying-evil-democrats-demand-ceasefire-as-trump-defends-costly-war-on-iran",
-      "published_date": "2026-04-02T06:53:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan working tirelessly to ease Middle East tensions: PM Shehbaz",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2600685/pakistan-working-tirelessly-to-ease-middle-east-tensions-pm-shehbaz",
-      "published_date": "2026-04-02T05:30:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nasa launches 4 astronauts on world’s first crewed lunar mission in half a century",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1987778/nasa-launches-4-astronauts-on-worlds-first-crewed-lunar-mission-in-half-a-century",
-      "published_date": "2026-04-02T05:19:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Indonesia calls for probe into  UN peacekeepers’ killing",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1987672/indonesia-calls-for-probe-into-un-peacekeepers-killing",
-      "published_date": "2026-04-02T03:04:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK to host 35-state  moot on reopening of Hormuz Strait",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1987674/uk-to-host-35-state-moot-on-reopening-of-hormuz-strait",
-      "published_date": "2026-04-02T02:34:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan defense minister warns India of ‘decisive, more forceful’ response if it attacks",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2638553/pakistan",
-      "published_date": "2026-04-02T01:04:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Eight terrorists killed in North Waziristan: ISPR",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2600649/eight-terrorists-killed-in-north-waziristan-ispr",
-      "published_date": "2026-04-02T00:53:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Romania weighs canceling drone contract with Israel’s Elbit Systems",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2638547/world",
-      "published_date": "2026-04-02T00:04:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli military says air defenses responding to Iranian missiles",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2638482/middle-east",
-      "published_date": "2026-04-01T23:04:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia woos students for its drone forces in Ukraine with large financial packages",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2638539/world",
-      "published_date": "2026-04-01T23:04:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan approves landmark bulk, vehicle transshipment measures as Middle East routes shift",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2638535/pakistan",
-      "published_date": "2026-04-01T23:04:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Beirut is bursting as over 1 million people flee Israeli strikes and evacuation orders",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2638478/middle-east",
-      "published_date": "2026-04-01T22:04:47+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/1987854/pakistan-approves-host-of-transshipment-measures-to-stregthen-maritime-sector",
+      "published_date": "2026-04-02T14:56:19+00:00",
+      "category": "Energy"
     },
     {
       "title": "Graveyard raid in India uncovers hidden cooking gas canisters amid shortage",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1987840/graveyard-raid-in-india-uncovers-hidden-cooking-gas-canisters-amid-shortage",
       "published_date": "2026-04-02T12:34:27+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Govt increases petrol tax to Rs161 per litre, sets new price at Rs458 per litre",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2600728/aurangzeb-malik-to-address-nation-tonight",
+      "published_date": "2026-04-02T12:28:40+00:00",
       "category": "Energy"
     },
     {
@@ -410,18 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "How the Middle East war is driving up shipping costs",
+      "title": "Govt hikes petrol price to Rs458 per litre, HSD price to Rs520 per litre",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1987191/how-the-middle-east-war-is-driving-up-shipping-costs",
-      "published_date": "2026-03-31T13:37:42+00:00",
-      "category": "Energy"
+      "url": "https://www.dawn.com/news/1987901/govt-hikes-petrol-price-to-rs458-per-litre-hsd-price-to-rs520-per-litre",
+      "published_date": "2026-04-02T22:33:45+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Allies sent Ukraine ‘signals’ on reducing strikes on Russian oil, Zelensky says",
+      "title": "A year after ‘Liberation Day,’ Trump sets new drug tariffs, adjusts metals duties",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2638217/world",
-      "published_date": "2026-03-31T09:03:45+00:00",
-      "category": "Energy"
+      "url": "https://www.arabnews.pk/node/2638600/world",
+      "published_date": "2026-04-02T22:04:43+00:00",
+      "category": "Economy"
     },
     {
       "title": "Pakistan to seek flexibility in IMF programme for evolving contingencies amid war on Iran",
@@ -550,24 +564,31 @@
       "category": "Economy"
     },
     {
-      "title": "Govt mulls Rs31b spending on wheat stocks",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2600403/govt-mulls-rs31b-spending-on-wheat-stocks",
-      "published_date": "2026-03-31T15:05:21+00:00",
-      "category": "Economy"
+      "title": "AJK High Court bars detention, deportation of Afghans without due process",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1987899/ajk-high-court-bars-detention-deportation-of-afghans-without-due-process",
+      "published_date": "2026-04-02T17:52:11+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "SBP buys $12.4b to strengthen reserves",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2600401/sbp-buys-124b-to-strengthen-reserves",
-      "published_date": "2026-03-31T15:05:21+00:00",
-      "category": "Economy"
+      "title": "Meetings with Imran continue to remain suspended as authorities stop PTI leaders outside Adiala jail",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1987863/meetings-with-imran-continue-to-remain-suspended-as-authorities-stop-pti-leaders-outside-adiala-jail",
+      "published_date": "2026-04-02T15:52:51+00:00",
+      "category": "Local Events"
     },
     {
       "title": "At least 5 killed as heavy rain lashes Karachi; city administration declares emergency",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1987780/at-least-5-killed-as-heavy-rain-lashes-karachi-city-administration-declares-emergency",
       "published_date": "2026-04-02T13:44:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Larkana police arrest absconding suspect in journalist Shan Dahar murder case after 12 years",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2600724/larkana-police-arrest-absconding-suspect-in-journalist-shan-dahar-murder-case-after-12-years",
+      "published_date": "2026-04-02T11:36:09+00:00",
       "category": "Local Events"
     },
     {
@@ -680,27 +701,6 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2638479/sport",
       "published_date": "2026-04-01T22:04:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bilawal calls on Fazl at his residence, two leaders discuss political matters",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1987580/bilawal-calls-on-fazl-at-his-residence-two-leaders-discuss-political-matters",
-      "published_date": "2026-04-01T18:46:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "4 cops among 9 injured in IED blast in KP’s Lakki Marwat",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1987545/4-cops-among-9-injured-in-ied-blast-in-kps-lakki-marwat",
-      "published_date": "2026-04-01T15:29:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Schools in Punjab to remain closed on Fridays",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1987519/schools-in-punjab-to-remain-closed-on-fridays",
-      "published_date": "2026-04-01T14:37:16+00:00",
       "category": "Local Events"
     }
   ]
