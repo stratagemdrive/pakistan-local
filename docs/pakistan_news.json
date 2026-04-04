@@ -1,8 +1,22 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-04-04T11:56:30.828767+00:00",
+  "last_updated": "2026-04-04T23:59:36.762418+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "UAE condemns ‘acts of vandalism’ at its embassy in Damascus",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1988595/uae-condemns-acts-of-vandalism-at-its-embassy-in-damascus",
+      "published_date": "2026-04-04T18:05:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Never refused to go to Islamabad’: Iran says US media misrepresenting its position on peace talks",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1988544/never-refused-to-go-to-islamabad-iran-says-us-media-misrepresenting-its-position-on-peace-talks",
+      "published_date": "2026-04-04T17:18:47+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Araghchi says US media misrepresenting Iran’s position on talks, ‘grateful’ to Pakistan for its peace efforts",
       "source": "Dawn",
@@ -130,18 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pakistan, China call for cessation of hostilities in Mideast war, starting peace talks as soon as possible",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1987106/pakistan-china-call-for-cessation-of-hostilities-in-mideast-war-starting-peace-talks-as-soon-as-possible",
-      "published_date": "2026-03-31T14:04:40+00:00",
-      "category": "Diplomacy"
+      "title": "Pope Leo XIV calls for harmony and peace in a world torn by war",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2638796/world",
+      "published_date": "2026-04-04T22:04:57+00:00",
+      "category": "Military"
     },
     {
-      "title": "Aman jirga calls for immediate ceasefire between Pakistan and Afghanistan",
+      "title": "US arrests relatives of top Iranian commander assassinated in 2020 strike on Baghdad",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1988582/us-arrests-relatives-of-top-iranian-commander-assassinated-in-2020-strike-on-baghdad",
+      "published_date": "2026-04-04T16:10:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Virginia Giuffre’s family urges King Charles to meet Epstein survivors during US visit",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1988577/virginia-giuffres-family-urges-king-charles-to-meet-epstein-survivors-during-us-visit",
+      "published_date": "2026-04-04T15:21:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bilawal says Pakistanis paying price of 'illegal war' on Iran, warns conflict will engulf world",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2600360/aman-jirga-calls-for-immediate-ceasefire-between-pakistan-and-afghanistan",
-      "published_date": "2026-03-31T12:14:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://tribune.com.pk/story/2601069/bilawal-says-pakistanis-paying-price-of-illegal-war-on-iran-warns-conflict-will-engulf-world",
+      "published_date": "2026-04-04T12:21:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Like falling out of the sky’: Canadian astronaut describes ‘phenomenal’ Artemis journey",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1988549/like-falling-out-of-the-sky-canadian-astronaut-describes-phenomenal-artemis-journey",
+      "published_date": "2026-04-04T12:21:12+00:00",
+      "category": "Military"
     },
     {
       "title": "Khawaja Asif warns India against conducting ‘false-flag operation’",
@@ -183,6 +218,27 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2638739/middle-east",
       "published_date": "2026-04-04T08:04:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What We Are Reading Today: The Infinity Machine by Sebastian Mallaby",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2638777/books",
+      "published_date": "2026-04-04T07:04:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Khawaja Asif warns of forceful response against India's plan to conduct 'false flag' operation",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2601044/asif-warns-of-forceful-response-against-indias-plan-to-conduct-false-flag-operation",
+      "published_date": "2026-04-04T06:53:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Deeply grateful to Pakistan' for mediation efforts, 'never refused to go to Islamabad': Iranian FM",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2601043/deeply-grateful-to-pakistan-for-mediation-efforts-never-refused-to-go-to-islamabad-iranian-fm",
+      "published_date": "2026-04-04T06:37:44+00:00",
       "category": "Military"
     },
     {
@@ -228,66 +284,31 @@
       "category": "Military"
     },
     {
-      "title": "‘Silence’ stonewalls Pakistan-led US-Iran talks initiative",
+      "title": "PM says disbursement of funds for public transport, freight operators has begun through digital wallets",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1988294/silence-stonewalls-pakistan-led-us-iran-talks-initiative",
-      "published_date": "2026-04-03T21:54:39+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/1988594/pm-says-disbursement-of-funds-for-public-transport-freight-operators-has-begun-through-digital-wallets",
+      "published_date": "2026-04-04T17:41:25+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Petrol price reduces to Rs378 per litre as govt cuts levy by Rs80",
+      "title": "Planning minister advocates for revising market timings to rein in oil import bill",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1988282/petrol-price-reduces-to-rs378-per-litre-as-govt-cuts-levy-by-rs80",
-      "published_date": "2026-04-03T19:46:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Microsoft to invest $10b in Japan",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2600954/microsoft-to-invest-10b-in-japan",
-      "published_date": "2026-04-03T15:39:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Siraj urges dialogue amid Pak-Afghan tensions",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2600949/siraj-urges-dialogue-amid-pak-afghan-tensions",
-      "published_date": "2026-04-03T15:33:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "China urges respect for Palestinian rights after Israel passes death penalty law",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1988231/china-urges-respect-for-palestinian-rights-after-israel-passes-death-penalty-law",
-      "published_date": "2026-04-03T12:20:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "World anxious to open Hormuz Strait while Trump and Iran trade threats",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1988101/world-anxious-to-open-hormuz-strait-while-trump-and-iran-trade-threats",
-      "published_date": "2026-04-03T11:03:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "18 European nations urge Israel and Hezbollah to stop fighting",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2638593/middle-east",
-      "published_date": "2026-04-03T09:04:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Human remains found on Thai ship attacked in Hormuz strait: firm",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2638649/middle-east",
-      "published_date": "2026-04-03T09:04:31+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/1988554/planning-minister-advocates-for-revising-market-timings-to-rein-in-oil-import-bill",
+      "published_date": "2026-04-04T15:04:29+00:00",
+      "category": "Energy"
     },
     {
       "title": "Shahid Khaqan urges govt to deregulate fuel prices, promote electric vehicles",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1988532/shahid-khaqan-urges-govt-to-deregulate-fuel-prices-promote-electric-vehicles",
       "published_date": "2026-04-04T11:27:11+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "How strikes on Gulf energy infrastructure risk triggering environmental disaster",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2638776/middle-east",
+      "published_date": "2026-04-04T07:04:40+00:00",
       "category": "Energy"
     },
     {
@@ -403,25 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "Leghari links power use rise to policy success",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2600755/leghari-links-power-use-rise-to-policy-success",
-      "published_date": "2026-04-02T14:13:08+00:00",
-      "category": "Energy"
+      "title": "Police chase fans off the field in clashes at German club game in Dresden",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2638791/football",
+      "published_date": "2026-04-05T09:04:24+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Graveyard raid in India uncovers hidden cooking gas canisters amid shortage",
+      "title": "FO rejects ‘misleading, unfounded’ commentary regarding financial deposits from UAE",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1987840/graveyard-raid-in-india-uncovers-hidden-cooking-gas-canisters-amid-shortage",
-      "published_date": "2026-04-02T12:34:27+00:00",
-      "category": "Energy"
+      "url": "https://www.dawn.com/news/1988580/fo-rejects-misleading-unfounded-commentary-regarding-financial-deposits-from-uae",
+      "published_date": "2026-04-04T15:50:36+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Govt increases petrol tax to Rs161 per litre, sets new price at Rs458 per litre",
+      "title": "FO rejects 'misleading' claims on UAE's debt repayment, calls it routine financial transaction",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2600728/aurangzeb-malik-to-address-nation-tonight",
-      "published_date": "2026-04-02T12:28:40+00:00",
-      "category": "Energy"
+      "url": "https://tribune.com.pk/story/2601062/fo-rejects-misleading-claims-on-uae-deposits-calls-it-routine-financial-transaction",
+      "published_date": "2026-04-04T10:57:35+00:00",
+      "category": "Economy"
     },
     {
       "title": "Pakistan approves first Shariah-compliant credit risk-sharing product to boost microfinance",
@@ -543,25 +564,25 @@
       "category": "Economy"
     },
     {
-      "title": "Pakistan debt hits Rs81 trillion",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2600815/pakistan-debt-hits-rs81-trillion",
-      "published_date": "2026-04-02T16:48:34+00:00",
-      "category": "Economy"
+      "title": "Trump says Iran military leaders killed in Tehran strike",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2638804/middle-east",
+      "published_date": "2026-04-04T23:04:30+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Pakistan to seek flexibility in IMF programme for evolving contingencies amid war on Iran",
+      "title": "Bilawal stresses political unity amid economic crisis triggered by US-Israeli war on Iran",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1987856/pakistan-to-seek-flexibility-in-imf-programme-for-evolving-contingencies-amid-war-on-iran",
-      "published_date": "2026-04-02T14:33:55+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/1988572/bilawal-stresses-political-unity-amid-economic-crisis-triggered-by-us-israeli-war-on-iran",
+      "published_date": "2026-04-04T16:46:46+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "'Q2 growth jumps to 3.9%'",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2600751/q2-growth-jumps-to-39",
-      "published_date": "2026-04-02T14:13:08+00:00",
-      "category": "Economy"
+      "title": "PMD forecasts countrywide spell of heavy rains from April 5-9",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1988560/pmd-forecasts-countrywide-spell-of-heavy-rains-from-april-5-9",
+      "published_date": "2026-04-04T15:15:31+00:00",
+      "category": "Local Events"
     },
     {
       "title": "President, PM pay tribute to Zulfikar Ali Bhutto on 47th death anniversary",
@@ -596,6 +617,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1988511/rs20-million-fine-for-a-deleted-tweet-the-cost-of-irreverence",
       "published_date": "2026-04-04T08:48:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan begins digital cash transfers for transporters as fuel relief takes effect",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2638774/pakistan",
+      "published_date": "2026-04-04T07:04:48+00:00",
       "category": "Local Events"
     },
     {
@@ -673,34 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1988236/sanaullah-says-petrol-prices-increased-as-a-consequence-of-middle-east-war-govt-has-nothing-to-do-with-it",
       "published_date": "2026-04-03T14:22:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sindh announces Rs2,000 for bikers as part of fuel subsidy; Punjab, Islamabad make public transportation free",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1988115/sindh-announces-rs2000-for-bikers-as-part-of-fuel-subsidy-punjab-islamabad-make-public-transportation-free",
-      "published_date": "2026-04-03T13:44:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sindh announces Rs2,000 for bikers as part of fuel subsidy; Punjab makes public transportation free",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1988115/sindh-announces-rs2000-for-bikers-as-part-of-fuel-subsidy-punjab-makes-public-transportation-free",
-      "published_date": "2026-04-03T12:04:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "6 killed in central Afghanistan as strong earthquake shakes region, including Pakistan",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2600905/earthquake-tremors-felt-in-twin-cities-k-p",
-      "published_date": "2026-04-03T11:16:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "National Forensic Agency ‘now fully functional’, says interior ministry",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1988109/national-forensic-agency-now-fully-functional-says-interior-ministry",
-      "published_date": "2026-04-03T10:25:58+00:00",
       "category": "Local Events"
     }
   ]
