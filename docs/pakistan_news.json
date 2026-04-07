@@ -1,6 +1,6 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-04-06T14:32:09.624644+00:00",
+  "last_updated": "2026-04-07T00:04:52.703322+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -8,6 +8,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1989118/peace-process-ongoing-fo-neither-confirms-nor-denies-reports-of-pakistan-proposing-framework-to-end-iran-war",
       "published_date": "2026-04-06T11:25:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Chilean leader touts ‘historic’ alliance with Milei",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2638996/world",
+      "published_date": "2026-04-06T08:04:35+00:00",
       "category": "Diplomacy"
     },
     {
@@ -137,11 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "China says peace talks advance between Afghanistan, Pakistan",
+      "title": "Debris falls on Saudi energy facilities as Kingdom knocks down several ballistic missiles",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2638651/pakistan",
-      "published_date": "2026-04-03T09:04:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.arabnews.pk/node/2639009/saudi-arabia",
+      "published_date": "2026-04-06T23:04:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump says Vance, Witkoff, Kushner talking with intermediaries in Pakistan; Iran could be ‘taken out’ on Tuesday",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1989227/trump-says-vance-witkoff-kushner-talking-with-intermediaries-in-pakistan-iran-could-be-taken-out-on-tuesday",
+      "published_date": "2026-04-06T20:47:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran conveys to Pakistan its rejection of US ceasefire proposal: report",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1989217/iran-conveys-to-pakistan-its-rejection-of-us-ceasefire-proposal-report",
+      "published_date": "2026-04-06T18:37:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel’s Netanyahu ousts top aide after he allegedly made racist remarks",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1989190/israels-netanyahu-ousts-top-aide-after-he-allegedly-made-racist-remarks",
+      "published_date": "2026-04-06T17:01:58+00:00",
+      "category": "Military"
     },
     {
       "title": "Fact check: Viral video does not show Iranian soldiers capturing US pilot after shooting down jet",
@@ -183,6 +211,27 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2638898/middle-east",
       "published_date": "2026-04-06T09:04:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "PIA abolishes fare discounts, limits flight operations amid rising fuel prices",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2601353/pia-abolishes-fare-discounts-limits-flight-operations-amid-rising-fuel-prices",
+      "published_date": "2026-04-06T08:36:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gold slips as Iran war, US jobs data lift dollar",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2638997/business-economy",
+      "published_date": "2026-04-06T08:04:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanon says Israeli strikes hit Beirut suburbs, country’s south",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2638994/middle-east",
+      "published_date": "2026-04-06T08:04:20+00:00",
       "category": "Military"
     },
     {
@@ -235,53 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Operation Ghazab lil-Haq: Security forces foil attack on border post in KP, kill 37 militants",
+      "title": "Ogra, PSO come under fire for poor monitoring of oil stocks",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1988846/operation-ghazab-lil-haq-security-forces-foil-attack-on-border-post-in-kp-kill-37-militants",
-      "published_date": "2026-04-05T19:58:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘This is all embarrassing and juvenile’: Trump draws criticism for fiery, expletive-laden message on Iran",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1988867/this-is-all-embarrassing-and-juvenile-trump-draws-criticism-for-fiery-expletive-laden-message-on-iran",
-      "published_date": "2026-04-05T19:41:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pak questions experts over TTP presence in Afghanistan",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2601292/pak-questions-experts-over-ttp-presence-in-afghanistan",
-      "published_date": "2026-04-05T16:12:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "War opens port opportunity",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2601241/war-opens-port-opportunity",
-      "published_date": "2026-04-05T14:19:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Info ministry dismisses Afghan govt's claims of civilian killings as ‘set of lies’",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2601221/info-ministry-dismisses-afghan-govts-claims-of-civilian-killings-as-set-of-lies",
-      "published_date": "2026-04-05T13:17:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Afghan Taliban terrorist involved in FC personnel killings arrested in Balochistan, home minister says",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2601218/afghan-taliban-terrorist-involved-in-fc-personnel-killings-arrested-in-balochistan",
-      "published_date": "2026-04-05T11:22:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US forces rescue 2 airmen downed in Iran; Trump says crew member injured but ‘safe’",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1988789/us-forces-rescue-2-airmen-downed-in-iran-trump-says-crew-member-injured-but-safe",
-      "published_date": "2026-04-05T11:04:05+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/1989171/ogra-pso-come-under-fire-for-poor-monitoring-of-oil-stocks",
+      "published_date": "2026-04-06T15:49:06+00:00",
+      "category": "Energy"
     },
     {
       "title": "Austerity delusion",
@@ -414,13 +421,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1988354/scientists-find-evidence-for-theorised-gargantuan-star-explosions",
       "published_date": "2026-04-04T04:02:07+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Four ships cross Hormuz as Iran says it is drafting protocol",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1988387/four-ships-cross-hormuz-as-iran-says-it-is-drafting-protocol",
-      "published_date": "2026-04-04T02:56:34+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,41 @@
       "category": "Economy"
     },
     {
+      "title": "Israeli airstrike kills at least 10 near Gaza school as ceasefire strains",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2639014/middle-east",
+      "published_date": "2026-04-06T23:04:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi hospital performs milestone robotic ‘single-port’ liver resections for living donors",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2639006/saudi-arabia",
+      "published_date": "2026-04-06T22:04:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Punjab Assembly committee calls for abolishing colonial-era law that ‘criminalises poverty’",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1989232/punjab-assembly-committee-calls-for-abolishing-colonial-era-law-that-criminalises-poverty",
+      "published_date": "2026-04-06T20:08:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Markets, malls to close at 8pm across country, except Sindh, to conserve energy",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1989178/markets-malls-to-close-at-8pm-across-country-except-sindh-to-conserve-energy",
+      "published_date": "2026-04-06T16:00:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PDMA issues flood advisory for several KP districts",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1989176/pdma-issues-flood-advisory-for-several-kp-districts",
+      "published_date": "2026-04-06T15:24:46+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Judicial magistrate grants bail to PTI protesters arrested for demonstrating near Karachi Press Club",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1989159/judicial-magistrate-grants-bail-to-pti-protesters-arrested-for-demonstrating-near-karachi-press-club",
@@ -666,41 +701,6 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2638906/world",
       "published_date": "2026-04-05T23:04:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Karachi board postpones matric exams to April 10",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1988882/karachi-board-postpones-matric-exams-to-april-10",
-      "published_date": "2026-04-05T19:32:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "23 PTI leaders, workers arrested as police scuttle protest near Karachi Press Club",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1988819/23-pti-leaders-workers-arrested-as-police-scuttle-protest-near-karachi-press-club",
-      "published_date": "2026-04-05T18:40:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "3-year-old girl raped, murdered in KP’s Lakki Marwat: FIR",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1988877/3-year-old-girl-raped-murdered-in-kps-lakki-marwat-fir",
-      "published_date": "2026-04-05T18:06:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Met Office forecasts widespread rain, thunderstorms in parts of Balochistan, KP, Punjab on Monday",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1988866/met-office-forecasts-widespread-rain-thunderstorms-in-parts-of-balochistan-kp-punjab-on-monday",
-      "published_date": "2026-04-05T17:17:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gwadar gains traction amid shifting dynamics",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2601287/gwadar-gains-traction-amid-shifting-dynamics",
-      "published_date": "2026-04-05T16:12:36+00:00",
       "category": "Local Events"
     }
   ]
