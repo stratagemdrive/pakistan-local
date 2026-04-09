@@ -1,8 +1,22 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-04-08T16:03:09.762316+00:00",
+  "last_updated": "2026-04-09T00:03:24.996619+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Erdogan warns of ‘sabotage’ in Iran ceasefire",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2639270/middle-east",
+      "published_date": "2026-04-09T09:04:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan expresses concern at storming of Kuwait’s consulate in Basra",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1989933/pakistan-expresses-concern-at-storming-of-kuwaits-consulate-in-basra",
+      "published_date": "2026-04-08T16:51:39+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "How international media covered Pakistan’s defining role in the US-Iran ceasefire",
       "source": "Dawn",
@@ -130,18 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Emerging dilemmas",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1988732/emerging-dilemmas",
-      "published_date": "2026-04-05T04:08:13+00:00",
-      "category": "Diplomacy"
+      "title": "As Trump claims victory, Iran emerges bruised but powerful with leverage over Hormuz",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2639272/middle-east",
+      "published_date": "2026-04-09T09:04:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "Tehran says Islamabad talks depend on terms",
+      "title": "Airline, travel industries see no immediate relief from ceasefire",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2639268/world",
+      "published_date": "2026-04-09T09:04:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "NATO chief says some European allies were tested and failed in Iran war",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2639280/world",
+      "published_date": "2026-04-08T23:04:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US, Iranian delegations expected in Pakistan on Friday; White House says first round of talks to be held on Saturday",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1988683/tehran-says-islamabad-talks-depend-on-terms",
-      "published_date": "2026-04-05T02:40:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/1989847/us-iranian-delegations-expected-in-pakistan-on-friday-white-house-says-first-round-of-talks-to-be-held-on-saturday",
+      "published_date": "2026-04-08T19:01:47+00:00",
+      "category": "Military"
     },
     {
       "title": "PM Shehbaz says US, Iranian delegations will be coming to Pakistan on Friday for talks",
@@ -253,34 +281,6 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2639215/middle-east",
       "published_date": "2026-04-08T00:04:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Afghanistan, Pakistan agree to avoid escalation— China",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2639213/pakistan",
-      "published_date": "2026-04-08T00:04:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Asia shows interest in Ukraine’s maritime defense expertise, Zelensky says",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2639159/world",
-      "published_date": "2026-04-07T22:04:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Dar says Israeli attack on Iran set off ‘dangerous developments’ that ‘severely damaged’ peace process",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1989566/dar-says-israeli-attack-on-iran-set-off-dangerous-developments-that-severely-damaged-peace-process",
-      "published_date": "2026-04-07T20:56:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "FM blames Israel for torpedoing talks",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2601619/fm-blames-israel-for-torpedoing-talks",
-      "published_date": "2026-04-07T16:24:28+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Where We Are Going Today: Al-Zamil Stores",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2639276/art-culture",
+      "published_date": "2026-04-08T22:04:16+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "PSX gains over 12,000 points as investors glee over US-Iran ceasefire",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1989786/psx-gains-over-12000-points-as-investors-glee-over-us-iran-ceasefire",
@@ -557,11 +564,46 @@
       "category": "Economy"
     },
     {
-      "title": "PSX closes above 151,000 mark after volatile session",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2601313/psx-drops-over-2400-points-on-war-fears",
-      "published_date": "2026-04-06T02:45:47+00:00",
-      "category": "Economy"
+      "title": "Saudi interior minister receives Syria’s emergencies and disaster management minister",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2639274/saudi-arabia",
+      "published_date": "2026-04-09T09:04:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel pounds Lebanon with heaviest airstrikes of war as Hezbollah pauses attacks",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1989949/israel-pounds-lebanon-with-heaviest-airstrikes-of-war-as-hezbollah-pauses-attacks",
+      "published_date": "2026-04-08T21:07:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Barrister Salman Safdar meets Imran at Adiala jail, says PTI founder’s ‘eye complication continues’",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1989902/barrister-salman-safdar-meets-imran-at-adiala-jail-says-pti-founders-eye-complication-continues",
+      "published_date": "2026-04-08T20:47:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "5 killed, several injured in rain-related incidents in Punjab, KP",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1989813/5-killed-several-injured-in-rain-related-incidents-in-punjab-kp",
+      "published_date": "2026-04-08T19:48:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Local holiday announced in Islamabad, Rawalpindi for April 9 and 10; essential services to remain operational",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1989885/local-holiday-announced-in-islamabad-rawalpindi-for-april-9-and-10-essential-services-to-remain-operational",
+      "published_date": "2026-04-08T19:36:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Universities may allow one-time reduction of up to 3pc in MDCAT passing marks to fill vacant seats: PMDC",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1989922/universities-may-allow-one-time-reduction-of-up-to-3pc-in-mdcat-passing-marks-to-fill-vacant-seats-pmdc",
+      "published_date": "2026-04-08T16:51:04+00:00",
+      "category": "Local Events"
     },
     {
       "title": "NA opposition leader extends ‘unconditional support’ to govt for Middle East peace efforts",
@@ -596,6 +638,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1989885/local-holiday-announced-in-islamabad-for-april-9-and-10-essential-services-to-remain-operational",
       "published_date": "2026-04-08T12:48:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two days public holiday announced in Islamabad in view of US-Iran talks",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2601681/two-days-public-holiday-announced-in-islamabad-in-view-of-us-iran-talks",
+      "published_date": "2026-04-08T08:39:14+00:00",
       "category": "Local Events"
     },
     {
@@ -652,55 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1989680/20-pakistanis-among-missing-after-boat-capsizes-off-italy",
       "published_date": "2026-04-08T02:28:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rs1.2 billion disbursed among 32,000 beneficiaries under PM Fuel Package",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1989678/rs12-billion-disbursed-among-32000-beneficiaries-under-pm-fuel-package",
-      "published_date": "2026-04-08T02:21:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Senate panel orders probe into PIA crew misconduct",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1989672/senate-panel-orders-probe-into-pia-crew-misconduct",
-      "published_date": "2026-04-08T00:31:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ancient glass beads unearthed at Taxila’s Bhir Mound",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1989671/ancient-glass-beads-unearthed-at-taxilas-bhir-mound",
-      "published_date": "2026-04-08T00:31:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protesters break into Kuwaiti consulate in Iraq’s Basra after rocket attack kills three",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2639153/middle-east",
-      "published_date": "2026-04-07T22:04:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IHC orders lawyer's jail meeting with Imran",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2601632/ihc-orders-lawyers-jail-meeting-with-imran",
-      "published_date": "2026-04-07T18:17:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PM Shehbaz calls on nation to contribute to fuel conservation, austerity drive",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1989540/pm-shehbaz-calls-on-nation-to-contribute-to-fuel-conservation-austerity-drive",
-      "published_date": "2026-04-07T17:18:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Imran’s sisters Uzma, Noreen arrested as PTI braves rainy weather, Section 144 to protest outside Adiala jail",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1989409/imrans-sisters-uzma-noreen-arrested-as-pti-braves-rainy-weather-section-144-to-protest-outside-adiala-jail",
-      "published_date": "2026-04-07T16:43:15+00:00",
       "category": "Local Events"
     }
   ]
