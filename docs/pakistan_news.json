@@ -1,13 +1,34 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-04-10T14:36:35.736404+00:00",
+  "last_updated": "2026-04-10T23:25:43.268116+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "‘World doesn’t have a plan B’: Bilawal stresses need for US-Iran talks to lead to peaceful resolution of conflict",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1990535/world-doesnt-have-a-plan-b-bilawal-stresses-need-for-us-iran-talks-to-lead-to-peaceful-resolution-of-conflict",
+      "published_date": "2026-04-10T16:42:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘No Plan B’: Bilawal warns of fallout if US-Iran talks fail",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2602077/no-plan-b-bilawal-warns-of-fallout-if-us-iran-talks-fail",
+      "published_date": "2026-04-10T11:54:50+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "From critic to negotiator: JD Vance to spearhead US efforts in Iran ceasefire talks",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1990475/from-critic-to-negotiator-jd-vance-to-spearhead-us-efforts-in-iran-ceasefire-talks",
       "published_date": "2026-04-10T08:49:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What to expect as Pakistan hosts high-stakes US-Iran peace talks in Islamabad",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2639495/world",
+      "published_date": "2026-04-10T08:04:33+00:00",
       "category": "Diplomacy"
     },
     {
@@ -123,25 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Bangladesh FM in India, most senior visit since 2024 uprising",
+      "title": "Vance en route, Iranian delegation touches down for Islamabad talks",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1989882/bangladesh-fm-in-india-most-senior-visit-since-2024-uprising",
-      "published_date": "2026-04-08T12:49:58+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "How we got here: Inside Pakistan’s backchannel diplomacy that led to the US-Iran ceasefire",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1989824/how-we-got-here-inside-pakistans-backchannel-diplomacy-that-led-to-the-us-iran-ceasefire",
-      "published_date": "2026-04-08T12:45:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Chinese envoy praises Pakistan's role in Middle East peace during meeting with FM Dar",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2601640/chinese-envoy-praises-pakistans-role-in-middle-east-peace-during-meeting-with-fm-dar",
-      "published_date": "2026-04-08T01:27:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/1990461/vance-en-route-iranian-delegation-touches-down-for-islamabad-talks",
+      "published_date": "2026-04-10T21:04:01+00:00",
+      "category": "Military"
     },
     {
       "title": "Israel approves 34 new West Bank settlements: report",
@@ -207,10 +214,31 @@
       "category": "Military"
     },
     {
+      "title": "Survey shows 93% Pakistanis back ceasefire role, 75% see hope for peace",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2639485/pakistan",
+      "published_date": "2026-04-10T07:04:44+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Pakistan allows visa-free boarding, offers visa on arrival for Islamabad Talks delegates",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1990461/pakistan-allows-visa-free-boarding-offers-visa-on-arrival-for-islamabad-talks-delegates",
       "published_date": "2026-04-10T06:04:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan cuts fuel prices as global oil swings after Middle East tensions",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2639480/pakistan",
+      "published_date": "2026-04-10T06:04:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanon says death toll from Israeli strikes on Wednesday rises to 357",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2639476/middle-east",
+      "published_date": "2026-04-10T06:04:03+00:00",
       "category": "Military"
     },
     {
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Hormuz traffic plummets as Iran asserts control",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1990371/hormuz-traffic-plummets-as-iran-asserts-control",
-      "published_date": "2026-04-10T02:50:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US forces to remain deployed near Iran until  ‘real’ agreement reached, says Trump",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1990368/us-forces-to-remain-deployed-near-iran-until-real-agreement-reached-says-trump",
-      "published_date": "2026-04-10T02:41:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tears of joy mark reopening of Jerusalem holy sites after 41 days",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1990367/tears-of-joy-mark-reopening-of-jerusalem-holy-sites-after-41-days",
-      "published_date": "2026-04-10T02:36:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US Vice President Vance heads to Pakistan for Iran talks, hopes for ‘positive’ outcome",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2639458/pakistan",
-      "published_date": "2026-04-10T01:04:58+00:00",
-      "category": "Military"
+      "title": "PM Shehbaz announces Rs12 cut in petrol price, Rs135 cut in diesel price",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2602078/pm-shehbaz-addresses-nation-2",
+      "published_date": "2026-04-10T12:30:42+00:00",
+      "category": "Energy"
     },
     {
       "title": "US-Iran ceasefire deal shows strain ahead of talks with oil flows squeezed",
@@ -417,11 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "Oil dives below $100, stocks jump after two-week ceasefire agreed",
+      "title": "Govt reduces petrol price by Rs12 per litre, HSD by Rs135",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1990554/govt-reduces-petrol-price-by-rs12-per-litre-hsd-by-rs135",
+      "published_date": "2026-04-10T20:55:15+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "In meeting with Saudi finance minister, PM emphasises ‘strong commitment’ to expanding cooperation in all spheres",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1990567/in-meeting-with-saudi-finance-minister-pm-emphasises-strong-commitment-to-expanding-cooperation-in-all-spheres",
+      "published_date": "2026-04-10T19:14:17+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "PM Shehbaz hails kingdom's 'longstanding economic support' in meeting with Saudi finance minister",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2601645/oil-dives-below-100-stocks-jump-after-two-week-ceasefire-agreed",
-      "published_date": "2026-04-08T02:10:51+00:00",
-      "category": "Energy"
+      "url": "https://tribune.com.pk/story/2602083/pm-shehbaz-hails-kingdoms-longstanding-economic-and-financial-support-in-meeting-with-saudi-FM",
+      "published_date": "2026-04-10T13:52:15+00:00",
+      "category": "Economy"
     },
     {
       "title": "Asian Development Bank upgrades Pakistan’s economic growth rate to 3.5pc",
@@ -543,25 +564,18 @@
       "category": "Economy"
     },
     {
-      "title": "War in Middle East fails to dent remittances in March",
+      "title": "Peshawar High Court stays repatriation of Afghan family whose asylum case for resettlement in a third country is pending",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1990055/war-in-middle-east-fails-to-dent-remittances-in-march",
-      "published_date": "2026-04-09T02:41:17+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/1990556/peshawar-high-court-stays-repatriation-of-afghan-family-whose-asylum-case-for-resettlement-in-a-third-country-is-pending",
+      "published_date": "2026-04-10T18:14:07+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Where We Are Going Today: Al-Zamil Stores",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2639276/art-culture",
-      "published_date": "2026-04-08T22:04:16+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Pakistan must turn diplomacy into economic success",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2601774/pakistan-must-turn-diplomacy-into-economic-success",
-      "published_date": "2026-04-08T15:39:56+00:00",
-      "category": "Economy"
+      "title": "US jury indicts 10 Indians for visa fraud conspiracy involving staged robberies at convenience stores",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1990558/us-jury-indicts-10-indians-for-visa-fraud-conspiracy-involving-staged-robberies-at-convenience-stores",
+      "published_date": "2026-04-10T17:11:45+00:00",
+      "category": "Local Events"
     },
     {
       "title": "When Washington came to Pakistan: a brief history",
@@ -592,10 +606,38 @@
       "category": "Local Events"
     },
     {
+      "title": "One dead, 27 injured as bus carrying British tourists crashes in Spain’s La Gomera",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2639486/world",
+      "published_date": "2026-04-10T07:04:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "African charity says suing Prince Harry over ‘reputational harm’",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2639482/world",
+      "published_date": "2026-04-10T06:04:02+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Sindh CTD arrests suspected target killer linked to banned outfit in Karachi",
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2602038/sindh-ctd-arrests-suspected-target-killer-linked-to-banned-outfit-in-karachi",
       "published_date": "2026-04-10T06:03:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tripoli zoo reopens to offer Libyans rare respite from violence",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2639473/middle-east",
+      "published_date": "2026-04-10T05:04:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Court rules in favor of 4 men deported by the US to Africa and denied lawyer meetings for 9 months",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2639474/world",
+      "published_date": "2026-04-10T05:04:19+00:00",
       "category": "Local Events"
     },
     {
@@ -659,48 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1990385/capital-on-high-alert-ahead-of-us-iran-peace-talks",
       "published_date": "2026-04-10T02:12:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel approves 34 new West Bank settlements: media, NGO",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2639451/middle-east",
-      "published_date": "2026-04-10T00:04:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan trains over 1,100 Hajj support staff under ‘zero-defect’ plan ahead of pilgrimage",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2639455/pakistan",
-      "published_date": "2026-04-10T00:04:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US First Lady Melania Trump blasts ‘lies’ linking her to Epstein",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1990326/us-first-lady-melania-trump-blasts-lies-linking-her-to-epstein",
-      "published_date": "2026-04-09T20:42:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bill seeking to raise minimum legal age for Christian marriage submitted to Punjab Assembly committee",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1990251/bill-seeking-to-raise-minimum-legal-age-for-christian-marriage-submitted-to-punjab-assembly-committee",
-      "published_date": "2026-04-09T18:30:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Govt challenges FCC ruling",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2601970/govt-challenges-fcc-ruling",
-      "published_date": "2026-04-09T16:17:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bill seeking to raise Christians’ marriage age to 18 submitted to Punjab Assembly panel",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1990251/bill-seeking-to-raise-christians-marriage-age-to-18-submitted-to-punjab-assembly-panel",
-      "published_date": "2026-04-09T15:04:06+00:00",
       "category": "Local Events"
     }
   ]
