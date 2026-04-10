@@ -1,8 +1,15 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-04-10T06:08:40.484898+00:00",
+  "last_updated": "2026-04-10T14:36:35.736404+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "From critic to negotiator: JD Vance to spearhead US efforts in Iran ceasefire talks",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1990475/from-critic-to-negotiator-jd-vance-to-spearhead-us-efforts-in-iran-ceasefire-talks",
+      "published_date": "2026-04-10T08:49:37+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pakistan steps up diplomacy as Lebanon strikes strain ceasefire",
       "source": "Dawn",
@@ -11,10 +18,24 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Macron seeks to draw Trump to G7 with post-summit invite to Versailles",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2639452/world",
+      "published_date": "2026-04-10T00:04:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Pakistan to grant visa on arrival for Islamabad Talks 2026 participants: Ishaq Dar",
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2601998/pakistan-to-grant-visa-on-arrival-for-islamabad-talks-2026-participants-ishaq-dar",
       "published_date": "2026-04-09T23:12:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Indonesia urges ‘thorough’ probe on Lebanon peacekeeper deaths",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2639447/world",
+      "published_date": "2026-04-09T23:04:15+00:00",
       "category": "Diplomacy"
     },
     {
@@ -123,25 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pakistan stocks post record one-day surge on US-Iran ceasefire optimism",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2639210/pakistan",
-      "published_date": "2026-04-07T23:04:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi FM discusses regional situation with Pakistani, Bahraini counterparts",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2639158/saudi-arabia",
-      "published_date": "2026-04-07T22:04:15+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "China, Russia veto UN resolution to reopen Strait of Hormuz",
+      "title": "Israel approves 34 new West Bank settlements: report",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1989533/china-russia-veto-un-resolution-to-reopen-strait-of-hormuz",
-      "published_date": "2026-04-07T20:55:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/1990525/israel-approves-34-new-west-bank-settlements-report",
+      "published_date": "2026-04-10T13:50:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "In pictures: Sikh pilgrims arrive in Pakistan from India to celebrate Baisakhi festival",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1990522/in-pictures-sikh-pilgrims-arrive-in-pakistan-from-india-to-celebrate-baisakhi-festival",
+      "published_date": "2026-04-10T13:42:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan Navy rescues 18 crew members, including foreign nationals, of merchant vessel in Arabian Sea operation",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1990513/pakistan-navy-rescues-18-crew-members-including-foreign-nationals-of-merchant-vessel-in-arabian-sea-operation",
+      "published_date": "2026-04-10T11:55:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "From battlefields to data centres: The US-Iran war in the age of AI",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1989447/from-battlefields-to-data-centres-the-us-iran-war-in-the-age-of-ai",
+      "published_date": "2026-04-10T11:48:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Chinese, Taiwanese will unite, Xi tells Taiwan opposition leader",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1990508/chinese-taiwanese-will-unite-xi-tells-taiwan-opposition-leader",
+      "published_date": "2026-04-10T11:26:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "In pictures: Heavy security in Islamabad ahead of US-Iran talks",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1990496/in-pictures-heavy-security-in-islamabad-ahead-of-us-iran-talks",
+      "published_date": "2026-04-10T10:58:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At the impossible table: The diplomatic maze awaiting the world in Islamabad",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1990487/at-the-impossible-table-the-diplomatic-maze-awaiting-the-world-in-islamabad",
+      "published_date": "2026-04-10T10:29:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Artemis II astronauts hurtle home from moon toward splashdown",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1990494/artemis-ii-astronauts-hurtle-home-from-moon-toward-splashdown",
+      "published_date": "2026-04-10T09:04:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan Navy rescues 18 crew members after distress call in Arabian Sea",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2602046/pakistan-navy-rescues-18-crew-members-after-distress-call-in-arabian-sea",
+      "published_date": "2026-04-10T07:33:51+00:00",
+      "category": "Military"
     },
     {
       "title": "Pakistan allows visa-free boarding, offers visa on arrival for Islamabad Talks delegates",
@@ -214,73 +277,10 @@
       "category": "Military"
     },
     {
-      "title": "Israel seeks peace talks with Lebanon ‘as soon as possible’ as world condemns Tel Aviv’s bombardment amid US-Iran truce",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1990283/israel-seeks-peace-talks-with-lebanon-as-soon-as-possible-as-world-condemns-tel-avivs-bombardment-amid-us-iran-truce",
-      "published_date": "2026-04-09T21:24:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "In written message, Iran supreme leader says Tehran does not seek war but will not renounce legitimate rights",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1990308/in-written-message-iran-supreme-leader-says-tehran-does-not-seek-war-but-will-not-renounce-legitimate-rights",
-      "published_date": "2026-04-09T20:47:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "PML-N lawmaker submits resolution in PA, calls for nominating CDF Munir, PM Shehbaz, DPM Dar for Nobel Peace Prize",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1990285/pml-n-lawmaker-submits-resolution-in-pa-calls-for-nominating-cdf-munir-pm-shehbaz-dpm-dar-for-nobel-peace-prize",
-      "published_date": "2026-04-09T18:49:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Nothing short of horrific’: World reacts to Israeli ‘carnage’ in Lebanon",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1990262/nothing-short-of-horrific-world-reacts-to-israeli-carnage-in-lebanon",
-      "published_date": "2026-04-09T16:33:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "PM Shehbaz, CDF Munir discuss Pakistan’s efforts to mediate between US and Iran",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1990234/pm-shehbaz-cdf-munir-discuss-pakistans-efforts-to-mediate-between-us-and-iran",
-      "published_date": "2026-04-09T15:43:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon seeks Pakistan’s support for ending Israeli strikes",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1990171/lebanon-seeks-pakistans-support-for-ending-israeli-strikes",
-      "published_date": "2026-04-09T14:35:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran, Saudi FMs hold first call since start of conflict, discuss ways to reduce tensions",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1990184/iran-saudi-fms-hold-first-call-since-start-of-conflict-discuss-ways-to-reduce-tensions",
-      "published_date": "2026-04-09T09:36:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "As Trump claims victory, Iran emerges bruised but powerful with leverage over Hormuz",
+      "title": "US Vice President Vance heads to Pakistan for Iran talks, hopes for ‘positive’ outcome",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2639272/middle-east",
-      "published_date": "2026-04-09T09:04:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Airline, travel industries see no immediate relief from ceasefire",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2639268/world",
-      "published_date": "2026-04-09T09:04:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "PM hopes US-Iran ceasefire will become permanent",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1990032/pm-hopes-us-iran-ceasefire-will-become-permanent",
-      "published_date": "2026-04-09T03:26:09+00:00",
+      "url": "https://www.arabnews.pk/node/2639458/pakistan",
+      "published_date": "2026-04-10T01:04:58+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Asian Development Bank upgrades Pakistan’s economic growth rate to 3.5pc",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1990480/asian-development-bank-upgrades-pakistans-economic-growth-rate-to-35pc",
+      "published_date": "2026-04-10T08:32:14+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "IMF chief urges nations to ‘do no harm’ in fiscal response to Iran war",
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2639405/pakistan",
@@ -442,6 +449,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1990394/moscow-lifts-ban-on-pakistani-potatoes",
       "published_date": "2026-04-10T02:34:51+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pakistan growth seen at 4.5% in FY2027: ADB",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2602015/pakistan-growth-seen-at-45-in-fy2027-adb",
+      "published_date": "2026-04-10T02:33:02+00:00",
       "category": "Economy"
     },
     {
@@ -550,18 +564,39 @@
       "category": "Economy"
     },
     {
-      "title": "PSX cheers peace with record spike",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2601773/psx-cheers-peace-with-record-spike",
-      "published_date": "2026-04-08T15:39:56+00:00",
-      "category": "Economy"
+      "title": "When Washington came to Pakistan: a brief history",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1990471/when-washington-came-to-pakistan-a-brief-history",
+      "published_date": "2026-04-10T12:03:57+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "PSX gains over 12,000 points as investors glee over US-Iran ceasefire",
+      "title": "PMDC expresses ‘deep concern’ at suspected suicide of medical student in Mirpurkhas",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1989786/psx-gains-over-12000-points-as-investors-glee-over-us-iran-ceasefire",
-      "published_date": "2026-04-08T05:30:10+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/1990500/pmdc-expresses-deep-concern-at-suspected-suicide-of-medical-student-in-mirpurkhas",
+      "published_date": "2026-04-10T10:25:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sindh implements austerity measures, notifies early market closure among other steps",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1990483/sindh-implements-austerity-measures-notifies-early-market-closure-among-other-steps",
+      "published_date": "2026-04-10T08:48:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lahore-bound Shalimar Express derails near Sheikhupura; rail traffic suspended",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1990477/lahore-bound-shalimar-express-derails-near-sheikhupura-rail-traffic-suspended",
+      "published_date": "2026-04-10T07:33:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sindh CTD arrests suspected target killer linked to banned outfit in Karachi",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2602038/sindh-ctd-arrests-suspected-target-killer-linked-to-banned-outfit-in-karachi",
+      "published_date": "2026-04-10T06:03:52+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Pakistan arrests suspected human smuggler linked to deadly Libya boat capsize",
@@ -599,6 +634,20 @@
       "category": "Local Events"
     },
     {
+      "title": "Sindh announces early closure of markets, malls under austerity measures",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2602018/sindh-announces-early-closure-of-markets-malls-under-austerity-measures",
+      "published_date": "2026-04-10T02:56:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Judge expresses anger over missing evidence in Rajab Butt case, orders statement recording",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2602016/judge-expresses-anger-over-missing-evidence-in-rajab-butt-case-orders-statement-recording",
+      "published_date": "2026-04-10T02:56:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "PM, Bilawal agree ‘national harmony need of hour’",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1990369/pm-bilawal-agree-national-harmony-need-of-hour",
@@ -610,6 +659,20 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1990385/capital-on-high-alert-ahead-of-us-iran-peace-talks",
       "published_date": "2026-04-10T02:12:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel approves 34 new West Bank settlements: media, NGO",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2639451/middle-east",
+      "published_date": "2026-04-10T00:04:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan trains over 1,100 Hajj support staff under ‘zero-defect’ plan ahead of pilgrimage",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2639455/pakistan",
+      "published_date": "2026-04-10T00:04:28+00:00",
       "category": "Local Events"
     },
     {
@@ -638,69 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1990251/bill-seeking-to-raise-christians-marriage-age-to-18-submitted-to-punjab-assembly-panel",
       "published_date": "2026-04-09T15:04:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Civil courts cannot order CNIC blocking, LHC rules",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2601954/civil-courts-cannot-order-cnic-blocking-lhc-rules",
-      "published_date": "2026-04-09T15:03:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sindh govt constitutes high-level committee to ‘ensure execution’ of Gul Plaza inferno’s inquiry report",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1990238/sindh-govt-constitutes-high-level-committee-to-ensure-execution-of-gul-plaza-infernos-inquiry-report",
-      "published_date": "2026-04-09T14:53:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India election roll overhaul sparks anger as key states vote",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1990157/india-election-roll-overhaul-sparks-anger-as-key-states-vote",
-      "published_date": "2026-04-09T12:48:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In pictures: Security beefed up in Islamabad ahead of highly anticipated US-Iran talks",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1990218/in-pictures-security-beefed-up-in-islamabad-ahead-of-highly-anticipated-us-iran-talks",
-      "published_date": "2026-04-09T12:29:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rawalpindi board postpones matric exams scheduled for April 10",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1990205/rawalpindi-board-postpones-matric-exams-scheduled-for-april-10",
-      "published_date": "2026-04-09T11:24:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Foolproof security arranged for foreign guests, Naqvi assures US envoy ahead of US‑Iran talks in Islamabad",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1990162/foolproof-security-arranged-for-foreign-guests-naqvi-assures-us-envoy-ahead-of-usiran-talks-in-islamabad",
-      "published_date": "2026-04-09T09:54:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In pictures: Israeli strikes pummel Lebanon, putting US–Iran ceasefire at risk",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1990181/in-pictures-israeli-strikes-pummel-lebanon-putting-us-iran-ceasefire-at-risk",
-      "published_date": "2026-04-09T09:33:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi interior minister receives Syria’s emergencies and disaster management minister",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2639274/saudi-arabia",
-      "published_date": "2026-04-09T09:04:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gold prices in Pakistan fall amid decline in global market",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2601844/gold-prices-in-pakistan-fall-amid-decline-in-global-market",
-      "published_date": "2026-04-09T05:29:24+00:00",
       "category": "Local Events"
     }
   ]
