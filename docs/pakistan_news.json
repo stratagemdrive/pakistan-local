@@ -1,8 +1,29 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-04-11T11:38:44.346960+00:00",
+  "last_updated": "2026-04-11T23:23:34.941088+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Mauritius pledges to reclaim Chagos Islands",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2639596/world",
+      "published_date": "2026-04-12T09:04:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bilawal terms Islamabad Talks ‘biggest achievement so far’ in efforts for US-Iran de-escalation",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1990810/bilawal-terms-islamabad-talks-biggest-achievement-so-far-in-efforts-for-us-iran-de-escalation",
+      "published_date": "2026-04-11T18:25:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Relatives seek FO’s help to ascertain fate of family members believed to be killed by missile debris in Kuwait",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1990838/relatives-seek-fos-help-to-ascertain-fate-of-family-members-believed-to-be-killed-by-missile-debris-in-kuwait",
+      "published_date": "2026-04-11T18:16:06+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "What are the main talking points at US-Iran negotiations in Pakistan?",
       "source": "Arab News Pakistan",
@@ -22,6 +43,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1990730/us-president-trump-projects-cautious-optimism-ahead-of-iran-talks",
       "published_date": "2026-04-11T04:42:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'War is not an option': Bilawal calls 'Islamabad Talks' key to regional peace",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2602196/war-is-not-an-option-bilawal-calls-islamabad-talks-key-to-regional-peace",
+      "published_date": "2026-04-11T03:54:29+00:00",
       "category": "Diplomacy"
     },
     {
@@ -116,32 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pakistan, Ethiopia envisage trilateral maritime alliance",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2601933/pakistan-ethiopia-envisage-trilateral-maritime-alliance",
-      "published_date": "2026-04-09T14:41:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pakistan’s envoy to US acknowledges China’s quiet but persuasive role in Iran talks",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1990131/pakistans-envoy-to-us-acknowledges-chinas-quiet-but-persuasive-role-in-iran-talks",
-      "published_date": "2026-04-09T12:04:48+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US-Iran talks in Islamabad: Who is involved and why it matters",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1990170/us-iran-talks-in-islamabad-who-is-involved-and-why-it-matters",
-      "published_date": "2026-04-09T10:29:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Erdogan warns of ‘sabotage’ in Iran ceasefire",
+      "title": "Trump says China will have big problems if it ships arms to Iran",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2639270/middle-east",
-      "published_date": "2026-04-09T09:04:21+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.arabnews.pk/node/2639594/world",
+      "published_date": "2026-04-12T09:04:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US, Iran search for breakthrough in Islamabad as talks stretch into third round",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1990743/us-iran-search-for-breakthrough-in-islamabad-as-talks-stretch-into-third-round",
+      "published_date": "2026-04-11T23:17:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Startup wrap —  Funding momentum continues amid Iran conflict",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2639601/business-economy",
+      "published_date": "2026-04-11T22:04:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US warships transit Strait of Hormuz in mine clearance operation: Centcom",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1990850/us-warships-transit-strait-of-hormuz-in-mine-clearance-operation-centcom",
+      "published_date": "2026-04-11T18:43:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan sends military force, fighter jets to Saudi Arabia",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1990849/pakistan-sends-military-force-fighter-jets-to-saudi-arabia",
+      "published_date": "2026-04-11T18:10:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "London police arrest 212 people at protest over Palestine Action ban",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1990844/london-police-arrest-212-people-at-protest-over-palestine-action-ban",
+      "published_date": "2026-04-11T17:39:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Buffets, baristas, but no briefings: A journalist’s account of covering Islamabad Talks",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1990827/buffets-baristas-but-no-briefings-a-journalists-account-of-covering-islamabad-talks",
+      "published_date": "2026-04-11T14:39:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US authorities launch new effort to uncover birth tourism schemes",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1990809/us-authorities-launch-new-effort-to-uncover-birth-tourism-schemes",
+      "published_date": "2026-04-11T12:39:02+00:00",
+      "category": "Military"
     },
     {
       "title": "Artemis II astronauts safely back on Earth after historic trip around moon",
@@ -193,6 +249,13 @@
       "category": "Military"
     },
     {
+      "title": "US-Iran talks in Islamabad head toward third round as key disputes remain",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2639583/pakistan",
+      "published_date": "2026-04-11T08:04:09+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Russian strikes on Odesa kill 2 ahead of Orthodox Easter ceasefire",
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2639527/world",
@@ -218,69 +281,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1990668/israeli-strike-kills-13-security-personnel-in-lebanon",
       "published_date": "2026-04-11T02:33:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan deploys air force contingent to Saudi Arabia under defense pact — SPA",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2639539/pakistan",
-      "published_date": "2026-04-10T23:04:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Vance en route, Iranian delegation touches down for Islamabad talks",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1990461/vance-en-route-iranian-delegation-touches-down-for-islamabad-talks",
-      "published_date": "2026-04-10T21:04:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran Parliament Speaker Ghalibaf, FM Araghchi land in Pakistan for high-stakes peace talks with US",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2602176/lets-talk-peace",
-      "published_date": "2026-04-10T17:23:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel approves 34 new West Bank settlements: report",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1990525/israel-approves-34-new-west-bank-settlements-report",
-      "published_date": "2026-04-10T13:50:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "In pictures: Sikh pilgrims arrive in Pakistan from India to celebrate Baisakhi festival",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1990522/in-pictures-sikh-pilgrims-arrive-in-pakistan-from-india-to-celebrate-baisakhi-festival",
-      "published_date": "2026-04-10T13:42:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan Navy rescues 18 crew members, including foreign nationals, of merchant vessel in Arabian Sea operation",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1990513/pakistan-navy-rescues-18-crew-members-including-foreign-nationals-of-merchant-vessel-in-arabian-sea-operation",
-      "published_date": "2026-04-10T11:55:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "From battlefields to data centres: The US-Iran war in the age of AI",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1989447/from-battlefields-to-data-centres-the-us-iran-war-in-the-age-of-ai",
-      "published_date": "2026-04-10T11:48:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Chinese, Taiwanese will unite, Xi tells Taiwan opposition leader",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1990508/chinese-taiwanese-will-unite-xi-tells-taiwan-opposition-leader",
-      "published_date": "2026-04-10T11:26:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "In pictures: Heavy security in Islamabad ahead of US-Iran talks",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1990496/in-pictures-heavy-security-in-islamabad-ahead-of-us-iran-talks",
-      "published_date": "2026-04-10T10:58:30+00:00",
       "category": "Military"
     },
     {
@@ -564,6 +564,27 @@
       "category": "Economy"
     },
     {
+      "title": "Arsenal defeat blows EPL title race wide open",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2639600/sport",
+      "published_date": "2026-04-11T22:04:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Price monitoring committee directs Sindh govt to take corrective measures against rising fares in Karachi",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1990832/price-monitoring-committee-directs-sindh-govt-to-take-corrective-measures-against-rising-fares-in-karachi",
+      "published_date": "2026-04-11T16:59:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "First Pakistan-bound container vessel reaches Karachi after Strait of Hormuz reopening",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2602251/first-pakistan-bound-container-vessel-reaches-karachi-after-strait-of-hormuz-reopening",
+      "published_date": "2026-04-11T13:14:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "General elections in Gilgit-Baltistan to be held on June 7",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1990792/general-elections-in-gilgit-baltistan-to-be-held-on-june-7",
@@ -575,6 +596,27 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1990779/suspect-arrested-after-molotov-cocktail-attack-at-openai-ceo-sam-altmans-home",
       "published_date": "2026-04-11T10:03:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Islamabad Talks': PM meets Iran delegation, affirms 'sincere resolve' to continue mediatory role",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2602227/islamabad-talks-pm-meets-iran-delegation-affirms-sincere-resolve-to-continue-mediatory-role",
+      "published_date": "2026-04-11T08:59:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PTI hopes 'Islamabad Talks' lead to 'fruitful resolutions serving greater good'",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2602223/pti-hopes-islamabad-talks-lead-to-fruitful-resolutions-serving-greater-good",
+      "published_date": "2026-04-11T07:57:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Stepping stone to peace': US VP JD Vance meets PM Shehbaz ahead of 'Islamabad Talks'",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2602219/stepping-stone-to-peace-us-vp-jd-vance-meets-pm-shehbaz-ahead-of-islamabad-talks",
+      "published_date": "2026-04-11T07:30:12+00:00",
       "category": "Local Events"
     },
     {
@@ -659,48 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1990556/peshawar-high-court-stays-repatriation-of-afghan-family-whose-asylum-case-for-resettlement-in-a-third-country-is-pending",
       "published_date": "2026-04-10T18:14:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US jury indicts 10 Indians for visa fraud conspiracy involving staged robberies at convenience stores",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1990558/us-jury-indicts-10-indians-for-visa-fraud-conspiracy-involving-staged-robberies-at-convenience-stores",
-      "published_date": "2026-04-10T17:11:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sindh approves Karachi Safe City Phase-II",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2602142/sindh-approves-karachi-safe-city-phase-ii",
-      "published_date": "2026-04-10T15:53:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sindh offers single-window facility to Punjab industrialists",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2602109/sindh-offers-single-window-facility-to-punjab-industrialists",
-      "published_date": "2026-04-10T15:05:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "When Washington came to Pakistan: a brief history",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1990471/when-washington-came-to-pakistan-a-brief-history",
-      "published_date": "2026-04-10T12:03:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PMDC expresses ‘deep concern’ at suspected suicide of medical student in Mirpurkhas",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1990500/pmdc-expresses-deep-concern-at-suspected-suicide-of-medical-student-in-mirpurkhas",
-      "published_date": "2026-04-10T10:25:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sindh implements austerity measures, notifies early market closure among other steps",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1990483/sindh-implements-austerity-measures-notifies-early-market-closure-among-other-steps",
-      "published_date": "2026-04-10T08:48:47+00:00",
       "category": "Local Events"
     }
   ]
