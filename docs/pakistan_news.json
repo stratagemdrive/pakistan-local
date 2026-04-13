@@ -1,8 +1,15 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-04-13T12:07:33.379780+00:00",
+  "last_updated": "2026-04-13T23:34:08.948196+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Zikim crossing in northern Gaza reopens, UN says",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2639801/middle-east",
+      "published_date": "2026-04-13T07:04:27+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Japanese PM praises Pakistan’s role in facilitating US–Iran talks in Islamabad",
       "source": "The Express Tribune",
@@ -137,11 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Starmer says Nato in America’s ‘interests’ as Gulf tour ends",
+      "title": "How war in Lebanon is driving refugees into Syria’s deadly minefields",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2639811/middle-east",
+      "published_date": "2026-04-14T09:04:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "No Strait answer: Can international law stay afloat in Hormuz?",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1990663/starmer-says-nato-in-americas-interests-as-gulf-tour-ends",
-      "published_date": "2026-04-11T02:59:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/1991364/no-strait-answer-can-international-law-stay-afloat-in-hormuz",
+      "published_date": "2026-04-13T22:47:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why is Trump picking a fight with the pope?",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1991382/why-is-trump-picking-a-fight-with-the-pope",
+      "published_date": "2026-04-13T16:53:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "After US-Iran talks in Islamabad, PM Shehbaz says ‘full efforts’ ongoing to resolve conflict",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1991371/after-us-iran-talks-in-islamabad-pm-shehbaz-says-full-efforts-ongoing-to-resolve-conflict",
+      "published_date": "2026-04-13T15:14:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pope Leo says he is not afraid of Trump after US president’s broadside",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1991310/pope-leo-says-he-is-not-afraid-of-trump-after-us-presidents-broadside",
+      "published_date": "2026-04-13T13:06:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Peace was within reach. Then came the missiles. Will it be different this time?",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1991353/peace-was-within-reach-then-came-the-missiles-will-it-be-different-this-time",
+      "published_date": "2026-04-13T12:40:36+00:00",
+      "category": "Military"
     },
     {
       "title": "PSX sheds 6,600 points after Trump announces Hormuz blockade",
@@ -193,10 +235,24 @@
       "category": "Military"
     },
     {
+      "title": "Hezbollah leader asks Lebanon to cancel Tuesday meeting with Israel",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2639795/middle-east",
+      "published_date": "2026-04-13T07:04:54+00:00",
+      "category": "Military"
+    },
+    {
       "title": "US military to begin blockade of Iranian ports on Monday",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1991295/us-military-to-begin-blockade-of-iranian-ports-on-monday",
       "published_date": "2026-04-13T06:25:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan says maritime forces seize contraband worth $714,000 in joint Arabian Sea operation",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2639790/pakistan",
+      "published_date": "2026-04-13T05:04:21+00:00",
       "category": "Military"
     },
     {
@@ -207,80 +263,24 @@
       "category": "Military"
     },
     {
+      "title": "Israeli troops fire tear gas at Palestinian schoolchildren in West Bank",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2639787/middle-east",
+      "published_date": "2026-04-13T04:04:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "NATO allies refuse to join Trump’s Strait of Hormuz blockade",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2639786/middle-east",
+      "published_date": "2026-04-13T04:04:49+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Iran ‘will not bow to any threats’, Ghalibaf declares",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1991174/iran-will-not-bow-to-any-threats-ghalibaf-declares",
       "published_date": "2026-04-13T02:36:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan admits failures in top investigation agency, vows overhaul by year&#039;s end",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2639752/pakistan",
-      "published_date": "2026-04-12T23:04:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "French cement maker Lafarge found guilty of financing jihadists in Syria",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2639750/world",
-      "published_date": "2026-04-12T22:04:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "After Trump’s blockade announcement, IRGC says will view military vessels approaching Hormuz as ceasefire breach",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1991096/after-trumps-blockade-announcement-irgc-says-will-view-military-vessels-approaching-hormuz-as-ceasefire-breach",
-      "published_date": "2026-04-12T21:44:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The US-Iran ceasefire appears to be holding. What next?",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1991105/the-us-iran-ceasefire-appears-to-be-holding-what-next",
-      "published_date": "2026-04-12T18:41:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran's Hormuz moves shake petrodollar's reign",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2602443/irans-hormuz-moves-shake-petrodollars-reign",
-      "published_date": "2026-04-12T14:42:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "In pictures: VP Vance gets cordial send-off as Islamabad Talks conclude",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1991071/in-pictures-vp-vance-gets-cordial-send-off-as-islamabad-talks-conclude",
-      "published_date": "2026-04-12T12:04:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran says time for US to decide ‘whether it can earn our trust’ after talks",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1991073/iran-says-time-for-us-to-decide-whether-it-can-earn-our-trust-after-talks",
-      "published_date": "2026-04-12T10:10:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hezbollah denies link to cell accused of planning Damascus attack",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2639643/middle-east",
-      "published_date": "2026-04-12T09:04:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says China will have big problems if it ships arms to Iran",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2639594/world",
-      "published_date": "2026-04-12T09:04:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Dar urges US, Iran to uphold commitment to ceasefire as talks conclude without deal",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1990743/dar-urges-us-iran-to-uphold-commitment-to-ceasefire-as-talks-conclude-without-deal",
-      "published_date": "2026-04-12T08:14:35+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,20 @@
       "category": "Energy"
     },
     {
+      "title": "In meeting with WB vice president, Aurangzeb calls for enhanced technical support for debt management",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1991419/in-meeting-with-wb-vice-president-aurangzeb-calls-for-enhanced-technical-support-for-debt-management",
+      "published_date": "2026-04-13T19:06:38+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "LHC sets aside ruling that struck down policy for regulating foreign funding of NGOs, NPOs",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1991403/lhc-sets-aside-ruling-that-struck-down-policy-for-regulating-foreign-funding-of-ngos-npos",
+      "published_date": "2026-04-13T18:51:40+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Fitch affirms Pakistan’s credit rating at ‘B-’",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1991344/fitch-affirms-pakistans-credit-rating-at-b",
@@ -435,6 +449,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1991299/aurangzeb-arrives-in-washington-for-imf-world-bank-spring-meetings",
       "published_date": "2026-04-13T06:19:41+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pakistan finmin discusses debt management, reforms in meetings with World Bank, IFC officials",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2639793/pakistan",
+      "published_date": "2026-04-13T05:04:21+00:00",
       "category": "Economy"
     },
     {
@@ -543,25 +564,53 @@
       "category": "Economy"
     },
     {
-      "title": "Pakistan fin min to pitch reforms, investment outlook at IMF-World Bank meetings",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2639526/pakistan",
-      "published_date": "2026-04-11T06:04:30+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "FinMin leaves for World Bank-IMF spring meetings in US",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2602186/finmin-leaves-for-world-bank-imf-spring-meetings-in-us",
-      "published_date": "2026-04-11T01:39:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Govt reduces petrol price by Rs12 per litre, HSD by Rs135",
+      "title": "Punjab’s residents left reeling amid hours-long loadshedding",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1990554/govt-reduces-petrol-price-by-rs12-per-litre-hsd-by-rs135",
-      "published_date": "2026-04-10T20:55:15+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/1991355/punjabs-residents-left-reeling-amid-hours-long-loadshedding",
+      "published_date": "2026-04-13T20:06:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two Customs officers arrested for allegedly replacing 400kg of seized silver with lead",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1991431/two-customs-officers-arrested-for-allegedly-replacing-400kg-of-seized-silver-with-lead",
+      "published_date": "2026-04-13T19:59:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘I thought it was me as a doctor’: Trump on AI image of himself as Jesus-like figure",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1991418/i-thought-it-was-me-as-a-doctor-trump-on-ai-image-of-himself-as-jesus-like-figure",
+      "published_date": "2026-04-13T18:15:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Punjab Assembly panel approves bill setting minimum marriage age at 18 for both males and females",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1991404/punjab-assembly-panel-approves-bill-setting-minimum-marriage-age-at-18-for-both-males-and-females",
+      "published_date": "2026-04-13T16:09:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PMD predicts rainfall in upper parts of country from April 16 to 19",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1991385/pmd-predicts-rainfall-in-upper-parts-of-country-from-april-16-to-19",
+      "published_date": "2026-04-13T14:43:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "3 cops martyred, 5 injured as assailants open fire on police vehicle in GB’s Diamer",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1991346/3-cops-martyred-5-injured-as-assailants-open-fire-on-police-vehicle-in-gbs-diamer",
+      "published_date": "2026-04-13T13:10:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Concerns abound regarding health of incarcerated PTI leader Ejaz Chaudhry",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1991351/concerns-abound-regarding-health-of-incarcerated-pti-leader-ejaz-chaudhry",
+      "published_date": "2026-04-13T12:19:12+00:00",
+      "category": "Local Events"
     },
     {
       "title": "3 cops martyred, 4 injured as unknown assailants open fire on police vehicle in GB’s Diamer: minister",
@@ -606,6 +655,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Spanish PM’s wife charged with corruption",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2639803/world",
+      "published_date": "2026-04-13T07:04:39+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Red Zone, key roads in Islamabad to remain closed",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1991252/red-zone-key-roads-in-islamabad-to-remain-closed",
@@ -645,62 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1991161/pti-optimistic-about-progress-as-us-iran-talks-end-without-deal",
       "published_date": "2026-04-13T03:12:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pope sees ‘moral obligation’ to protect Lebanese",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1991166/pope-sees-moral-obligation-to-protect-lebanese",
-      "published_date": "2026-04-13T03:01:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Over 500 held at pro-Palestinian rally in UK",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1991169/over-500-held-at-pro-palestinian-rally-in-uk",
-      "published_date": "2026-04-13T02:57:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police officer martyred, four injured in attack on polio team in K-P",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2602509/police-officer-martyred-four-injured-in-attack-on-polio-team-in-k-p",
-      "published_date": "2026-04-13T00:46:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Following an election earthquake, Hungary ponders life after Orbán",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2639755/world",
-      "published_date": "2026-04-12T23:04:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli minister storms Al Aqsa Mosque again amid restrictions on worshippers",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1991141/israeli-minister-storms-al-aqsa-mosque-again-amid-restrictions-on-worshippers",
-      "published_date": "2026-04-12T21:56:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Viktor Orban concedes ‘painful’ defeat to conservative Peter Magyar in Hungary polls",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1991135/viktor-orban-concedes-painful-defeat-to-conservative-peter-magyar-in-hungary-polls",
-      "published_date": "2026-04-12T20:23:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "No breakthrough, no breakdown",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2602502/no-breakthrough-no-breakdown",
-      "published_date": "2026-04-12T17:27:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DIG orders inquiry after video, purportedly showing armed robbery on Karachi bridge, goes viral",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1991101/dig-orders-inquiry-after-video-purportedly-showing-armed-robbery-on-karachi-bridge-goes-viral",
-      "published_date": "2026-04-12T16:54:11+00:00",
       "category": "Local Events"
     }
   ]
