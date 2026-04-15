@@ -1,8 +1,36 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-04-14T23:34:52.811428+00:00",
+  "last_updated": "2026-04-15T12:00:46.761886+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "‘Privilege for none’: Pakistan calls for abolition of UNSC veto power, rejects new permanent seats",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1991951/privilege-for-none-pakistan-calls-for-abolition-of-unsc-veto-power-rejects-new-permanent-seats",
+      "published_date": "2026-04-15T10:17:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "PM Shehbaz departs on official visits to Saudi Arabia, Turkiye and Qatar",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1991908/pm-shehbaz-departs-on-official-visits-to-saudi-arabia-turkiye-and-qatar",
+      "published_date": "2026-04-15T09:03:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Xi meets Russian FM as leaders flock to China over Middle East war",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1991931/xi-meets-russian-fm-as-leaders-flock-to-china-over-middle-east-war",
+      "published_date": "2026-04-15T07:31:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan calls for abolition of veto power, opposes permanent membership expansion",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2602886/pakistan-calls-for-abolition-of-veto-power-opposes-permanent-membership-expansion",
+      "published_date": "2026-04-15T02:58:46+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump says US-Iran talks could resume over the next two days, ‘we’re more inclined’ to go to Pakistan",
       "source": "Dawn",
@@ -15,6 +43,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1991749/lebanon-israel-agree-to-direct-negotiations-after-washington-talks",
       "published_date": "2026-04-14T20:17:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "PTI hopes for revival of talks with govt",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2602849/pti-hopes-for-revival-of-talks-with-govt",
+      "published_date": "2026-04-14T16:19:27+00:00",
       "category": "Diplomacy"
     },
     {
@@ -109,39 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "‘This likely isn’t over’: Journalists, analysts react to ‘stalemate’ in US-Iran talks",
+      "title": "North Korea boosting ability to make nuclear arms: UN watchdog",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1991060/this-likely-isnt-over-journalists-analysts-react-to-stalemate-in-us-iran-talks",
-      "published_date": "2026-04-12T11:25:21+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/1991947/north-korea-boosting-ability-to-make-nuclear-arms-un-watchdog",
+      "published_date": "2026-04-15T10:27:42+00:00",
+      "category": "Military"
     },
     {
-      "title": "Mauritius pledges to reclaim Chagos Islands",
+      "title": "UN nuclear chief urges strict Iran checks in any deal to end war",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2639596/world",
-      "published_date": "2026-04-12T09:04:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.arabnews.pk/node/2639992/world",
+      "published_date": "2026-04-15T09:04:53+00:00",
+      "category": "Military"
     },
     {
-      "title": "‘Pakistan opened door to dialogue’: Islamabad becoming a direct mediator, say US scholars",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1991063/pakistan-opened-door-to-dialogue-islamabad-becoming-a-direct-mediator-say-us-scholars",
-      "published_date": "2026-04-12T08:25:38+00:00",
-      "category": "Diplomacy"
+      "title": "Japan tourism hits record despite China spat, Iran war",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2639990/world",
+      "published_date": "2026-04-15T09:04:39+00:00",
+      "category": "Military"
     },
     {
-      "title": "Jinnah Convention Centre turns into media hub for US-Iran talks",
+      "title": "The underground architecture that has sustained Iran’s military capacity in the face of US-Israeli attacks",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1990894/jinnah-convention-centre-turns-into-media-hub-for-us-iran-talks",
-      "published_date": "2026-04-12T05:38:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/1989081/the-underground-architecture-that-has-sustained-irans-military-capacity-in-the-face-of-us-israeli-attacks",
+      "published_date": "2026-04-15T08:25:48+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN agency chiefs seek end to war rules violations in Middle East",
+      "title": "North Korea showing ‘serious increase’ in ability to make nuclear weapons: IAEA chief",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2639983/world",
+      "published_date": "2026-04-15T08:04:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump doubles down in criticising Pope Leo over Iran",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1990908/un-agency-chiefs-seek-end-to-war-rules-violations-in-middle-east",
-      "published_date": "2026-04-12T03:39:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/1991929/trump-doubles-down-in-criticising-pope-leo-over-iran",
+      "published_date": "2026-04-15T07:15:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "King Charles to address Congress on US trip marking ‘shared history’: palace",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1991924/king-charles-to-address-congress-on-us-trip-marking-shared-history-palace",
+      "published_date": "2026-04-15T07:04:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Two children among six killed in Gaza",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1991801/two-children-among-six-killed-in-gaza",
+      "published_date": "2026-04-15T02:44:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US hosts ‘rare’ direct talks between Lebanon and Israel",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1991819/us-hosts-rare-direct-talks-between-lebanon-and-israel",
+      "published_date": "2026-04-15T02:34:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump eyes round two of Islamabad talks within days",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1991823/trump-eyes-round-two-of-islamabad-talks-within-days",
+      "published_date": "2026-04-15T02:24:23+00:00",
+      "category": "Military"
     },
     {
       "title": "Penalty at the death sends Al-Ittihad into AFC Champions League Elite quarter-finals",
@@ -155,6 +225,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1991726/around-250-people-feared-missing-after-boat-capsizes-in-andaman-sea-un",
       "published_date": "2026-04-14T17:41:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan moves toward quad framework",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2602860/pakistan-moves-toward-quad-framework",
+      "published_date": "2026-04-14T17:15:29+00:00",
       "category": "Military"
     },
     {
@@ -207,87 +284,38 @@
       "category": "Military"
     },
     {
-      "title": "Around 90 detained in New York City protest over US arms sales to Israel",
+      "title": "Subcontinent might see subdued monsoon as ‘super El Niño’ expected this year: weather expert",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1991624/around-90-detained-in-new-york-city-protest-over-us-arms-sales-to-israel",
-      "published_date": "2026-04-14T07:30:04+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/1991963/subcontinent-might-see-subdued-monsoon-as-super-el-nino-expected-this-year-weather-expert",
+      "published_date": "2026-04-15T11:54:11+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Zelensky says US doesn’t ‘have time for Ukraine’ because of Iran war: interview",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2639929/world",
-      "published_date": "2026-04-14T07:04:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US prosecutors say OpenAI firebomber was trying to kill boss Sam Altman",
+      "title": "Govt apologises for excessive loadshedding, blames it on reduced hydropower availability",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1991615/us-prosecutors-say-openai-firebomber-was-trying-to-kill-boss-sam-altman",
-      "published_date": "2026-04-14T06:56:10+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/1991961/govt-apologises-for-excessive-loadshedding-blames-it-on-reduced-hydropower-availability",
+      "published_date": "2026-04-15T11:06:31+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Pakistan launches medical tourism initiative under Special Investment Facilitation Council",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1991539/pakistan-launches-medical-tourism-initiative-under-special-investment-facilitation-council",
-      "published_date": "2026-04-14T04:52:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says Italy’s Meloni lacks ‘courage’ on Iran war: report",
+      "title": "China says it will ‘resolutely support’ Cuba against US pressure",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2639921/world",
-      "published_date": "2026-04-14T04:04:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Heathrow airport traffic surges as war diverts global flights",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1991490/heathrow-airport-traffic-surges-as-war-diverts-global-flights",
-      "published_date": "2026-04-14T03:04:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Exceptional hosts, real statesmanship': JD Vance lauds PM Shehbaz, CDF Asim Munir for US–Iran talks",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2602717/exceptional-hosts-real-statesmanship-jd-vance-lauds-pm-shehbaz-cdf-asim-munir-for-usiran-talks",
-      "published_date": "2026-04-14T02:56:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US blockade of Hormuz puts ceasefire to test",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1991499/us-blockade-of-hormuz-puts-ceasefire-to-test",
-      "published_date": "2026-04-14T02:34:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US forces to join combat drills in Philippines to show commitment to Asia while fighting Iran",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2639871/world",
-      "published_date": "2026-04-13T23:04:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan plans peak-hour power cuts to curb tariff spike amid Middle East fuel shock",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2639876/pakistan",
-      "published_date": "2026-04-13T23:04:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Italy suspends defense cooperation deal with Israel",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2639866/world",
-      "published_date": "2026-04-13T23:04:19+00:00",
-      "category": "Military"
+      "url": "https://www.arabnews.pk/node/2639996/world",
+      "published_date": "2026-04-14T22:04:02+00:00",
+      "category": "Energy"
     },
     {
       "title": "Govt announces more than 2 hours of daily loadshedding amid fuel constraints; K-Electric, Hesco excluded from plan",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1991664/govt-announces-more-than-2-hours-of-daily-loadshedding-amid-fuel-constraints-k-electric-hesco-excluded-from-plan",
       "published_date": "2026-04-14T20:44:12+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "25% of Islamabad consumers get AMI meters",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2602824/25-of-islamabad-consumers-get-ami-meters",
+      "published_date": "2026-04-14T15:09:57+00:00",
       "category": "Energy"
     },
     {
@@ -396,38 +424,87 @@
       "category": "Energy"
     },
     {
-      "title": "Peace talks revive IP pipeline hopes",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2602110/peace-talks-revive-ip-pipeline-hopes",
-      "published_date": "2026-04-10T15:05:02+00:00",
-      "category": "Energy"
+      "title": "Finance minister meets with US commerce secretary, briefs IMF official on war’s impact on Pakistan",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1991925/finance-minister-meets-with-us-commerce-secretary-briefs-imf-official-on-wars-impact-on-pakistan",
+      "published_date": "2026-04-15T10:24:05+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Oil set for steepest weekly loss since June",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2602116/oil-set-for-steepest-weekly-loss-since-june",
-      "published_date": "2026-04-10T15:05:02+00:00",
-      "category": "Energy"
+      "title": "Pakistan courts Chinese investment in 21 sectors, 60 executives expected to visit in May",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2639986/pakistan",
+      "published_date": "2026-04-15T08:04:33+00:00",
+      "category": "Economy"
     },
     {
-      "title": "China buys Iranian oil at premiums to Brent",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2602111/china-buys-iranian-oil-at-premiums-to-brent",
-      "published_date": "2026-04-10T15:05:02+00:00",
-      "category": "Energy"
+      "title": "PSX gains 4,300 points amid hopes of US-Iran talks reviving",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1991921/psx-gains-4300-points-amid-hopes-of-us-iran-talks-reviving",
+      "published_date": "2026-04-15T06:38:53+00:00",
+      "category": "Economy"
     },
     {
-      "title": "PM Shehbaz announces Rs12 cut in petrol price, Rs135 cut in diesel price",
+      "title": "Saudi Arabia pledges $3bn fresh deposit, extends $5bn facility through 2028",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1991877/saudi-arabia-pledges-3bn-fresh-deposit-extends-5bn-facility-through-2028",
+      "published_date": "2026-04-15T06:13:41+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "PSX surges over 4,700 points as Saudi funds lift market sentiment",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2602078/pm-shehbaz-addresses-nation-2",
-      "published_date": "2026-04-10T12:30:42+00:00",
-      "category": "Energy"
+      "url": "https://tribune.com.pk/story/2602904/psx-surges-over-4700-points-as-saudi-funds-lift-market-sentiment",
+      "published_date": "2026-04-15T05:04:44+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "China, Spain call for closer ties amid  ‘crumbling’ world order",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1991797/china-spain-call-for-closer-ties-amid-crumbling-world-order",
+      "published_date": "2026-04-15T02:52:08+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi Arabia pledges $3b additional support, extends $5b deposit: finance minister",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2602863/saudi-arabia-pledges-3b-additional-support-extends-5b-deposit-finance-minister",
+      "published_date": "2026-04-14T23:39:59+00:00",
+      "category": "Economy"
     },
     {
       "title": "Naqvi calls on businessmen to bring back ‘20-30pc’ of wealth to Pakistan",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1991683/naqvi-calls-on-businessmen-to-bring-back-20-30pc-of-wealth-to-pakistan",
       "published_date": "2026-04-14T16:43:04+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Naqvi urges return of offshore wealth",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2602845/naqvi-urges-return-of-offshore-wealth",
+      "published_date": "2026-04-14T16:19:27+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "IMF cuts growth forecast to 3.5%",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2602822/imf-cuts-growth-forecast-to-35",
+      "published_date": "2026-04-14T15:09:57+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Development budget cut by Rs173b",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2602827/development-budget-cut-by-rs173b",
+      "published_date": "2026-04-14T15:09:57+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "EDB tightens used vehicle import rules",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2602826/edb-tightens-used-vehicle-import-rules",
+      "published_date": "2026-04-14T15:09:57+00:00",
       "category": "Economy"
     },
     {
@@ -442,6 +519,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1991688/secp-grants-buy-now-pay-later-licence-to-alibaba-owned-koko-tech-pakistan",
       "published_date": "2026-04-14T15:02:21+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "2,000 'flexible' lecturers risk losing jobs",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2602819/2000-flexible-lecturers-risk-losing-jobs",
+      "published_date": "2026-04-14T14:54:33+00:00",
       "category": "Economy"
     },
     {
@@ -480,94 +564,108 @@
       "category": "Economy"
     },
     {
-      "title": "Pakistan picks Citibank-led group as top bidder for Roosevelt Hotel privatization advisory role",
+      "title": "Constable martyred after unknown assailants open fire on polio team in Balochistan’s Dera Murad Jamali",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1991960/constable-martyred-after-unknown-assailants-open-fire-on-polio-team-in-balochistans-dera-murad-jamali",
+      "published_date": "2026-04-15T11:26:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Top Israel court hears petitions to oust far-right minister",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2639923/pakistan",
-      "published_date": "2026-04-14T05:04:15+00:00",
-      "category": "Economy"
+      "url": "https://www.arabnews.pk/node/2639995/middle-east",
+      "published_date": "2026-04-15T09:04:55+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "PSX surges over 4,000 points on hopes of US-Iran talks resumption",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2602720/psx-surges-over-4000-points-on-hopes-of-us-iran-talks-resumption",
-      "published_date": "2026-04-14T03:16:46+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Tax rationalisation to cut auto prices",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1991486/tax-rationalisation-to-cut-auto-prices",
-      "published_date": "2026-04-14T01:33:31+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "FinMin says 'all options on table' to replace $3.5b UAE loan, shore up reserves",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2602703/finmin-says-all-options-on-table-for-funding-weighs-strategic-fuel-reserve",
-      "published_date": "2026-04-14T01:20:13+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Aurangzeb hopeful of early IMF board approval",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2602698/finmin-hopes-for-early-imf-board-approval-to-keep-reforms-on-track",
-      "published_date": "2026-04-14T00:11:27+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Pakistan sets key summer crop targets amid global food, energy pressures",
+      "title": "Pakistan cenbank opens formal banking to licensed virtual asset service providers",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2639865/pakistan",
-      "published_date": "2026-04-13T22:04:17+00:00",
-      "category": "Economy"
+      "url": "https://www.arabnews.pk/node/2639988/pakistan",
+      "published_date": "2026-04-15T09:04:35+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "In meeting with WB vice president, Aurangzeb calls for enhanced technical support for debt management",
+      "title": "Farmers owning under 12 acres eligible for new federal subsidy scheme",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1991419/in-meeting-with-wb-vice-president-aurangzeb-calls-for-enhanced-technical-support-for-debt-management",
-      "published_date": "2026-04-13T19:06:38+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/1991936/farmers-owning-under-12-acres-eligible-for-new-federal-subsidy-scheme",
+      "published_date": "2026-04-15T08:41:13+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "LHC sets aside ruling that struck down policy for regulating foreign funding of NGOs, NPOs",
+      "title": "Australia books Indian national for alleged sexual assault of woman seated next to him on flight",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1991403/lhc-sets-aside-ruling-that-struck-down-policy-for-regulating-foreign-funding-of-ngos-npos",
-      "published_date": "2026-04-13T18:51:40+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/1991935/australia-books-indian-national-for-alleged-sexual-assault-of-woman-seated-next-to-him-on-flight",
+      "published_date": "2026-04-15T08:11:24+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Salaried class pays Rs420b tax",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2602630/salaried-class-pays-rs420b-tax",
-      "published_date": "2026-04-13T14:55:59+00:00",
-      "category": "Economy"
+      "title": "Pakistan vaccinates over 27 million children in ongoing nationwide anti-polio drive",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2639984/pakistan",
+      "published_date": "2026-04-15T08:04:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Gold falls Rs1,600 tracking global decline",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2602632/gold-falls-rs1600-tracking-global-decline",
-      "published_date": "2026-04-13T14:55:59+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Eurobond repayment a 'non-event', says Aurangzeb",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2602627/eurobond-repayment-a-non-event-says-aurangzeb",
-      "published_date": "2026-04-13T14:55:59+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Fitch affirms Pakistan’s credit rating at ‘B-’",
+      "title": "Bilawal to launch Phase-II of Solar Home Systems project today",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1991344/fitch-affirms-pakistans-credit-rating-at-b",
-      "published_date": "2026-04-13T11:30:17+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/1991775/bilawal-to-launch-phase-ii-of-solar-home-systems-project-today",
+      "published_date": "2026-04-15T06:06:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "CBC gets three months to establish piped water supply system in Karachi’s DHA",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1991778/cbc-gets-three-months-to-establish-piped-water-supply-system-in-karachis-dha",
+      "published_date": "2026-04-15T05:41:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Frequency of power, gas outages surges across Punjab",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1991864/frequency-of-power-gas-outages-surges-across-punjab",
+      "published_date": "2026-04-15T04:23:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anti-encroachment operation triggers violent backlash from villagers in Islamabad",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1991876/anti-encroachment-operation-triggers-violent-backlash-from-villagers-in-islamabad",
+      "published_date": "2026-04-15T03:51:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mpox cases rise to 25 as two more test positive in Sindh",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1991781/mpox-cases-rise-to-25-as-two-more-test-positive-in-sindh",
+      "published_date": "2026-04-15T03:38:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Several turtles found dead along Balochistan seashore",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1991782/several-turtles-found-dead-along-balochistan-seashore",
+      "published_date": "2026-04-15T00:05:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In a first, KP govt moves to register Kalash marriages",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1991813/in-a-first-kp-govt-moves-to-register-kalash-marriages",
+      "published_date": "2026-04-15T00:05:20+00:00",
+      "category": "Local Events"
     },
     {
       "title": "BBC reports ‘serious malpractices’ continued at Taunsa hospital months after it was linked to HIV outbreak",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1991739/bbc-reports-serious-malpractices-continued-at-taunsa-hospital-months-after-it-was-linked-to-hiv-outbreak",
       "published_date": "2026-04-14T18:54:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "President urges proactive US-Iran engagement",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2602861/president-urges-proactive-us-iran-engagement",
+      "published_date": "2026-04-14T17:15:29+00:00",
       "category": "Local Events"
     },
     {
@@ -603,104 +701,6 @@
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2602757/president-tasks-pm-fm-dar-with-proactive-us-iran-engagement-for-peace-process-success",
       "published_date": "2026-04-14T08:48:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli NGO files ICC suit against Spain PM over Iran exports",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2639939/world",
-      "published_date": "2026-04-14T08:04:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heavy rains in northwestern Haiti kill 12 people and damage hundreds of homes",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2639932/world",
-      "published_date": "2026-04-14T07:04:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Private schools pocketing over Rs5bn by ignoring scholarship quota, Islamabad High Court informed",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1991573/private-schools-pocketing-over-rs5bn-by-ignoring-scholarship-quota-islamabad-high-court-informed",
-      "published_date": "2026-04-14T04:03:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Unannounced gas cuts make Karachiites’ lives miserable",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1991561/unannounced-gas-cuts-make-karachiites-lives-miserable",
-      "published_date": "2026-04-14T03:46:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alarm raised over health of PTI’s jailed leaders",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1991482/alarm-raised-over-health-of-ptis-jailed-leaders",
-      "published_date": "2026-04-14T03:19:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UN chief calls FM Dar, expresses 'full support' for Pakistan's efforts in US-Iran peace talks",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2602718/eu-canada-praise-pakistans-role-in-us-iran-peace-efforts-fo",
-      "published_date": "2026-04-14T03:04:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Govt and Google join hands to arm youth with artificial intelligence skills",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1991491/govt-and-google-join-hands-to-arm-youth-with-artificial-intelligence-skills",
-      "published_date": "2026-04-14T03:01:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli air strike kills four in Gaza amid truce talks in Cairo",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1991495/israeli-air-strike-kills-four-in-gaza-amid-truce-talks-in-cairo",
-      "published_date": "2026-04-14T02:56:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "CTD arrests 16 suspected terrorists in operations across Punjab",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2602708/ctd-arrests-16-suspected-terrorists-in-operations-across-punjab",
-      "published_date": "2026-04-14T02:01:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "From security state to mediator: Pakistan uses Iran-US talks to reshape global image",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2639869/pakistan",
-      "published_date": "2026-04-13T23:04:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zimbabwe fast bowler Muzarabani banned from PSL for 2 years for breaching contract",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2639868/pakistan",
-      "published_date": "2026-04-13T22:04:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Punjab’s residents left reeling amid hours-long loadshedding",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1991355/punjabs-residents-left-reeling-amid-hours-long-loadshedding",
-      "published_date": "2026-04-13T20:06:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two Customs officers arrested for allegedly replacing 400kg of seized silver with lead",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1991431/two-customs-officers-arrested-for-allegedly-replacing-400kg-of-seized-silver-with-lead",
-      "published_date": "2026-04-13T19:59:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘I thought it was me as a doctor’: Trump on AI image of himself as Jesus-like figure",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1991418/i-thought-it-was-me-as-a-doctor-trump-on-ai-image-of-himself-as-jesus-like-figure",
-      "published_date": "2026-04-13T18:15:11+00:00",
       "category": "Local Events"
     }
   ]
