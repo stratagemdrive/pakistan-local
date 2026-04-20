@@ -1,6 +1,6 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-04-20T12:09:59.955181+00:00",
+  "last_updated": "2026-04-20T23:33:48.452672+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -15,6 +15,13 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2640566/world",
       "published_date": "2026-04-20T08:04:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Cuba confirms recent talks with visiting US delegation",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2640624/world",
+      "published_date": "2026-04-20T07:04:18+00:00",
       "category": "Diplomacy"
     },
     {
@@ -137,11 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Gold falls Rs3,300/tola in local market",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2603377/gold-falls-rs3300tola-in-local-market",
-      "published_date": "2026-04-17T15:51:25+00:00",
-      "category": "Diplomacy"
+      "title": "Apple says chief executive Tim Cook stepping down in September",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1993605/apple-says-chief-executive-tim-cook-stepping-down-in-september",
+      "published_date": "2026-04-20T21:20:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US delegation expected in Islamabad but uncertainty prevails over talks amid mixed signals from Iran",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1993458/us-delegation-expected-in-islamabad-but-uncertainty-prevails-over-talks-amid-mixed-signals-from-iran",
+      "published_date": "2026-04-20T18:41:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Over $71bn needed over next decade to rebuild Gaza: UN, EU",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1993538/over-71bn-needed-over-next-decade-to-rebuild-gaza-un-eu",
+      "published_date": "2026-04-20T18:40:01+00:00",
+      "category": "Military"
     },
     {
       "title": "In pictures: Islamabad on high security even as uncertainty looms over 2nd round of US-Iran talks",
@@ -207,6 +228,13 @@
       "category": "Military"
     },
     {
+      "title": "Drone attack kills 3 Colombian soldiers as rebel groups develop new lethal capabilities",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2640631/world",
+      "published_date": "2026-04-20T08:04:51+00:00",
+      "category": "Military"
+    },
+    {
       "title": "US delegation to reach Islamabad today as Iran says no plan yet for further talks",
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2640563/pakistan",
@@ -218,6 +246,13 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2640564/world",
       "published_date": "2026-04-20T08:04:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "An Iraqi captain sails through ‘ball of fire’ amid US-Iran tension",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2640626/middle-east",
+      "published_date": "2026-04-20T08:04:15+00:00",
       "category": "Military"
     },
     {
@@ -249,41 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Billion-dollar attack: France boasts a rich scoring depth other World Cup teams only dream of",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2640572/sport",
-      "published_date": "2026-04-19T22:04:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says US representatives heading to Islamabad, will be ‘there tomorrow evening for negotiations’ with Iran",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1993224/trump-says-us-representatives-heading-to-islamabad-will-be-there-tomorrow-evening-for-negotiations-with-iran",
-      "published_date": "2026-04-19T21:00:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "In 45-minute phone call with Pezeshkian, PM Shehbaz reaffirms Pakistan’s commitment to advancing regional peace",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1993250/in-45-minute-phone-call-with-pezeshkian-pm-shehbaz-reaffirms-pakistans-commitment-to-advancing-regional-peace",
-      "published_date": "2026-04-19T19:24:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli military publishes map of new deployment line in Lebanon, bringing dozens of villages under its control",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1993257/israeli-military-publishes-map-of-new-deployment-line-in-lebanon-bringing-dozens-of-villages-under-its-control",
-      "published_date": "2026-04-19T19:08:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Another attempted arson attack at Jewish site in London, charity says",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2640457/world",
-      "published_date": "2026-04-19T09:04:34+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Money, lobbyists, inertia: Why fossil fuels are so hard to quit?",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1993488/money-lobbyists-inertia-why-fossil-fuels-are-so-hard-to-quit",
@@ -295,6 +295,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1993468/pakistan-engages-ifc-for-investors-in-installation-of-10m-smart-meters-across-all-discos",
       "published_date": "2026-04-20T09:58:13+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Pakistan launches major digitization reform to modernize power distribution network",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2640609/pakistan",
+      "published_date": "2026-04-20T05:04:37+00:00",
       "category": "Energy"
     },
     {
@@ -417,11 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "Pakistani-flagged tanker exits Gulf with UAE crude",
+      "title": "Govt forsees economic slowdown during current, next fiscal years due to Middle East war",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1993522/govt-forsees-economic-slowdown-during-current-next-fiscal-years-due-to-middle-east-war",
+      "published_date": "2026-04-20T16:27:27+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pakistan increases Eurobond from $500m to $750m",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1993495/pakistan-increases-eurobond-from-500m-to-750m",
+      "published_date": "2026-04-20T15:01:02+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "IMF loads $7 billion package with 11 new conditions for govt",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2603381/pakistani-flagged-tanker-exits-gulf-with-uae-crude",
-      "published_date": "2026-04-17T15:51:26+00:00",
-      "category": "Energy"
+      "url": "https://tribune.com.pk/story/2603817/imf-loads-7-billion-package-with-11-new-conditions-for-govt",
+      "published_date": "2026-04-20T12:32:01+00:00",
+      "category": "Economy"
     },
     {
       "title": "India, South Korea plan $50bn trade push with new deals",
@@ -456,6 +477,13 @@
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2603766/govt-signs-ifc-deal-to-roll-out-smart-metres-for-10-million-power-consumers",
       "published_date": "2026-04-20T03:56:09+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pakistan upsizes Eurobond to $750 million via ‘greenshoe option,’ official says",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2640601/pakistan",
+      "published_date": "2026-04-20T02:04:07+00:00",
       "category": "Economy"
     },
     {
@@ -536,32 +564,39 @@
       "category": "Economy"
     },
     {
-      "title": "Finance Minister Aurangzeb pitches reforms, investment opportunities at IMF-WB meetings",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2603462/finance-minister-aurangzeb-pitches-reforms-investment-opportunities-at-imf-wb-meetings",
-      "published_date": "2026-04-18T09:35:17+00:00",
-      "category": "Economy"
+      "title": "Stray bullet claims life of MQM-P MNA’s daughter in Karachi",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1993518/stray-bullet-claims-life-of-mqm-p-mnas-daughter-in-karachi",
+      "published_date": "2026-04-20T16:26:03+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The Iran war has revealed Trump’s pressure point: the economy",
+      "title": "FBI Director Kash Patel sues The Atlantic claiming false reporting about drinking, absences",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1992836/the-iran-war-has-revealed-trumps-pressure-point-the-economy",
-      "published_date": "2026-04-18T09:20:42+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/1993516/fbi-director-kash-patel-sues-the-atlantic-claiming-false-reporting-about-drinking-absences",
+      "published_date": "2026-04-20T14:52:39+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Aurangzeb holds ‘productive’ meeting with US Treasury officials, discusses avenues for energy, mineral cooperation",
+      "title": "4 construction workers abducted by armed men in KP’s Tirah valley",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1992842/aurangzeb-holds-productive-meeting-with-us-treasury-officials-discusses-avenues-for-energy-mineral-cooperation",
-      "published_date": "2026-04-18T07:24:46+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/1993508/4-construction-workers-abducted-by-armed-men-in-kps-tirah-valley",
+      "published_date": "2026-04-20T14:17:59+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Pakistan seeks early approval of next IMF tranche",
+      "title": "Sri Lanka’s Dasun Shanaka handed one-year PSL ban for IPL switch",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1992761/pakistan-seeks-early-approval-of-next-imf-tranche",
-      "published_date": "2026-04-18T02:39:19+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/1993501/sri-lankas-dasun-shanaka-handed-one-year-psl-ban-for-ipl-switch",
+      "published_date": "2026-04-20T13:50:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The limits of Bushra Bibi’s power",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1975668/the-limits-of-bushra-bibis-power",
+      "published_date": "2026-04-20T12:32:49+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Naqvi meets Iran, US envoys to discuss preparations for 2nd round of Islamabad Talks",
@@ -599,10 +634,31 @@
       "category": "Local Events"
     },
     {
+      "title": "Israel hindering Gaza aid access despite court ruling, says NGO",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2640627/middle-east",
+      "published_date": "2026-04-20T08:04:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Karachi police arrest 4 for allegedly leaking matric, inter board exam papers",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2603791/karachi-police-arrest-4-for-allegedly-leaking-matric-inter-board-exam-papers",
+      "published_date": "2026-04-20T07:55:25+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Two terrorists killed, police constable martyred in Lakki Marwat",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1993427/two-terrorists-killed-police-constable-martyred-in-lakki-marwat",
       "published_date": "2026-04-20T07:28:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gold, silver prices drop across global and local markets",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2603784/gold-silver-prices-drop-across-global-and-local-markets",
+      "published_date": "2026-04-20T06:29:59+00:00",
       "category": "Local Events"
     },
     {
@@ -634,73 +690,17 @@
       "category": "Local Events"
     },
     {
+      "title": "US delegation to travel to Islamabad ‘soon’ as Iran says no plan yet for further talks",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2640604/pakistan",
+      "published_date": "2026-04-20T03:04:18+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Hinglaj Mata festival draws nearly 300,000 Hindu pilgrims in Balochistan",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1993400/hinglaj-mata-festival-draws-nearly-300000-hindu-pilgrims-in-balochistan",
       "published_date": "2026-04-20T02:28:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Assault on vessel overshadows preparation for round two of US-Iran dialogue",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1993405/assault-on-vessel-overshadows-preparation-for-round-two-of-us-iran-dialogue",
-      "published_date": "2026-04-20T02:21:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shipping channels unaffected  by Hormuz tensions",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1993401/shipping-channels-unaffected-by-hormuz-tensions",
-      "published_date": "2026-04-20T01:58:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Only one-fifth MNAs attended 26th NA session",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1993393/only-one-fifth-mnas-attended-26th-na-session",
-      "published_date": "2026-04-20T01:47:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Islamabad DC dismisses notification falsely announcing closure of all offices in twin cities from April 20",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1993252/islamabad-dc-dismisses-notification-falsely-announcing-closure-of-all-offices-in-twin-cities-from-april-20",
-      "published_date": "2026-04-19T20:31:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Security beefed up as Islamabad prepares for foreign delegations’ arrival amid anticipation of US-Iran talks",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1993212/security-beefed-up-as-islamabad-prepares-for-foreign-delegations-arrival-amid-anticipation-of-us-iran-talks",
-      "published_date": "2026-04-19T20:29:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Religious scholar Engineer Muhammad Ali Mirza survives attack in Jhelum",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1993211/religious-scholar-engineer-muhammad-ali-mirza-survives-attack-in-jhelum",
-      "published_date": "2026-04-19T19:59:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KP CM Afridi says conveyed to Imran that if he gives go-ahead, ‘we will be in Islamabad the next day’",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1993238/kp-cm-afridi-says-conveyed-to-imran-that-if-he-gives-go-ahead-we-will-be-in-islamabad-the-next-day",
-      "published_date": "2026-04-19T16:57:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Religious cleric Engineer Muhammad Ali Mirza survives attack in Jhelum",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1993211/religious-cleric-engineer-muhammad-ali-mirza-survives-attack-in-jhelum",
-      "published_date": "2026-04-19T11:40:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Security beefed up as Islamabad braces for arrival of ‘foreign delegations’",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1993212/security-beefed-up-as-islamabad-braces-for-arrival-of-foreign-delegations",
-      "published_date": "2026-04-19T11:36:36+00:00",
       "category": "Local Events"
     }
   ]
