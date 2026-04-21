@@ -1,8 +1,22 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-04-21T12:05:36.031759+00:00",
+  "last_updated": "2026-04-21T23:27:09.978709+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "‘Reprehensible’: Pakistan condemns storming of Al Aqsa Mosque compound, raising of Israeli flag in its courtyard",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1993856/reprehensible-pakistan-condemns-storming-of-al-aqsa-mosque-compound-raising-of-israeli-flag-in-its-courtyard",
+      "published_date": "2026-04-21T22:02:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Downing Street denies exerting pressure on civil servants to approve Mandelson’s appointment as envoy to US",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1993798/downing-street-denies-exerting-pressure-on-civil-servants-to-approve-mandelsons-appointment-as-envoy-to-us",
+      "published_date": "2026-04-21T18:43:28+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "7,900 people died, disappeared on migration routes in 2025: UN",
       "source": "Dawn",
@@ -130,18 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pope Leo downplays feud with Trump, says ‘not in my interest’ to debate him",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1993000/pope-leo-downplays-feud-with-trump-says-not-in-my-interest-to-debate-him",
-      "published_date": "2026-04-18T17:32:33+00:00",
-      "category": "Diplomacy"
+      "title": "Trump extends Iran ceasefire at Pakistan’s request, will continue blockade of ports",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2640783/pakistan",
+      "published_date": "2026-04-22T09:04:02+00:00",
+      "category": "Military"
     },
     {
-      "title": "New Delhi summons Iranian envoy after Indian-flagged tankers shot at near Strait of Hormuz",
+      "title": "‘At the request of CDF Munir, PM Shehbaz’, Trump announces extension in ceasefire until Iran submits proposal",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1992990/new-delhi-summons-iranian-envoy-after-indian-flagged-tankers-shot-at-near-strait-of-hormuz",
-      "published_date": "2026-04-18T17:03:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/1993810/at-the-request-of-cdf-munir-pm-shehbaz-trump-announces-extension-in-ceasefire-until-iran-submits-proposal",
+      "published_date": "2026-04-21T22:05:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli army jails soldiers for vandalising Jesus statue in Lebanon",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1993859/israeli-army-jails-soldiers-for-vandalising-jesus-statue-in-lebanon",
+      "published_date": "2026-04-21T19:01:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "4 suspects arrested in Karachi in action against gangs involved in leaking matric exams",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1993833/4-suspects-arrested-in-karachi-in-action-against-gangs-involved-in-leaking-matric-exams",
+      "published_date": "2026-04-21T16:04:19+00:00",
+      "category": "Military"
     },
     {
       "title": "Pakistan Navy conducts successful test of locally developed air-launched cruise missile: ISPR",
@@ -172,10 +200,45 @@
       "category": "Military"
     },
     {
+      "title": "Fazl says US airbases in Gulf pose risks, urges reassessment of security arrangements",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2603987/fazl-says-us-airbases-in-gulf-pose-risks-urges-reassessment-of-security-arrangements",
+      "published_date": "2026-04-21T09:40:31+00:00",
+      "category": "Military"
+    },
+    {
       "title": "PAA extends airspace ban for Indian aircraft until May 24",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1993752/paa-extends-airspace-ban-for-indian-aircraft-until-may-24",
       "published_date": "2026-04-21T08:23:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Machida Zelvia, the ‘Brazil of Tokyo,’ edge past Shabab Al-Ahli into AFC Champions League final",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2640780/sport",
+      "published_date": "2026-04-21T08:04:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "PAA extends airspace ban on Indian aircraft until May 24",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2603970/paa-extends-airspace-ban-on-indian-aircraft-until-may-24",
+      "published_date": "2026-04-21T07:37:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Attacks by pro-Iran militias strain Iraq’s sovereignty, fray ties with Gulf Arab neighbors",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2640772/middle-east",
+      "published_date": "2026-04-21T07:04:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hezbollah fires at Israel, citing truce breaches",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2640769/middle-east",
+      "published_date": "2026-04-21T07:04:36+00:00",
       "category": "Military"
     },
     {
@@ -221,67 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "US waiver set to keep Russian oil exports to India near record high",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2640694/world",
-      "published_date": "2026-04-20T22:04:29+00:00",
-      "category": "Military"
+      "title": "Health minister says medicine stocks sufficient to meet demand for next 5 to 6 months",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1993828/health-minister-says-medicine-stocks-sufficient-to-meet-demand-for-next-5-to-6-months",
+      "published_date": "2026-04-21T15:19:36+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Apple says chief executive Tim Cook stepping down in September",
+      "title": "Azerbaijan says it is ready to supply LNG to Pakistan",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1993605/apple-says-chief-executive-tim-cook-stepping-down-in-september",
-      "published_date": "2026-04-20T21:20:15+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/1993802/azerbaijan-says-it-is-ready-to-supply-lng-to-pakistan",
+      "published_date": "2026-04-21T12:44:16+00:00",
+      "category": "Energy"
     },
     {
-      "title": "US delegation expected in Islamabad but uncertainty prevails over talks amid mixed signals from Iran",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1993458/us-delegation-expected-in-islamabad-but-uncertainty-prevails-over-talks-amid-mixed-signals-from-iran",
-      "published_date": "2026-04-20T18:41:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Over $71bn needed over next decade to rebuild Gaza: UN, EU",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1993538/over-71bn-needed-over-next-decade-to-rebuild-gaza-un-eu",
-      "published_date": "2026-04-20T18:40:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "In pictures: Islamabad on high security even as uncertainty looms over 2nd round of US-Iran talks",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1993486/in-pictures-islamabad-on-high-security-even-as-uncertainty-looms-over-2nd-round-of-us-iran-talks",
-      "published_date": "2026-04-20T11:59:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Uncertainty prevails over Islamabad talks amid mixed signals from Iran",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1993458/uncertainty-prevails-over-islamabad-talks-amid-mixed-signals-from-iran",
-      "published_date": "2026-04-20T11:28:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "PSX plunges over 1,700 points amid Middle East tensions",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1993464/psx-plunges-over-1700-points-amid-middle-east-tensions",
-      "published_date": "2026-04-20T11:12:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel condemns soldier’s desecration of crucifix in south Lebanon",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1993480/israel-condemns-soldiers-desecration-of-crucifix-in-south-lebanon",
-      "published_date": "2026-04-20T11:02:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan, Egypt conclude 2-week long counter-terrorism exercise: ISPR",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1993474/pakistan-egypt-conclude-2-week-long-counter-terrorism-exercise-ispr",
-      "published_date": "2026-04-20T10:20:05+00:00",
-      "category": "Military"
+      "title": "Azerbaijan says it is ready to supply LNG to Pakistan",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2603981/azerbaijan-says-it-is-ready-to-supply-lng-to-pakistan",
+      "published_date": "2026-04-21T08:53:36+00:00",
+      "category": "Energy"
     },
     {
       "title": "PSX extends gains over 2,400 points as oil slides on US-Iran talk optimism",
@@ -403,25 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "US renews Russian oil waiver after pressure from countries dealing with Iran war price shocks",
+      "title": "PSX gains over 900 points amid geopolitical uncertainty",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1992862/us-renews-russian-oil-waiver-after-pressure-from-countries-dealing-with-iran-war-price-shocks",
-      "published_date": "2026-04-18T09:01:36+00:00",
-      "category": "Energy"
+      "url": "https://www.dawn.com/news/1993746/psx-gains-over-900-points-amid-geopolitical-uncertainty",
+      "published_date": "2026-04-21T13:15:23+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Ukraine strikes Baltic Sea port, Volga river industrial sites",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2640338/world",
-      "published_date": "2026-04-18T07:04:11+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "UKMTO reports tanker incident near Oman",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2640331/middle-east",
-      "published_date": "2026-04-18T06:04:02+00:00",
-      "category": "Energy"
+      "title": "FIA books suspects in Rs6.6 billion fraud case",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2604008/fia-books-suspects-in-rs66bn-fraud-case",
+      "published_date": "2026-04-21T12:41:46+00:00",
+      "category": "Economy"
     },
     {
       "title": "Govt actively pursuing diversified capital markets strategy, finmin tells EU envoy",
@@ -550,18 +564,39 @@
       "category": "Economy"
     },
     {
-      "title": "Australian FM lauds Pakistan's role in facilitating US-Iran talks in call with Dar",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2603775/australian-fm-lauds-pakistans-role-in-facilitating-us-iran-talks-in-call-with-dar",
-      "published_date": "2026-04-20T05:08:42+00:00",
-      "category": "Economy"
+      "title": "Leicester relegated to third tier",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2640791/sport",
+      "published_date": "2026-04-21T22:04:29+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Asia-Pacific outlook dims as Middle East tensions fuel inflation, warns UN",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2603768/asia-pacific-outlook-dims-as-middle-east-tensions-fuel-inflation-warns-un",
-      "published_date": "2026-04-20T04:04:40+00:00",
-      "category": "Economy"
+      "title": "Nawaz highlights PML-N’s focus on development ahead of GB elections",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1993801/nawaz-highlights-pml-ns-focus-on-development-ahead-of-gb-elections",
+      "published_date": "2026-04-21T20:01:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Notification declaring local holiday in Rawalpindi on April 22 is fake: DC",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1993854/notification-declaring-local-holiday-in-rawalpindi-on-april-22-is-fake-dc",
+      "published_date": "2026-04-21T17:45:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SC to function with minimal staff on Wednesday; no judicial work to be conducted at FCC for 2nd consecutive day",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1993783/sc-to-function-with-minimal-staff-on-wednesday-no-judicial-work-to-be-conducted-at-fcc-for-2nd-consecutive-day",
+      "published_date": "2026-04-21T15:35:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Around 3.3 million jobs may have been affected by 2025 floods in Pakistan: ILO",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1993797/around-33-million-jobs-may-have-been-affected-by-2025-floods-in-pakistan-ilo",
+      "published_date": "2026-04-21T12:13:52+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Rats, fleas plague Gaza’s displaced as temperatures rise",
@@ -592,6 +627,27 @@
       "category": "Local Events"
     },
     {
+      "title": "Karachi police lodge case after young doctor shot dead near Mehran Hotel",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2603976/karachi-police-lodge-case-after-young-doctor-shot-dead-near-mehran-hotel",
+      "published_date": "2026-04-21T08:08:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Maradona’s daughter assails doctor in negligence trial over soccer great’s death",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2640774/sport",
+      "published_date": "2026-04-21T08:04:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Algeria bookshop reopens after being shut by police over signing event",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2640762/middle-east",
+      "published_date": "2026-04-21T06:04:10+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "‘More than 16,000 lives lost in over 350 disasters in 2025’",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1993640/more-than-16000-lives-lost-in-over-350-disasters-in-2025",
@@ -610,6 +666,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1993598/ji-files-contempt-plea-against-nepra-over-loadshedding-in-karachi",
       "published_date": "2026-04-21T05:33:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PM Shehbaz approves streamlining of P3A to expedite development projects",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2603965/pm-shehbaz-approves-streamlining-of-p3a-to-expedite-development-projects",
+      "published_date": "2026-04-21T05:26:52+00:00",
       "category": "Local Events"
     },
     {
@@ -638,69 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1993627/federal-constitutional-court-wont-hear-cases-today-staff-to-work-from-home",
       "published_date": "2026-04-21T03:00:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Islamabad sets stage for high-stakes talks",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2603919/islamabad-sets-stage-for-high-stakes-talks",
-      "published_date": "2026-04-20T17:16:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Work on Rohri-Karachi track to start in Sept",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2603908/work-on-rohri-karachi-track-to-start-in-sept",
-      "published_date": "2026-04-20T17:00:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Afridi eyes Lahore to revive PTI fortunes",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2603918/afridi-eyes-lahore-to-revive-pti-fortunes",
-      "published_date": "2026-04-20T17:00:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Stray bullet claims life of MQM-P MNA’s daughter in Karachi",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1993518/stray-bullet-claims-life-of-mqm-p-mnas-daughter-in-karachi",
-      "published_date": "2026-04-20T16:26:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rawalpindi declares forest fire season",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2603871/rawalpindi-declares-forest-fire-season",
-      "published_date": "2026-04-20T15:27:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sindh announces major relief for farmers",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2603851/sindh-announces-major-relief-for-farmers",
-      "published_date": "2026-04-20T14:58:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "FBI Director Kash Patel sues The Atlantic claiming false reporting about drinking, absences",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1993516/fbi-director-kash-patel-sues-the-atlantic-claiming-false-reporting-about-drinking-absences",
-      "published_date": "2026-04-20T14:52:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "4 construction workers abducted by armed men in KP’s Tirah valley",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1993508/4-construction-workers-abducted-by-armed-men-in-kps-tirah-valley",
-      "published_date": "2026-04-20T14:17:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sri Lanka’s Dasun Shanaka handed one-year PSL ban for IPL switch",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1993501/sri-lankas-dasun-shanaka-handed-one-year-psl-ban-for-ipl-switch",
-      "published_date": "2026-04-20T13:50:36+00:00",
       "category": "Local Events"
     }
   ]
