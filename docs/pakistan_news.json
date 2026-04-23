@@ -1,8 +1,36 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-04-23T12:04:06.040260+00:00",
+  "last_updated": "2026-04-23T23:35:31.184589+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "SFDA chief advances food safety regulatory integration in New Zealand",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2641061/saudi-arabia",
+      "published_date": "2026-04-24T09:04:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "PM meets Pakistanis selected for China's space mission, hopes it will 'usher in era of space research'",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1994354/pm-meets-pakistanis-selected-for-chinas-space-mission-hopes-it-will-usher-in-era-of-space-research",
+      "published_date": "2026-04-23T18:07:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "In letter to UNSC president, Dar draws attention to 'grave' consequences of Indus Waters Treaty suspension by India",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1994438/in-letter-to-unsc-president-dar-draws-attention-to-grave-consequences-of-indus-waters-treaty-suspension-by-india",
+      "published_date": "2026-04-23T17:57:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "FM Dar urges UNSC president to press India to restore Indus Waters Treaty",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2604422/fm-d-urges-unsc-president-to-press-india-to-restore-indus-waters-treaty",
+      "published_date": "2026-04-23T13:36:44+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "KSE-100 plunges below 170,000-mark as bears maintain control of PSX",
       "source": "Dawn",
@@ -22,6 +50,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1994319/naqvi-us-envoy-discuss-diplomatic-efforts-for-holding-2nd-round-of-us-iran-talks-in-islamabad",
       "published_date": "2026-04-23T08:46:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "At least 17 Somali migrants die after boat capsizes off Algeria",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2641046/middle-east",
+      "published_date": "2026-04-23T07:04:54+00:00",
       "category": "Diplomacy"
     },
     {
@@ -109,39 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Downing Street denies exerting pressure on civil servants to approve Mandelson’s appointment as envoy to US",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1993798/downing-street-denies-exerting-pressure-on-civil-servants-to-approve-mandelsons-appointment-as-envoy-to-us",
-      "published_date": "2026-04-21T18:43:28+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Encroached land reclaimed near Diplomatic Enclave",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2604066/encroached-land-reclaimed-near-diplomatic-enclave",
-      "published_date": "2026-04-21T15:49:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "7,900 people died, disappeared on migration routes in 2025: UN",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1993788/7900-people-died-disappeared-on-migration-routes-in-2025-un",
-      "published_date": "2026-04-21T11:06:09+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Chinese envoy expresses full support, lauds Pakistan's efforts for US-Iran talks in meeting with FM Dar",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2603939/ishaq-dar-egyptian-fm-discuss-regional-developments-in-call",
-      "published_date": "2026-04-21T02:16:39+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Taiwan president postpones trip to Eswatini after countries revoke overflight permits",
+      "title": "Trump rules out striking Iran with nuclear weapon",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2640697/world",
-      "published_date": "2026-04-20T22:04:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.arabnews.pk/node/2641069/middle-east",
+      "published_date": "2026-04-23T22:04:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US Navy Secretary Phelan fired by Pentagon, say sources",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1994435/us-navy-secretary-phelan-fired-by-pentagon-say-sources",
+      "published_date": "2026-04-23T17:52:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "FIA set to fast track money laundering probes",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1994423/fia-set-to-fast-track-money-laundering-probes",
+      "published_date": "2026-04-23T16:16:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan rejects Indian propaganda on Pahalgam attack, deplores 'weaponisation of false narrative'",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1994381/pakistan-rejects-indian-propaganda-on-pahalgam-attack-deplores-weaponisation-of-false-narrative",
+      "published_date": "2026-04-23T15:07:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran's economy looks set to withstand US naval blockade",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1994376/irans-economy-looks-set-to-withstand-us-naval-blockade",
+      "published_date": "2026-04-23T14:19:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "FO rubbishes India’s ‘false narrative’ linking Pakistan to Pahalgam attack",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2604397/fo-rubbishes-indias-false-narrative-linking-pakistan-to-pahalgam-attack",
+      "published_date": "2026-04-23T09:28:12+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump, his ‘low IQ’ slur, and the right’s race obsession",
@@ -155,6 +197,34 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2640968/world",
       "published_date": "2026-04-23T09:04:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Over 250 Indians claiming descent from biblical tribe land in Israel",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2641049/middle-east",
+      "published_date": "2026-04-23T08:04:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "French, UK defense chiefs eye ‘real progress’ in Hormuz plan",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2641060/world",
+      "published_date": "2026-04-23T08:04:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Is the Iran conflict sidelining the unresolved Gaza crisis?",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2641058/middle-east",
+      "published_date": "2026-04-23T08:04:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "China stealing US AI technology: White House official",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2641055/world",
+      "published_date": "2026-04-23T08:04:09+00:00",
       "category": "Military"
     },
     {
@@ -214,74 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "From patriotic slogans to drones — Iran murals project defiance in war with US",
+      "title": "Generation capacity of at least 62,000MW needed by 2035 to support economic growth",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1994095/from-patriotic-slogans-to-drones-iran-murals-project-defiance-in-war-with-us",
-      "published_date": "2026-04-22T12:24:42+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/1994362/generation-capacity-of-at-least-62000mw-needed-by-2035-to-support-economic-growth",
+      "published_date": "2026-04-23T12:24:28+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Indonesia denounces Israel ‘propaganda’ banner over Gaza hospital ruins",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1994085/indonesia-denounces-israel-propaganda-banner-over-gaza-hospital-ruins",
-      "published_date": "2026-04-22T11:54:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump extends Iran ceasefire at Pakistan’s request, will continue blockade of ports",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2640783/pakistan",
-      "published_date": "2026-04-22T09:04:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan warns of ‘decisive response’ after Indian military remarks on Pahalgam anniversary",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2640824/pakistan",
-      "published_date": "2026-04-22T08:04:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "A year on, India has failed to substantiate allegations against Pakistan over Pahalgam attack: info minister",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1994044/a-year-on-india-has-failed-to-substantiate-allegations-against-pakistan-over-pahalgam-attack-info-minister",
-      "published_date": "2026-04-22T07:55:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Australia’s online watchdog targets Roblox and Minecraft over extreme content",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1994034/australias-online-watchdog-targets-roblox-and-minecraft-over-extreme-content",
-      "published_date": "2026-04-22T05:59:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "One year on, India failed to present evidence on Pahalgam attack: Tarar",
+      "title": "Future of warfare being written in Indian Ocean: naval chief",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2604126/one-year-on-india-failed-to-present-evidence-on-pahalgam-attack-says-tarar",
-      "published_date": "2026-04-22T01:47:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "PTCL returns to profit after years",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1993955/ptcl-returns-to-profit-after-years",
-      "published_date": "2026-04-22T00:38:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘At the request of CDF Munir, PM Shehbaz’, Trump announces extension in ceasefire until Iran submits proposal",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1993810/at-the-request-of-cdf-munir-pm-shehbaz-trump-announces-extension-in-ceasefire-until-iran-submits-proposal",
-      "published_date": "2026-04-21T22:05:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli army jails soldiers for vandalising Jesus statue in Lebanon",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1993859/israeli-army-jails-soldiers-for-vandalising-jesus-statue-in-lebanon",
-      "published_date": "2026-04-21T19:01:02+00:00",
-      "category": "Military"
+      "url": "https://tribune.com.pk/story/2604410/future-of-warfare-being-written-in-indian-ocean-naval-chief",
+      "published_date": "2026-04-23T11:30:24+00:00",
+      "category": "Energy"
     },
     {
       "title": "‘My body feels like lead’: Heat is making pregnancy a nightmare in Karachi",
@@ -302,6 +316,13 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2640967/pakistan",
       "published_date": "2026-04-23T09:04:52+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Pakistan LNG seeks three spot cargoes in first tender since December 2023",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2604388/pakistan-lng-seeks-three-spot-cargoes-in-first-tender-since-december-2023",
+      "published_date": "2026-04-23T08:52:01+00:00",
       "category": "Energy"
     },
     {
@@ -403,25 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Boat building cost surges amid fuel price hike",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2604042/boat-building-cost-surges-amid-fuel-price-hike",
-      "published_date": "2026-04-21T15:14:54+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Azerbaijan says it is ready to supply LNG to Pakistan",
+      "title": "US reclassifies certain marijuana products as a less-dangerous drug",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1993802/azerbaijan-says-it-is-ready-to-supply-lng-to-pakistan",
-      "published_date": "2026-04-21T12:44:16+00:00",
-      "category": "Energy"
+      "url": "https://www.dawn.com/news/1994409/us-reclassifies-certain-marijuana-products-as-a-less-dangerous-drug",
+      "published_date": "2026-04-23T15:37:03+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Azerbaijan says it is ready to supply LNG to Pakistan",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2603981/azerbaijan-says-it-is-ready-to-supply-lng-to-pakistan",
-      "published_date": "2026-04-21T08:53:36+00:00",
-      "category": "Energy"
+      "title": "Customs increases import valuation for 62 old and used mobile phone models",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1994373/customs-increases-import-valuation-for-62-old-and-used-mobile-phone-models",
+      "published_date": "2026-04-23T13:29:14+00:00",
+      "category": "Economy"
     },
     {
       "title": "ADB deepens Pakistan engagement with $3.67bn commitments, targets fiscal reform and minerals",
@@ -449,6 +463,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1994327/ai-startup-cursor-with-pakistani-co-founder-set-for-60bn-deal-with-spacex",
       "published_date": "2026-04-23T08:43:53+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "ADB increases Pakistan engagement to $3.67b in 2025",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2604361/adb-increases-pakistan-engagement-to-367b-in-2025",
+      "published_date": "2026-04-23T06:00:15+00:00",
       "category": "Economy"
     },
     {
@@ -543,25 +564,39 @@
       "category": "Economy"
     },
     {
-      "title": "Pakistan targets 30% electric vehicles in five years, eyes $4.5 billion fuel savings",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2640847/pakistan",
-      "published_date": "2026-04-21T23:04:00+00:00",
-      "category": "Economy"
+      "title": "Pakistan, 7 other Muslim nations reject attempts to alter historic, legal status quo in Jerusalem, at its holy sites",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1994444/pakistan-7-other-muslim-nations-reject-attempts-to-alter-historic-legal-status-quo-in-jerusalem-at-its-holy-sites",
+      "published_date": "2026-04-23T18:49:59+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "IMF to vet auto policy before cabinet",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2604072/imf-to-vet-auto-policy-before-cabinet",
-      "published_date": "2026-04-21T15:56:26+00:00",
-      "category": "Economy"
+      "title": "For 2nd consecutive week, PTI leaders no-show at Adiala jail on court-mandated day for meeting with Imran",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1994414/for-2nd-consecutive-week-pti-leaders-no-show-at-adiala-jail-on-court-mandated-day-for-meeting-with-imran",
+      "published_date": "2026-04-23T15:34:40+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "FinMin expects continuous progress under GSP+",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2604074/finmin-expects-continuous-progress-under-gsp",
-      "published_date": "2026-04-21T15:56:26+00:00",
-      "category": "Economy"
+      "title": "NDMA warns of intense heatwave in several regions across country till May 5",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1994383/ndma-warns-of-intense-heatwave-in-several-regions-across-country-till-may-5",
+      "published_date": "2026-04-23T14:52:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bangladesh measles crisis deepens as child deaths reach 194",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1994372/bangladesh-measles-crisis-deepens-as-child-deaths-reach-194",
+      "published_date": "2026-04-23T12:48:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PM Shehbaz expresses displeasure at lack of functional early weather warning systems in GB",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1994366/pm-shehbaz-expresses-displeasure-at-lack-of-functional-early-weather-warning-systems-in-gb",
+      "published_date": "2026-04-23T12:20:47+00:00",
+      "category": "Local Events"
     },
     {
       "title": "3 SHOs suspended, probe ordered after 4 killed in alleged drone strike in Khairpur",
@@ -666,41 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1994215/strict-security-triggers-food-fuel-shortages-in-twin-cities",
       "published_date": "2026-04-23T02:46:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan’s pre-Hajj flight operation continues as thousands reach Madinah",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2640982/pakistan",
-      "published_date": "2026-04-22T23:04:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman and child killed in Russia’s Syzran after Ukrainian drone hits building, official says",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2640922/world",
-      "published_date": "2026-04-22T22:04:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Interpol issues red notice for Lyari gangster Wasiullah Lakho",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1994137/interpol-issues-red-notice-for-lyari-gangster-wasiullah-lakho",
-      "published_date": "2026-04-22T19:02:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "All-rounder Mohammad Nawaz under scrutiny for alleged recreational drug use",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1994087/all-rounder-mohammad-nawaz-under-scrutiny-for-alleged-recreational-drug-use",
-      "published_date": "2026-04-22T16:58:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "GB election: 664 candidates file papers",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2604290/gb-election-664-candidates-file-papers",
-      "published_date": "2026-04-22T15:35:28+00:00",
       "category": "Local Events"
     }
   ]
