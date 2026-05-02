@@ -1,8 +1,15 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-05-02T11:52:44.620491+00:00",
+  "last_updated": "2026-05-02T23:33:04.092081+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "2 Gaza aid flotilla activists brought to Israel for questioning, its foreign ministry says",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1996950/2-gaza-aid-flotilla-activists-brought-to-israel-for-questioning-its-foreign-ministry-says",
+      "published_date": "2026-05-02T15:50:25+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Dar discusses Middle East situation, its economic implications with Kuwaiti FM: FO",
       "source": "Dawn",
@@ -22,6 +29,13 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2642057/world",
       "published_date": "2026-05-02T08:05:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan rejects UK envoy’s 'one-sided' remarks on cross-border attacks by Afghan Taliban",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2605990/pakistan-rejects-uk-envoys-one-sided-remarks-on-cross-border-attacks-by-afghan-taliban",
+      "published_date": "2026-05-02T05:59:00+00:00",
       "category": "Diplomacy"
     },
     {
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ukraine, Israel trade barbs over ‘stolen’ grain",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1995878/ukraine-israel-trade-barbs-over-stolen-grain",
-      "published_date": "2026-04-29T02:38:40+00:00",
-      "category": "Diplomacy"
+      "title": "Syria state TV reports Jordanian strikes on drug, weapons storage in south",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2642125/middle-east",
+      "published_date": "2026-05-03T09:05:41+00:00",
+      "category": "Military"
     },
     {
-      "title": "Lebanon detains ex-Palestinian envoy at Beirut airport on corruption charges",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2641704/middle-east",
-      "published_date": "2026-04-28T22:04:38+00:00",
-      "category": "Diplomacy"
+      "title": "Nato seeks details as US says it will pull about 5,000 troops from Germany",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1996900/nato-seeks-details-as-us-says-it-will-pull-about-5000-troops-from-germany",
+      "published_date": "2026-05-02T12:56:43+00:00",
+      "category": "Military"
     },
     {
       "title": "Pakistan slams 'one-sided' remarks by British diplomat on Pak-Afghan border situation",
@@ -179,6 +193,13 @@
       "category": "Military"
     },
     {
+      "title": "How Syria is dismantling IRGC networks, deepening Gulf Arab ties",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2642115/middle-east",
+      "published_date": "2026-05-02T07:05:37+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Nobel laureate Mohammadi in Iran hospital after ‘cardiac crisis’, foundation says",
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2642052/middle-east",
@@ -190,6 +211,20 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1996908/iran-standoff-could-leave-trump-worse-off-than-before-he-went-to-war",
       "published_date": "2026-05-02T07:01:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "4,000 EgyptAir Hajj flights canceled in crisis-struck Mali",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2642105/world",
+      "published_date": "2026-05-02T06:05:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel army says troops damaged ‘religious building’ in Lebanon",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2642098/middle-east",
+      "published_date": "2026-05-02T06:05:38+00:00",
       "category": "Military"
     },
     {
@@ -249,45 +284,24 @@
       "category": "Military"
     },
     {
-      "title": "Pentagon reaches agreements with top AI companies, but not Anthropic",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1996692/pentagon-reaches-agreements-with-top-ai-companies-but-not-anthropic",
-      "published_date": "2026-05-01T14:39:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "FCC moved against increase in petrol, diesel prices",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1996676/fcc-moved-against-increase-in-petrol-diesel-prices",
-      "published_date": "2026-05-01T13:07:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "3 injured in terrorist drone attack on cricket ground in K-P's Bajaur",
+      "title": "PM Shehbaz orders formulation of strategy to stabilise electricity tariffs",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2605869/3-injured-in-terrorist-drone-attack-on-cricket-ground-in-k-ps-bajaur",
-      "published_date": "2026-05-01T11:51:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump likely among 287 candidates for Nobel Peace Prize",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1996525/trump-likely-among-287-candidates-for-nobel-peace-prize",
-      "published_date": "2026-05-01T08:53:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syria relies on Russia’s oil despite pivot to the West",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2641960/middle-east",
-      "published_date": "2026-05-01T08:05:48+00:00",
-      "category": "Military"
+      "url": "https://tribune.com.pk/story/2606008/pm-shehbaz-orders-formulation-of-strategy-to-stabilise-electricity-tariffs",
+      "published_date": "2026-05-02T10:30:05+00:00",
+      "category": "Energy"
     },
     {
       "title": "Spirit Airlines says it’s going out of business after 34 years and is ending operations immediately",
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2642053/world",
       "published_date": "2026-05-02T07:05:49+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Could a revived Trans-Arabian Pipeline map a new future?",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2642121/business-economy",
+      "published_date": "2026-05-02T07:05:04+00:00",
       "category": "Energy"
     },
     {
@@ -410,18 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "How the Strait of Hormuz crisis is disrupting global sugar supplies",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2641786/middle-east",
-      "published_date": "2026-04-29T08:04:21+00:00",
-      "category": "Energy"
+      "title": "PM Shehbaz orders formulation of strategy to stabilise electricity tariffs",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1996962/pm-shehbaz-orders-formulation-of-strategy-to-stabilise-electricity-tariffs",
+      "published_date": "2026-05-02T14:21:10+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Why has the UAE left Opec and what impact will its departure have?",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1996013/why-has-the-uae-left-opec-and-what-impact-will-its-departure-have",
-      "published_date": "2026-04-29T08:02:13+00:00",
-      "category": "Energy"
+      "title": "Backed by Saudi inflows, Pakistan rupee strengthens against dollar during Iran war",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2642097/pakistan",
+      "published_date": "2026-05-02T05:05:24+00:00",
+      "category": "Economy"
     },
     {
       "title": "Inflation hits double digits for first time in 21 months",
@@ -550,18 +564,60 @@
       "category": "Economy"
     },
     {
-      "title": "SBP reserves jump $730m on Eurobond",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2605771/sbp-reserves-jump-730m-on-eurobond",
-      "published_date": "2026-04-30T15:39:48+00:00",
-      "category": "Economy"
+      "title": "Austria arrests man suspected of lacing jars of baby food with rat poison",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1996983/austria-arrests-man-suspected-of-lacing-jars-of-baby-food-with-rat-poison",
+      "published_date": "2026-05-02T17:28:54+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "War can cost Pakistan $10b to $68b",
+      "title": "Interior minister briefs PM Shehbaz on security situation in country",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1996979/interior-minister-briefs-pm-shehbaz-on-security-situation-in-country",
+      "published_date": "2026-05-02T16:46:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "CM Murad urges public to take precautionary measures amid heatwave alert for Sindh's central, upper regions",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1996972/cm-murad-urges-public-to-take-precautionary-measures-amid-heatwave-alert-for-sindhs-central-upper-regions",
+      "published_date": "2026-05-02T15:32:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Karachi court grants bail to SSP's son arrested following heated exchange with police in DHA",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1996951/karachi-court-grants-bail-to-ssps-son-arrested-following-heated-exchange-with-police-in-dha",
+      "published_date": "2026-05-02T15:06:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Shooting at dinner attended by Trump spotlights US hotel industry's nagging and costly security problem",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1996968/shooting-at-dinner-attended-by-trump-spotlights-us-hotel-industrys-nagging-and-costly-security-problem",
+      "published_date": "2026-05-02T14:45:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jirga convened by KP CM decides on holding talks with Centre, other stakeholders over drone attacks",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1996959/jirga-convened-by-kp-cm-decides-on-holding-talks-with-centre-other-stakeholders-over-drone-attacks",
+      "published_date": "2026-05-02T13:49:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi Arabia reverses decision setting minimum age for Haj pilgrims at 15 years",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1996941/saudi-arabia-reverses-decision-setting-minimum-age-for-haj-pilgrims-at-15-years",
+      "published_date": "2026-05-02T12:43:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hotel owner, staff booked for assaulting food delivery rider in Karachi",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2605775/war-can-cost-pakistan-10b-to-68b",
-      "published_date": "2026-04-30T15:39:48+00:00",
-      "category": "Economy"
+      "url": "https://tribune.com.pk/story/2606016/hotel-owner-staff-booked-for-assaulting-food-delivery-rider-in-karachi",
+      "published_date": "2026-05-02T11:19:42+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Saudi Arabia sets minimum age for Haj pilgrims at 15 years",
@@ -582,6 +638,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1996935/police-in-punjabs-hafizabad-arrest-man-for-alleged-rape-kidnapping-of-teenage-girl",
       "published_date": "2026-05-02T09:42:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PTI and allies plan nationwide rallies demanding Imran’s release, constitutional protection",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2606004/pti-and-allies-plan-nationwide-rallies-demanding-imrans-release-constitutional-protection",
+      "published_date": "2026-05-02T09:41:09+00:00",
       "category": "Local Events"
     },
     {
@@ -606,10 +669,24 @@
       "category": "Local Events"
     },
     {
+      "title": "Karachi snap-check row takes new turn as SSP’s son released on bail; inquiry ordered",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2605999/karachi-snap-check-row-takes-new-turn-as-ssps-son-released-on-bail-inquiry-ordered",
+      "published_date": "2026-05-02T08:32:15+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "PMD issues Glof alert due to westerly wave, rainfall across GB and KP",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1996916/pmd-issues-glof-alert-due-to-westerly-wave-rainfall-across-gb-and-kp",
       "published_date": "2026-05-02T07:38:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arsenal blow away Fulham to turn up heat on Man City, West Ham suffer blow",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2642113/sport",
+      "published_date": "2026-05-02T07:05:58+00:00",
       "category": "Local Events"
     },
     {
@@ -620,87 +697,10 @@
       "category": "Local Events"
     },
     {
-      "title": "Islamabad United blink in last over as Hyderabad Kingsmen win cliffhanger to make PSL decider",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1996874/islamabad-united-blink-in-last-over-as-hyderabad-kingsmen-win-cliffhanger-to-make-psl-decider",
-      "published_date": "2026-05-02T05:13:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK PM says some pro-Palestinian marches could be banned",
+      "title": "Pakistan PM orders comprehensive arrangements for PSL final in Lahore",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2642050/world",
-      "published_date": "2026-05-02T05:05:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Crisis in Sindh health department as 75pc of top-level technical posts lying vacant",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1996782/crisis-in-sindh-health-department-as-75pc-of-top-level-technical-posts-lying-vacant",
-      "published_date": "2026-05-02T03:52:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Capital Deve­lopment Authority halts land retrieval drive amid PM’s skyscraper relief",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1996830/capital-development-authority-halts-land-retrieval-drive-amid-pms-skyscraper-relief",
-      "published_date": "2026-05-02T03:45:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan Medical Association warns of ‘man-made epidemic’ over syringe reuse",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1996833/pakistan-medical-association-warns-of-man-made-epidemic-over-syringe-reuse",
-      "published_date": "2026-05-02T02:46:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PMD issues heatwave alert for Karachi as temperatures may soar to 41°C",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2605968/pmd-issues-heatwave-alert-for-karachi-as-temperatures-may-soar-to-410c",
-      "published_date": "2026-05-02T02:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "40pc children in seven cities have lead in their blood, study finds",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1996831/40pc-children-in-seven-cities-have-lead-in-their-blood-study-finds",
-      "published_date": "2026-05-02T00:58:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sweet Dreams: Seoul holds ‘Power Nap Contest’ in sleep-deprived South Korea",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2642066/offbeat",
-      "published_date": "2026-05-01T22:05:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Upper, central parts of country expected to see dust storms, rain from May 2-5; extreme heat grips Sindh cities",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1996726/upper-central-parts-of-country-expected-to-see-dust-storms-rain-from-may-2-5-extreme-heat-grips-sindh-cities",
-      "published_date": "2026-05-01T18:38:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KP CM Afridi warns of protests against drone attacks",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1996713/kp-cm-afridi-warns-of-protests-against-drone-attacks",
-      "published_date": "2026-05-01T17:14:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan, Türkiye reaffirm strategic ties",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2605947/pakistan-turkiye-reaffirm-strategic-ties",
-      "published_date": "2026-05-01T16:34:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Punjab govt announces new kite-flying rules for next year's Basant celebrations",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1996671/punjab-govt-announces-new-kite-flying-rules-for-next-years-basant-celebrations",
-      "published_date": "2026-05-01T15:26:15+00:00",
+      "url": "https://www.arabnews.pk/node/2642101/pakistan",
+      "published_date": "2026-05-02T06:05:00+00:00",
       "category": "Local Events"
     }
   ]
