@@ -1,8 +1,15 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-05-04T12:23:25.463261+00:00",
+  "last_updated": "2026-05-04T23:42:37.421669+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Iranian sailors evacuated to Pakistan return home, state media confirms",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1997392/iranian-sailors-evacuated-to-pakistan-return-home-state-media-confirms",
+      "published_date": "2026-05-04T17:23:29+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "FO says 22 crew members on Iranian ship seized by US have been evacuated to Pakistan",
       "source": "Dawn",
@@ -18,10 +25,24 @@
       "category": "Diplomacy"
     },
     {
+      "title": "French former foreign minister returns gifted statues",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2642331/world",
+      "published_date": "2026-05-04T08:05:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Dar and Iran's Araghchi discuss regional situation, Pakistan's ongoing diplomatic efforts",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1997400/dar-and-irans-araghchi-discuss-regional-situation-pakistans-ongoing-diplomatic-efforts",
       "published_date": "2026-05-04T05:25:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iranian crew members from seized MV Touska return home, state media says",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2606280/pakistan-facilitates-transfer-of-22-iranian-crew-members-from-seized-ship-mv-touska-fo",
+      "published_date": "2026-05-04T01:55:34+00:00",
       "category": "Diplomacy"
     },
     {
@@ -123,25 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pakistan backs extension of South Sudan peacekeeping mission, warns on troop cuts",
+      "title": "Gulf in Crossfire: CAABU and Arab News discuss Iran war at London talk",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2641955/pakistan",
-      "published_date": "2026-05-01T06:05:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.arabnews.pk/node/2642349/middle-east",
+      "published_date": "2026-05-04T22:05:49+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN should revisit Lebanon peacekeeping mission decision, China envoy says",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2642003/middle-east",
-      "published_date": "2026-05-01T05:05:06+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "'Clock on diplomacy has not stopped': FO says Pakistan remains actively engaged with Iran, US to resolve conflict",
+      "title": "Ukraine and Russia declare separate truces",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1996386/clock-on-diplomacy-has-not-stopped-fo-says-pakistan-remains-actively-engaged-with-iran-us-to-resolve-conflict",
-      "published_date": "2026-04-30T16:26:31+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/1997531/ukraine-and-russia-declare-separate-truces",
+      "published_date": "2026-05-04T20:23:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Six Indian nationals among sailors rescued by navy, maritime security agency in Arabian Sea: security sources",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1997526/six-indian-nationals-among-sailors-rescued-by-navy-maritime-security-agency-in-arabian-sea-security-sources",
+      "published_date": "2026-05-04T18:58:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Support among American Jews for US-led war on Iran declines: survey",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1997519/support-among-american-jews-for-us-led-war-on-iran-declines-survey",
+      "published_date": "2026-05-04T18:51:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Fujairah oil zone hit by drone attack as UAE says it intercepted Iranian missiles",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1997510/fujairah-oil-zone-hit-by-drone-attack-as-uae-says-it-intercepted-iranian-missiles",
+      "published_date": "2026-05-04T17:05:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Italy probes detention by Israel of Gaza flotilla activists aboard Italian-flagged vessel",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1997460/italy-probes-detention-by-israel-of-gaza-flotilla-activists-aboard-italian-flagged-vessel",
+      "published_date": "2026-05-04T12:33:36+00:00",
+      "category": "Military"
     },
     {
       "title": "Opinion: 'How Pakistan became the ultimate peacemaker between the US and Iran'",
@@ -169,6 +211,13 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2642268/world",
       "published_date": "2026-05-04T09:05:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Italy, Azerbaijan to deepen energy, defense ties: Meloni",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2642334/world",
+      "published_date": "2026-05-04T08:05:46+00:00",
       "category": "Military"
     },
     {
@@ -235,53 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Pakistan foiled 246 drone attacks in northwestern province this year— report",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2642163/pakistan",
-      "published_date": "2026-05-03T09:05:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US Secretary of State Rubio to visit Vatican, Rome after Trump's row with Pope",
+      "title": "Mysterious world beyond Pluto may have an atmosphere: astronomers",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1997196/us-secretary-of-state-rubio-to-visit-vatican-rome-after-trumps-row-with-pope",
-      "published_date": "2026-05-03T08:41:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel approves plan to buy F-35 and F-15I aircraft from US",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2642153/world",
-      "published_date": "2026-05-03T08:05:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rubio to visit Rome, meet Pope Leo after Trump row",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2642217/world",
-      "published_date": "2026-05-03T08:05:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany’s Merz says not ‘giving up on working with Donald Trump’",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2642214/world",
-      "published_date": "2026-05-03T07:05:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "SMOKERS’ CORNER: LOSING THE PLOT",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1997140/smokers-corner-losing-the-plot",
-      "published_date": "2026-05-03T05:34:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Capital police chief dissatisfied with security arrangements at worship places",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1997065/capital-police-chief-dissatisfied-with-security-arrangements-at-worship-places",
-      "published_date": "2026-05-03T05:10:43+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/1997497/mysterious-world-beyond-pluto-may-have-an-atmosphere-astronomers",
+      "published_date": "2026-05-04T15:28:18+00:00",
+      "category": "Energy"
     },
     {
       "title": "'Only part of the solution': Are Electric Vehicles truly sustainable?",
@@ -295,6 +302,20 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2642267/world",
       "published_date": "2026-05-04T09:05:42+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Pakistanis among hijacked oil tanker crew face food, water shortages — rights group",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2642314/pakistan",
+      "published_date": "2026-05-04T07:05:08+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Oil prices jump as Iran attacks UAE, US warships enter Hormuz",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2642307/world",
+      "published_date": "2026-05-04T04:05:34+00:00",
       "category": "Energy"
     },
     {
@@ -403,25 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "While Asia and Europe scramble for natural gas, the US glut has nowhere to go",
+      "title": "Pakistan has sufficient POL reserves till third week of June, says petroleum ministry",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1996684/while-asia-and-europe-scramble-for-natural-gas-the-us-glut-has-nowhere-to-go",
-      "published_date": "2026-05-01T13:40:28+00:00",
-      "category": "Energy"
+      "url": "https://www.dawn.com/news/1997502/pakistan-has-sufficient-pol-reserves-till-third-week-of-june-says-petroleum-ministry",
+      "published_date": "2026-05-04T17:35:31+00:00",
+      "category": "Economy"
     },
     {
-      "title": "India raises cooking gas, jet fuel prices as supply pressures mount",
+      "title": "PTI accuses govt of ‘unprecedented economic crisis’, slams claims of stability",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1996683/india-raises-cooking-gas-jet-fuel-prices-as-supply-pressures-mount",
-      "published_date": "2026-05-01T13:37:12+00:00",
-      "category": "Energy"
+      "url": "https://www.dawn.com/news/1997494/pti-accuses-govt-of-unprecedented-economic-crisis-slams-claims-of-stability",
+      "published_date": "2026-05-04T16:04:43+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Power minister declares end to month-long loadshedding following arrival of LNG shipment",
+      "title": "Pakistani delegation attends US investment summit to expand global footprint",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1996657/power-minister-declares-end-to-month-long-loadshedding-following-arrival-of-lng-shipment",
-      "published_date": "2026-05-01T11:16:08+00:00",
-      "category": "Energy"
+      "url": "https://www.dawn.com/news/1997484/pakistani-delegation-attends-us-investment-summit-to-expand-global-footprint",
+      "published_date": "2026-05-04T14:04:02+00:00",
+      "category": "Economy"
     },
     {
       "title": "Bulls help PSX rebound by 900 points",
@@ -543,25 +564,74 @@
       "category": "Economy"
     },
     {
-      "title": "Backed by Saudi inflows, Pakistan rupee strengthens against dollar during Iran war",
+      "title": "Man City’s last-gasp draw at Everton hands Premier League momentum to Arsenal",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2642097/pakistan",
-      "published_date": "2026-05-02T05:05:24+00:00",
-      "category": "Economy"
+      "url": "https://www.arabnews.pk/node/2642350/sport",
+      "published_date": "2026-05-04T23:05:22+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Inflation hits double digits for first time in 21 months",
+      "title": "NAB recovers 80 acres of govt land illegally allotted to Bahria Town",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1996853/inflation-hits-double-digits-for-first-time-in-21-months",
-      "published_date": "2026-05-02T03:19:34+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/1997514/nab-recovers-80-acres-of-govt-land-illegally-allotted-to-bahria-town",
+      "published_date": "2026-05-04T18:52:56+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Steps on to execute refinery policy",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2605919/steps-on-to-execute-refinery-policy",
-      "published_date": "2026-05-01T16:00:53+00:00",
-      "category": "Economy"
+      "title": "LHC suspends defamation case verdict against Meesha Shafi to the extent of payment of damages",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1997442/lhc-suspends-defamation-case-verdict-against-meesha-shafi-to-the-extent-of-payment-of-damages",
+      "published_date": "2026-05-04T18:14:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Suicide attack foiled on army check post in South Waziristan; civilian martyred, 15 injured",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1997513/suicide-attack-foiled-on-army-check-post-in-south-waziristan-civilian-martyred-15-injured",
+      "published_date": "2026-05-04T17:59:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India's Modi celebrates 'record' win in opposition-held West Bengal",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1997401/indias-modi-celebrates-record-win-in-opposition-held-west-bengal",
+      "published_date": "2026-05-04T15:22:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UNFPA committed to supporting midwifery education, workforce development in Pakistan",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1997487/pak-midwives",
+      "published_date": "2026-05-04T14:58:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Security lapses at Parliament Lodges a 'serious threat', says Senate deputy chairman",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1997482/security-lapses-at-parliament-lodges-a-serious-threat-says-senate-deputy-chairman",
+      "published_date": "2026-05-04T14:43:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PSL 11’s highest scorer Babar Azam named captain of the edition’s Team of the Year",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1997473/psl-11s-highest-scorer-babar-azam-named-captain-of-the-editions-team-of-the-year",
+      "published_date": "2026-05-04T14:09:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "IHC rules buyers of apartments at One Constitution Avenue have no ownership rights",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1997452/ihc-rules-buyers-of-apartments-at-one-constitution-avenue-have-no-ownership-rights",
+      "published_date": "2026-05-04T12:57:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "HRCP highlights severe contraction of civic space, erosion of judicial independence in 2025",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1997461/hrcp-highlights-severe-contraction-of-civic-space-erosion-of-judicial-independence-in-2025",
+      "published_date": "2026-05-04T12:51:12+00:00",
+      "category": "Local Events"
     },
     {
       "title": "IHC rules buyers of luxury apartments at One Constitution Avenue have no ownership rights",
@@ -613,94 +683,24 @@
       "category": "Local Events"
     },
     {
+      "title": "Pakistan’s Gwadar receives first transshipment vessel of May amid Hormuz disruptions",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2642310/pakistan",
+      "published_date": "2026-05-04T04:05:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Driver arrested in Germany after reports car runs into crowd in Leipzig",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2642309/world",
+      "published_date": "2026-05-04T04:05:17+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Jemima ‘plans  to remarry’",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1997348/jemima-plans-to-remarry",
       "published_date": "2026-05-04T02:15:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AJK PM grants land ownership to 1,000 families displaced by LoC shelling",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1997314/ajk-pm-grants-land-ownership-to-1000-families-displaced-by-loc-shelling",
-      "published_date": "2026-05-04T01:33:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IHC sets May 7 hearing for Imran Khan, Bushra Bibi appeals in £190m case",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2606273/ihc-sets-may-7-hearing-for-imran-khan-bushra-bibi-appeals-in-190m-case",
-      "published_date": "2026-05-04T00:32:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sweden jails Syrian man for life over 2012-2013 war crimes",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2642279/middle-east",
-      "published_date": "2026-05-03T23:05:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan warns rising temperatures could accelerate glacier melt, trigger floods",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2642275/pakistan",
-      "published_date": "2026-05-03T22:05:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four migrants found dead near Croatia-Slovenia border",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2642273/world",
-      "published_date": "2026-05-03T22:05:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iraqi court sentences 4 to prison for promoting banned Baath Party",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2642269/middle-east",
-      "published_date": "2026-05-03T22:05:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vinícius scores twice as Real Madrid’s victory keeps Barcelona waiting for Spanish league title",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2642223/sport",
-      "published_date": "2026-05-03T22:05:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Peshawar Zalmi beat Hyderabad Kingsmen by 5 wickets, lift PSL trophy a second time",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1997223/peshawar-zalmi-beat-hyderabad-kingsmen-by-5-wickets-lift-psl-trophy-a-second-time",
-      "published_date": "2026-05-03T20:03:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2 men, including social activist, killed in separate attacks in KP's Bajaur",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1997227/2-men-including-social-activist-killed-in-separate-attacks-in-kps-bajaur",
-      "published_date": "2026-05-03T19:31:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In pictures: Glimpses of the star-studded HBL PSL 11 closing ceremony in Lahore",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1997239/in-pictures-glimpses-of-the-star-studded-hbl-psl-11-closing-ceremony-in-lahore",
-      "published_date": "2026-05-03T19:24:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "With a week left for Aurat March in Karachi, organisers say NOC yet to be issued",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1997240/with-a-week-left-for-aurat-march-in-karachi-organisers-say-noc-yet-to-be-issued",
-      "published_date": "2026-05-03T18:27:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel court extends detention of two Gaza flotilla activists; lawyers say pair subjected to 'severe physical abuse'",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1997237/israel-court-extends-detention-of-two-gaza-flotilla-activists-lawyers-say-pair-subjected-to-severe-physical-abuse",
-      "published_date": "2026-05-03T16:50:05+00:00",
       "category": "Local Events"
     }
   ]
