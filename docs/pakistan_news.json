@@ -1,13 +1,27 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-05-09T11:55:47.813980+00:00",
+  "last_updated": "2026-05-09T23:36:21.197504+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Pakistan expands US lobbying push with focus on defence, critical minerals and policy influence",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1998958/pakistan-expands-us-lobbying-push-with-focus-on-defence-critical-minerals-and-policy-influence",
+      "published_date": "2026-05-09T18:46:22+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "At UN, Pakistan raises alarm at Israel's systematic annexation of occupied West Bank",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1998904/at-un-pakistan-raises-alarm-at-israels-systematic-annexation-of-occupied-west-bank",
       "published_date": "2026-05-09T08:03:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Starmer, aiming for leadership reset, names Brown as adviser",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2642965/world",
+      "published_date": "2026-05-09T07:05:32+00:00",
       "category": "Diplomacy"
     },
     {
@@ -130,18 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pakistan pushes for permanent peace in US-Iran conflict: PM",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2606636/pakistan-pushes-for-permanent-peace-in-us-iran-conflict-pm",
-      "published_date": "2026-05-06T05:33:04+00:00",
-      "category": "Diplomacy"
+      "title": "How conflict is driving measles outbreaks in the Middle East and North Africa",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2642979/middle-east",
+      "published_date": "2026-05-10T09:05:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "FM Dar reaffirms commitment to advancing Pak-China iron-clad partnership",
+      "title": "Jeddah airport welcomes first batch of Syrian Hajj pilgrims",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2642983/saudi-arabia",
+      "published_date": "2026-05-09T23:05:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Police foil suicide attack on Bannu post; at least 2 personnel martyred",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1998957/police-foil-suicide-attack-on-bannu-post-at-least-2-personnel-martyred",
+      "published_date": "2026-05-09T19:25:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Marka-i-Haq a 'defining landmark in the nation’s journey': ISPR",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1998954/marka-i-haq-a-defining-landmark-in-the-nations-journey-ispr",
+      "published_date": "2026-05-09T17:23:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Etched in history': PM Shehbaz says Pakistan cannot be 'intimidated or subdued' as nation marks Marka-i-Haq anniversary",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1998951/etched-in-history-pm-shehbaz-says-pakistan-cannot-be-intimidated-or-subdued-as-nation-marks-marka-i-haq-anniversary",
+      "published_date": "2026-05-09T17:07:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "A look at the new capabilities Pakistan employed against India during Marka-i-Haq",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1997496/a-look-at-the-new-capabilities-pakistan-employed-against-india-during-marka-i-haq",
+      "published_date": "2026-05-09T15:10:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "GHQ to host ceremony marking one year since Marka-i-Haq victory on Sunday",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1998901/ghq-to-host-ceremony-marking-one-year-since-marka-i-haq-victory-on-sunday",
+      "published_date": "2026-05-09T14:06:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel to release Gaza flotilla activists today ahead of deportation: rights group",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1998934/israel-to-release-gaza-flotilla-activists-today-ahead-of-deportation-rights-group",
+      "published_date": "2026-05-09T12:33:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Civil, military leadership assert full-spectrum response to any aggression on Marka-e-Haq's 1st anniversary",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2606504/fm-dar-reaffirms-commitment-to-advancing-pak-china-iron-clad-partnership",
-      "published_date": "2026-05-05T12:26:09+00:00",
-      "category": "Diplomacy"
+      "url": "https://tribune.com.pk/story/2607211/civil-military-leadership-assert-full-spectrum-response-on-marka-e-haqs-1st-anniversary",
+      "published_date": "2026-05-09T12:05:04+00:00",
+      "category": "Military"
     },
     {
       "title": "'No home left' for Gazans stranded in West Bank",
@@ -218,69 +281,6 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2642908/sport",
       "published_date": "2026-05-08T22:05:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Security forces kill five terrorists in Tank, DI Khan in IBOs: ISPR",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1998739/security-forces-kill-five-terrorists-in-tank-di-khan-in-ibos-ispr",
-      "published_date": "2026-05-08T18:59:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "IMF approves $1.2b lifeline with new strings attached",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2607155/imf-approves-12b-lifeline-with-new-strings-attached",
-      "published_date": "2026-05-08T16:56:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Court fight with Pentagon raises Senator Mark Kelly’s White House profile",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1998718/court-fight-with-pentagon-raises-senator-mark-kellys-white-house-profile",
-      "published_date": "2026-05-08T16:06:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Weekly inflation surges 15.16% YoY",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2607098/weekly-inflation-surges-1516-yoy",
-      "published_date": "2026-05-08T15:16:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Investors book gains amid US-Iran tensions",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2607099/investors-book-gains-amid-us-iran-tensions",
-      "published_date": "2026-05-08T15:16:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pentagon releases previously secret files on UFOs",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1998710/pentagon-releases-previously-secret-files-on-ufos",
-      "published_date": "2026-05-08T14:55:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "High-profile terrorist killed in Bannu was Afghan special forces member: security sources",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1998701/high-profile-terrorist-killed-in-bannu-was-afghan-special-forces-member-security-sources",
-      "published_date": "2026-05-08T14:12:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Security forces kill 5 terrorists in Tank, Dera Ismail Khan IBOs: ISPR",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2607058/security-forces-kill-5-terrorists-in-tank-dera-ismail-khan-ibos-ispr",
-      "published_date": "2026-05-08T13:17:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "WHO says hantavirus risk low after flight attendant tests negative",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1998687/who-says-hantavirus-risk-low-after-flight-attendant-tests-negative",
-      "published_date": "2026-05-08T12:22:31+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Finmin says economic recovery remains intact amid regional conflict, assures uninterrupted fuel supply",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1998966/finmin-says-economic-recovery-remains-intact-amid-regional-conflict-assures-uninterrupted-fuel-supply",
+      "published_date": "2026-05-09T19:13:26+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "IMF's Executive Board approves $1.3bn financing for Pakistan's reform programme, flags heightened risks from Middle East war",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1998725/imfs-executive-board-approves-13bn-financing-for-pakistans-reform-programme-flags-heightened-risks-from-middle-east-war",
@@ -557,11 +564,32 @@
       "category": "Economy"
     },
     {
-      "title": "'Illicit cigarettes cost Rs350b a year'",
+      "title": "PTI demands judicial commission to identify, punish culprits behind May 9 riots",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1998950/pti-demands-judicial-commission-to-identify-punish-culprits-behind-may-9-riots",
+      "published_date": "2026-05-09T17:05:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "European states to send planes to evacuate citizens from hantavirus-hit cruise ship",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1998907/european-states-to-send-planes-to-evacuate-citizens-from-hantavirus-hit-cruise-ship",
+      "published_date": "2026-05-09T12:57:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PTI reiterates demand for SC-led judicial commission on May 9 events",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2606910/illicit-cigarettes-cost-rs350b-a-year",
-      "published_date": "2026-05-07T16:04:38+00:00",
-      "category": "Economy"
+      "url": "https://tribune.com.pk/story/2607214/pti-demands-sc-led-judicial-commission-on-may-9-events",
+      "published_date": "2026-05-09T12:55:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Drug supplier, extortionist arrested in separate police operations in Karachi",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1998927/drug-supplier-extortionist-arrested-in-separate-police-operations-in-karachi",
+      "published_date": "2026-05-09T12:00:57+00:00",
+      "category": "Local Events"
     },
     {
       "title": "WHO chief arrives in Spain before hantavirus-hit ship evacuation",
@@ -599,10 +627,31 @@
       "category": "Local Events"
     },
     {
+      "title": "Militia kill at least 69 in NE DR Congo: local, security sources",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2642971/world",
+      "published_date": "2026-05-09T08:05:15+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "UK’s Starmer vows to ‘listen to voters’ after election drubbing",
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2642901/world",
       "published_date": "2026-05-09T08:05:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Liverpool frustrated by Chelsea draw, Man Utd held at Sunderland",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2642970/sport",
+      "published_date": "2026-05-09T07:05:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Karachi district administration issues 28-condition NOC for Aurat March's Sunday gathering at Sea View",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2607178/karachi-district-administration-issues-28-condition-noc-for-aurat-march",
+      "published_date": "2026-05-09T05:13:55+00:00",
       "category": "Local Events"
     },
     {
@@ -652,55 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1998732/quadcopter-attack-in-kps-bannu-injures-8-including-women",
       "published_date": "2026-05-08T18:41:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US religious freedom commission calls for India to be listed as ‘country of particular concern’",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1998729/us-religious-freedom-commission-calls-for-india-to-be-listed-as-country-of-particular-concern",
-      "published_date": "2026-05-08T18:27:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "LHC allows women to become lumberdars",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2607157/lhc-allows-women-to-become-lumberdars",
-      "published_date": "2026-05-08T16:56:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bar leaders demand abolition of FCC",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2607146/bar-leaders-demand-abolition-of-fcc",
-      "published_date": "2026-05-08T16:28:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Violence against women rattles MPs",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2607137/violence-against-women-rattles-mps",
-      "published_date": "2026-05-08T16:28:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Senators alarmed by ‘surge’ in violence against women; 5pc conviction rate termed ‘systemic failure’",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1998714/senators-alarmed-by-surge-in-violence-against-women-5pc-conviction-rate-termed-systemic-failure",
-      "published_date": "2026-05-08T15:32:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "JUI-F holds second round of protests over killing of Maulana Idrees",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1998691/jui-f-holds-second-round-of-protests-over-killing-of-maulana-idrees",
-      "published_date": "2026-05-08T12:56:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Islamabad airport flights may be delayed over weekend from 8-9:15pm",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1998671/islamabad-airport-flights-may-be-delayed-over-weekend-from-8-915pm",
-      "published_date": "2026-05-08T11:45:42+00:00",
       "category": "Local Events"
     }
   ]
