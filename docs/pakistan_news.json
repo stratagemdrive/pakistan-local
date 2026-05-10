@@ -1,8 +1,15 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-05-10T11:57:56.003078+00:00",
+  "last_updated": "2026-05-10T23:40:26.766985+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "There are 'vast opportunities for investment' in Pakistan, Naqvi tells Bangladeshi state minister",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1999171/there-are-vast-opportunities-for-investment-in-pakistan-naqvi-tells-bangladeshi-state-minister",
+      "published_date": "2026-05-10T20:56:51+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pakistan, Qatar reaffirm shared commitment to support 'constructive dialogue across region'",
       "source": "Dawn",
@@ -137,11 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Spain summons Israeli envoy over ‘intolerable’ activist arrest",
+      "title": "UK, France to host defense ministers meeting on Hormuz",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2642688/world",
-      "published_date": "2026-05-07T00:05:49+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.arabnews.pk/node/2643079/middle-east",
+      "published_date": "2026-05-10T22:05:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trapped seafarers traumatized by Gulf fighting: charities",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2643080/middle-east",
+      "published_date": "2026-05-10T22:05:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Tehran sends response to US peace proposal via Pakistan",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1999181/tehran-sends-response-to-us-peace-proposal-via-pakistan",
+      "published_date": "2026-05-10T20:55:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "On Marka-i-Haq's first anniversary, PM Shehbaz commemorates Pakistan's 'historic response' to India",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1999191/on-marka-i-haqs-first-anniversary-pm-shehbaz-commemorates-pakistans-historic-response-to-india",
+      "published_date": "2026-05-10T20:52:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Evacuation flights leave Tenerife after cruise ship hantavirus outbreak",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1999146/evacuation-flights-leave-tenerife-after-cruise-ship-hantavirus-outbreak",
+      "published_date": "2026-05-10T18:27:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Explosive-laden rickshaw used in Bannu suicide attack",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2607361/explosive-laden-rickshaw-used-in-bannu-suicide-attack",
+      "published_date": "2026-05-10T13:03:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Fearing return to war, Iran conservationists shore up damaged heritage sites",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1999172/fearing-return-to-war-iran-conservationists-shore-up-damaged-heritage-sites",
+      "published_date": "2026-05-10T12:00:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "PM Shehbaz lauds armed forces for 'historic response' to India on first anniversary of Marka-e-Haq",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2607345/pm-shehbaz-lauds-armed-forces-for-historic-response-to-india-on-first-anniversary-of-marka-e-haq",
+      "published_date": "2026-05-10T11:10:45+00:00",
+      "category": "Military"
     },
     {
       "title": "CDF Munir warns Pakistan's response to any future ‘misadventure’ will be ‘extremely widespread, painful’",
@@ -186,6 +242,27 @@
       "category": "Military"
     },
     {
+      "title": "Egypt gets additional $300m in World Bank package",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2643076/business-economy",
+      "published_date": "2026-05-10T08:05:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Remains of US soldier who went missing during military exercises in Morocco have been recovered",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2643072/world",
+      "published_date": "2026-05-10T08:05:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How Lebanon’s Palestinian refugee camps became both sanctuary and pressure point",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2643067/middle-east",
+      "published_date": "2026-05-10T07:05:57+00:00",
+      "category": "Military"
+    },
+    {
       "title": "President, PM pay tribute to armed forces on Marka-e-Haq first anniversary",
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2607311/president-pm-pay-tribute-to-armed-forces-on-marka-e-haq-first-anniversary",
@@ -207,87 +284,31 @@
       "category": "Military"
     },
     {
-      "title": "CDF Munir warns against any future misadventure, says response would be ‘far-reaching and painful’",
+      "title": "Modi urges Indians to reduce petrol, diesel consumption amid Middle East war disruption",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1999209/modi-urges-indians-to-reduce-petrol-diesel-consumption-amid-middle-east-war-disruption",
+      "published_date": "2026-05-10T19:02:41+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "NDMA raises red flag over powerful storm system expected across multiple regions",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2607298/cdf-munir-hails-unprecedented-success-in-marka-e-haq-calls-it-ideological-victory",
-      "published_date": "2026-05-10T00:43:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jeddah airport welcomes first batch of Syrian Hajj pilgrims",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2642983/saudi-arabia",
-      "published_date": "2026-05-09T23:05:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran’s Supreme Leader briefs military chief on ‘new guiding measures’, Fars agency says",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2643010/middle-east",
-      "published_date": "2026-05-09T22:05:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nation rallies behind forces on Marka-e-Haq first anniversary",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2607293/nation-rallies-behind-forces-on-marka-e-haq-first-anniversary",
-      "published_date": "2026-05-09T20:36:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan, Bangladesh to combat drug trafficking",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2607288/pakistan-bangladesh-to-combat-drug-trafficking",
-      "published_date": "2026-05-09T20:26:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Police foil suicide attack on Bannu post; at least 2 personnel martyred",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1998957/police-foil-suicide-attack-on-bannu-post-at-least-2-personnel-martyred",
-      "published_date": "2026-05-09T19:25:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Marka-i-Haq a 'defining landmark in the nation’s journey': ISPR",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1998954/marka-i-haq-a-defining-landmark-in-the-nations-journey-ispr",
-      "published_date": "2026-05-09T17:23:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Etched in history': PM Shehbaz says Pakistan cannot be 'intimidated or subdued' as nation marks Marka-i-Haq anniversary",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1998951/etched-in-history-pm-shehbaz-says-pakistan-cannot-be-intimidated-or-subdued-as-nation-marks-marka-i-haq-anniversary",
-      "published_date": "2026-05-09T17:07:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "A look at the new capabilities Pakistan employed against India during Marka-i-Haq",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1997496/a-look-at-the-new-capabilities-pakistan-employed-against-india-during-marka-i-haq",
-      "published_date": "2026-05-09T15:10:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "GHQ to host ceremony marking one year since Marka-i-Haq victory on Sunday",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1998901/ghq-to-host-ceremony-marking-one-year-since-marka-i-haq-victory-on-sunday",
-      "published_date": "2026-05-09T14:06:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel to release Gaza flotilla activists today ahead of deportation: rights group",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1998934/israel-to-release-gaza-flotilla-activists-today-ahead-of-deportation-rights-group",
-      "published_date": "2026-05-09T12:33:15+00:00",
-      "category": "Military"
+      "url": "https://tribune.com.pk/story/2607341/ndma-raises-red-flag-over-powerful-storm-system-expected-across-multiple-regions",
+      "published_date": "2026-05-10T10:44:10+00:00",
+      "category": "Energy"
     },
     {
       "title": "Gas supply suspended after pipeline damaged in Karachi Red Line construction",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1999043/gas-supply-suspended-after-pipeline-damaged-in-karachi-red-line-construction",
       "published_date": "2026-05-10T08:13:09+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "What We Are Reading Today: ‘Agri-Energy’ by Rebekah M. Pierce",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2643065/books",
+      "published_date": "2026-05-10T07:05:04+00:00",
       "category": "Energy"
     },
     {
@@ -400,27 +421,6 @@
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2606761/pakistan-turns-to-spot-lng-market-again",
       "published_date": "2026-05-06T16:52:46+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "500MW floating solar project planned",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2606726/500mw-floating-solar-project-planned",
-      "published_date": "2026-05-06T16:11:10+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "ME peace deal hopes ignite strong PSX rally",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2606730/me-peace-deal-hopes-ignite-strong-psx-rally",
-      "published_date": "2026-05-06T16:11:10+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Going green with solar",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1997750/going-green-with-solar",
-      "published_date": "2026-05-06T09:52:51+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,13 @@
       "category": "Economy"
     },
     {
+      "title": "Governor Kundi meets PTI leaders, asserts KP's case should be presented 'firmly, collectively' to the Centre",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1999182/governor-kundi-meets-pti-leaders-asserts-kps-case-should-be-presented-firmly-collectively-to-the-centre",
+      "published_date": "2026-05-10T15:48:57+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "This is the sentence that protects every abuser in Pakistan",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1999133/this-is-the-sentence-that-protects-every-abuser-in-pakistan",
@@ -617,6 +624,20 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2643002/pakistan",
       "published_date": "2026-05-10T08:05:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arsenal on brink of Premier League title, Villa slip up in Champions League chase",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2643068/sport",
+      "published_date": "2026-05-10T07:05:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Poland’s wanted ex-minister confirms he fled to US from Hungary",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2643070/world",
+      "published_date": "2026-05-10T07:05:21+00:00",
       "category": "Local Events"
     },
     {
@@ -680,27 +701,6 @@
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2607282/transporters-protest-fares-flour-prices-surge",
       "published_date": "2026-05-09T20:22:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PTI demands judicial commission to identify, punish culprits behind May 9 riots",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1998950/pti-demands-judicial-commission-to-identify-punish-culprits-behind-may-9-riots",
-      "published_date": "2026-05-09T17:05:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "European states to send planes to evacuate citizens from hantavirus-hit cruise ship",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1998907/european-states-to-send-planes-to-evacuate-citizens-from-hantavirus-hit-cruise-ship",
-      "published_date": "2026-05-09T12:57:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PTI reiterates demand for SC-led judicial commission on May 9 events",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2607214/pti-demands-sc-led-judicial-commission-on-may-9-events",
-      "published_date": "2026-05-09T12:55:02+00:00",
       "category": "Local Events"
     }
   ]
