@@ -1,13 +1,34 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-05-11T13:50:15.993597+00:00",
+  "last_updated": "2026-05-11T23:45:41.187747+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Pakistan rejects claims Iranian aircraft were shielded from US strikes at Nur Khan Airbase",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2607638/pakistan-rejects-claims-iranian-aircraft-were-shielded-from-us-strikes-at-nur-khan-airbase",
+      "published_date": "2026-05-11T17:57:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU ministers agree on sanctions targeting violent West Bank settlers",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1999449/eu-ministers-agree-on-sanctions-targeting-violent-west-bank-settlers",
+      "published_date": "2026-05-11T14:33:52+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "FM Dar praises US assistance in repatriation of Pakistani, Iranian seafarers in meeting with CdA Baker",
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2607500/fm-dar-praises-us-assistance-in-repatriation-of-pakistani-iranian-seafarers-in-meeting-with-cda",
       "published_date": "2026-05-11T07:37:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan launches second phase of program offering scholarships to Bangladeshi students",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2643189/pakistan",
+      "published_date": "2026-05-11T07:05:22+00:00",
       "category": "Diplomacy"
     },
     {
@@ -123,25 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pakistan remains ‘positive’ as Iran mulls peace offer",
+      "title": "Trump rejects Iran's counteroffer to end war, insists on 'complete victory'",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1998555/pakistan-remains-positive-as-iran-mulls-peace-offer",
-      "published_date": "2026-05-08T02:37:09+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/1999461/trump-rejects-irans-counteroffer-to-end-war-insists-on-complete-victory",
+      "published_date": "2026-05-11T17:56:56+00:00",
+      "category": "Military"
     },
     {
-      "title": "PM Shehbaz discusses regional situation with Qatari counterpart: PMO",
+      "title": "NA passes unanimous resolution hailing military's 'befitting response' to India in May conflict",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1998433/pm-shehbaz-discusses-regional-situation-with-qatari-counterpart-pmo",
-      "published_date": "2026-05-07T17:22:54+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "FO stresses diplomacy in ties with India",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2606940/fo-stresses-diplomacy-in-ties-with-india",
-      "published_date": "2026-05-07T16:36:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/1999448/na-passes-unanimous-resolution-hailing-militarys-befitting-response-to-india-in-may-conflict",
+      "published_date": "2026-05-11T15:46:39+00:00",
+      "category": "Military"
     },
     {
       "title": "PM extends austerity drive till June 13 to deal with impact of Middle East war",
@@ -158,6 +172,13 @@
       "category": "Military"
     },
     {
+      "title": "PM Shehbaz extends austerity measures till June 13 to tackle fuel crisis amid US-Iran conflict",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2607530/pm-shehbaz-extends-austerity-measures-till-june-13-to-tackle-fuel-crisis-amid-us-iran-conflict",
+      "published_date": "2026-05-11T11:26:04+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Plot to coerce girl into carrying out terrorist attack in Islamabad thwarted, CM Bugti says",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1999424/plot-to-coerce-girl-into-carrying-out-terrorist-attack-in-islamabad-thwarted-cm-bugti-says",
@@ -165,10 +186,24 @@
       "category": "Military"
     },
     {
+      "title": "NA passes unanimous resolution lauding armed forces for effective response to India during Marka-e-Haq",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2607523/na-passes-unanimous-resolution-lauding-armed-forces-for-effective-response-india-during-marka-e-haq",
+      "published_date": "2026-05-11T09:37:37+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Iran says made 'legitimate' demands in peace proposal rejected by Trump as 'totally unacceptable'",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1999411/iran-says-made-legitimate-demands-in-peace-proposal-rejected-by-trump-as-totally-unacceptable",
       "published_date": "2026-05-11T09:19:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan to continue peace mediation with 'no immediate danger' of renewed US-Iran war: sources",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2607517/pakistan-to-continue-peace-mediation-with-no-immediate-danger-of-renewed-us-iran-war-sources",
+      "published_date": "2026-05-11T08:58:39+00:00",
       "category": "Military"
     },
     {
@@ -190,6 +225,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1999294/trump-rejects-unacceptable-iranian-terms-for-ending-war",
       "published_date": "2026-05-11T05:24:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi Arabia, Pakistan discuss regional maritime security as Trump mulls Hormuz operation",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2643176/pakistan",
+      "published_date": "2026-05-11T05:05:30+00:00",
       "category": "Military"
     },
     {
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Evacuation flights leave Tenerife after cruise ship hantavirus outbreak",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1999146/evacuation-flights-leave-tenerife-after-cruise-ship-hantavirus-outbreak",
-      "published_date": "2026-05-10T18:27:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Explosive-laden rickshaw used in Bannu suicide attack",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2607361/explosive-laden-rickshaw-used-in-bannu-suicide-attack",
-      "published_date": "2026-05-10T13:03:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fearing return to war, Iran conservationists shore up damaged heritage sites",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1999172/fearing-return-to-war-iran-conservationists-shore-up-damaged-heritage-sites",
-      "published_date": "2026-05-10T12:00:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "PM Shehbaz lauds armed forces for 'historic response' to India on first anniversary of Marka-e-Haq",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2607345/pm-shehbaz-lauds-armed-forces-for-historic-response-to-india-on-first-anniversary-of-marka-e-haq",
-      "published_date": "2026-05-10T11:10:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "CDF Munir warns Pakistan's response to any future ‘misadventure’ will be ‘extremely widespread, painful’",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1999113/cdf-munir-warns-pakistans-response-to-any-future-misadventure-will-be-extremely-widespread-painful",
-      "published_date": "2026-05-10T10:25:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "All passengers on hantavirus-hit ship considered high-risk contacts, EU health agency says",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1999146/all-passengers-on-hantavirus-hit-ship-considered-high-risk-contacts-eu-health-agency-says",
-      "published_date": "2026-05-10T09:10:39+00:00",
-      "category": "Military"
+      "title": "India’s Modi to begin five-nation tour, including UAE, amid Middle East crisis",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2643172/world",
+      "published_date": "2026-05-11T05:05:47+00:00",
+      "category": "Energy"
     },
     {
       "title": "Cotton stocks at ‘lowest ebb’ ahead of ginning season",
@@ -417,11 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "A lopsided equation",
+      "title": "India's Modi to launch multi-nation tour amid global unrest",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1997764/a-lopsided-equation",
-      "published_date": "2026-05-07T03:15:21+00:00",
-      "category": "Energy"
+      "url": "https://www.dawn.com/news/1999464/indias-modi-to-launch-multi-nation-tour-amid-global-unrest",
+      "published_date": "2026-05-11T18:37:53+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Senators decry hike in petroleum prices, accuse govt of 'economic oppression'",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1999458/senators-decry-hike-in-petroleum-prices-accuse-govt-of-economic-oppression",
+      "published_date": "2026-05-11T17:06:17+00:00",
+      "category": "Economy"
     },
     {
       "title": "Oil rises $4 after Trump rejects Iran's response to US peace proposal",
@@ -550,18 +564,25 @@
       "category": "Economy"
     },
     {
-      "title": "Mideast war taking a toll on Pakistan’s ‘wedding economy’",
+      "title": "Shepherd sacrifices life, averting suicide attack in Attock",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1998854/mideast-war-taking-a-toll-on-pakistans-wedding-economy",
-      "published_date": "2026-05-09T02:17:46+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/1999466/shepherd-sacrifices-life-averting-suicide-attack-attock",
+      "published_date": "2026-05-11T19:03:14+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "IMF's Executive Board approves $1.2 billion financing for Pakistan's reform programme",
+      "title": "Two years on, over a third of General Elections 2024 petitions await disposal",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1998725/imfs-executive-board-approves-12-billion-financing-for-pakistans-reform-programme",
-      "published_date": "2026-05-08T16:55:57+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/1999457/two-years-on-over-a-third-of-general-elections-2024-petitions-await-disposal",
+      "published_date": "2026-05-11T16:54:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dog culling campaign sparks outrage in Lahore over brutal methods",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2607543/dog-culling-campaign-sparks-outrage-in-lahore-over-brutal-methods",
+      "published_date": "2026-05-11T14:04:54+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Imaan, Hadi submit additional documents ahead of hearing on appeals in apex court tomorrow",
@@ -620,6 +641,20 @@
       "category": "Local Events"
     },
     {
+      "title": "Study shows Balochistan's youth seeking education, jobs and peace",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2607505/study-shows-balochistans-youth-seeking-education-jobs-and-peace",
+      "published_date": "2026-05-11T08:06:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arrest warrant reissued for Bolivia’s Morales after court no-show",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2643195/world",
+      "published_date": "2026-05-11T08:05:34+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Justice Aurangzeb calls for encouraging alternative dispute resolution, says SC to establish mediation centre",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1999397/justice-aurangzeb-calls-for-encouraging-alternative-dispute-resolution-says-sc-to-establish-mediation-centre",
@@ -648,59 +683,24 @@
       "category": "Local Events"
     },
     {
+      "title": "White House press gala shooting suspect pleads not guilty",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2643177/world",
+      "published_date": "2026-05-11T05:05:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan court ruling clears path for TRG founder’s return, raises governance concerns",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2643173/pakistan",
+      "published_date": "2026-05-11T05:05:09+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Japan develops easy-to-install prayer room for Muslims",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1999320/japan-develops-easy-to-install-prayer-room-for-muslims",
       "published_date": "2026-05-11T02:54:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan summons Afghan envoy over suicide attack in northwest, warns of ‘decisive’ response",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2643157/pakistan",
-      "published_date": "2026-05-11T01:05:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thai police arrest 9 in largest ivory seizure in decade",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2643145/world",
-      "published_date": "2026-05-11T00:05:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan blames Afghanistan-based militants for deadly attack on police",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2643138/world",
-      "published_date": "2026-05-10T23:05:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Karachi goat heist sees thieves make off with Eid sacrificial animals worth $6,800",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2643137/pakistan",
-      "published_date": "2026-05-10T22:05:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four killed, 16 injured as storms, heavy rain batter northwest Pakistan",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2643133/pakistan",
-      "published_date": "2026-05-10T22:05:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Governor Kundi meets PTI leaders, asserts KP's case should be presented 'firmly, collectively' to the Centre",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1999182/governor-kundi-meets-pti-leaders-asserts-kps-case-should-be-presented-firmly-collectively-to-the-centre",
-      "published_date": "2026-05-10T15:48:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "This is the sentence that protects every abuser in Pakistan",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1999133/this-is-the-sentence-that-protects-every-abuser-in-pakistan",
-      "published_date": "2026-05-10T11:13:50+00:00",
       "category": "Local Events"
     }
   ]
