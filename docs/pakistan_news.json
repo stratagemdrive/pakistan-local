@@ -1,13 +1,41 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-05-12T13:08:59.909475+00:00",
+  "last_updated": "2026-05-12T23:49:49.941072+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Trump announces talks with 'failed' Cuba",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1999693/trump-announces-talks-with-failed-cuba",
+      "published_date": "2026-05-12T14:19:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "PM Shehbaz, Azerbaijan president reaffirm shared commitment to deepening bilateral cooperation",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2607727/pm-shehbaz-azerbaijan-president-reaffirm-shared-commitment-to-deepening-bilateral-cooperation",
+      "published_date": "2026-05-12T13:21:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "China lauds Pakistan’s mediation role in US-Iran talks, stresses durable ceasefire",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2607721/china-lauds-pakistans-mediation-role-in-us-iran-talks-stresses-durable-ceasefire",
+      "published_date": "2026-05-12T12:28:48+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "WHO chief says 'work not over' after hantavirus evacuation",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1999659/who-chief-says-work-not-over-after-hantavirus-evacuation",
       "published_date": "2026-05-12T09:37:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "China, Pakistan discuss US-Iran tensions ahead of Trump’s Beijing visit",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2643332/pakistan",
+      "published_date": "2026-05-12T06:05:14+00:00",
       "category": "Diplomacy"
     },
     {
@@ -116,32 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "At UN, Pakistan raises alarm at Israel's systematic annexation of occupied West Bank",
+      "title": "Sensing an edge, Iran 'ready to gamble' it can outlast Trump",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1998904/at-un-pakistan-raises-alarm-at-israels-systematic-annexation-of-occupied-west-bank",
-      "published_date": "2026-05-09T08:03:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/1999721/sensing-an-edge-iran-ready-to-gamble-it-can-outlast-trump",
+      "published_date": "2026-05-12T17:05:50+00:00",
+      "category": "Military"
     },
     {
-      "title": "Starmer, aiming for leadership reset, names Brown as adviser",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2642965/world",
-      "published_date": "2026-05-09T07:05:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Region could witness new political alignment after US-Iran war: Moghadam",
+      "title": "PM Shehbaz, Azerbaijan's President Aliyev discuss peace efforts in Mideast: PMO",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1998778/region-could-witness-new-political-alignment-after-us-iran-war-moghadam",
-      "published_date": "2026-05-09T04:00:33+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "India misjudged Islamabad’s desire for peace, says Pakistan's envoy to US on Marka-e-Haq anniversary",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2607167/india-misjudged-islamabads-desire-for-peace-says-pakistan-envoy-to-us-on-marka-e-haq-anniversary",
-      "published_date": "2026-05-09T01:23:56+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/1999715/pm-shehbaz-azerbaijans-president-aliyev-discuss-peace-efforts-in-mideast-pmo",
+      "published_date": "2026-05-12T16:48:23+00:00",
+      "category": "Military"
     },
     {
       "title": "Adaptive deterrence urged to counter India’s hostile posture",
@@ -169,6 +183,27 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1999638/president-pm-pay-tribute-to-shepherd-who-sacrificed-his-life-while-averting-suicide-attack-in-attock",
       "published_date": "2026-05-12T07:27:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump says he doesn’t need China’s help to end Iran war, Tehran tightens grip on Hormuz",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2643336/world",
+      "published_date": "2026-05-12T07:05:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukrainian drone pilots turn a military exercise in Sweden into a critical warning for NATO",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2643335/world",
+      "published_date": "2026-05-12T07:05:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The Diplomat highlights how Pakistan’s global profile shifted after India conflict",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2607686/the-diplomat-highlights-how-pakistans-global-profile-shifted-after-india-conflict",
+      "published_date": "2026-05-12T06:25:52+00:00",
       "category": "Military"
     },
     {
@@ -249,45 +284,17 @@
       "category": "Military"
     },
     {
-      "title": "Plot to coerce girl into carrying out terrorist attack in Islamabad thwarted, CM Bugti says",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1999424/plot-to-coerce-girl-into-carrying-out-terrorist-attack-in-islamabad-thwarted-cm-bugti-says",
-      "published_date": "2026-05-11T10:48:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "NA passes unanimous resolution lauding armed forces for effective response to India during Marka-e-Haq",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2607523/na-passes-unanimous-resolution-lauding-armed-forces-for-effective-response-india-during-marka-e-haq",
-      "published_date": "2026-05-11T09:37:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran says made 'legitimate' demands in peace proposal rejected by Trump as 'totally unacceptable'",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1999411/iran-says-made-legitimate-demands-in-peace-proposal-rejected-by-trump-as-totally-unacceptable",
-      "published_date": "2026-05-11T09:19:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan to continue peace mediation with 'no immediate danger' of renewed US-Iran war: sources",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2607517/pakistan-to-continue-peace-mediation-with-no-immediate-danger-of-renewed-us-iran-war-sources",
-      "published_date": "2026-05-11T08:58:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US, French nationals from hantavirus ship test positive",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1999407/us-french-nationals-from-hantavirus-ship-test-positive",
-      "published_date": "2026-05-11T08:37:55+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Kuwait to 'explore new opportunities' around building strategic storage in Pakistan’s petroleum sector",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1999667/kuwait-to-explore-new-opportunities-around-building-strategic-storage-in-pakistans-petroleum-sector",
       "published_date": "2026-05-12T11:32:25+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Showtime as boycotted Eurovision kicks off",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2643345/world",
+      "published_date": "2026-05-12T07:05:16+00:00",
       "category": "Energy"
     },
     {
@@ -417,11 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Govt hikes petrol price by Rs14.92, high-speed diesel by Rs15",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2607062/govt-hikes-petrol-price-by-rs1492-high-speed-diesel-by-rs15",
-      "published_date": "2026-05-08T13:53:51+00:00",
-      "category": "Energy"
+      "title": "Cambridge AS-level Mathematics paper allegedly leaked, students claim",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1999699/cambridge-as-level-mathematics-paper-allegedly-leaked-students-claim",
+      "published_date": "2026-05-12T14:18:57+00:00",
+      "category": "Economy"
     },
     {
       "title": "Despite improved macroeconomic stability in first half of FY26, war in Middle East poses significant risks to outlook: SBP",
@@ -442,6 +449,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1999644/us-iran-conflict-likely-to-dominate-strategic-calculations-during-trumps-china-visit",
       "published_date": "2026-05-12T07:39:52+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pakistan lost $59 billion to climate disasters in past three decades, central bank says",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2643334/pakistan",
+      "published_date": "2026-05-12T07:05:54+00:00",
       "category": "Economy"
     },
     {
@@ -550,18 +564,81 @@
       "category": "Economy"
     },
     {
-      "title": "Budget may include income tax relief amid salary, pension freeze",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1999291/budget-may-include-income-tax-relief-amid-salary-pension-freeze",
-      "published_date": "2026-05-11T02:18:42+00:00",
-      "category": "Economy"
+      "title": "Earthquake of magnitude 4.6 hits Tehran, no casualties reported",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2643355/middle-east",
+      "published_date": "2026-05-13T09:05:24+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Pakistan’s IT exports expected to reach $4.6b this fiscal year",
+      "title": "Karachi police arrest 'most wanted' cocaine queenpin",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1999686/karachi-police-arrest-most-wanted-cocaine-queenpin",
+      "published_date": "2026-05-12T18:39:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Imran's sisters, KP CM demand meeting with incarcerated PTI founder, threaten sit-in",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1999726/imrans-sisters-kp-cm-demand-meeting-with-incarcerated-pti-founder-threaten-sit-in",
+      "published_date": "2026-05-12T18:21:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Treasury, opposition clash in Senate as JUI-F senator questions terrorism in KP",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1999725/treasury-opposition-clash-in-senate-as-jui-f-senator-questions-terrorism-in-kp",
+      "published_date": "2026-05-12T17:56:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French minister says uncertain if hantavirus strain from cruise ship has mutated",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1999716/french-minister-says-uncertain-if-hantavirus-strain-from-cruise-ship-has-mutated",
+      "published_date": "2026-05-12T16:07:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PMDC says medical students must qualify for MDCAT, obtain registration before going abroad",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1999709/pmdc-says-medical-students-must-qualify-for-mdcat-obtain-registration-before-going-abroad",
+      "published_date": "2026-05-12T15:32:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan to face growing health risk as international funding to health sector continues to decline: report",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1999700/pakistan-to-face-growing-health-risk-as-international-funding-to-health-sector-continues-to-decline-report",
+      "published_date": "2026-05-12T15:23:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India’s Hindu extremist group RSS lobbies foreign groups to counter minority rights criticism",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1999678/indias-hindu-extremist-group-rss-lobbies-foreign-groups-to-counter-minority-rights-criticism",
+      "published_date": "2026-05-12T14:42:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "IHC issues notices to CDA in appeals by flat owners, BoP over One Constitution Avenue lease",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1999690/ihc-issues-notices-to-cda-in-appeals-by-flat-owners-bop-over-one-constitution-avenue-lease",
+      "published_date": "2026-05-12T13:52:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Karachi police arrest female drug kingpin 'Pinky'",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2607469/pakistans-it-exports-expected-to-reach-46b-this-fiscal-year",
-      "published_date": "2026-05-11T01:37:12+00:00",
-      "category": "Economy"
+      "url": "https://tribune.com.pk/story/2607717/karachi-police-arrest-drug-kingpin-pinky",
+      "published_date": "2026-05-12T11:42:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PM directs full utilisation of resources to strengthen law enforcement agencies after recent terror attacks",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2607706/pm-directs-full-utilisation-of-resources-to-strengthen-law-enforcement-agencies-after-recent-attacks",
+      "published_date": "2026-05-12T10:04:54+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Blast in KP's Lakki Marwat claims 9 lives, injures 33",
@@ -624,83 +701,6 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2643270/pakistan",
       "published_date": "2026-05-11T23:05:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shepherd sacrifices life, averting suicide attack in Attock",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1999466/shepherd-sacrifices-life-averting-suicide-attack-attock",
-      "published_date": "2026-05-11T19:03:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two years on, over a third of General Elections 2024 petitions await disposal",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1999457/two-years-on-over-a-third-of-general-elections-2024-petitions-await-disposal",
-      "published_date": "2026-05-11T16:54:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SC bars third-party property in dower",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2607615/sc-bars-third-party-property-in-dower",
-      "published_date": "2026-05-11T16:34:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dog culling campaign sparks outrage in Lahore over brutal methods",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2607543/dog-culling-campaign-sparks-outrage-in-lahore-over-brutal-methods",
-      "published_date": "2026-05-11T14:04:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Imaan, Hadi submit additional documents ahead of hearing on appeals in apex court tomorrow",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1999438/imaan-hadi-submit-additional-documents-ahead-of-hearing-on-appeals-in-apex-court-tomorrow",
-      "published_date": "2026-05-11T13:24:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SC dismisses appeals against SHC order in TRG shareholding dispute",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1999436/sc-dismisses-appeals-against-shc-order-in-trg-shareholding-dispute",
-      "published_date": "2026-05-11T13:20:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KP CM Afridi decries 'decisions made behind closed doors' during visit to Bannu",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1999414/kp-cm-afridi-decries-decisions-made-behind-closed-doors-during-visit-to-bannu",
-      "published_date": "2026-05-11T12:46:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "3-month-long summer vacation announced for Punjab schools",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1999420/3-month-long-summer-vacation-announced-for-punjab-schools",
-      "published_date": "2026-05-11T11:02:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PM orders inquiry after PML-N MPA injured in attack in Toba Tek Singh",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1999416/pm-orders-inquiry-after-pml-n-mpa-injured-in-attack-in-toba-tek-singh",
-      "published_date": "2026-05-11T10:26:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "LHC accepts Maryam's plea seeking return of bail surety in Chaudhry Sugar Mills case",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1999419/lhc-accepts-maryams-plea-seeking-return-of-bail-surety-in-chaudhry-sugar-mills-case",
-      "published_date": "2026-05-11T10:22:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IT exports expected to reach $4bn during current fiscal year, PM told",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1999395/it-exports-expected-to-reach-4bn-during-current-fiscal-year-pm-told",
-      "published_date": "2026-05-11T08:13:40+00:00",
       "category": "Local Events"
     }
   ]
