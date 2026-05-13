@@ -1,8 +1,15 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-05-13T13:22:39.140632+00:00",
+  "last_updated": "2026-05-13T23:48:43.826240+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "PM Shehbaz to undertake official three-day China visit: DPM Dar",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1999931/pm-shehbaz-to-undertake-official-three-day-china-visit-dpm-dar",
+      "published_date": "2026-05-13T13:25:44+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "KSE-100 drops 1,465 points amid oil price concerns, geopolitical uncertainty",
       "source": "The Express Tribune",
@@ -137,11 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pakistan launches second phase of program offering scholarships to Bangladeshi students",
+      "title": "Tunisian tourism slows in fallout of Mideast war",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2643189/pakistan",
-      "published_date": "2026-05-11T07:05:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.arabnews.pk/node/2643505/business-economy",
+      "published_date": "2026-05-13T22:05:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Two weeks of clashes in a southern Sudan region kill dozens, a local medical group says",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2643504/world",
+      "published_date": "2026-05-13T22:05:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Major among five soldiers martyred during operation in Balochistan’s Barkhan: ISPR",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1999982/major-among-five-soldiers-martyred-during-operation-in-balochistans-barkhan-ispr",
+      "published_date": "2026-05-13T18:59:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'No indication' Andes strain of hantavirus has mutated: EU agency",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1999980/no-indication-andes-strain-of-hantavirus-has-mutated-eu-agency",
+      "published_date": "2026-05-13T18:40:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Don't mention the war: Tucson prepares to welcome Team Iran for World Cup",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1999948/dont-mention-the-war-tucson-prepares-to-welcome-team-iran-for-world-cup",
+      "published_date": "2026-05-13T14:05:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Major, 4 soldiers martyred in sanitisation operation in Balochistan's Barkhan: ISPR",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2607925/major-4-soldiers-martyred-in-sanitisation-operation-in-balochistans-barkhan-ispr",
+      "published_date": "2026-05-13T13:21:32+00:00",
+      "category": "Military"
     },
     {
       "title": "President Zardari approves Sitara-i-Shujaat for citizen who sacrified his life while averting suicide attack",
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Adaptive deterrence urged to counter India’s hostile posture",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1999502/adaptive-deterrence-urged-to-counter-indias-hostile-posture",
-      "published_date": "2026-05-12T10:57:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Children paying intolerable price': UN condemns child death toll from Israel's West Bank operations",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1999672/children-paying-intolerable-price-un-condemns-child-death-toll-from-israels-west-bank-operations",
-      "published_date": "2026-05-12T10:52:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "SC directs IHC to decide Imaan, Hadi's pleas against sentence within two weeks",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1999649/sc-directs-ihc-to-decide-imaan-hadis-pleas-against-sentence-within-two-weeks",
-      "published_date": "2026-05-12T09:29:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "President, PM pay tribute to shepherd who sacrificed his life while averting suicide attack in Attock",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1999638/president-pm-pay-tribute-to-shepherd-who-sacrificed-his-life-while-averting-suicide-attack-in-attock",
-      "published_date": "2026-05-12T07:27:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says he doesn’t need China’s help to end Iran war, Tehran tightens grip on Hormuz",
+      "title": "OPEC cuts 2026 global oil demand growth forecast",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2643336/world",
-      "published_date": "2026-05-12T07:05:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainian drone pilots turn a military exercise in Sweden into a critical warning for NATO",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2643335/world",
-      "published_date": "2026-05-12T07:05:36+00:00",
-      "category": "Military"
+      "url": "https://www.arabnews.pk/node/2643496/business-economy",
+      "published_date": "2026-05-13T08:05:21+00:00",
+      "category": "Energy"
     },
     {
       "title": "Pakistan reducing dependence on imported fuel for power generation: Leghari",
@@ -414,13 +421,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1999043/gas-supply-suspended-after-pipeline-damaged-in-karachi-red-line-construction",
       "published_date": "2026-05-10T08:13:09+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "What We Are Reading Today: ‘Agri-Energy’ by Rebekah M. Pierce",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2643065/books",
-      "published_date": "2026-05-10T07:05:04+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,48 @@
       "category": "Economy"
     },
     {
+      "title": "PTI defends MNA Iqbal Afridi’s son over asylum move, assails govt’s ‘oppression’",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1999979/pti-defends-mna-iqbal-afridis-son-over-asylum-move-assails-govts-oppression",
+      "published_date": "2026-05-13T19:04:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "IHC rules high courts can assume jurisdiction in cases of promotion assessments",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1999971/ihc0513",
+      "published_date": "2026-05-13T17:14:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan, WHO launch Prime Minister's Hepatitis C Elimination Programme",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1999970/pakistan-who-launch-prime-ministers-hepatitis-c-elimination-programme",
+      "published_date": "2026-05-13T16:22:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Reform UK talking to watchdog over $7 million gift to leader Farage",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1999965/reform-uk-talking-to-watchdog-over-7-million-gift-to-leader-farage",
+      "published_date": "2026-05-13T15:48:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heavy rain, hailstorm lash Lahore, inundating low-lying areas",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1999950/heavy-rain-hailstorm-lash-lahore-inundating-low-lying-areas",
+      "published_date": "2026-05-13T14:28:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ECP warns of hearing if prerequisites for Islamabad local govt polls not met",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/1999951/ecp-warns-of-hearing-if-prerequisites-for-islamabad-local-govt-polls-not-met",
+      "published_date": "2026-05-13T14:16:16+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Punjab CM Office denies RTI requests seeking details of Maryam's tours and vehicles, luxury jet acquired by govt",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1999927/punjab-cm-office-denies-rti-requests-seeking-details-of-maryams-tours-and-vehicles-luxury-jet-acquired-by-govt",
@@ -571,10 +613,24 @@
       "category": "Local Events"
     },
     {
+      "title": "Sailors’ families protest as Somalia ship hijacking enters 23rd day",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2607920/sailors-families-protest-as-somalia-ship-hijacking-enters-23rd-day",
+      "published_date": "2026-05-13T11:53:24+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Flydubai suspends flights to Islamabad, Lahore, Peshawar till Oct due to 'operational issues'",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1999930/flydubai-suspends-flights-to-islamabad-lahore-peshawar-till-oct-due-to-operational-issues",
       "published_date": "2026-05-13T11:49:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lahore sees heavy rain, hail amid heatwave",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2607918/lahore-sees-heavy-rain-hail-amid-heatwave",
+      "published_date": "2026-05-13T11:20:52+00:00",
       "category": "Local Events"
     },
     {
@@ -599,10 +655,24 @@
       "category": "Local Events"
     },
     {
+      "title": "Museum’s ‘Knight Rider’ replica car got a speeding ticket, though it hasn’t gone anywhere in years",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2643501/offbeat",
+      "published_date": "2026-05-13T08:05:48+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Naqvi says land-grabbing mafia, illegal constructions to be completely eradicated from Islamabad",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1999909/naqvi-says-land-grabbing-mafia-illegal-constructions-to-be-completely-eradicated-from-islamabad",
       "published_date": "2026-05-13T08:04:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Drug counselor who delivered ‘Friends’ star Matthew Perry ketamine that killed him gets 2 years",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2643487/world",
+      "published_date": "2026-05-13T07:05:42+00:00",
       "category": "Local Events"
     },
     {
@@ -631,76 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/1999686/karachi-police-arrest-most-wanted-cocaine-queenpin",
       "published_date": "2026-05-12T18:39:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Imran's sisters, KP CM demand meeting with incarcerated PTI founder, threaten sit-in",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1999726/imrans-sisters-kp-cm-demand-meeting-with-incarcerated-pti-founder-threaten-sit-in",
-      "published_date": "2026-05-12T18:21:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Treasury, opposition clash in Senate as JUI-F senator questions terrorism in KP",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1999725/treasury-opposition-clash-in-senate-as-jui-f-senator-questions-terrorism-in-kp",
-      "published_date": "2026-05-12T17:56:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French minister says uncertain if hantavirus strain from cruise ship has mutated",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1999716/french-minister-says-uncertain-if-hantavirus-strain-from-cruise-ship-has-mutated",
-      "published_date": "2026-05-12T16:07:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Balochistan's uplift top priority: PM",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2607826/balochistans-uplift-top-priority-pm-1",
-      "published_date": "2026-05-12T16:06:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "K-P police identify 100 vulnerable check posts",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2607816/k-p-police-identify-100-vulnerable-check-posts-1",
-      "published_date": "2026-05-12T16:06:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NDMA issues alert for severe weather",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2607812/ndma-issues-alert-for-severe-weather-1",
-      "published_date": "2026-05-12T16:06:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Imran sisters again denied jail meeting",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2607813/imran-sisters-again-denied-jail-meeting-1",
-      "published_date": "2026-05-12T16:06:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PMDC says medical students must qualify for MDCAT, obtain registration before going abroad",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1999709/pmdc-says-medical-students-must-qualify-for-mdcat-obtain-registration-before-going-abroad",
-      "published_date": "2026-05-12T15:32:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan to face growing health risk as international funding to health sector continues to decline: report",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1999700/pakistan-to-face-growing-health-risk-as-international-funding-to-health-sector-continues-to-decline-report",
-      "published_date": "2026-05-12T15:23:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India’s Hindu extremist group RSS lobbies foreign groups to counter minority rights criticism",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1999678/indias-hindu-extremist-group-rss-lobbies-foreign-groups-to-counter-minority-rights-criticism",
-      "published_date": "2026-05-12T14:42:25+00:00",
       "category": "Local Events"
     }
   ]
