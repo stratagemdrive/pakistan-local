@@ -1,13 +1,34 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-05-14T12:58:47.855679+00:00",
+  "last_updated": "2026-05-14T23:44:47.184000+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Trump hails Xi talks at grand Beijing banquet attended by leaders, CEOs",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2000073/trump-hails-xi-talks-at-grand-beijing-banquet-attended-by-leaders-ceos",
+      "published_date": "2026-05-14T18:59:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan-UAE ties unaffected by external engagements, says FO",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2000199/pakistan-uae-ties-unaffected-by-external-engagements-says-fo",
+      "published_date": "2026-05-14T16:38:15+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Chinese FM's remarks to Dar on Iran war 'misrepresented' in some media reports, call held with cordiality: FO",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2000199/chinese-fms-remarks-to-dar-on-iran-war-misrepresented-in-some-media-reports-call-held-with-cordiality-fo",
       "published_date": "2026-05-14T11:04:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Govt has not approached PPP on new amendment plan: Bilawal",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2608103/govt-has-not-approached-ppp-on-new-amendment-plan-bilawal",
+      "published_date": "2026-05-14T10:34:33+00:00",
       "category": "Diplomacy"
     },
     {
@@ -123,25 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Trump announces talks with 'failed' Cuba",
+      "title": "Can planned UK-France Hormuz naval mission help secure safe passage for ships?",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2643626/middle-east",
+      "published_date": "2026-05-15T09:05:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "CIA Director John Ratcliffe met with Raul Castro’s grandson in Havana, US and Cuban officials say",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2643637/world",
+      "published_date": "2026-05-14T23:05:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran and UAE clash at Brics foreign ministers' meeting",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1999693/trump-announces-talks-with-failed-cuba",
-      "published_date": "2026-05-12T14:19:59+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2000224/iran-and-uae-clash-at-brics-foreign-ministers-meeting",
+      "published_date": "2026-05-14T18:59:34+00:00",
+      "category": "Military"
     },
     {
-      "title": "PM Shehbaz, Azerbaijan president reaffirm shared commitment to deepening bilateral cooperation",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2607727/pm-shehbaz-azerbaijan-president-reaffirm-shared-commitment-to-deepening-bilateral-cooperation",
-      "published_date": "2026-05-12T13:21:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "China lauds Pakistan’s mediation role in US-Iran talks, stresses durable ceasefire",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2607721/china-lauds-pakistans-mediation-role-in-us-iran-talks-stresses-durable-ceasefire",
-      "published_date": "2026-05-12T12:28:48+00:00",
-      "category": "Diplomacy"
+      "title": "France, Netherlands say all hantavirus contact cases negative",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2000246/france-netherlands-say-all-hantavirus-contact-cases-negative",
+      "published_date": "2026-05-14T18:20:08+00:00",
+      "category": "Military"
     },
     {
       "title": "Pakistan successfully test fires Fatah-IV cruise missile: ISPR",
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Don't mention the war: Tucson prepares to welcome Team Iran for World Cup",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1999948/dont-mention-the-war-tucson-prepares-to-welcome-team-iran-for-world-cup",
-      "published_date": "2026-05-13T14:05:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Major, 4 soldiers martyred in sanitisation operation in Balochistan's Barkhan: ISPR",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2607925/major-4-soldiers-martyred-in-sanitisation-operation-in-balochistans-barkhan-ispr",
-      "published_date": "2026-05-13T13:21:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "President Zardari approves Sitara-i-Shujaat for citizen who sacrified his life while averting suicide attack",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1999907/president-zardari-approves-sitara-i-shujaat-for-citizen-who-sacrified-his-life-while-averting-suicide-attack",
-      "published_date": "2026-05-13T10:00:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Indian arrogance shot down alongside planes during last year's military conflict, Tarar says",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1999911/indian-arrogance-shot-down-alongside-planes-during-last-years-military-conflict-tarar-says",
-      "published_date": "2026-05-13T09:40:39+00:00",
-      "category": "Military"
+      "title": "Swift Student Challenge winners use coding to help solve real-world issues",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2643620/saudi-arabia",
+      "published_date": "2026-05-14T08:05:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Oil edges up as investors focus on Trump-Xi meeting in Beijing",
@@ -417,11 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "$32b deficit reflects policy failure",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2607401/32b-deficit-reflects-policy-failure",
-      "published_date": "2026-05-10T14:28:55+00:00",
-      "category": "Energy"
+      "title": "Outgoing champions Al-Ittihad beat Al-Ettifaq to go fifth in Saudi Pro League",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2643631/sport",
+      "published_date": "2026-05-15T09:05:56+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "No hugs, ancient Greece and KFC: Five highlights from Trump-Xi talks",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2000226/no-hugs-ancient-greece-and-kfc-five-highlights-from-trump-xi-talks",
+      "published_date": "2026-05-14T17:02:34+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pakistan raises $250m equivalent in inaugural Panda bond issuance",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2000249/pakistan-raises-250m-equivalent-in-inaugural-panda-bond-issuance",
+      "published_date": "2026-05-14T16:02:10+00:00",
+      "category": "Economy"
     },
     {
       "title": "Finance ministry terms report on Dar being 'handed' budget-making process 'misleading, incorrect'",
@@ -543,31 +564,94 @@
       "category": "Economy"
     },
     {
-      "title": "Poor planning fuels Bangladesh contraceptive crisis",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1999893/poor-planning-fuels-bangladesh-contraceptive-crisis",
-      "published_date": "2026-05-13T06:17:25+00:00",
-      "category": "Economy"
+      "title": "Death toll in Russian strikes on Kyiv rises to 21: authorities",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2643635/world",
+      "published_date": "2026-05-14T23:05:51+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "SBP says it has received $1.3bn tranche from IMF",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1999886/sbp-says-it-has-received-13bn-tranche-from-imf",
-      "published_date": "2026-05-13T04:54:00+00:00",
-      "category": "Economy"
+      "title": "US jury awards $49.5M to the family of a woman killed in 2019 Boeing Max crash",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2643636/world",
+      "published_date": "2026-05-14T23:05:50+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Fuel levy yields lowest fiscal deficit in nearly three decades",
+      "title": "Saudi Arabia condemns Israel’s ‘repeated provocative practices’ at Al-Aqsa Mosque",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2643634/saudi-arabia",
+      "published_date": "2026-05-14T22:05:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Govt has not contacted PPP over any constitutional amendment: Bilawal",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/1999803/fuel-levy-yields-lowest-fiscal-deficit-in-nearly-three-decades",
-      "published_date": "2026-05-13T02:10:53+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2000262/govt-has-not-contacted-ppp-over-any-constitutional-amendment-bilawal",
+      "published_date": "2026-05-14T18:47:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Civil servants’ asset declarations to be made public in redacted form, says govt",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2000259/civil-servants-asset-declarations-to-be-made-public-in-redacted-form-says-govt",
+      "published_date": "2026-05-14T17:57:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A hero's sacrifice: The railway worker who embraced death to save lives",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2000234/a-heros-sacrifice-the-railway-worker-who-embraced-death-to-save-lives",
+      "published_date": "2026-05-14T14:57:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Aleema Khan moves IHC against PTI founder Imran Khan’s ‘solitary confinement’",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2000235/aleema-khan-moves-ihc-against-pti-founder-imran-khans-solitary-confinement",
+      "published_date": "2026-05-14T14:27:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PTI leaders again denied meeting with party founder Imran, seek implementation of IHC order",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2000233/pti-leaders-again-denied-meeting-with-party-founder-imran-seek-implementation-of-ihc-order",
+      "published_date": "2026-05-14T14:14:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Karachi’s Shahrah-e-Bhutto to be opened for public this month: Sharjeel Memon",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2608130/karachis-shahrah-e-bhutto-to-be-opened-for-public-this-month-sharjeel-memon",
+      "published_date": "2026-05-14T12:49:52+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Gwadar University VC, pro-vice chancellor 'go missing' while travelling to Quetta",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2000200/gwadar-university-vc-pro-vice-chancellor-go-missing-while-travelling-to-quetta",
       "published_date": "2026-05-14T11:52:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Karachi's Shahrah-i-Bhutto to be fully open to public by end of May: Sharjeel Memon",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2000202/karachis-shahrah-i-bhutto-to-be-fully-open-to-public-by-end-of-may-sharjeel-memon",
+      "published_date": "2026-05-14T11:27:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fact check: Viral visual of bulletin claiming Imran Khan will be released this week is fabricated",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2608084/fact-check-viral-visual-of-ary-news-bulletin-claiming-imran-will-be-released-this-week-is-fabricated",
+      "published_date": "2026-05-14T09:19:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Champions League race overshadowed as Serie A serves up fixture chaos",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2643619/sport",
+      "published_date": "2026-05-14T08:05:56+00:00",
       "category": "Local Events"
     },
     {
@@ -606,101 +690,17 @@
       "category": "Local Events"
     },
     {
+      "title": "Search underway after Gwadar University VC, pro vice chancellor go missing in Balochistan's Mastung",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2608043/search-underway-after-gwadar-university-vc-pro-vice-chancellor-go-missing-in-balochistans-mastung",
+      "published_date": "2026-05-14T01:39:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "France and Netherlands say all hantavirus contact cases negative",
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2643574/world",
       "published_date": "2026-05-14T00:05:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan says ties with UAE ‘absolutely fine,’ rejects reports of sect-based deportations",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2643566/pakistan",
-      "published_date": "2026-05-13T23:05:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan orders cybercrime probe after diplomat cites Cambridge exam paper theft",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2643557/pakistan",
-      "published_date": "2026-05-13T22:05:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PTI defends MNA Iqbal Afridi’s son over asylum move, assails govt’s ‘oppression’",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1999979/pti-defends-mna-iqbal-afridis-son-over-asylum-move-assails-govts-oppression",
-      "published_date": "2026-05-13T19:04:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ritter backs Pakistan for Nobel Prize",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2608030/ritter-backs-pakistan-for-nobel-prize",
-      "published_date": "2026-05-13T17:54:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mohmand, Dasu dams costs surge by Rs1.6tr",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2608002/mohmand-dasu-dams-costs-surge-by-rs16tr",
-      "published_date": "2026-05-13T17:24:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Misgivings stall JUI-F, PTI rapprochement",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2608001/misgivings-stall-jui-f-pti-rapprochement",
-      "published_date": "2026-05-13T17:24:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IHC rules high courts can assume jurisdiction in cases of promotion assessments",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1999971/ihc0513",
-      "published_date": "2026-05-13T17:14:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan, WHO launch Prime Minister's Hepatitis C Elimination Programme",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1999970/pakistan-who-launch-prime-ministers-hepatitis-c-elimination-programme",
-      "published_date": "2026-05-13T16:22:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reform UK talking to watchdog over $7 million gift to leader Farage",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1999965/reform-uk-talking-to-watchdog-over-7-million-gift-to-leader-farage",
-      "published_date": "2026-05-13T15:48:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heavy rain, hailstorm lash Lahore, inundating low-lying areas",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1999950/heavy-rain-hailstorm-lash-lahore-inundating-low-lying-areas",
-      "published_date": "2026-05-13T14:28:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ECP warns of hearing if prerequisites for Islamabad local govt polls not met",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1999951/ecp-warns-of-hearing-if-prerequisites-for-islamabad-local-govt-polls-not-met",
-      "published_date": "2026-05-13T14:16:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Punjab CM Office denies RTI requests seeking details of Maryam's tours and vehicles, luxury jet acquired by govt",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1999927/punjab-cm-office-denies-rti-requests-seeking-details-of-maryams-tours-and-vehicles-luxury-jet-acquired-by-govt",
-      "published_date": "2026-05-13T12:16:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sailors’ families protest as Somalia ship hijacking enters 23rd day",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2607920/sailors-families-protest-as-somalia-ship-hijacking-enters-23rd-day",
-      "published_date": "2026-05-13T11:53:24+00:00",
       "category": "Local Events"
     }
   ]
