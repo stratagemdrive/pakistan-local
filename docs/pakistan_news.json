@@ -1,8 +1,22 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-05-16T11:58:07.835759+00:00",
+  "last_updated": "2026-05-16T23:40:45.564347+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Iran’s top diplomat says a lack of trust is impeding talks to end war with the US",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2643863/middle-east",
+      "published_date": "2026-05-17T09:05:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan’s Iran diplomacy effort a model of ‘true statesmanship’, says US congressman in letter to PM, CDF Munir",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2608477/pakistans-iran-diplomacy-effort-a-model-of-true-statesmanship-us-congressman-bergman",
+      "published_date": "2026-05-16T09:27:49+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump–Xi summit highlights limits of transactional diplomacy",
       "source": "Dawn",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Chinese FM's remarks to Dar on Iran war 'misrepresented' in some media reports, call held with cordiality: FO",
+      "title": "Trump returns from China with stability and a stalemate",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2000199/chinese-fms-remarks-to-dar-on-iran-war-misrepresented-in-some-media-reports-call-held-with-cordiality-fo",
-      "published_date": "2026-05-14T11:04:09+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Govt has not approached PPP on new amendment plan: Bilawal",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2608103/govt-has-not-approached-ppp-on-new-amendment-plan-bilawal",
-      "published_date": "2026-05-14T10:34:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2000721/trump-returns-from-china-with-stability-and-a-stalemate",
+      "published_date": "2026-05-16T14:30:19+00:00",
+      "category": "Military"
     },
     {
       "title": "Hamas confirms killing of military chief after Israeli strike",
@@ -172,6 +179,13 @@
       "category": "Military"
     },
     {
+      "title": "Maldives diver dies in search for bodies of missing Italians",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2643849/world",
+      "published_date": "2026-05-16T08:05:36+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Trump says ISIS second-in-command Abu Bilal al-Minuki eliminated",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2000662/trump-says-isis-second-in-command-abu-bilal-al-minuki-eliminated",
@@ -186,6 +200,13 @@
       "category": "Military"
     },
     {
+      "title": "Drones are making Sudan’s war even deadlier for civilians",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2643847/middle-east",
+      "published_date": "2026-05-16T07:05:54+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Egypt, Pakistan discuss security cooperation, expansion of bilateral ties",
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2643771/pakistan",
@@ -197,6 +218,20 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2000673/trumps-geopolitical-brinkmanship-has-hit-a-wall-with-iran",
       "published_date": "2026-05-16T07:02:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Five suspected terrorists killed in Bannu operations after Fateh Khel attack",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2608457/k-p-police-kills-2-terrorists-linked-to-rescue-1122-driver-murder-in-bannu-encounter",
+      "published_date": "2026-05-16T05:44:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lady constable martyred, husband and child injured in Turbat firing",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2608450/lady-constable-martyred-husband-and-child-injured-in-turbat-firing",
+      "published_date": "2026-05-16T03:38:00+00:00",
       "category": "Military"
     },
     {
@@ -246,41 +281,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2000423/drones-to-fight-school-shooters-one-us-company-says-yes",
       "published_date": "2026-05-15T06:37:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel threatens to sue New York Times over report on sexual abuse of Palestinian inmates",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2000419/israel-threatens-to-sue-new-york-times-over-report-on-sexual-abuse-of-palestinian-inmates",
-      "published_date": "2026-05-15T04:56:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Thirty-six countries approve creation of special tribunal for Ukraine",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2643684/world",
-      "published_date": "2026-05-15T00:05:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran allowing more ships through Strait of Hormuz: state TV",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2643685/middle-east",
-      "published_date": "2026-05-15T00:05:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel strikes Lebanon as talks in US enter second day",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2643688/middle-east",
-      "published_date": "2026-05-15T00:05:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "CIA Director John Ratcliffe met with Raul Castro’s grandson in Havana, US and Cuban officials say",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2643637/world",
-      "published_date": "2026-05-14T23:05:46+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,20 @@
       "category": "Energy"
     },
     {
+      "title": "Iran conflict reshapes energy markets as US gas demand surges",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2000744/iran-conflict-reshapes-energy-markets-as-us-gas-demand-surges",
+      "published_date": "2026-05-16T18:23:22+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Minister chalks up CSS failure rate to lack of preparation, competitive nature of exam",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2000737/minister-chalks-up-css-failure-rate-to-lack-of-preparation-competitive-nature-of-exam",
+      "published_date": "2026-05-16T17:19:13+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Rising diesel costs from Iran war strain US school budgets",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2000700/rising-diesel-costs-from-iran-war-strain-us-school-budgets",
@@ -463,6 +477,13 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2643772/pakistan",
       "published_date": "2026-05-16T08:05:47+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Global investors’ interest in Saudi startups is accelerating",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2643846/business-economy",
+      "published_date": "2026-05-16T07:05:37+00:00",
       "category": "Economy"
     },
     {
@@ -543,25 +564,53 @@
       "category": "Economy"
     },
     {
-      "title": "ADB, AIIB back Pakistan’s first Panda bond for green infrastructure project",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2608254/adb-aiib-back-pakistans-first-panda-bond-for-green-infrastructure-project",
-      "published_date": "2026-05-15T03:10:09+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "IMF highlights ‘Gulf exposure’ as biggest external risk for Pakistan",
+      "title": "FIA to probe agency raid on jewellery shop in Karachi’s Sarafa Bazaar",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2000334/imf-highlights-gulf-exposure-as-biggest-external-risk-for-pakistan",
-      "published_date": "2026-05-15T02:30:42+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2000745/fia-to-probe-agency-raid-on-jewellery-shop-in-karachis-sarafa-bazaar",
+      "published_date": "2026-05-16T18:47:44+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "PM Shehbaz hails ‘historic’ Pakistan-China ties in meeting with Chinese business delegation",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2608248/pm-shehbaz-meets-chinese-business-delegation-to-discuss-digital-economy-cooperation",
-      "published_date": "2026-05-15T02:02:11+00:00",
-      "category": "Economy"
+      "title": "Seven injured as driver in Italian city runs over pedestrians",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2000743/seven-injured-as-driver-in-italian-city-runs-over-pedestrians",
+      "published_date": "2026-05-16T18:08:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Alleged drug queenpin Anmol remanded into police custody till May 22 in narcotics case",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2000709/alleged-drug-queenpin-anmol-remanded-into-police-custody-till-may-22-in-narcotics-case",
+      "published_date": "2026-05-16T17:24:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tens of thousands turn out for UK far-right rally, counter protest",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2000715/tens-of-thousands-turn-out-for-uk-far-right-rally-counter-protest",
+      "published_date": "2026-05-16T16:31:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bannu police kill five militants after launching operation in district",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2000719/bannu-police-kill-five-militants-after-launching-operation-in-district",
+      "published_date": "2026-05-16T16:29:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Law Minister Tarar sees ‘no indication’ of 28th amendment for now",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2000722/law-minister-tarar-sees-no-indication-of-28th-amendment-for-now",
+      "published_date": "2026-05-16T14:46:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "At least eight dead, 25 injured in train collision that sparks bus fire in Thailand",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2000716/at-least-eight-dead-25-injured-in-train-collision-that-sparks-bus-fire-in-thailand",
+      "published_date": "2026-05-16T14:19:37+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Karachi roads paved with good intentions but potholed with reality",
@@ -652,55 +701,6 @@
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2608418/talal-rejects-rumours-about-imrans-health",
       "published_date": "2026-05-15T16:33:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fuel, flour prices push SPI to 14.5%",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2608398/fuel-flour-prices-push-spi-to-145",
-      "published_date": "2026-05-15T15:46:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Punjab govt lifts market closure timing restrictions until June 1",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2000486/punjab-govt-lifts-market-closure-timing-restrictions-until-june-1",
-      "published_date": "2026-05-15T14:55:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hantavirus outbreak tests post-Covid health communications playbook",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2000490/hantavirus-outbreak-tests-post-covid-health-communications-playbook",
-      "published_date": "2026-05-15T14:45:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Aleem Khan blames Punjab, KP govts for delays in highway projects",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2000472/aleem-khan-blames-punjab-kp-govts-for-delays-in-highway-projects",
-      "published_date": "2026-05-15T12:52:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Probe shows foreigners' involvement in network run by alleged drug queenpin Anmol alias Pinky: Karachi AIG",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2000457/probe-shows-foreigners-involvement-in-network-run-by-alleged-drug-queenpin-anmol-alias-pinky-karachi-aig",
-      "published_date": "2026-05-15T12:46:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hostage crew’s video surfaces after 26 days in Somali pirate captivity",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2608340/hostage-crews-video-surfaces-after-26-days-in-somali-pirate-captivity",
-      "published_date": "2026-05-15T12:24:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "One interaction cannot be viewed in isolation, says PPP's Shazia Marri after Bilawal's mid-presser curtness",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2000440/one-interaction-cannot-be-viewed-in-isolation-says-ppps-shazia-marri-after-bilawals-mid-presser-curtness",
-      "published_date": "2026-05-15T09:49:27+00:00",
       "category": "Local Events"
     }
   ]
