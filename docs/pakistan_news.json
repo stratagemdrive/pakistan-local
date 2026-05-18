@@ -1,8 +1,15 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-05-18T14:36:04.969259+00:00",
+  "last_updated": "2026-05-18T23:54:59.492662+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Israeli forces reportedly detain Saad Edhi, others after intercepting Gaza aid flotilla",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2001229/israeli-forces-reportedly-detain-saad-edhi-others-after-intercepting-gaza-aid-flotilla",
+      "published_date": "2026-05-18T15:10:29+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "In Tehran, Naqvi keeps diplomatic channel open",
       "source": "Dawn",
@@ -137,11 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Khamenei casts resistance as national creed",
+      "title": "Jury rules against Musk in blockbuster OpenAI trial",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2000624/khamenei-casts-resistance-as-national-creed",
-      "published_date": "2026-05-16T02:45:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2001311/jury-rules-against-musk-in-blockbuster-openai-trial",
+      "published_date": "2026-05-18T19:02:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan condemns drone strike on Saudi Arabia, expresses solidarity with Riyadh",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2001312/pakistan-condemns-drone-strike-on-saudi-arabia-expresses-solidarity-with-riyadh",
+      "published_date": "2026-05-18T18:51:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "India will be ‘relegated to history’ if it attempts misadventure against Pakistan",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2001298/india-will-be-relegated-to-history-if-it-attempts-misadventure-against-pakistan",
+      "published_date": "2026-05-18T17:56:13+00:00",
+      "category": "Military"
     },
     {
       "title": "Gaza-bound flotilla says Israeli forces intercepting fleet near Cyprus",
@@ -158,10 +179,38 @@
       "category": "Military"
     },
     {
+      "title": "Cuba warns of ‘bloodbath’ if US attacks; Washington adds sanctions",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2644070/world",
+      "published_date": "2026-05-18T08:05:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump says holding off on Iran attack planned for Tuesday",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2644062/middle-east",
+      "published_date": "2026-05-18T07:05:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan condemns drone attacks against Saudi Arabia, vows ‘unwavering support’ for Kingdom",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2644059/pakistan",
+      "published_date": "2026-05-18T06:05:07+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Military jets' crew members safely ejected after Idaho air show collision, US Navy says",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2001118/military-jets-crew-members-safely-ejected-after-idaho-air-show-collision-us-navy-says",
       "published_date": "2026-05-18T05:14:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Palestinian president’s son vows to put ‘Gaza first’",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2644053/middle-east",
+      "published_date": "2026-05-18T05:05:35+00:00",
       "category": "Military"
     },
     {
@@ -232,55 +281,6 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2644018/middle-east",
       "published_date": "2026-05-17T23:05:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US conducts follow-up strikes against militants in Nigeria’s northeast",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2644013/world",
-      "published_date": "2026-05-17T22:05:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "PM Shehbaz credits 'political-military partnership' for Pakistan's recognition as US-Iran mediator, changed image",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2000962/pm-shehbaz-credits-political-military-partnership-for-pakistans-recognition-as-us-iran-mediator-changed-image",
-      "published_date": "2026-05-17T18:59:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Applicants will soon have the option to get passports delivered to their doorsteps, says official",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2000939/applicants-will-soon-have-the-option-to-get-passports-delivered-to-their-doorsteps-says-official",
-      "published_date": "2026-05-17T15:12:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan 'critical counter-terrorism partner' in US fight against IS-K: Centcom",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2000930/pakistan-critical-counter-terrorism-partner-in-us-fight-against-is-k-centcom",
-      "published_date": "2026-05-17T13:53:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Time for ‘legal diplomacy’",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2000841/time-for-legal-diplomacy",
-      "published_date": "2026-05-17T11:36:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran have ‘constructive’ meeting with FIFA over World Cup preparations",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2643899/sport",
-      "published_date": "2026-05-17T09:05:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "ISPR takes exception after Indian army chief says Pakistan should decide between being 'part of geography' or not",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2000883/ispr-takes-exception-after-indian-army-chief-says-pakistan-should-decide-between-being-part-of-geography-or-not",
-      "published_date": "2026-05-17T07:44:51+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "PM Shehbaz reviews Rs1.5tr PSDP, directs more funds for well-performing ministries",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2001296/pm-shehbaz-reviews-rs15tr-psdp-directs-more-funds-for-well-performing-ministries",
+      "published_date": "2026-05-18T16:43:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "UAE standardises deadline for payments of private-sector salaries",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2001273/uae-standardises-deadline-for-payments-of-private-sector-salaries",
@@ -557,11 +564,46 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Arabia to host first professional T20 cricket competition",
+      "title": "Maduro ally is charged in Venezuela bribery case after deportation to US",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2643751/cricket",
-      "published_date": "2026-05-16T09:05:03+00:00",
-      "category": "Economy"
+      "url": "https://www.arabnews.pk/node/2644073/world",
+      "published_date": "2026-05-19T09:05:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arsenal on the brink of Premier League title after nervy Burnley win",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2644074/sport",
+      "published_date": "2026-05-18T22:05:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opposition lawmakers stage protest in National Assembly, demand medical care for Imran",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2001309/opposition-lawmakers-stage-protest-in-national-assembly-demand-medical-care-for-imran",
+      "published_date": "2026-05-18T18:41:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Flawed tests and funerals allowed Ebola to spread undetected in Congo",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2001289/flawed-tests-and-funerals-allowed-ebola-to-spread-undetected-in-congo",
+      "published_date": "2026-05-18T16:11:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PDMA forecasts rain, dust-thunderstorms in Punjab districts until Saturday",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2001283/pdma-forecasts-rain-dust-thunderstorms-in-punjab-districts-until-saturday",
+      "published_date": "2026-05-18T15:44:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "K-P Assembly passes resolution on Pakistanis’ plight in Gulf",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2608839/k-p-assembly-passes-resolution-on-pakistanis-plight-in-gulf",
+      "published_date": "2026-05-18T13:36:32+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Anmol alias Pinky alleges pressure to ‘take names’ as court extends physical remand in murder case",
@@ -575,6 +617,20 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2001263/ihc-seeks-cda-response-on-appeals-of-one-constitution-avenue-apartment-sub-lessees",
       "published_date": "2026-05-18T13:18:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "IHC issues CDA notice in One Constitution Avenue case",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2608837/ihc-issues-cda-notice-in-one-constitution-avenue-case",
+      "published_date": "2026-05-18T13:05:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Animal rights groups accuse Punjab authorities of resuming stray dog killings",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2608834/animal-rights-groups-accuse-punjab-authorities-of-resuming-stray-dog-killings",
+      "published_date": "2026-05-18T12:47:33+00:00",
       "category": "Local Events"
     },
     {
@@ -613,6 +669,13 @@
       "category": "Local Events"
     },
     {
+      "title": "K-P CM Afridi and Governor Kundi unite on provincial rights, vow joint fight",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2608825/k-p-cm-afridi-and-governor-kundi-unite-on-provincial-rights-vow-joint-fight",
+      "published_date": "2026-05-18T11:42:11+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Markets, shops, eateries exempted from early closure timings till May 31",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2001253/markets-shops-eateries-exempted-from-early-closure-timings-till-may-31",
@@ -638,69 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2001233/no-need-for-28th-constitutional-amendment-says-raza-rabbani",
       "published_date": "2026-05-18T10:09:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iranian Nobel laureate Narges Mohammadi released from hospital",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2644008/middle-east",
-      "published_date": "2026-05-18T09:05:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tarar criticises K-P cabinet expansion, says corruption and mismanagement at peak in province",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2608798/tarar-criticises-k-p-cabinet-expansion-says-corruption-and-mismanagement-at-peak-in-province",
-      "published_date": "2026-05-18T06:55:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2 cops martyred as speeding dumper crashes into parked police van on M9 Motorway",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2001115/2-cops-martyred-as-speeding-dumper-crashes-into-parked-police-van-on-m9-motorway",
-      "published_date": "2026-05-18T06:08:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Karachi court extends drug queenpin Pinky’s physical remand by four days",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2608778/karachi-court-extends-drug-queenpin-pinkys-physical-remand-by-four-days",
-      "published_date": "2026-05-18T03:10:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "35 terrorists killed during action in hills around Quetta",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2001014/35-terrorists-killed-during-action-in-hills-around-quetta",
-      "published_date": "2026-05-18T02:44:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Proposal to raise voting age to 25 finds few takers",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2001025/proposal-to-raise-voting-age-to-25-finds-few-takers",
-      "published_date": "2026-05-18T02:07:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan explores tokenized sovereign bonds in push to modernize capital markets",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2644037/pakistan",
-      "published_date": "2026-05-18T01:05:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Motorways ban animal transport vehicles",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2608732/motorways-ban-animal-transport-vehicles",
-      "published_date": "2026-05-17T20:42:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Blue Area visitors protest parking charges",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2608720/blue-area-visitors-protest-parking-charges",
-      "published_date": "2026-05-17T20:35:00+00:00",
       "category": "Local Events"
     }
   ]
