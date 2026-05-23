@@ -1,8 +1,36 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-05-23T12:03:04.154364+00:00",
+  "last_updated": "2026-05-23T23:46:35.433222+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "France bans Israeli security minister Ben-Gvir from country",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2002539/france-bans-israeli-security-minister-ben-gvir-from-country",
+      "published_date": "2026-05-23T16:03:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saad Edhi arrives in Karachi after release from illegal Israeli detention",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2002537/saad-edhi-arrives-in-karachi-after-release-from-illegal-israeli-detention",
+      "published_date": "2026-05-23T14:37:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rubio meets Modi, renewing ties with India after US-China summit",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2002483/rubio-meets-modi-renewing-ties-with-india-after-us-china-summit",
+      "published_date": "2026-05-23T13:12:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "CPEC 2.0 in focus as PM Shehbaz visits China",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2609716/cpec-20-in-focus-as-pm-shehbaz-visits-china",
+      "published_date": "2026-05-23T13:04:56+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "PM Shehbaz lands in Hangzhou, kicking off 4-day China visit",
       "source": "Dawn",
@@ -116,32 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Why the British Museum’s removal of ‘Palestine’ from panels stirred up a political storm",
+      "title": "Trump says US, Iran nearing peace deal after talks involving Pakistan army chief",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2644512/world",
-      "published_date": "2026-05-21T07:05:27+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.arabnews.pk/node/2644733/pakistan",
+      "published_date": "2026-05-24T09:05:03+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN council urged to use ‘every means at its disposal’ to press Hamas to disarm",
+      "title": "Russian director Zvyagintsev denounces Ukraine war ‘carnage’ at Cannes awards",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2644511/middle-east",
-      "published_date": "2026-05-21T07:05:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.arabnews.pk/node/2644737/world",
+      "published_date": "2026-05-23T22:05:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "Modi govt’s tightly controlled script comes under Dutch journalistic scrutiny",
+      "title": "'Encouraging progress' made during CDF Munir's Tehran visit: ISPR",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2001996/modi-govts-tightly-controlled-script-comes-under-dutch-journalistic-scrutiny",
-      "published_date": "2026-05-21T06:38:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2002541/encouraging-progress-made-during-cdf-munirs-tehran-visit-ispr",
+      "published_date": "2026-05-23T17:34:48+00:00",
+      "category": "Military"
     },
     {
-      "title": "US sanctions nine over Hezbollah ties, including Lebanese MPs",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2644499/middle-east",
-      "published_date": "2026-05-21T06:05:13+00:00",
-      "category": "Diplomacy"
+      "title": "Congressional report details losses of 42 US aircraft in Iran campaign",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2002532/congressional-report-details-losses-of-42-us-aircraft-in-iran-campaign",
+      "published_date": "2026-05-23T16:51:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Haj pilgrim numbers surpass 2025 arrivals despite Middle East war",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2002531/haj-pilgrim-numbers-surpass-2025-arrivals-despite-middle-east-war",
+      "published_date": "2026-05-23T12:43:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "9 suspected terrorists killed, four CTD officials martyred in Balochistan gunbattle",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2609699/9-suspected-terrorists-killed-four-ctd-officials-martyred-in-balochistan-gunbattle",
+      "published_date": "2026-05-23T10:44:42+00:00",
+      "category": "Military"
     },
     {
       "title": "Hajj pilgrim numbers surpass 2025 arrivals despite Middle East war",
@@ -176,6 +218,13 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2644658/pakistan",
       "published_date": "2026-05-23T08:05:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Encouraging progress' made towards final understanding after CDF Munir's 'highly productive' Iran visit: ISPR",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2609677/encouraging-progress-made-towards-final-understanding-after-cdf-munirs-highly-productive-iran-visit",
+      "published_date": "2026-05-23T07:27:22+00:00",
       "category": "Military"
     },
     {
@@ -232,55 +281,6 @@
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2609626/over-6k-workers-to-ensure-post-eid-cleanup",
       "published_date": "2026-05-22T15:49:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan honoured at Drone Congress",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2609606/pakistan-honoured-at-drone-congress",
-      "published_date": "2026-05-22T15:10:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Weekly inflation rate stands above 14%",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2609598/weekly-inflation-rate-stands-above-14",
-      "published_date": "2026-05-22T15:10:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US releases second batch of government declassified UFO files",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2002290/us-releases-second-batch-of-government-declassified-ufo-files",
-      "published_date": "2026-05-22T14:36:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "CDF Asim Munir leaves for official visit to Iran: security sources",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2002286/cdf-asim-munir-leaves-for-official-visit-to-iran-security-sources",
-      "published_date": "2026-05-22T13:29:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Most relentlessly cruel’: Gaza flotilla activists tell harrowing accounts of abuse in Israeli custody",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2002259/most-relentlessly-cruel-gaza-flotilla-activists-tell-harrowing-accounts-of-abuse-in-israeli-custody",
-      "published_date": "2026-05-22T12:57:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "22 killed as deadly clashes erupt between TTP, JuA factions in K-P's Kurram",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2609566/22-killed-as-deadly-clashes-erupt-between-ttp-jua-factions-in-k-ps-kurram",
-      "published_date": "2026-05-22T12:55:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan, Turkiye air forces reaffirm ‘growing strategic convergence’ in defence sector: ISPR",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2002276/pakistan-turkiye-air-forces-reaffirm-growing-strategic-convergence-in-defence-sector-ispr",
-      "published_date": "2026-05-22T12:35:34+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Traders’ coalition demands turnover tax be reduced to 0.5pc",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2002563/traders-coalition-demands-turnover-tax-be-reduced-to-05pc",
+      "published_date": "2026-05-23T17:03:07+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "PM pushes investment under SIFC umbrella",
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2609636/pm-pushes-investment-under-sifc-umbrella",
@@ -557,11 +564,25 @@
       "category": "Economy"
     },
     {
-      "title": "PSX surges over 3,000 points in early trading",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2609312/psx-surges-over-3000-points-in-early-trading",
-      "published_date": "2026-05-21T02:59:53+00:00",
-      "category": "Economy"
+      "title": "‘Clever and street-smart’: Police say Anmol did not employ anyone permanently",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2002572/clever-and-street-smart-police-say-anmol-did-not-employ-anyone-permanently",
+      "published_date": "2026-05-23T20:25:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Balochistan CTD kills 4 alleged terrorists in Pishin operation",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2002528/balochistan-ctd-kills-4-alleged-terrorists-in-pishin-operation",
+      "published_date": "2026-05-23T12:38:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Punjab CTD arrests 13 suspected terrorists in province-wide crackdown",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2002529/punjab-ctd-arrests-13-suspected-terrorists-in-province-wide-crackdown",
+      "published_date": "2026-05-23T12:25:16+00:00",
+      "category": "Local Events"
     },
     {
       "title": "KP announces four Eid holidays from May 26 to 29",
@@ -575,6 +596,20 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2002493/12-terrorists-killed-one-person-dead-in-heavy-fighting-between-police-militants-in-kps-bannu",
       "published_date": "2026-05-23T11:45:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saad Edhi welcomed at Karachi airport after release from flotilla detention",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2609705/saad-edhi-welcomed-at-karachi-airport-after-release-from-flotilla-detention",
+      "published_date": "2026-05-23T11:36:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fact-check: Punjab govt has so far not restored pre-partition street, locality names in Lahore",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2609698/fact-check-punjab-govt-has-so-far-not-restored-pre-partition-street-locality-names-in-lahore",
+      "published_date": "2026-05-23T10:19:14+00:00",
       "category": "Local Events"
     },
     {
@@ -603,6 +638,13 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2644657/middle-east",
       "published_date": "2026-05-23T08:05:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan says nine separatist militants, four police personnel killed in southwest operations",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2644723/pakistan",
+      "published_date": "2026-05-23T07:05:54+00:00",
       "category": "Local Events"
     },
     {
@@ -659,48 +701,6 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2644635/world",
       "published_date": "2026-05-22T22:05:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Actor Momina Iqbal seeks FIR against PML-N MPA over alleged blackmail and harassment",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2002319/actor-momina-iqbal-seeks-fir-against-pml-n-mpa-over-alleged-blackmail-and-harassment",
-      "published_date": "2026-05-22T18:54:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PTI workers stage protests in various cities, defy Section 144 in Islamabad",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2002316/pti-workers-stage-protests-in-various-cities-defy-section-144-in-islamabad",
-      "published_date": "2026-05-22T18:36:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Renowned infectious diseases expert Dr Naseem Salahuddin passes away",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2002313/renowned-infectious-diseases-expert-dr-naseem-salahuddin-passes-away",
-      "published_date": "2026-05-22T17:37:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ebola risk now at highest level in DR Congo, says WHO",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2002301/ebola-risk-now-at-highest-level-in-dr-congo-says-who",
-      "published_date": "2026-05-22T15:55:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NCCIA uncovers gang selling data of govt officials to foreign entities; four arrested",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2002298/nccia-uncovers-gang-selling-data-of-govt-officials-to-foreign-entities-four-arrested",
-      "published_date": "2026-05-22T14:53:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PPP Chairman Bilawal Bhutto inaugurates 39km-long Shahrah-i-Bhutto linking Qayyumabad to M9 Motorway",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2002279/ppp-chairman-bilawal-bhutto-inaugurates-39km-long-shahrah-i-bhutto-linking-qayyumabad-to-m9-motorway",
-      "published_date": "2026-05-22T13:17:23+00:00",
       "category": "Local Events"
     }
   ]
