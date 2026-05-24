@@ -1,6 +1,6 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-05-24T12:05:47.465780+00:00",
+  "last_updated": "2026-05-24T23:50:18.675927+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -15,6 +15,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2002763/illegal-unacceptable-pakistan-13-other-nations-condemn-somalilands-announcement-of-opening-embassy-in-jerusalem",
       "published_date": "2026-05-24T11:30:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What We Are Reading Today: Vested Interests by Emilie Connolly",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2644822/books",
+      "published_date": "2026-05-24T08:05:58+00:00",
       "category": "Diplomacy"
     },
     {
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Govt denies UAE targeting Pakistanis",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2609442/govt-denies-uae-targeting-pakistanis",
-      "published_date": "2026-05-21T16:13:55+00:00",
-      "category": "Diplomacy"
+      "title": "What we know about the possible US-Iran deal",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2002774/what-we-know-about-the-possible-us-iran-deal",
+      "published_date": "2026-05-24T18:17:46+00:00",
+      "category": "Military"
     },
     {
       "title": "Security forces kill 11 terrorists in KP's North Waziristan: ISPR",
@@ -162,6 +169,34 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2644733/pakistan",
       "published_date": "2026-05-24T09:05:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hajj pilgrim numbers surpass 2025 arrivals despite Middle East war",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2644824/saudi-arabia",
+      "published_date": "2026-05-24T08:05:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US, Iran expected to sign initial MoU before Eid holiday — Pakistani official",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2644827/pakistan",
+      "published_date": "2026-05-24T08:05:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Tearful Kostyuk reaches French Open 2nd round",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2644826/sport",
+      "published_date": "2026-05-24T08:05:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "11 terrorists killed during IBOs in K-P's North Waziristan: ISPR",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2609829/11-terrorists-killed-during-ibos-in-k-ps-north-waziristan-ispr",
+      "published_date": "2026-05-24T06:35:57+00:00",
       "category": "Military"
     },
     {
@@ -249,39 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "'Encouraging progress' made during CDF Munir's Tehran visit: ISPR",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2002541/encouraging-progress-made-during-cdf-munirs-tehran-visit-ispr",
-      "published_date": "2026-05-23T17:34:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Congressional report details losses of 42 US aircraft in Iran campaign",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2002532/congressional-report-details-losses-of-42-us-aircraft-in-iran-campaign",
-      "published_date": "2026-05-23T16:51:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Haj pilgrim numbers surpass 2025 arrivals despite Middle East war",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2002531/haj-pilgrim-numbers-surpass-2025-arrivals-despite-middle-east-war",
-      "published_date": "2026-05-23T12:43:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "9 suspected terrorists killed, four CTD officials martyred in Balochistan gunbattle",
+      "title": "Punjab pushes waste-to-energy plan to tackle pollution, boost green investment",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2609699/9-suspected-terrorists-killed-four-ctd-officials-martyred-in-balochistan-gunbattle",
-      "published_date": "2026-05-23T10:44:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hajj pilgrim numbers surpass 2025 arrivals despite Middle East war",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2644661/middle-east",
-      "published_date": "2026-05-23T09:05:50+00:00",
-      "category": "Military"
+      "url": "https://tribune.com.pk/story/2609855/punjab-pushes-waste-to-energy-plan-to-tackle-pollution-boost-green-investment",
+      "published_date": "2026-05-24T10:31:44+00:00",
+      "category": "Energy"
     },
     {
       "title": "Heatstroke kills 16 in southern India as temperatures climb",
@@ -417,17 +424,24 @@
       "category": "Energy"
     },
     {
-      "title": "Oil ministry seeks Rs1tr levy cap",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2609267/oil-ministry-seeks-rs1tr-levy-cap",
-      "published_date": "2026-05-20T16:03:49+00:00",
-      "category": "Energy"
+      "title": "PM Shehbaz lands in Beijing, will hold 'high-level' meetings with Chinese leadership",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2002753/pm-shehbaz-lands-in-beijing-will-hold-high-level-meetings-with-chinese-leadership",
+      "published_date": "2026-05-24T21:05:20+00:00",
+      "category": "Economy"
     },
     {
       "title": "PM Shehbaz showcases agri, IT, SEZs, mines and minerals as key areas for Pak-China cooperation",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2002753/pm-shehbaz-showcases-agri-it-sezs-mines-and-minerals-as-key-areas-for-pak-china-cooperation",
       "published_date": "2026-05-24T10:56:14+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pakistani, Chinese firms sign over $7b agreements at Hangzhou conference",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2609832/pm-invites-chinese-firms-to-relocate-industries-to-pakistan-under-win-win-partnership-model",
+      "published_date": "2026-05-24T06:47:42+00:00",
       "category": "Economy"
     },
     {
@@ -550,18 +564,60 @@
       "category": "Economy"
     },
     {
-      "title": "Trump says he will not attend son Donald Trump Jr.’s wedding",
+      "title": "How Congo is battling an Ebola outbreak complicated by aid cuts, armed rebels and anger",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2644627/world",
-      "published_date": "2026-05-22T08:05:27+00:00",
-      "category": "Economy"
+      "url": "https://www.arabnews.pk/node/2644830/world",
+      "published_date": "2026-05-24T22:05:57+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "PSX down 670 points on profit-taking ahead of Eid",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2609514/psx-down-670-points-on-profit-taking-ahead-of-eid",
-      "published_date": "2026-05-22T07:33:16+00:00",
-      "category": "Economy"
+      "title": "Arsenal lift Premier League trophy after beating Palace",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2644831/sport",
+      "published_date": "2026-05-24T22:05:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Heinous crime against humanity': Condemnations pour in after suicide bombing in Quetta",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2002781/heinous-crime-against-humanity-condemnations-pour-in-after-suicide-bombing-in-quetta",
+      "published_date": "2026-05-24T20:48:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "At least 14 killed, 20 injured in suicide bombing targeting shuttle train in Quetta: Balochistan govt",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2002744/at-least-14-killed-20-injured-in-suicide-bombing-targeting-shuttle-train-in-quetta-balochistan-govt",
+      "published_date": "2026-05-24T19:46:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan, 7 other nations condemn Israeli minister's 'appalling' actions against Gaza aid flotilla activists",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2002805/pakistan-7-other-nations-condemn-israeli-ministers-appalling-actions-against-gaza-aid-flotilla-activists",
+      "published_date": "2026-05-24T19:40:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PTI confirms Barrister Gohar, Sohail Afridi's meeting with Naqvi; says discussion focused on terrorism in KP",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2002796/pti-confirms-barrister-gohar-sohail-afridis-meeting-with-naqvi-says-discussion-focused-on-terrorism-in-kp",
+      "published_date": "2026-05-24T19:20:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gwadar University VC, pro-vice chancellor return home 10 days after they were reported missing",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2002789/gwadar-university-vc-pro-vice-chancellor-return-home-10-days-after-they-were-reported-missing",
+      "published_date": "2026-05-24T17:39:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "China launches three-crew space flight as part of Moon ambitions",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2002786/china-launches-three-crew-space-flight-as-part-of-moon-ambitions",
+      "published_date": "2026-05-24T16:14:17+00:00",
+      "category": "Local Events"
     },
     {
       "title": "At least 14 killed in Quetta shuttle train blast: Balochistan govt",
@@ -599,6 +655,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Guardiola and Salah say Premier League farewells",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2644825/sport",
+      "published_date": "2026-05-24T08:05:28+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "TikToker held in Faisalabad for using obscene language for female tourists in Naran",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2002608/tiktoker-held-in-faisalabad-for-using-obscene-language-for-female-tourists-in-naran",
@@ -620,6 +683,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Pakistan’s Gwadar port berths vessel with 53,000 metric tons amid rise in transshipment",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2644810/pakistan",
+      "published_date": "2026-05-24T06:05:28+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Karachi Museum of History to be built by the seaside",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2002626/karachi-museum-of-history-to-be-built-by-the-seaside",
@@ -631,76 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2002551/smokers-corner-rewriting-the-pakistan-narrative",
       "published_date": "2026-05-24T05:05:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PTI denounces crackdown on ‘nationwide protest’",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2002660/pti-denounces-crackdown-on-nationwide-protest",
-      "published_date": "2026-05-24T03:55:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Records of charges against US Capitol rioters removed",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2002645/records-of-charges-against-us-capitol-rioters-removed",
-      "published_date": "2026-05-24T03:37:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SC upholds consecutive life terms in multiple murder cases",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2002649/sc-upholds-consecutive-life-terms-in-multiple-murder-cases",
-      "published_date": "2026-05-24T02:53:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "25 terrorists killed in Bannu clash",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2002648/25-terrorists-killed-in-bannu-clash",
-      "published_date": "2026-05-24T02:40:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In Spectrum: Memory, migration and making of Lahore’s urban soul (Part-I)",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2002609/in-spectrum-memory-migration-and-making-of-lahores-urban-soul-part-i",
-      "published_date": "2026-05-24T01:56:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four CTD men martyred in operation near Quetta",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2002658/four-ctd-men-martyred-in-operation-near-quetta",
-      "published_date": "2026-05-24T01:55:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan to launch ‘digital corridor’ with Saudi Arabia to streamline Hajj operations",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2644787/pakistan",
-      "published_date": "2026-05-23T23:05:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Clever and street-smart’: Police say Anmol did not employ anyone permanently",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2002572/clever-and-street-smart-police-say-anmol-did-not-employ-anyone-permanently",
-      "published_date": "2026-05-23T20:25:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Balochistan CTD kills 4 alleged terrorists in Pishin operation",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2002528/balochistan-ctd-kills-4-alleged-terrorists-in-pishin-operation",
-      "published_date": "2026-05-23T12:38:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Punjab CTD arrests 13 suspected terrorists in province-wide crackdown",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2002529/punjab-ctd-arrests-13-suspected-terrorists-in-province-wide-crackdown",
-      "published_date": "2026-05-23T12:25:16+00:00",
       "category": "Local Events"
     }
   ]
