@@ -1,8 +1,15 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-05-25T14:14:49.920974+00:00",
+  "last_updated": "2026-05-25T23:54:58.341582+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Deputy PM Dar to visit New York from May 26-28 for UN meetings",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003042/deputy-pm-dar-to-visit-new-york-from-may-26-28-for-un-meetings",
+      "published_date": "2026-05-25T15:40:44+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "China's Xi hails 'unbreakable' ties, praises Pakistan's role in Iran peace efforts as he meets PM Shehbaz",
       "source": "Dawn",
@@ -137,11 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Rubio starts first visit to India on heels of US-China summit",
+      "title": "Trump demands widespread sign-up to Abraham Accords as part of Iran peace deal",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2002483/rubio-starts-first-visit-to-india-on-heels-of-us-china-summit",
-      "published_date": "2026-05-23T06:01:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2003043/trump-demands-widespread-sign-up-to-abraham-accords-as-part-of-iran-peace-deal",
+      "published_date": "2026-05-25T18:11:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "In pictures: Saudi security personnel on alert as pilgrims pour into Makkah for Haj",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003059/in-pictures-saudi-security-personnel-on-alert-as-pilgrims-pour-into-makkah-for-haj",
+      "published_date": "2026-05-25T18:03:44+00:00",
+      "category": "Military"
     },
     {
       "title": "WHO chief says suspected Ebola deaths at 220 and 'epidemic is outpacing us'",
@@ -165,6 +179,13 @@
       "category": "Military"
     },
     {
+      "title": "What the Al-Saadi arrest reveals about the threat of global decentralized terrorism",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2644924/world",
+      "published_date": "2026-05-25T08:05:11+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Haj begins as Middle East war's trajectory hangs in the balance",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2002985/haj-begins-as-middle-east-wars-trajectory-hangs-in-the-balance",
@@ -179,6 +200,13 @@
       "category": "Military"
     },
     {
+      "title": "Migrants step up to support community in war-hit Beirut",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2644907/middle-east",
+      "published_date": "2026-05-25T05:05:44+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Final paperwork eludes Iran, US",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2002888/final-paperwork-eludes-iran-us",
@@ -190,6 +218,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2002882/govt-plans-wapda-security-force-for-water-projects",
       "published_date": "2026-05-25T02:26:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war poses new threat to harvests in hunger-stricken Sudan",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2644899/middle-east",
+      "published_date": "2026-05-25T02:05:32+00:00",
       "category": "Military"
     },
     {
@@ -249,39 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Man dies after shark attack on Australia’s Great Barrier Reef",
+      "title": "UK beats May heat record with 33.5C registered near London",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2644764/world",
-      "published_date": "2026-05-24T06:05:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli fire kills parents and their infant in Gaza, medics say",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2644763/middle-east",
-      "published_date": "2026-05-24T06:05:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Elusive peace",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2002682/elusive-peace",
-      "published_date": "2026-05-24T04:54:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Neighbour to a superpower",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2002685/neighbour-to-a-superpower",
-      "published_date": "2026-05-24T04:44:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "16 militants killed, 2 policemen martyred in Bannu joint operation",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2609817/16-militants-killed-2-policemen-martyred-in-bannu-joint-operation",
-      "published_date": "2026-05-24T04:28:55+00:00",
-      "category": "Military"
+      "url": "https://www.arabnews.pk/node/2644900/world",
+      "published_date": "2026-05-25T03:05:26+00:00",
+      "category": "Energy"
     },
     {
       "title": "Punjab pushes waste-to-energy plan to tackle pollution, boost green investment",
@@ -417,11 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "Australia secures jet fuel from China to keep flying in energy squeeze",
+      "title": "Aga Khan vows commitment to K-P’s development in meeting with CM Afridi",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2610035/aga-khan-vows-commitment-to-k-ps-development-in-meeting-with-cm-afridi",
+      "published_date": "2026-05-25T13:51:13+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Saudi Arabia’s premium dining sector turns to new financing models",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2644388/world",
-      "published_date": "2026-05-20T22:05:25+00:00",
-      "category": "Energy"
+      "url": "https://www.arabnews.pk/node/2644921/business-economy",
+      "published_date": "2026-05-25T07:05:54+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pakistan Eid retail sales plunge by up to 60 percent amid inflation, higher taxes — traders",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2644908/pakistan",
+      "published_date": "2026-05-25T05:05:53+00:00",
+      "category": "Economy"
     },
     {
       "title": "Pakistan, China sign agreements spanning agriculture, education, media and trade",
@@ -543,25 +564,32 @@
       "category": "Economy"
     },
     {
-      "title": "IMC to invest $335m over five years",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2609737/imc-to-invest-335m-over-five-years",
-      "published_date": "2026-05-23T15:10:08+00:00",
-      "category": "Economy"
+      "title": "'Mini version of hell': Heat dome over Europe scorches UK, France, Spain",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003065/mini-version-of-hell-heat-dome-over-europe-scorches-uk-france-spain",
+      "published_date": "2026-05-25T18:48:25+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "PM pushes investment under SIFC umbrella",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2609636/pm-pushes-investment-under-sifc-umbrella",
-      "published_date": "2026-05-22T15:57:25+00:00",
-      "category": "Economy"
+      "title": "Margalla Hills fire brought under control, cooling process underway: district admin",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003045/margalla-hills-fire-brought-under-control-cooling-process-underway-district-admin",
+      "published_date": "2026-05-25T18:35:22+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Govt mulls lifting cap on remittances",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2609600/govt-mulls-lifting-cap-on-remittances",
-      "published_date": "2026-05-22T15:10:47+00:00",
-      "category": "Economy"
+      "title": "Opposition may quit assemblies if govt does not change its attitude towards Imran: Achakzai",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003056/opposition-may-quit-assemblies-if-govt-does-not-change-its-attitude-towards-imran-achakzai",
+      "published_date": "2026-05-25T17:09:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Newly married couple shot dead in Karachi’s Malir area: police",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003054/newly-married-couple-shot-dead-in-karachis-malir-area-police",
+      "published_date": "2026-05-25T16:50:19+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Fire erupts in Islamabad's Margalla Hills, hiking trails temporarily closed: district admin",
@@ -578,10 +606,24 @@
       "category": "Local Events"
     },
     {
+      "title": "Newly wed Karachi couple gunned down in Malir",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2610034/newly-wed-karachi-couple-gunned-down-in-malir",
+      "published_date": "2026-05-25T13:47:28+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Militants blow up govt school, basic health unit in KP's Tank",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2003026/militants-blow-up-govt-school-basic-health-unit-in-kps-tank",
       "published_date": "2026-05-25T12:22:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Water war erupts in Sindh Assembly as tensions flood the house",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2610028/water-war-erupts-in-sindh-assembly-as-tensions-flood-the-house",
+      "published_date": "2026-05-25T12:17:36+00:00",
       "category": "Local Events"
     },
     {
@@ -627,6 +669,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Islamabad to deploy over 7,000 police personnel to ensure security on Eid Al-Adha",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2644918/pakistan",
+      "published_date": "2026-05-25T07:05:47+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "17 killed in bus collision on Pakistan’s Swat Expressway",
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2644864/pakistan",
@@ -648,59 +697,10 @@
       "category": "Local Events"
     },
     {
-      "title": "Murad asks contractors to increase manpower for ‘timely completion’ of Karachi's Red Line project",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2002849/murad-asks-contractors-to-increase-manpower-for-timely-completion-of-karachis-red-line-project",
-      "published_date": "2026-05-25T03:28:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Outrage in Spain after police beat Gaza flotilla activists",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2002875/outrage-in-spain-after-police-beat-gaza-flotilla-activists",
-      "published_date": "2026-05-25T02:44:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan court halts evictions at Islamabad luxury flats complex pending appeals",
+      "title": "Israeli fire kills six-year-old girl and a woman in Gaza, medics say",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2644888/pakistan",
-      "published_date": "2026-05-25T00:05:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Congo is battling an Ebola outbreak complicated by aid cuts, armed rebels and anger",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2644830/world",
-      "published_date": "2026-05-24T22:05:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Arabia condemns deadly train bombing in Pakistan’s Balochistan province",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2644878/pakistan",
-      "published_date": "2026-05-24T22:05:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arsenal lift Premier League trophy after beating Palace",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2644831/sport",
-      "published_date": "2026-05-24T22:05:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Heinous crime against humanity': Condemnations pour in after suicide bombing in Quetta",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2002781/heinous-crime-against-humanity-condemnations-pour-in-after-suicide-bombing-in-quetta",
-      "published_date": "2026-05-24T20:48:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "At least 14 killed, 20 injured in suicide bombing targeting shuttle train in Quetta: Balochistan govt",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2002744/at-least-14-killed-20-injured-in-suicide-bombing-targeting-shuttle-train-in-quetta-balochistan-govt",
-      "published_date": "2026-05-24T19:46:19+00:00",
+      "url": "https://www.arabnews.pk/node/2644904/middle-east",
+      "published_date": "2026-05-25T04:05:20+00:00",
       "category": "Local Events"
     }
   ]
