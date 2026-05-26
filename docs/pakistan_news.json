@@ -1,8 +1,22 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-05-26T14:08:24.377962+00:00",
+  "last_updated": "2026-05-26T23:56:17.307425+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Pakistan stresses need for restraint, de-escalation in Iran-US conflict",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003210/pakistan-stresses-need-for-restraint-de-escalation-in-iran-us-conflict",
+      "published_date": "2026-05-26T17:20:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why Trump's Abraham Accords push is a non-starter",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003282/why-trumps-abraham-accords-push-is-a-non-starter",
+      "published_date": "2026-05-26T14:47:12+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Climate Minister Musadik Malik warns against water aggression, urges India to respect IWT",
       "source": "Dawn",
@@ -130,18 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "What We Are Reading Today: Vested Interests by Emilie Connolly",
+      "title": "UN Security Council condemns drone attack near UAE’s Barakah nuclear plant",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2644822/books",
-      "published_date": "2026-05-24T08:05:58+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.arabnews.pk/node/2645061/middle-east",
+      "published_date": "2026-05-26T22:05:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "Pakistan, 13 other nations denounce Somaliland 'embassy' in occupied Jerusalem",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2609823/pakistan-13-other-nations-denounce-somaliland-embassy-in-occupied-jerusalem",
-      "published_date": "2026-05-24T05:33:18+00:00",
-      "category": "Diplomacy"
+      "title": "Vance hails Pope Leo’s AI encyclical as ‘profound’",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645060/world",
+      "published_date": "2026-05-26T22:05:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi Arabia turns to drones to shield pilgrims from extreme heat",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003284/saudi-arabia-turns-to-drones-to-shield-pilgrims-from-extreme-heat",
+      "published_date": "2026-05-26T14:54:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli military dismisses former top lawyer from ranks over leaked 2024 video of Palestinian detainee's abuse",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003279/israeli-military-dismisses-former-top-lawyer-from-ranks-over-leaked-2024-video-of-palestinian-detainees-abuse",
+      "published_date": "2026-05-26T14:12:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli military dismisses former top lawyer from ranks over 2024 leak of Palestinian detainee abuse video",
@@ -256,32 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Trump demands widespread sign-up to Abraham Accords as part of Iran peace deal",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003043/trump-demands-widespread-sign-up-to-abraham-accords-as-part-of-iran-peace-deal",
-      "published_date": "2026-05-25T18:11:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "In pictures: Saudi security personnel on alert as pilgrims pour into Makkah for Haj",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003059/in-pictures-saudi-security-personnel-on-alert-as-pilgrims-pour-into-makkah-for-haj",
-      "published_date": "2026-05-25T18:03:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "LCCI urges fair tax targets, higher PSDP",
+      "title": "Climate Minister Malik warns India against weaponisation of water at global conference in Dushanbe",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2610092/lcci-urges-fair-tax-targets-higher-psdp",
-      "published_date": "2026-05-25T15:33:16+00:00",
-      "category": "Military"
+      "url": "https://tribune.com.pk/story/2610186/climate-minister-malik-wa-against-weaponisation-of-water-at-global-conference-in-dushanbe",
+      "published_date": "2026-05-26T10:46:31+00:00",
+      "category": "Energy"
     },
     {
-      "title": "WHO chief says suspected Ebola deaths at 220 and 'epidemic is outpacing us'",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003035/who-chief-says-suspected-ebola-deaths-at-220-and-epidemic-is-outpacing-us",
-      "published_date": "2026-05-25T12:57:45+00:00",
-      "category": "Military"
+      "title": "Pakistan plans oil reserves, storage push as Hormuz constraints expose vulnerabilities",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2610182/pakistan-plans-oil-reserves-storage-push-as-hormuz-constraints-expose-vulnerabilities",
+      "published_date": "2026-05-26T09:34:29+00:00",
+      "category": "Energy"
     },
     {
       "title": "Oil rises, stocks waver as new US strikes dampen peace deal hopes",
@@ -407,20 +421,6 @@
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2609476/national-wheat-policy-202630-finalised-in-consultation-with-provinces-na-told",
       "published_date": "2026-05-22T03:01:50+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Pakistan’s Lucky Motors partners with China’s GAC as it bets fuel shock will drive EV switch",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2644567/pakistan",
-      "published_date": "2026-05-21T23:05:51+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Pakistan plans strategic oil reserves",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2609424/pakistan-plans-strategic-oil-reserves",
-      "published_date": "2026-05-21T15:59:26+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,41 @@
       "category": "Economy"
     },
     {
+      "title": "Punjab Home Department lists organisations barred from collecting animal hides on Eidul Azha",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003310/punjab-home-department-lists-organisations-barred-from-collecting-animal-hides-on-eidul-azha",
+      "published_date": "2026-05-26T19:01:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "At least one killed, 11 injured as earthquake damages houses in Punjab’s Jhelum district",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003299/at-least-one-killed-11-injured-as-earthquake-damages-houses-in-punjabs-jhelum-district",
+      "published_date": "2026-05-26T17:58:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "IT ministry starts registering cloud service providers to ensure data security",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003294/it-ministry-starts-registering-cloud-service-providers-to-ensure-data-security",
+      "published_date": "2026-05-26T16:28:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jail authorities request medical examination of alleged drug queenpin Anmol over kidney pain",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003283/jail-authorities-request-medical-examination-of-alleged-drug-queenpin-anmol-over-kidney-pain",
+      "published_date": "2026-05-26T15:31:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prince Rahim winds up Pakistan visit after week of meetings with political leadership, development assurances",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003265/prince-rahim-winds-up-pakistan-visit-after-week-of-meetings-with-political-leadership-development-assurances",
+      "published_date": "2026-05-26T14:14:45+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Prince Rahim winds up Pakistan visit after a week of meetings with political leadership, development assurances",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2003265/prince-rahim-winds-up-pakistan-visit-after-a-week-of-meetings-with-political-leadership-development-assurances",
@@ -575,6 +610,20 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2003259/prayers-offered-for-muslim-unity-ummahs-better-conditions-in-haj-sermon-as-pilgrims-gather-at-arafat",
       "published_date": "2026-05-26T13:20:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Reports of anti-CM PTI bloc in K-P rejected",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2610216/reports-of-anti-cm-pti-bloc-in-k-p-rejected",
+      "published_date": "2026-05-26T12:57:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anmol's hospital transfer put on hold",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2610211/anmols-hospital-transfer-put-on-hold",
+      "published_date": "2026-05-26T12:47:52+00:00",
       "category": "Local Events"
     },
     {
@@ -603,6 +652,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2003238/baseless-and-fabricated-kp-info-minister-dismisses-reports-of-pti-mpas-forming-group-against-cm-afridi",
       "published_date": "2026-05-26T09:14:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France probes alleged election interference by Israeli company",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645047/world",
+      "published_date": "2026-05-26T08:05:14+00:00",
       "category": "Local Events"
     },
     {
@@ -645,62 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2003127/quetta-bombing-leaves-ill-fated-neighbourhood-uninhabitable",
       "published_date": "2026-05-26T02:20:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SHC acquits ex-NBP chief in Rs54bn loan scam case",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003123/shc-acquits-ex-nbp-chief-in-rs54bn-loan-scam-case",
-      "published_date": "2026-05-26T02:02:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lebanon says Israeli strike on Monday killed at least 11 people",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2644997/middle-east",
-      "published_date": "2026-05-26T00:05:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "4 dead, 5 hurt in a crash between a train and a school bus, Belgian officials say",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2644986/world",
-      "published_date": "2026-05-25T23:05:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Mini version of hell': Heat dome over Europe scorches UK, France, Spain",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003065/mini-version-of-hell-heat-dome-over-europe-scorches-uk-france-spain",
-      "published_date": "2026-05-25T18:48:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Margalla Hills fire brought under control, cooling process underway: district admin",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003045/margalla-hills-fire-brought-under-control-cooling-process-underway-district-admin",
-      "published_date": "2026-05-25T18:35:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opposition may quit assemblies if govt does not change its attitude towards Imran: Achakzai",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003056/opposition-may-quit-assemblies-if-govt-does-not-change-its-attitude-towards-imran-achakzai",
-      "published_date": "2026-05-25T17:09:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Supreme Court, FCC at odds over wedlock policy",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2610108/supreme-court-fcc-at-odds-over-wedlock-policy",
-      "published_date": "2026-05-25T17:06:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Newly married couple shot dead in Karachi’s Malir area: police",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003054/newly-married-couple-shot-dead-in-karachis-malir-area-police",
-      "published_date": "2026-05-25T16:50:19+00:00",
       "category": "Local Events"
     }
   ]
