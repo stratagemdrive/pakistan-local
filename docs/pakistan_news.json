@@ -1,8 +1,22 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-05-27T14:31:22.974901+00:00",
+  "last_updated": "2026-05-27T23:53:52.303788+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "'US-Iran peace deal could benefit entire region,' PM tells Pezeshkian in Eid call",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003497/us-iran-peace-deal-could-benefit-entire-region-pm-tells-pezeshkian-in-eid-call",
+      "published_date": "2026-05-27T18:01:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump Board of Peace's official Gaza fund is empty",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003486/trump-board-of-peaces-official-gaza-fund-is-empty",
+      "published_date": "2026-05-27T14:39:16+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "'Greetings after 88 days': Iranians reconnect after 'world's longest internet shutdown'",
       "source": "Dawn",
@@ -15,6 +29,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2003453/fm-dar-assures-un-chief-of-pakistans-continued-engagement-and-dialogue-to-restore-peace-in-region",
       "published_date": "2026-05-27T12:37:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says ‘not satisfied’ yet on Iran deal",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645169/middle-east",
+      "published_date": "2026-05-27T08:05:20+00:00",
       "category": "Diplomacy"
     },
     {
@@ -123,25 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "PSX gains over 3,800 points as US-Iran peace hopes fuel bullish rally",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2609974/psx-gains-over-2500-points-as-us-iran-peace-hopes-fuel-bullish-rally",
-      "published_date": "2026-05-25T03:44:13+00:00",
-      "category": "Diplomacy"
+      "title": "Hamas confirms that Israeli airstrikes killed its new military leader in Gaza",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645173/middle-east",
+      "published_date": "2026-05-28T09:05:45+00:00",
+      "category": "Military"
     },
     {
-      "title": "PM hopes to host Islamabad Talks 2.0 ‘very soon’",
+      "title": "Saudi crown prince receives citizens on Eid",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645177/saudi-arabia",
+      "published_date": "2026-05-27T23:05:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zelensky asked Trump for air defence munitions: AFP",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2002887/pm-hopes-to-host-islamabad-talks-20-very-soon",
-      "published_date": "2026-05-25T02:22:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2003499/zelensky-asked-trump-for-air-defence-munitions-afp",
+      "published_date": "2026-05-27T18:24:03+00:00",
+      "category": "Military"
     },
     {
-      "title": "PM Shehbaz meets Chinese Premier Li Qiang in Beijing, reaffirms commitment to CPEC",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2609963/pakistan-played-very-sincere-role-in-us-iran-mediation-efforts-pm-shehbaz-in-beijing",
-      "published_date": "2026-05-25T01:23:53+00:00",
-      "category": "Diplomacy"
+      "title": "Trump cabinet looks forward to progress on Iran deal in 'coming hours, days'",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003490/trump-cabinet-looks-forward-to-progress-on-iran-deal-in-coming-hours-days",
+      "published_date": "2026-05-27T18:09:50+00:00",
+      "category": "Military"
     },
     {
       "title": "India seeks proposals for 5th generation combat jets: ANI",
@@ -165,6 +193,13 @@
       "category": "Military"
     },
     {
+      "title": "PM Shehbaz extends Eidul Azha greetings to military, political leadership",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2610302/pm-shehbaz-extends-eidul-azha-greetings-to-military-political-leadership",
+      "published_date": "2026-05-27T11:04:25+00:00",
+      "category": "Military"
+    },
+    {
       "title": "CDF Munir spends Eidul Azha with frontline troops in Zhob, says brutal acts cannot weaken nation’s resolve",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2003468/cdf-munir-spends-eidul-azha-with-frontline-troops-in-zhob-says-brutal-acts-cannot-weaken-nations-resolve",
@@ -176,6 +211,20 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2003461/haj-pilgrims-stone-the-devil-in-final-ritual",
       "published_date": "2026-05-27T09:16:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Barcelona reach agreement with Newcastle’s Gordon",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645171/sport",
+      "published_date": "2026-05-27T08:05:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Norway to join France-led nuclear deterrence program",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645164/world",
+      "published_date": "2026-05-27T07:05:47+00:00",
       "category": "Military"
     },
     {
@@ -235,53 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Vance hails Pope Leo’s AI encyclical as ‘profound’",
+      "title": "Saudi Arabia powers sustainability race as EV sales in ME surge 40%",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645060/world",
-      "published_date": "2026-05-26T22:05:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi Arabia turns to drones to shield pilgrims from extreme heat",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003284/saudi-arabia-turns-to-drones-to-shield-pilgrims-from-extreme-heat",
-      "published_date": "2026-05-26T14:54:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli military dismisses former top lawyer from ranks over leaked 2024 video of Palestinian detainee's abuse",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003279/israeli-military-dismisses-former-top-lawyer-from-ranks-over-leaked-2024-video-of-palestinian-detainees-abuse",
-      "published_date": "2026-05-26T14:12:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli military dismisses former top lawyer from ranks over 2024 leak of Palestinian detainee abuse video",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003279/israeli-military-dismisses-former-top-lawyer-from-ranks-over-2024-leak-of-palestinian-detainee-abuse-video",
-      "published_date": "2026-05-26T14:04:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump, near 80, to have annual physical amid scrutiny of recent ailments",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003248/trump-near-80-to-have-annual-physical-amid-scrutiny-of-recent-ailments",
-      "published_date": "2026-05-26T10:49:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran supreme leader says regional nations will 'no longer be shields' for US bases",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003236/iran-supreme-leader-says-regional-nations-will-no-longer-be-shields-for-us-bases",
-      "published_date": "2026-05-26T09:02:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "In pictures: Muslims pray on Mount Arafat as Haj reaches its peak",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003212/in-pictures-muslims-pray-on-mount-arafat-as-haj-reaches-its-peak",
-      "published_date": "2026-05-26T08:31:17+00:00",
-      "category": "Military"
+      "url": "https://www.arabnews.pk/node/2645170/business-economy",
+      "published_date": "2026-05-27T08:05:02+00:00",
+      "category": "Energy"
     },
     {
       "title": "Climate Minister Malik warns India against weaponisation of water at global conference in Dushanbe",
@@ -414,13 +421,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2002231/power-division-warns-consumers-against-fake-subsidy-links-qr-code-scams",
       "published_date": "2026-05-22T07:33:30+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "National Wheat Policy 2026–30 finalised in consultation with provinces, NA told",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2609476/national-wheat-policy-202630-finalised-in-consultation-with-provinces-na-told",
-      "published_date": "2026-05-22T03:01:50+00:00",
       "category": "Energy"
     },
     {
@@ -599,6 +599,13 @@
       "category": "Local Events"
     },
     {
+      "title": "What is behind the surge in Israeli settler violence across the West Bank?",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645160/middle-east",
+      "published_date": "2026-05-27T07:05:22+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Chemical tank rupture in Washington state causes one death, multiple injuries",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2003451/chemical-tank-rupture-in-washington-state-causes-one-death-multiple-injuries",
@@ -694,13 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2003310/punjab-home-department-lists-organisations-barred-from-collecting-animal-hides-on-eidul-azha",
       "published_date": "2026-05-26T19:01:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "At least one killed, 11 injured as earthquake damages houses in Punjab’s Jhelum district",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003299/at-least-one-killed-11-injured-as-earthquake-damages-houses-in-punjabs-jhelum-district",
-      "published_date": "2026-05-26T17:58:59+00:00",
       "category": "Local Events"
     }
   ]
