@@ -1,8 +1,29 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-05-29T00:01:12.443686+00:00",
+  "last_updated": "2026-05-29T14:12:15.089313+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Dar arrives in Washington to meet US Secretary of State Marco Rubio: FO",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003632/dar-arrives-in-washington-to-meet-us-secretary-of-state-marco-rubio-fo",
+      "published_date": "2026-05-29T05:23:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Dar arrives in Washington for talks with US Secretary Rubio",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2610360/dar-arrives-in-washington-for-talks-with-us-secretary-rubio",
+      "published_date": "2026-05-29T01:34:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Dar calls for ‘more democratic’ UN Security Council amid global crises",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2610354/dar-calls-for-more-democratic-un-security-council-amid-global-crises",
+      "published_date": "2026-05-29T00:42:44+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Dar to meet Rubio in Washington tomorrow: FO",
       "source": "Dawn",
@@ -123,25 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "DPM Dar lands in New York ahead of UNSC debate",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2610136/dpm-dar-lands-in-new-york-ahead-of-unsc-debate",
-      "published_date": "2026-05-26T01:43:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Xi hails 'unbreakable' Pakistan friendship",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2610115/xi-hails-unbreakable-pakistan-friendship",
-      "published_date": "2026-05-25T17:14:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Deputy PM Dar to visit New York from May 26-28 for UN meetings",
+      "title": "How far have the US and Iran got towards ending the Iran war?",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003042/deputy-pm-dar-to-visit-new-york-from-may-26-28-for-un-meetings",
-      "published_date": "2026-05-25T15:40:44+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2003681/how-far-have-the-us-and-iran-got-towards-ending-the-iran-war",
+      "published_date": "2026-05-29T13:17:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Blue Origin rocket explodes on launchpad in a setback for bid to catch Musk's SpaceX",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003678/blue-origin-rocket-explodes-on-launchpad-in-a-setback-for-bid-to-catch-musks-spacex",
+      "published_date": "2026-05-29T11:30:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan reaffirms support for UN Peacekeeping, vows renewed 'investment in peace'",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003670/pakistan-reaffirms-support-for-un-peacekeeping-vows-renewed-investment-in-peace",
+      "published_date": "2026-05-29T10:02:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "IHC to hear Imaan, Hadi's sentence suspension pleas in social media posts case on June 1",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003664/ihc-to-hear-imaan-hadis-sentence-suspension-pleas-in-social-media-posts-case-on-june-1",
+      "published_date": "2026-05-29T09:46:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nato chief vows 'absolute solidarity' with Romania after Russian drone crash injures 2",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003659/nato-chief-vows-absolute-solidarity-with-romania-after-russian-drone-crash-injures-2",
+      "published_date": "2026-05-29T08:38:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "China leaders skip Singapore defence summit headlined by US",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003655/china-leaders-skip-singapore-defence-summit-headlined-by-us",
+      "published_date": "2026-05-29T07:58:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel, Russia added to UN blacklist on sexual violence in conflicts",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003627/israel-russia-added-to-un-blacklist-on-sexual-violence-in-conflicts",
+      "published_date": "2026-05-29T04:49:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "WHO chief land in Congo, says Ebola outbreak “can be stopped“",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645347/world",
+      "published_date": "2026-05-29T00:05:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Civil-military leadership honours UN peacekeepers, reaffirms Pakistan’s role in global peace missions",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2610352/pm-ispr-honour-un-peacekeepers-reaffirm-pakistans-role-in-global-peace-missions",
+      "published_date": "2026-05-28T23:51:52+00:00",
+      "category": "Military"
     },
     {
       "title": "Suspect in Taylor Swift Vienna concert attack plot convicted and sentenced to 15 years",
@@ -221,67 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Health experts caution against eating meat immediately after sacrifice",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003351/health-experts-caution-against-eating-meat-immediately-after-sacrifice",
-      "published_date": "2026-05-28T03:06:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘You are not alone’ in Ebola fight, says WHO chief heading to DR Congo",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645235/world",
-      "published_date": "2026-05-28T01:05:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "President, PM, military leadership reaffirm peace, stability on Youm-e-Takbeer",
+      "title": "Oil falls more than 1% on reports of possible US-Iran ceasefire deal",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2610314/president-pm-military-leadership-reaffirm-commitment-to-peace-stability-on-youm-e-takbeer",
-      "published_date": "2026-05-28T01:01:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia says the number of drone attacks on it from the direction of EU states is growing",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645229/world",
-      "published_date": "2026-05-28T00:05:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia calls on US and Iran not to slide back into armed conflict",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645226/world",
-      "published_date": "2026-05-28T00:05:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistani charity distributes meat of sacrificial animals among Gazans on Eid Al-Adha",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645227/pakistan",
-      "published_date": "2026-05-28T00:05:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi crown prince receives citizens on Eid",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645177/saudi-arabia",
-      "published_date": "2026-05-27T23:05:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Spurning just war, Pope Leo ends Catholic ‘permission slip’ for conflicts",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645225/world",
-      "published_date": "2026-05-27T23:05:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Meta launches paid subscriptions for Instagram, Facebook, WhatsApp",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645218/media",
-      "published_date": "2026-05-27T22:05:49+00:00",
-      "category": "Military"
+      "url": "https://tribune.com.pk/story/2610367/oil-falls-more-than-1-on-reports-of-possible-us-iran-ceasefire-deal",
+      "published_date": "2026-05-29T02:32:48+00:00",
+      "category": "Energy"
     },
     {
       "title": "Makkah sky witnesses near-perfect solar alignment over Holy Kaaba",
@@ -417,11 +424,39 @@
       "category": "Energy"
     },
     {
-      "title": "Govt cuts petrol price by Rs6, diesel by Rs6.80",
+      "title": "PSX jumps 2,238 points on Eid cheer, US-Iran hopes",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2609568/govt-cuts-petrol-price-by-rs6-high-speed-diesel-by-rs680",
-      "published_date": "2026-05-22T13:35:51+00:00",
-      "category": "Energy"
+      "url": "https://tribune.com.pk/story/2610392/psx-jumps-2238-points-on-eid-cheer-us-iran-hopes",
+      "published_date": "2026-05-29T07:16:59+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "NA, Senate budget sessions summoned on June 5",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003641/na-senate-budget-sessions-summoned-on-june-5",
+      "published_date": "2026-05-29T07:14:16+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Senate, NA to meet on June 5 for budget sessions",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2610373/senate-na-to-meet-on-june-5-for-budget-sessions",
+      "published_date": "2026-05-29T04:12:25+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Khuhro resents Irsa move to drastically slash Sindh’s water share",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003344/khuhro-resents-irsa-move-to-drastically-slash-sindhs-water-share",
+      "published_date": "2026-05-29T03:50:58+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "China seeks deeper trade ties with Pakistan, South Asia amid global uncertainty",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645340/pakistan",
+      "published_date": "2026-05-28T23:05:46+00:00",
+      "category": "Economy"
     },
     {
       "title": "Trump's face could appear on US $250 bill",
@@ -529,39 +564,95 @@
       "category": "Economy"
     },
     {
-      "title": "Govt mulls 20% windfall gain tax",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2610096/govt-mulls-20-windfall-gain-tax",
-      "published_date": "2026-05-25T15:33:16+00:00",
-      "category": "Economy"
+      "title": "Ahead of Australia series, Shaheen hopeful Babar's form from PSL will continue",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003694/ahead-of-australia-series-shaheen-hopeful-babars-form-from-psl-will-continue",
+      "published_date": "2026-05-29T14:07:37+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Gold jumps Rs4,600 on Iran peace hopes",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2610098/gold-jumps-rs4600-on-iran-peace-hopes",
-      "published_date": "2026-05-25T15:33:16+00:00",
-      "category": "Economy"
+      "title": "PTI claims MNA Junaid Akbar, other party leaders arrested in Gilgit-Baltistan",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003687/pti-claims-mna-junaid-akbar-other-party-leaders-arrested-in-gilgit-baltistan",
+      "published_date": "2026-05-29T13:27:36+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Aga Khan vows commitment to K-P’s development in meeting with CM Afridi",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2610035/aga-khan-vows-commitment-to-k-ps-development-in-meeting-with-cm-afridi",
-      "published_date": "2026-05-25T13:51:13+00:00",
-      "category": "Economy"
+      "title": "Karachi's K-IV water project in focus as Sindh CM meets World Bank official",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003674/karachis-k-iv-water-project-in-focus-as-sindh-cm-meets-world-bank-official",
+      "published_date": "2026-05-29T10:22:14+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Saudi Arabia’s premium dining sector turns to new financing models",
+      "title": "The shrinkage of Pakistan’s aid chart",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003642/the-shrinkage-of-pakistans-aid-chart",
+      "published_date": "2026-05-29T09:27:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Japan bans photos at beach volleyball after 'malicious' pictures of players",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003666/japan-bans-photos-at-beach-volleyball-after-malicious-pictures-of-players",
+      "published_date": "2026-05-29T08:49:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "President Zardari calls for strengthening country, bringing positive economic change",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003649/president-zardari-calls-for-strengthening-country-bringing-positive-economic-change",
+      "published_date": "2026-05-29T07:13:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sindh CM reviews Karachi water projects, stresses timely completion of K-IV scheme in meeting with WB official",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2610387/sindh-cm-reviews-karachi-water-projects-stresses-timely-completion-of-k-iv-scheme",
+      "published_date": "2026-05-29T05:55:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Drying ponds force Cholistanis to opt for ‘seasonal migration’",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003331/drying-ponds-force-cholistanis-to-opt-for-seasonal-migration",
+      "published_date": "2026-05-29T03:58:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Culture of silence’ blamed for surge in violence against women",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003342/culture-of-silence-blamed-for-surge-in-violence-against-women",
+      "published_date": "2026-05-29T03:54:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan investigates vessel collision near Karachi, no casualties reported",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2644921/business-economy",
-      "published_date": "2026-05-25T07:05:54+00:00",
-      "category": "Economy"
+      "url": "https://www.arabnews.pk/node/2645356/pakistan",
+      "published_date": "2026-05-29T01:05:03+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Pakistan Eid retail sales plunge by up to 60 percent amid inflation, higher taxes — traders",
+      "title": "Record-breaking heat and dry spring leave parts of England without water",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2644908/pakistan",
-      "published_date": "2026-05-25T05:05:53+00:00",
-      "category": "Economy"
+      "url": "https://www.arabnews.pk/node/2645350/world",
+      "published_date": "2026-05-29T00:05:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Philippine court orders senator’s arrest for large-scale corruption; he surrenders and posts bail",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645349/world",
+      "published_date": "2026-05-29T00:05:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistani Eid film ‘Luv Di Saun’ mixes action, romance and trafficking storyline",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645342/pakistan",
+      "published_date": "2026-05-28T23:05:09+00:00",
+      "category": "Local Events"
     },
     {
       "title": "India's Gen-Z Cockroach Janta Party channels youth anger but faces offline hurdles",
@@ -610,97 +701,6 @@
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2610322/president-zardari-felicitates-azerbaijan-leadership-on-independence-day",
       "published_date": "2026-05-28T04:53:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Justice Babar Sattar decides to retain official residence in Islamabad",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003428/justice-babar-sattar-decides-to-retain-official-residence-in-islamabad",
-      "published_date": "2026-05-28T03:30:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Development work in Islamabad's E-12 sector finally comes under the radar",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003430/development-work-in-islamabads-e-12-sector-finally-comes-under-the-radar",
-      "published_date": "2026-05-28T03:19:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reimagining police stations",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003386/reimagining-police-stations",
-      "published_date": "2026-05-28T02:42:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In Karachi’s Lyari, centuries-old Baloch basket craft finds new life during Eid",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645224/pakistan",
-      "published_date": "2026-05-28T00:05:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Australian woman held in custody on charges of traveling to Syria to join Daesh group",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645228/world",
-      "published_date": "2026-05-28T00:05:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds flee India migrant crackdown towards Bangladesh",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003484/hundreds-flee-india-migrant-crackdown-towards-bangladesh",
-      "published_date": "2026-05-27T14:01:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Marsh out of Pakistan ODIs, Inglis to captain Australia",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003471/marsh-out-of-pakistan-odis-inglis-to-captain-australia",
-      "published_date": "2026-05-27T10:50:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "President, PM stress care for underprivileged on Eidul Azha",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003371/president-pm-stress-care-for-underprivileged-on-eidul-azha",
-      "published_date": "2026-05-27T08:00:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In pictures: Muslims across the world celebrate Eidul Azha",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003459/in-pictures-muslims-across-the-world-celebrate-eidul-azha",
-      "published_date": "2026-05-27T07:53:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "CM Murad dismisses talk of 28th Amendment, says no move possible without PPP consent",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2610293/cm-murad-dismisses-talk-of-28th-amendment-says-no-move-possible-without-ppp-consent",
-      "published_date": "2026-05-27T07:46:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What is behind the surge in Israeli settler violence across the West Bank?",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645160/middle-east",
-      "published_date": "2026-05-27T07:05:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chemical tank rupture in Washington state causes one death, multiple injuries",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003451/chemical-tank-rupture-in-washington-state-causes-one-death-multiple-injuries",
-      "published_date": "2026-05-27T05:41:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eid with dry taps as Karachi water crisis enters second month",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003354/eid-with-dry-taps-as-karachi-water-crisis-enters-second-month",
-      "published_date": "2026-05-27T04:33:56+00:00",
       "category": "Local Events"
     }
   ]
