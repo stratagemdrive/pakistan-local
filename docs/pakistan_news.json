@@ -1,8 +1,15 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-05-30T12:09:03.091632+00:00",
-  "story_count": 98,
+  "last_updated": "2026-05-30T23:51:35.161254+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "EU's top diplomat Kallas to visit Islamabad on June 1 for strategic dialogue",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003965/eus-top-diplomat-kallas-to-visit-islamabad-on-june-1-for-strategic-dialogue",
+      "published_date": "2026-05-30T18:28:13+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pakistan firmly committed to stance on Palestine, Israel: Dar answers question on Abraham Accords",
       "source": "Dawn",
@@ -137,11 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Climate Minister Musadik Malik warns against water aggression, urges India to respect IWT",
+      "title": "PSG edge Arsenal on penalties to retain Champions League title",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003262/climate-minister-musadik-malik-warns-against-water-aggression-urges-india-to-respect-iwt",
-      "published_date": "2026-05-26T13:42:43+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2004042/psg-edge-arsenal-on-penalties-to-retain-champions-league-title",
+      "published_date": "2026-05-30T21:33:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'US, Pakistan developing true friendship': Hegseth hails Islamabad's role in US-Iran negotiations",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003936/us-pakistan-developing-true-friendship-hegseth-hails-islamabads-role-in-us-iran-negotiations",
+      "published_date": "2026-05-30T18:39:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "8 militants killed on second day of security operation in KP's Darra Adamkhel: security sources",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003955/8-militants-killed-on-second-day-of-security-operation-in-kps-darra-adamkhel-security-sources",
+      "published_date": "2026-05-30T16:32:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sabalenka, Osaka set up French Open clash, Gauff eyes second week",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003946/sabalenka-osaka-set-up-french-open-clash-gauff-eyes-second-week",
+      "published_date": "2026-05-30T15:14:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Blue Origin faces months of delays after rocket explosion damages launch pad",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003929/blue-origin-faces-months-of-delays-after-rocket-explosion-damages-launch-pad",
+      "published_date": "2026-05-30T12:07:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "BLA’s nexus with Al-Qaeda, TTP fuelling terrorism and women exploitation in Balochistan",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2610559/blas-nexus-with-al-qaeda-ttp-fuelling-terrorism-and-women-exploitation-in-balochistan",
+      "published_date": "2026-05-30T10:16:21+00:00",
+      "category": "Military"
     },
     {
       "title": "Rescuers pull 4 from flooded cave in Laos, 2 still missing",
@@ -176,6 +218,27 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2003903/us-south-korea-in-talks-over-commanders-remarks-that-drew-sharp-criticism-from-china",
       "published_date": "2026-05-30T07:57:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "PIA begins post-Hajj flight operation as first pilgrims return to Pakistan",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645484/pakistan",
+      "published_date": "2026-05-30T07:05:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "America has 'true friendship' with PM Shehbaz and CDF Munir, says US War Secretary Pete Hegseth",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2610549/america-has-true-friendship-with-pm-shehbaz-and-cdf-munir-says-us-war-secretary-pete-hegseth",
+      "published_date": "2026-05-30T07:04:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Defending champion Gauff eliminated from French Open by Potapova",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645476/sport",
+      "published_date": "2026-05-30T06:05:50+00:00",
       "category": "Military"
     },
     {
@@ -218,69 +281,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2003714/israel-plan-to-seize-more-of-gaza-means-more-children-will-suffer-un",
       "published_date": "2026-05-29T18:19:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How far have the US and Iran got towards ending the Iran war?",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003681/how-far-have-the-us-and-iran-got-towards-ending-the-iran-war",
-      "published_date": "2026-05-29T13:17:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Blue Origin rocket explodes on launchpad in a setback for bid to catch Musk's SpaceX",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003678/blue-origin-rocket-explodes-on-launchpad-in-a-setback-for-bid-to-catch-musks-spacex",
-      "published_date": "2026-05-29T11:30:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan reaffirms support for UN Peacekeeping, vows renewed 'investment in peace'",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003670/pakistan-reaffirms-support-for-un-peacekeeping-vows-renewed-investment-in-peace",
-      "published_date": "2026-05-29T10:02:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "IHC to hear Imaan, Hadi's sentence suspension pleas in social media posts case on June 1",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003664/ihc-to-hear-imaan-hadis-sentence-suspension-pleas-in-social-media-posts-case-on-june-1",
-      "published_date": "2026-05-29T09:46:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nato chief vows 'absolute solidarity' with Romania after Russian drone crash injures 2",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003659/nato-chief-vows-absolute-solidarity-with-romania-after-russian-drone-crash-injures-2",
-      "published_date": "2026-05-29T08:38:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump administration grants rare TPS reprieve, extending protections for 11,000 Lebanese",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645405/world",
-      "published_date": "2026-05-29T08:05:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "China leaders skip Singapore defence summit headlined by US",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003655/china-leaders-skip-singapore-defence-summit-headlined-by-us",
-      "published_date": "2026-05-29T07:58:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran preparing ‘grand’ funeral for slain supreme leader: state TV",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645392/middle-east",
-      "published_date": "2026-05-29T07:05:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kazakhstan offers to take Iran’s uranium stockpile, IAEA chief tells FT",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645387/world",
-      "published_date": "2026-05-29T06:05:22+00:00",
       "category": "Military"
     },
     {
@@ -396,18 +396,18 @@
       "category": "Energy"
     },
     {
-      "title": "Govt sticks to coal despite solar growth",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2609731/govt-sticks-to-coal-despite-solar-growth",
-      "published_date": "2026-05-23T15:10:08+00:00",
-      "category": "Energy"
+      "title": "Saudi startups look beyond equity as venture debt gains traction",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645486/business-economy",
+      "published_date": "2026-05-30T07:05:26+00:00",
+      "category": "Economy"
     },
     {
-      "title": "MoU inked with Changfa Group for agri-machinery",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2609734/mou-inked-with-changfa-group-for-agri-machinery",
-      "published_date": "2026-05-23T15:10:08+00:00",
-      "category": "Energy"
+      "title": "Saudi Arabia’s holy cities gain appeal as investment access expands",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645481/business-economy",
+      "published_date": "2026-05-30T07:05:17+00:00",
+      "category": "Economy"
     },
     {
       "title": "Pakistanis who made it to Forbes '30 Under 30' Asia list",
@@ -536,18 +536,32 @@
       "category": "Economy"
     },
     {
-      "title": "KMC 'Exit Tax' sparks Eid market outcry in metropolis",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2610208/kmc-exit-tax-sparks-eid-market-outcry-in-metropolis",
-      "published_date": "2026-05-26T12:47:52+00:00",
-      "category": "Economy"
+      "title": "Paris police detain 45 after violence erupts during celebrations of PSG’s Champions League title",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645498/world",
+      "published_date": "2026-05-30T22:05:07+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Cattle markets see last-minute buying surge",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2610210/cattle-markets-see-last-minute-buying-surge",
-      "published_date": "2026-05-26T12:47:52+00:00",
-      "category": "Economy"
+      "title": "Pakistan outspins Australia in milestone ODI as Minhas makes history",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003971/pakistan-outspins-australia-in-milestone-odi-as-minhas-makes-history",
+      "published_date": "2026-05-30T18:39:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "KP CM Afridi urges GB chief justice to ensure transparency amid 'alarming' electoral environment",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003931/kp-cm-afridi-urges-gb-chief-justice-to-ensure-transparency-amid-alarming-electoral-environment",
+      "published_date": "2026-05-30T15:46:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "WHO chief visits epicentre of Ebola outbreak in DR Congo",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003935/who-chief-visits-epicentre-of-ebola-outbreak-in-dr-congo",
+      "published_date": "2026-05-30T12:50:57+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Suspected robber dies by suicide to avoid arrest in Karachi: police",
@@ -571,6 +585,13 @@
       "category": "Local Events"
     },
     {
+      "title": "K-P CM Afridi writes to G-B top judge, seeks judicial intervention over election concerns",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2610553/k-p-cm-afridi-writes-to-g-b-top-judge-seeks-judicial-intervention-over-election-concerns",
+      "published_date": "2026-05-30T08:01:25+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Some respite for citizens as heavy rain lashes parts of Lahore",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2003890/some-respite-for-citizens-as-heavy-rain-lashes-parts-of-lahore",
@@ -582,6 +603,13 @@
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2610533/gold-prices-rise-in-local-global-markets",
       "published_date": "2026-05-30T05:22:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PTI's Asad Qaiser alleges Punjab police barred him from boarding Skardu flight",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2610529/ptis-asad-qaiser-alleges-punjab-police-barred-him-from-boarding-skardu-flight",
+      "published_date": "2026-05-30T04:57:55+00:00",
       "category": "Local Events"
     },
     {
@@ -645,48 +673,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2003687/pti-leaders-expelled-from-gb-during-electioneering-authorities-allege-code-of-conduct-violation",
       "published_date": "2026-05-29T21:23:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PTI cries foul after leaders detained in G-B",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2610515/pti-cries-foul-after-leaders-detained-in-g-b",
-      "published_date": "2026-05-29T16:35:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "WHO says 906 suspected cases and 223 suspected deaths from Bundibugyo strain of Ebola",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003686/who-says-906-suspected-cases-and-223-suspected-deaths-from-bundibugyo-strain-of-ebola",
-      "published_date": "2026-05-29T16:04:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Investigation launched after two ships collide near Karachi Port",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2610505/investigation-launched-after-two-ships-collide-near-karachi-port",
-      "published_date": "2026-05-29T15:53:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IHC fixes June 1 hearing in Imaan-Hadi case",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2610506/ihc-fixes-june-1-hearing-in-imaan-hadi-case",
-      "published_date": "2026-05-29T15:53:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ahead of Australia series, Shaheen hopeful Babar's form from PSL will continue",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003694/ahead-of-australia-series-shaheen-hopeful-babars-form-from-psl-will-continue",
-      "published_date": "2026-05-29T14:07:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PTI claims MNA Junaid Akbar, other party leaders arrested in Gilgit-Baltistan",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003687/pti-claims-mna-junaid-akbar-other-party-leaders-arrested-in-gilgit-baltistan",
-      "published_date": "2026-05-29T13:27:36+00:00",
       "category": "Local Events"
     }
   ]
