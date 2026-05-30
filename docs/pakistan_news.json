@@ -1,13 +1,27 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-05-29T14:12:15.089313+00:00",
+  "last_updated": "2026-05-30T00:02:12.608745+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Pakistan firmly committed to stance on Palestine, Israel: Dar answers question on Abraham Accords",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003632/pakistan-firmly-committed-to-stance-on-palestine-israel-dar-answers-question-on-abraham-accords",
+      "published_date": "2026-05-29T20:38:16+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Dar arrives in Washington to meet US Secretary of State Marco Rubio: FO",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2003632/dar-arrives-in-washington-to-meet-us-secretary-of-state-marco-rubio-fo",
       "published_date": "2026-05-29T05:23:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US thanks Pakistan for Middle East peace efforts, backs stronger partnership",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645377/pakistan",
+      "published_date": "2026-05-29T04:05:26+00:00",
       "category": "Diplomacy"
     },
     {
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "DPM Dar arrives in New York to attend high-level UNSC debate",
+      "title": "Israel plan to seize more of Gaza means 'more children will suffer': UN",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003210/dpm-dar-arrives-in-new-york-to-attend-high-level-unsc-debate",
-      "published_date": "2026-05-26T05:57:53+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Diplomacy, new war technology vital to deter India, say experts",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003068/diplomacy-new-war-technology-vital-to-deter-india-say-experts",
-      "published_date": "2026-05-26T03:55:09+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2003714/israel-plan-to-seize-more-of-gaza-means-more-children-will-suffer-un",
+      "published_date": "2026-05-29T18:19:18+00:00",
+      "category": "Military"
     },
     {
       "title": "How far have the US and Iran got towards ending the Iran war?",
@@ -179,10 +186,31 @@
       "category": "Military"
     },
     {
+      "title": "Trump administration grants rare TPS reprieve, extending protections for 11,000 Lebanese",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645405/world",
+      "published_date": "2026-05-29T08:05:41+00:00",
+      "category": "Military"
+    },
+    {
       "title": "China leaders skip Singapore defence summit headlined by US",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2003655/china-leaders-skip-singapore-defence-summit-headlined-by-us",
       "published_date": "2026-05-29T07:58:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran preparing ‘grand’ funeral for slain supreme leader: state TV",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645392/middle-east",
+      "published_date": "2026-05-29T07:05:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kazakhstan offers to take Iran’s uranium stockpile, IAEA chief tells FT",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645387/world",
+      "published_date": "2026-05-29T06:05:22+00:00",
       "category": "Military"
     },
     {
@@ -256,32 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Hamas confirms that Israeli airstrikes killed its new military leader in Gaza",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645173/middle-east",
-      "published_date": "2026-05-28T09:05:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "PM Shehbaz says Youm-i-Takbeer symbolises Pakistan's strength, sovereignty and national unity",
+      "title": "Govt cuts petrol, diesel prices by Rs22",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003518/pm-shehbaz-says-youm-i-takbeer-symbolises-pakistans-strength-sovereignty-and-national-unity",
-      "published_date": "2026-05-28T06:25:14+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/2003697/govt-cuts-petrol-diesel-prices-by-rs22",
+      "published_date": "2026-05-29T18:27:40+00:00",
+      "category": "Energy"
     },
     {
-      "title": "US should send Ukraine more air defense missiles, congressmen say",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645268/world",
-      "published_date": "2026-05-28T06:05:19+00:00",
-      "category": "Military"
+      "title": "India’s Dulhasti-II project on Chenab River deepens hydro-political tensions with Pakistan",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2610417/indias-dulhasti-ii-project-on-chenab-river-deepens-hydro-political-tensions-with-pakistan",
+      "published_date": "2026-05-29T12:24:01+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Oil prices bounce higher after new US strikes on Iran",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003523/oil-prices-bounce-higher-after-new-us-strikes-on-iran",
-      "published_date": "2026-05-28T04:12:31+00:00",
-      "category": "Military"
+      "title": "Govt slashes petrol, HSD by Rs22 in 'Eid gift' for people",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2610406/govt-slashes-petrol-hsd-by-rs22-in-eid-gift-for-people",
+      "published_date": "2026-05-29T09:29:44+00:00",
+      "category": "Energy"
     },
     {
       "title": "Oil falls more than 1% on reports of possible US-Iran ceasefire deal",
@@ -400,27 +421,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2002321/govt-reduces-petrol-high-speed-diesel-prices-by-rs6",
       "published_date": "2026-05-23T06:03:54+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Govt reduces petrol by Rs6 per litre, high-speed diesel by Rs6.8",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2002321/govt-reduces-petrol-by-rs6-per-litre-high-speed-diesel-by-rs68",
-      "published_date": "2026-05-22T19:10:56+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Fake electricity subsidy links spread online",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2609631/fake-electricity-subsidy-links-spread-online",
-      "published_date": "2026-05-22T15:57:25+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Oil prices rise on investor doubt",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2609601/oil-prices-rise-on-investor-doubt",
-      "published_date": "2026-05-22T15:10:47+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,20 @@
       "category": "Economy"
     },
     {
+      "title": "PTI leaders expelled from GB during electioneering; authorities allege code of conduct violation",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003687/pti-leaders-expelled-from-gb-during-electioneering-authorities-allege-code-of-conduct-violation",
+      "published_date": "2026-05-29T21:23:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "WHO says 906 suspected cases and 223 suspected deaths from Bundibugyo strain of Ebola",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2003686/who-says-906-suspected-cases-and-223-suspected-deaths-from-bundibugyo-strain-of-ebola",
+      "published_date": "2026-05-29T16:04:54+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Ahead of Australia series, Shaheen hopeful Babar's form from PSL will continue",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2003694/ahead-of-australia-series-shaheen-hopeful-babars-form-from-psl-will-continue",
@@ -599,10 +613,24 @@
       "category": "Local Events"
     },
     {
+      "title": "PTI’s Junaid Akbar, lawmakers detained during Gilgit-Baltistan poll campaign",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2610401/ptis-junaid-akbar-lawmakers-detained-during-gilgit-baltistan-poll-campaign",
+      "published_date": "2026-05-29T08:36:09+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "President Zardari calls for strengthening country, bringing positive economic change",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2003649/president-zardari-calls-for-strengthening-country-bringing-positive-economic-change",
       "published_date": "2026-05-29T07:13:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bus hits cars in Virginia, killing 5 people and injuring 34, state police say",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645400/world",
+      "published_date": "2026-05-29T07:05:38+00:00",
       "category": "Local Events"
     },
     {
@@ -673,34 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2003568/dadu-sets-new-maximum-temperature-record-as-mercury-climbs-to-515c",
       "published_date": "2026-05-28T14:27:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "CM Maryam underwent 'major surgery' at Lahore hospital: Punjab minister",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003538/cm-maryam-underwent-major-surgery-at-lahore-hospital-punjab-minister",
-      "published_date": "2026-05-28T12:27:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ballon d’Or awards for world’s best soccer players in 2026 moves from Paris to London",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645276/sport",
-      "published_date": "2026-05-28T07:05:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gaza mourns 10 killed in Eid strikes as Netanyahu vows wider control of the strip",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645281/middle-east",
-      "published_date": "2026-05-28T07:05:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Zardari felicitates Azerbaijan leadership on Independence Day",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2610322/president-zardari-felicitates-azerbaijan-leadership-on-independence-day",
-      "published_date": "2026-05-28T04:53:36+00:00",
       "category": "Local Events"
     }
   ]
