@@ -1,8 +1,22 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-05-31T12:15:40.125541+00:00",
-  "story_count": 98,
+  "last_updated": "2026-05-31T23:56:30.477609+00:00",
+  "story_count": 99,
   "stories": [
+    {
+      "title": "Malta’s Labour party wins historic fourth term amid Mideast crisis",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645598/world",
+      "published_date": "2026-05-31T22:06:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Fake news': MNA Ali Musa Gilani denies reports of his deportation from UAE",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2004143/fake-news-mna-ali-musa-gilani-denies-reports-of-his-deportation-from-uae",
+      "published_date": "2026-05-31T12:26:36+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Islamabad stays in frame for US-Iran deal signing",
       "source": "Dawn",
@@ -130,18 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Trump says ‘not satisfied’ yet on Iran deal",
+      "title": "Leverkusen striker Schick to lead Czech attack at World Cup",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645169/middle-east",
-      "published_date": "2026-05-27T08:05:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.arabnews.pk/node/2645597/sport",
+      "published_date": "2026-05-31T22:06:55+00:00",
+      "category": "Military"
     },
     {
-      "title": "Dar, UN chief discuss regional conflicts, UN reform in New York",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2610278/dar-un-chief-discuss-regional-conflicts-un-reform-in-new-york",
-      "published_date": "2026-05-27T02:08:24+00:00",
-      "category": "Diplomacy"
+      "title": "Pakistan's 'resolute response' during May 2025 conflict debunked notion of space for war in South Asia: military official",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2004168/pakistans-resolute-response-during-may-2025-conflict-debunked-notion-of-space-for-war-in-south-asia-military-official",
+      "published_date": "2026-05-31T20:19:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Expensive AI binge leaves companies balking at soaring bills",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2004145/expensive-ai-binge-leaves-companies-balking-at-soaring-bills",
+      "published_date": "2026-05-31T12:18:15+00:00",
+      "category": "Military"
     },
     {
       "title": "After the AI binge, companies balk at soaring bills",
@@ -169,6 +190,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2004129/meteor-explodes-over-us-with-blast-equivalent-to-300-tonnes-of-tnt",
       "published_date": "2026-05-31T08:40:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Drone strikes kill 67 in Sudan’s Kordofan",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645589/middle-east",
+      "published_date": "2026-05-31T08:05:30+00:00",
       "category": "Military"
     },
     {
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Israel orders new evacuations as forces push deeper into Lebanon",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645431/middle-east",
-      "published_date": "2026-05-30T08:05:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US, South Korea in talks over commander's remarks that drew sharp criticism from China",
+      "title": "Karachi faces 54 MGD water shortage after electricity supply to NEK Pumping Station suspended: KWSC",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003903/us-south-korea-in-talks-over-commanders-remarks-that-drew-sharp-criticism-from-china",
-      "published_date": "2026-05-30T07:57:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "PIA begins post-Hajj flight operation as first pilgrims return to Pakistan",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645484/pakistan",
-      "published_date": "2026-05-30T07:05:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "America has 'true friendship' with PM Shehbaz and CDF Munir, says US War Secretary Pete Hegseth",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2610549/america-has-true-friendship-with-pm-shehbaz-and-cdf-munir-says-us-war-secretary-pete-hegseth",
-      "published_date": "2026-05-30T07:04:26+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/2004149/karachi-faces-54-mgd-water-shortage-after-electricity-supply-to-nek-pumping-station-suspended-kwsc",
+      "published_date": "2026-05-31T19:12:18+00:00",
+      "category": "Energy"
     },
     {
       "title": "Karachi water crisis deepens as power outage hits Dhabeji Pumping Station",
@@ -410,6 +417,20 @@
       "category": "Energy"
     },
     {
+      "title": "Harvard ceremony honors 70 Saudi graduates as scholarship program expands global talent drive",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645599/saudi-arabia",
+      "published_date": "2026-05-31T23:06:34+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "'No sufficient outcome' yet of talks to secure discounts from Chinese power producers: Leghari",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2004161/no-sufficient-outcome-yet-of-talks-to-secure-discounts-from-chinese-power-producers-leghari",
+      "published_date": "2026-05-31T16:33:21+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Energy crunch fuels car pool growth in India",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2004123/energy-crunch-fuels-car-pool-growth-in-india",
@@ -536,18 +557,32 @@
       "category": "Economy"
     },
     {
-      "title": "NA, Senate budget sessions summoned on June 5",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003641/na-senate-budget-sessions-summoned-on-june-5",
-      "published_date": "2026-05-29T07:14:16+00:00",
-      "category": "Economy"
+      "title": "Wembanyama eyes ‘childhood dream’ after Spurs win NBA Western Conference Finals",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645591/sport",
+      "published_date": "2026-06-01T09:06:12+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Senate, NA to meet on June 5 for budget sessions",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2610373/senate-na-to-meet-on-june-5-for-budget-sessions",
-      "published_date": "2026-05-29T04:12:25+00:00",
-      "category": "Economy"
+      "title": "Sharjeel Memon criticises Irsa's 'unjust reduction' of Sindh's water share, urges Centre to take notice",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2004154/sharjeel-memon-criticises-irsas-unjust-reduction-of-sindhs-water-share-urges-centre-to-take-notice",
+      "published_date": "2026-05-31T20:06:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Strict action' taken, says power minister after Khawaja Asif's claim of Lesco employees' corruption",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2004146/strict-action-taken-says-power-minister-after-khawaja-asifs-claim-of-lesco-employees-corruption",
+      "published_date": "2026-05-31T20:02:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Punjab approves deployment of 6,000 police personnel in GB for election",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2004156/punjab-approves-deployment-of-6000-police-personnel-in-gb-for-election",
+      "published_date": "2026-05-31T19:02:54+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Mayor Wahab says construction work near Karachi's Hill Park halted; MQM-P demands probe into 'NOC'",
@@ -557,10 +592,31 @@
       "category": "Local Events"
     },
     {
+      "title": "Sindh accuses IRSA of violating water accord, urges federal intervention amid growing crisis",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2610709/sindh-accuses-irsa-of-violating-water-accord-urges-federal-intervention-amid-growing-crisis",
+      "published_date": "2026-05-31T09:16:50+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Travellers visiting Babusar Top urged to exercise caution due to snowfall",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2004127/travellers-visiting-babusar-top-urged-to-exercise-caution-due-to-snowfall",
       "published_date": "2026-05-31T09:03:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two decades later, impacts from Indonesia mud volcano linger",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645582/world",
+      "published_date": "2026-05-31T08:05:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Colombia chooses president amid surge in guerrilla violence",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645586/world",
+      "published_date": "2026-05-31T08:05:38+00:00",
       "category": "Local Events"
     },
     {
@@ -638,55 +694,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2004066/jaffar-express-resumes-service-from-quetta",
       "published_date": "2026-05-31T02:40:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "LHC upholds divorced woman’s right to house as dower",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2004049/lhc-upholds-divorced-womans-right-to-house-as-dower",
-      "published_date": "2026-05-31T01:56:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bilawal to arrive in Skardu as PPP ramps up G-B election campaign",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2610661/bilawal-to-arrive-in-skardu-as-ppp-ramps-up-g-b-election-campaign",
-      "published_date": "2026-05-31T01:25:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "WHO chief hails 5 Ebola recoveries as a new treatment center opens in eastern Congo",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645547/world",
-      "published_date": "2026-05-30T23:05:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan thanks Saudi Arabia for facilitating pilgrims, advises citizens to prepare for Hajj 2027",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645542/pakistan",
-      "published_date": "2026-05-30T22:05:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris police detain 45 after violence erupts during celebrations of PSG’s Champions League title",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645498/world",
-      "published_date": "2026-05-30T22:05:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan outspins Australia in milestone ODI as Minhas makes history",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003971/pakistan-outspins-australia-in-milestone-odi-as-minhas-makes-history",
-      "published_date": "2026-05-30T18:39:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rain, hailstorm bring relief from heat",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2610612/rain-hailstorm-bring-relief-from-heat",
-      "published_date": "2026-05-30T17:25:19+00:00",
       "category": "Local Events"
     }
   ]
