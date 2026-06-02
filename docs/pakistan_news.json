@@ -1,13 +1,41 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-06-01T16:44:43.492620+00:00",
-  "story_count": 97,
+  "last_updated": "2026-06-02T00:05:16.494026+00:00",
+  "story_count": 98,
   "stories": [
+    {
+      "title": "France warns Israel against ‘major strategic mistake’ of deeper military operations in Lebanon",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645708/middle-east",
+      "published_date": "2026-06-01T22:06:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'In everybody’s interest': EU's top diplomat says bloc seeks stability in region",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2004423/in-everybodys-interest-eus-top-diplomat-says-bloc-seeks-stability-in-region",
+      "published_date": "2026-06-01T18:00:21+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "PM reaffirms EU ties, thanks Kallas for support for Gulf peace efforts",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2004340/pm-reaffirms-eu-ties-thanks-kallas-for-support-for-gulf-peace-efforts",
       "published_date": "2026-06-01T16:02:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somali Pirates begin direct contact with families of abducted Pakistani crew members",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2610931/somali-pirates-begin-direct-contact-with-families-of-abducted-pakistani-crew-members",
+      "published_date": "2026-06-01T13:51:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Dozens of nations at UN denounce Russia over Romania drone incident",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645699/world",
+      "published_date": "2026-06-01T07:06:11+00:00",
       "category": "Diplomacy"
     },
     {
@@ -116,34 +144,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "200 personnel from Federal Constabulary's diplomatic protection unit to receive training in Saudi Arabia",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003528/200-personnel-from-federal-constabularys-diplomatic-protection-unit-to-receive-training-in-saudi-arabia",
-      "published_date": "2026-05-28T07:29:15+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "International Day of Markhor passes unnoticed in Chitral",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003321/international-day-of-markhor-passes-unnoticed-in-chitral",
-      "published_date": "2026-05-28T03:17:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "'US-Iran peace deal could benefit entire region,' PM tells Pezeshkian in Eid call",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003497/us-iran-peace-deal-could-benefit-entire-region-pm-tells-pezeshkian-in-eid-call",
-      "published_date": "2026-05-27T18:01:56+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump Board of Peace's official Gaza fund is empty",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003486/trump-board-of-peaces-official-gaza-fund-is-empty",
-      "published_date": "2026-05-27T14:39:16+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Survey finds generational gap in attitudes to AI romance",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2004404/survey-finds-generational-gap-in-attitudes-to-ai-romance",
@@ -158,10 +158,31 @@
       "category": "Military"
     },
     {
+      "title": "FM Dar calls for sustained US-Iran ceasefire to prevent breakdown of understandings in call with Araghchi",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2610923/fm-dar-calls-for-sustained-ceasefire-to-prevent-breakdown-of-understandings-in-call-with-araghchi",
+      "published_date": "2026-06-01T12:04:40+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Tehran responds with air base attack after US strikes Iranian military sites",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2004320/tehran-responds-with-air-base-attack-after-us-strikes-iranian-military-sites",
       "published_date": "2026-06-01T08:43:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel says France bans its officials from weapons show",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645685/middle-east",
+      "published_date": "2026-06-01T06:06:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Driver killed, six missing after tourist vehicle accident near Pakistan’s Fairy Meadows",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645684/pakistan",
+      "published_date": "2026-06-01T06:06:23+00:00",
       "category": "Military"
     },
     {
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Pakistan blames India for undermining regional stability, says dialogue ‘must never collapse’",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645535/pakistan",
-      "published_date": "2026-05-31T08:05:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Drone hits captured nuclear plant in Ukraine: IAEA",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645530/world",
-      "published_date": "2026-05-31T07:05:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Talks productive, but ‘war not off the table’: US",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2004068/talks-productive-but-war-not-off-the-table-us",
-      "published_date": "2026-05-31T02:51:35+00:00",
-      "category": "Military"
+      "title": "Market time restriction restored in Punjab",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2610924/market-time-restriction-restored-in-punjab",
+      "published_date": "2026-06-01T12:31:58+00:00",
+      "category": "Energy"
     },
     {
       "title": "Oil rises as US, Iran trade strikes, Israel moves further into Lebanon",
@@ -403,10 +410,24 @@
       "category": "Energy"
     },
     {
+      "title": "PM Shehbaz assures businessmen, industrialists of measures to boost industrial growth in upcoming budget",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2004414/pm-shehbaz-assures-businessmen-industrialists-of-measures-to-boost-industrial-growth-in-upcoming-budget",
+      "published_date": "2026-06-01T17:00:22+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "4pc growth target set for FY2026–27 as macroeconomic framework sent to economic council for approval",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2004391/4pc-growth-target-set-for-fy2026-27-as-macroeconomic-framework-sent-to-economic-council-for-approval",
       "published_date": "2026-06-01T13:12:36+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Lahore bat populations declining amid urban growth, light pollution and public myths",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2610921/lahore-bat-populations-declining-amid-urban-growth-light-pollution-and-public-myths",
+      "published_date": "2026-06-01T11:45:52+00:00",
       "category": "Economy"
     },
     {
@@ -435,6 +456,13 @@
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2610865/bears-take-control-at-psx-as-kse-100-index-loses-over-2000-points",
       "published_date": "2026-06-01T04:42:16+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pakistan inflation hits two-year high in May, Middle East tensions rattle stock market",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645682/pakistan",
+      "published_date": "2026-06-01T04:06:14+00:00",
       "category": "Economy"
     },
     {
@@ -522,25 +550,11 @@
       "category": "Economy"
     },
     {
-      "title": "FBR misses target by Rs864b",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2610592/fbr-misses-target-by-rs864b",
-      "published_date": "2026-05-30T16:55:32+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Freelancer tax system being misused",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2610594/freelancer-tax-system-being-misused",
-      "published_date": "2026-05-30T16:55:32+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "PSX surges 4% in holiday-shortened week",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2610597/psx-surges-4-in-holiday-shortened-week",
-      "published_date": "2026-05-30T16:55:32+00:00",
-      "category": "Economy"
+      "title": "PML-N supremo Nawaz Sharif to visit Gilgit-Baltistan ahead of June 7 polls",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2004429/pml-n-supremo-nawaz-sharif-to-visit-gilgit-baltistan-ahead-of-june-7-polls",
+      "published_date": "2026-06-01T18:30:22+00:00",
+      "category": "Local Events"
     },
     {
       "title": "ECP directs interior ministry, Islamabad commissioner to provide pending delimitation documents in 3 days",
@@ -554,6 +568,20 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2004412/seven-missing-after-tourist-jeep-falls-into-ravine-en-route-to-gbs-fairy-meadows",
       "published_date": "2026-06-01T16:04:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Karachi's Sharae Faisal goes under automated lane watch",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2610928/karachis-sharae-faisal-goes-under-automated-lane-watch",
+      "published_date": "2026-06-01T13:33:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rare vulture rescued near Punjab's Rahim Yar Khan",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2610925/rare-vulture-rescued-near-punjabs-rahim-yar-khan",
+      "published_date": "2026-06-01T12:49:45+00:00",
       "category": "Local Events"
     },
     {
@@ -613,6 +641,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Iran asks Pakistan to continue mediation as Trump says Israel-Hezbollah halting hostilities",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645683/pakistan",
+      "published_date": "2026-06-01T05:06:44+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "NAB initiates probe into ‘illegal’ marriage halls approved by Sindh Building Control Authority",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2004291/nab-initiates-probe-into-illegal-marriage-halls-approved-by-sindh-building-control-authority",
@@ -652,34 +687,6 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2645664/pakistan",
       "published_date": "2026-06-01T01:06:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PPP will make people of Gilgit-Baltistan 'owners of their fate', vows Bilawal",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2610831/barrister-gohar-bilawal-arrive-in-skardu-as-g-b-election-campaign-enters-final-stretch",
-      "published_date": "2026-06-01T00:23:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sharjeel Memon criticises Irsa's 'unjust reduction' of Sindh's water share, urges Centre to take notice",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2004154/sharjeel-memon-criticises-irsas-unjust-reduction-of-sindhs-water-share-urges-centre-to-take-notice",
-      "published_date": "2026-05-31T20:06:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Strict action' taken, says power minister after Khawaja Asif's claim of Lesco employees' corruption",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2004146/strict-action-taken-says-power-minister-after-khawaja-asifs-claim-of-lesco-employees-corruption",
-      "published_date": "2026-05-31T20:02:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Punjab approves deployment of 6,000 police personnel in GB for election",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2004156/punjab-approves-deployment-of-6000-police-personnel-in-gb-for-election",
-      "published_date": "2026-05-31T19:02:54+00:00",
       "category": "Local Events"
     }
   ]
