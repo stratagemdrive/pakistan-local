@@ -1,8 +1,29 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-06-02T15:00:21.144013+00:00",
+  "last_updated": "2026-06-03T00:23:03.716892+00:00",
   "story_count": 96,
   "stories": [
+    {
+      "title": "Bangladesh elected president of UN General Assembly in closely contested vote",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2004697/bangladesh-elected-president-of-un-general-assembly-in-closely-contested-vote",
+      "published_date": "2026-06-02T18:37:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan, 7 other Muslim countries condemn Israeli incursions into Al-Aqsa Mosque, call for an immediate halt",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2004689/pakistan-7-other-muslim-countries-condemn-israeli-incursions-into-al-aqsa-mosque-call-for-an-immediate-halt",
+      "published_date": "2026-06-02T16:47:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bilawal vows struggle for Gilgit-Baltistan’s rights under 18th Amendment on campaign trail",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2611082/bilawal-vows-struggle-for-gilgit-baltistans-rights-under-18th-amendment-on-campaign-trail",
+      "published_date": "2026-06-02T08:40:26+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pakistan, Italy sign accord to abolish visas for diplomatic passports",
       "source": "Dawn",
@@ -123,25 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pakistan urges immediate ceasefire in Ukraine",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2610507/pakistan-urges-immediate-ceasefire-in-ukraine",
-      "published_date": "2026-05-29T15:53:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Dar arrives in Washington to meet US Secretary of State Marco Rubio: FO",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2003632/dar-arrives-in-washington-to-meet-us-secretary-of-state-marco-rubio-fo",
-      "published_date": "2026-05-29T05:23:23+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US thanks Pakistan for Middle East peace efforts, backs stronger partnership",
+      "title": "Kuwait says air defenses repelling hostile missile and drone attacks",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645377/pakistan",
-      "published_date": "2026-05-29T04:05:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.arabnews.pk/node/2645832/middle-east",
+      "published_date": "2026-06-02T23:06:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Former UK minister says raising Gaza in Cabinet is like ‘hitting a brick wall’",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645828/world",
+      "published_date": "2026-06-02T22:06:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran willing to negotiate ‘aspects’ of nuclear programme, Rubio says amid escalating scrutiny over war",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2004681/iran-willing-to-negotiate-aspects-of-nuclear-programme-rubio-says-amid-escalating-scrutiny-over-war",
+      "published_date": "2026-06-02T19:06:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Security forces kill 17 terrorists in various districts of Balochistan following Quetta train bombing: ISPR",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2004690/security-forces-kill-17-terrorists-in-various-districts-of-balochistan-following-quetta-train-bombing-ispr",
+      "published_date": "2026-06-02T16:55:22+00:00",
+      "category": "Military"
     },
     {
       "title": "WHO reports sharp drop in suspected Ebola cases from 906 to 116",
@@ -158,10 +186,31 @@
       "category": "Military"
     },
     {
+      "title": "17 terrorists killed in Balochistan operations after Quetta train attack: ISPR",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2611094/17-terrorists-killed-in-balochistan-operations-after-quetta-train-attack-ispr",
+      "published_date": "2026-06-02T10:44:48+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Trump loses his temper with Netanyahu in expletive-laden call on Israel's escalation in Lebanon: report",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2004600/trump-loses-his-temper-with-netanyahu-in-expletive-laden-call-on-israels-escalation-in-lebanon-report",
       "published_date": "2026-06-02T08:42:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What awaits Syrians returning to a health system still broken by war",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645819/middle-east",
+      "published_date": "2026-06-02T08:06:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan eases market closure restrictions imposed during Iran war",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645811/pakistan",
+      "published_date": "2026-06-02T07:06:42+00:00",
       "category": "Military"
     },
     {
@@ -232,55 +281,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2004383/myanmar-president-holds-trade-and-security-talks-with-indias-modi",
       "published_date": "2026-06-01T12:08:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "FM Dar calls for sustained US-Iran ceasefire to prevent breakdown of understandings in call with Araghchi",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2610923/fm-dar-calls-for-sustained-ceasefire-to-prevent-breakdown-of-understandings-in-call-with-araghchi",
-      "published_date": "2026-06-01T12:04:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tehran responds with air base attack after US strikes Iranian military sites",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2004320/tehran-responds-with-air-base-attack-after-us-strikes-iranian-military-sites",
-      "published_date": "2026-06-01T08:43:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel says France bans its officials from weapons show",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645685/middle-east",
-      "published_date": "2026-06-01T06:06:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Driver killed, six missing after tourist vehicle accident near Pakistan’s Fairy Meadows",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645684/pakistan",
-      "published_date": "2026-06-01T06:06:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli high court approves Roman Gofman as next Mossad chief",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645677/middle-east",
-      "published_date": "2026-06-01T03:06:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US House proposal seeks unprecedented military integration with Israel",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2004235/us-house-proposal-seeks-unprecedented-military-integration-with-israel",
-      "published_date": "2026-06-01T03:05:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran halting indirect talks with US over Israel&#039;s Lebanon assault - Tasnim news agency",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645673/middle-east",
-      "published_date": "2026-06-01T02:06:25+00:00",
       "category": "Military"
     },
     {
@@ -394,6 +394,13 @@
       "url": "https://www.arabnews.pk/node/2645170/business-economy",
       "published_date": "2026-05-27T08:05:02+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Federal govt extends closing times for markets, restaurants",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2004700/federal-govt-extends-closing-times-for-markets-restaurants",
+      "published_date": "2026-06-02T23:29:54+00:00",
+      "category": "Economy"
     },
     {
       "title": "European luxury brands seek to lure America's super-rich",
@@ -529,11 +536,53 @@
       "category": "Economy"
     },
     {
-      "title": "Oil industry opposes windfall tax in upcoming budget",
+      "title": "13,500 pregnant women in Lebanon struggle to find safe care as hospitals come under fire",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645822/middle-east",
+      "published_date": "2026-06-03T09:06:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lebanon says Israeli strikes on south kill 5, wound hospital staff",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645831/middle-east",
+      "published_date": "2026-06-02T22:06:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Facing uproar, Netanyahu announces ‘mega-plan’ for Israel’s battered north",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645830/middle-east",
+      "published_date": "2026-06-02T22:06:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ellis' career-best figures help Australia beat Pakistan to level ODI series",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2004210/oil-industry-opposes-windfall-tax-in-upcoming-budget",
-      "published_date": "2026-06-01T02:01:27+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2004650/ellis-career-best-figures-help-australia-beat-pakistan-to-level-odi-series",
+      "published_date": "2026-06-02T21:21:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "At least 20 injured as violent storm damages homes, buildings in KP's Bannu",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2004699/at-least-20-injured-as-violent-storm-damages-homes-buildings-in-kps-bannu",
+      "published_date": "2026-06-02T18:39:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PTI leaders expelled from Gilgit-Baltistan, decry ‘lack of level playing field’",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2004686/pti-leaders-expelled-from-gilgit-baltistan-decry-lack-of-level-playing-field",
+      "published_date": "2026-06-02T17:54:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Imran’s sister says only acceptable ‘deal’ is restoration of judiciary, free and fair elections",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2004676/imrans-sister-says-only-acceptable-deal-is-restoration-of-judiciary-free-and-fair-elections",
+      "published_date": "2026-06-02T15:14:10+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Nationality of deceased not confirmed yet, says FO on reports of Pakistani farmers' murder in Italy",
@@ -564,6 +613,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Thousands protest Jared Kushner-linked resort project in Albania",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645820/world",
+      "published_date": "2026-06-02T08:06:46+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Salman Akram Raja, PTI leaders say barred from entering G-B ahead of polls",
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2611060/salman-akram-raja-pti-leaders-say-barred-from-entering-g-b-ahead-of-polls",
@@ -575,6 +631,13 @@
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2611057/sindh-cabinet-clears-rs112b-package-for-11-karachi-mega-projects",
       "published_date": "2026-06-02T06:15:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan, Arab states condemn Israeli settler incursions into Al-Aqsa compound",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645807/pakistan",
+      "published_date": "2026-06-02T06:06:47+00:00",
       "category": "Local Events"
     },
     {
@@ -610,69 +673,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2004554/achakzai-booked-for-spreading-hatred",
       "published_date": "2026-06-02T03:03:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Father can’t escape child support duties, LHC judge rules",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2004533/father-cant-escape-child-support-duties-lhc-judge-rules",
-      "published_date": "2026-06-02T02:51:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan seeks Saudi help to build nationwide digital health records system",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645773/pakistan",
-      "published_date": "2026-06-02T00:06:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PML-N supremo Nawaz Sharif to visit Gilgit-Baltistan ahead of June 7 polls",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2004429/pml-n-supremo-nawaz-sharif-to-visit-gilgit-baltistan-ahead-of-june-7-polls",
-      "published_date": "2026-06-01T18:30:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ECP directs interior ministry, Islamabad commissioner to provide pending delimitation documents in 3 days",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2004413/ecp-directs-interior-ministry-islamabad-commissioner-to-provide-pending-delimitation-documents-in-3-days",
-      "published_date": "2026-06-01T16:23:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Seven missing after tourist jeep falls into ravine en route to GB’s Fairy Meadows",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2004412/seven-missing-after-tourist-jeep-falls-into-ravine-en-route-to-gbs-fairy-meadows",
-      "published_date": "2026-06-01T16:04:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Karachi's K-IV drifts towards 2029",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2610952/citys-k-iv-drifts-towards-2029",
-      "published_date": "2026-06-01T15:59:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Karachi's Sharae Faisal goes under automated lane watch",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2610928/karachis-sharae-faisal-goes-under-automated-lane-watch",
-      "published_date": "2026-06-01T13:33:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rare vulture rescued near Punjab's Rahim Yar Khan",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2610925/rare-vulture-rescued-near-punjabs-rahim-yar-khan",
-      "published_date": "2026-06-01T12:49:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "GB's rights should be protected under any new constitutional amendment, says Bilawal at election rally",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2004374/gbs-rights-should-be-protected-under-any-new-constitutional-amendment-says-bilawal-at-election-rally",
-      "published_date": "2026-06-01T12:34:30+00:00",
       "category": "Local Events"
     }
   ]
