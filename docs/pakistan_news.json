@@ -1,8 +1,15 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-06-04T14:08:42.082722+00:00",
+  "last_updated": "2026-06-04T23:58:56.027318+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Australian FM believes Israeli soldiers sexually abused, assaulted women on Gaza flotilla",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2646046/world",
+      "published_date": "2026-06-04T22:06:26+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "FO rejects reports of Dar sharing intelligence on Iran's nuclear programme during meeting with Rubio",
       "source": "Dawn",
@@ -11,10 +18,24 @@
       "category": "Diplomacy"
     },
     {
+      "title": "'True and special relationship': PM Shehbaz lauds 8 decades of Pak-US ties on America's 250th anniversary",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2611472/true-and-special-relationship-pm-shehbaz-lauds-8-decades-of-pak-us-ties-on-americas-anniversary",
+      "published_date": "2026-06-04T12:41:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Dar congratulates countries elected as non-permanent UNSC members",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2005143/dar-congratulates-countries-elected-as-non-permanent-unsc-members",
       "published_date": "2026-06-04T09:24:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israel to open embassy in Slovenia",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2646028/world",
+      "published_date": "2026-06-04T07:06:51+00:00",
       "category": "Diplomacy"
     },
     {
@@ -123,25 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "'The bridge between confrontation and peace': Pakistan calls for stronger mediation efforts to prevent conflicts",
+      "title": "WFP chief repeats warning over global food crisis amid Hormuz closure",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2646047/world",
+      "published_date": "2026-06-04T22:06:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "PM Shehbaz hails Islamabad’s ‘true and special relationship’ with Washington at event marking US 250th anniversary",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2004541/the-bridge-between-confrontation-and-peace-pakistan-calls-for-stronger-mediation-efforts-to-prevent-conflicts",
-      "published_date": "2026-06-02T03:59:19+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2005211/pm-shehbaz-hails-islamabads-true-and-special-relationship-with-washington-at-event-marking-us-250th-anniversary",
+      "published_date": "2026-06-04T18:54:10+00:00",
+      "category": "Military"
     },
     {
-      "title": "New round of Israel-Lebanon talks begin in Washington",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645780/middle-east",
-      "published_date": "2026-06-02T01:06:38+00:00",
-      "category": "Diplomacy"
+      "title": "Democrats seek Senate Republican support to limit Trump’s war powers",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2005214/democrats-seek-senate-republican-support-to-limit-trumps-war-powers",
+      "published_date": "2026-06-04T18:37:55+00:00",
+      "category": "Military"
     },
     {
-      "title": "France warns Israel against ‘major strategic mistake’ of deeper military operations in Lebanon",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645708/middle-east",
-      "published_date": "2026-06-01T22:06:08+00:00",
-      "category": "Diplomacy"
+      "title": "Security forces kill 4 terrorists in separate KP operations: ISPR",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2005207/security-forces-kill-4-terrorists-in-separate-kp-operations-ispr",
+      "published_date": "2026-06-04T16:26:20+00:00",
+      "category": "Military"
     },
     {
       "title": "Vast astronaut mission kicks off commercial race to replace ISS",
@@ -186,6 +214,20 @@
       "category": "Military"
     },
     {
+      "title": "AI helps Saudi real estate shift from delays to data-driven delivery",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2646039/business-economy",
+      "published_date": "2026-06-04T08:06:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Security forces kill 4 terrorists in DI Khan, Mohmand IBOs: ISPR",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2611436/security-forces-kill-4-terrorists-in-di-khan-mohmand-ibos-ispr",
+      "published_date": "2026-06-04T08:05:24+00:00",
+      "category": "Military"
+    },
+    {
       "title": "US House passes resolution calling for end to war on Iran, rebuking Trump",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2005046/us-house-passes-resolution-calling-for-end-to-war-on-iran-rebuking-trump",
@@ -197,6 +239,13 @@
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2611429/noor-mukadam-case-sc-upholds-zahir-jaffers-death-sentence-dismisses-review-petition",
       "published_date": "2026-06-04T06:19:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What Israel’s capture of a medieval castle says about the challenge of breaking Lebanon’s cycle of conflict",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2646022/middle-east",
+      "published_date": "2026-06-04T06:06:21+00:00",
       "category": "Military"
     },
     {
@@ -232,55 +281,6 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2645980/pakistan",
       "published_date": "2026-06-03T23:06:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rubio declares US operation against Iran over, claims Washington achieved military objectives",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2004963/rubio-declares-us-operation-against-iran-over-claims-washington-achieved-military-objectives",
-      "published_date": "2026-06-03T20:33:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'I was a little bit perturbed': Trump confirms expletive-laden phone call with Netanyahu",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2004906/i-was-a-little-bit-perturbed-trump-confirms-expletive-laden-phone-call-with-netanyahu",
-      "published_date": "2026-06-03T13:48:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hostilities flare in Gulf as US-Iran talks at a stalemate",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2004866/hostilities-flare-in-gulf-as-us-iran-talks-at-a-stalemate",
-      "published_date": "2026-06-03T08:27:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Five Eyes security alliance warns of Chinese espionage threat",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645927/world",
-      "published_date": "2026-06-03T08:06:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hormuz crisis leaves poorer nations struggling with higher fuel bills and political unrest",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645925/world",
-      "published_date": "2026-06-03T08:06:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strikes kill three people in Gaza, medics say",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645901/middle-east",
-      "published_date": "2026-06-03T02:06:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon says at least 9 dead as Israel pounds south, strikes near Beirut",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645886/middle-east",
-      "published_date": "2026-06-02T23:06:56+00:00",
       "category": "Military"
     },
     {
@@ -424,10 +424,31 @@
       "category": "Energy"
     },
     {
+      "title": "PM Shehbaz calls export-led growth top priority, urges NTC to facilitate investors",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2005209/pm-shehbaz-calls-export-led-growth-top-priority-urges-ntc-to-facilitate-investors",
+      "published_date": "2026-06-04T17:41:59+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "PM Shehbaz directs launch of pilot for proposed automated tax collection system in Islamabad",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2005199/pm-shehbaz-directs-launch-of-pilot-for-proposed-automated-tax-collection-system-in-islamabad",
+      "published_date": "2026-06-04T14:56:52+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Nvidia CEO mounts charm push in South Korea with TV talk show, baseball appearances",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2005165/nvidia-ceo-mounts-charm-push-in-south-korea-with-tv-talk-show-baseball-appearances",
       "published_date": "2026-06-04T11:25:33+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pakistan says ‘special’ relationship with US encompasses trade, investment, security cooperation",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2646032/pakistan",
+      "published_date": "2026-06-04T07:06:07+00:00",
       "category": "Economy"
     },
     {
@@ -543,25 +564,46 @@
       "category": "Economy"
     },
     {
-      "title": "Youth employability central to economic reform agenda: FinMin",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2611230/youth-employability-central-to-economic-reform-agenda-finmin",
-      "published_date": "2026-06-03T04:56:46+00:00",
-      "category": "Economy"
+      "title": "Pakistan upstage Australia for 2-1 ODI series win",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2005169/pakistan-upstage-australia-for-2-1-odi-series-win",
+      "published_date": "2026-06-04T20:29:13+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Survey shows public confidence slipping in Pakistan’s economic outlook amid Iran conflict",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645902/pakistan",
-      "published_date": "2026-06-03T03:06:34+00:00",
-      "category": "Economy"
+      "title": "Inquiry uncovers over 500 suspicious degrees, financial irregularities at KP's Gomal University",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2005202/inquiry-uncovers-over-500-suspicious-degrees-financial-irregularities-at-kps-gomal-university",
+      "published_date": "2026-06-04T17:08:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "US targets India with forced labour tariff amid talks on trade pact",
+      "title": "At Ghizer rally, Bilawal urges voters to give PPP ‘heavy mandate’ to safeguard region’s rights",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2005196/at-ghizer-rally-bilawal-urges-voters-to-give-ppp-heavy-mandate-to-safeguard-regions-rights",
+      "published_date": "2026-06-04T16:11:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PTI leaders once again barred from meeting Imran Khan at Adiala jail",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2005201/pti-leaders-once-again-barred-from-meeting-imran-khan-at-adiala-jail",
+      "published_date": "2026-06-04T15:37:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Four policemen abducted in Gwadar near Pak-Iran border",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2611215/us-targets-india-with-forced-labour-tariff-amid-talks-on-trade-pact",
-      "published_date": "2026-06-03T02:38:26+00:00",
-      "category": "Economy"
+      "url": "https://tribune.com.pk/story/2611479/four-policemen-abducted-in-gwadar-near-pak-iran-border",
+      "published_date": "2026-06-04T14:57:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Elderly man kills wife for refusing ‘marital relation’ in Karachi's Orangi Town",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2611478/elderly-man-kills-wife-for-refusing-marital-relation-in-karachis-orangi-town",
+      "published_date": "2026-06-04T14:32:03+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Noor Mukadam case: SC dismisses Zahir Jaffer's review plea, upholds death sentence",
@@ -578,10 +620,24 @@
       "category": "Local Events"
     },
     {
+      "title": "BHC suspends proceedings in treason case against TTAP chief Achakzai",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2611462/bhc-suspends-proceedings-in-treason-case-against-ttap-chief-achakzai",
+      "published_date": "2026-06-04T11:00:23+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Superior courts should issue directions to high courts for swiftly deciding pending cases sparingly, FCC rules",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2005153/superior-courts-should-issue-directions-to-high-courts-for-swiftly-deciding-pending-cases-sparingly-fcc-rules",
       "published_date": "2026-06-04T09:51:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "49 die of thirst in Niger desert after truck breaks down",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2646037/world",
+      "published_date": "2026-06-04T08:06:44+00:00",
       "category": "Local Events"
     },
     {
@@ -603,6 +659,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2005111/delhi-reclaims-its-gymkhana-lahore-keeps-its-elite-club-for-rs5000-a-year",
       "published_date": "2026-06-04T05:46:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meta ‘supreme court’ calls for clear rules on account bans",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2646019/media",
+      "published_date": "2026-06-04T05:06:47+00:00",
       "category": "Local Events"
     },
     {
@@ -638,69 +701,6 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2645988/pakistan",
       "published_date": "2026-06-04T00:06:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yazidi tells Australian court she was enslaved, raped in Daesh home in Syria",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645985/world",
-      "published_date": "2026-06-04T00:06:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three dead, seven injured in Ukraine attack on Simferopol, Moscow-installed governor says",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645939/world",
-      "published_date": "2026-06-03T23:06:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "African migrants flee into the mountains as South Africa’s xenophobic violence surges",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645975/world",
-      "published_date": "2026-06-03T22:06:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ebola had 'big head-start' but response catching up: WHO",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2004961/ebola-had-big-head-start-but-response-catching-up-who",
-      "published_date": "2026-06-03T18:43:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "150 ICT cops deployed in G-B",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2611363/150-ict-cops-deployed-in-g-b",
-      "published_date": "2026-06-03T17:27:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Supreme Court limits routine use of remand power",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2611362/supreme-court-limits-routine-use-of-remand-power",
-      "published_date": "2026-06-03T17:27:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Below-normal rainfall, above-normal temperatures expected in most parts of country from June to August: PMD",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2004951/below-normal-rainfall-above-normal-temperatures-expected-in-most-parts-of-country-from-june-to-august-pmd",
-      "published_date": "2026-06-03T16:36:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bilawal pledges to address Diamer-Bhasha Dam resettlement issues if PPP wins G-B polls",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2004941/bilawal-pledges-to-address-diamer-bhasha-dam-resettlement-issues-if-ppp-wins-g-b-polls",
-      "published_date": "2026-06-03T15:47:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "If you need to use the loo on the way to Turbat",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2004923/if-you-need-to-use-the-loo-on-the-way-to-turbat",
-      "published_date": "2026-06-03T14:33:59+00:00",
       "category": "Local Events"
     }
   ]
