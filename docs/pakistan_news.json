@@ -1,7 +1,7 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-06-03T15:51:10.006651+00:00",
-  "story_count": 97,
+  "last_updated": "2026-06-04T00:24:40.406985+00:00",
+  "story_count": 99,
   "stories": [
     {
       "title": "PM Shehbaz stresses need to follow up on recent MoUs during meeting with Chinese envoy",
@@ -15,6 +15,20 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2004859/pm-shehbaz-approves-extension-in-closing-hours-of-shops-markets",
       "published_date": "2026-06-03T08:35:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Governor of Saudi Arabia’s Eastern Province receives Dutch ambassador to Riyadh",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645930/saudi-arabia",
+      "published_date": "2026-06-03T08:06:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Colombian presidential candidate de la Espriella thanks Trump for endorsing his campaign",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645924/world",
+      "published_date": "2026-06-03T07:06:26+00:00",
       "category": "Diplomacy"
     },
     {
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "'Fake news': MNA Ali Musa Gilani denies reports of his deportation from UAE",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2004143/fake-news-mna-ali-musa-gilani-denies-reports-of-his-deportation-from-uae",
-      "published_date": "2026-05-31T12:26:36+00:00",
-      "category": "Diplomacy"
+      "title": "US House approves war powers resolution to halt military action against Iran",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645937/world",
+      "published_date": "2026-06-04T09:06:21+00:00",
+      "category": "Military"
     },
     {
-      "title": "Islamabad stays in frame for US-Iran deal signing",
+      "title": "Rubio declares US operation against Iran over, claims Washington achieved military objectives",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2004067/islamabad-stays-in-frame-for-us-iran-deal-signing",
-      "published_date": "2026-05-31T05:19:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2004963/rubio-declares-us-operation-against-iran-over-claims-washington-achieved-military-objectives",
+      "published_date": "2026-06-03T20:33:04+00:00",
+      "category": "Military"
     },
     {
       "title": "'I was a little bit perturbed': Trump confirms expletive-laden phone call with Netanyahu",
@@ -155,6 +169,20 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2004866/hostilities-flare-in-gulf-as-us-iran-talks-at-a-stalemate",
       "published_date": "2026-06-03T08:27:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Five Eyes security alliance warns of Chinese espionage threat",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645927/world",
+      "published_date": "2026-06-03T08:06:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hormuz crisis leaves poorer nations struggling with higher fuel bills and political unrest",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645925/world",
+      "published_date": "2026-06-03T08:06:07+00:00",
       "category": "Military"
     },
     {
@@ -256,38 +284,24 @@
       "category": "Military"
     },
     {
-      "title": "Russian drones, missiles strike Ukraine in major attack; 10 dead, dozens wounded",
+      "title": "OGDCL makes significant oil, gas discovery in Sindh’s Sanghar district",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2004604/russian-drones-missiles-strike-ukraine-in-major-attack-10-dead-dozens-wounded",
-      "published_date": "2026-06-02T05:36:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Cabinet approves nationwide medicine tracking system to combat counterfeit drugs",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2611055/cabinet-approves-nationwide-medicine-tracking-system-to-combat-counterfeit-drugs",
-      "published_date": "2026-06-02T05:31:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan seeks official Taliban stance on TTP amid doubts over reported directive",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2611027/pakistan-seeks-official-taliban-stance-on-ttp-amid-doubts-over-reported-directive",
-      "published_date": "2026-06-02T02:02:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel arms exports hit another all-time high: ministry",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645783/middle-east",
-      "published_date": "2026-06-02T01:06:44+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/2004950/ogdcl-makes-significant-oil-gas-discovery-in-sindhs-sanghar-district",
+      "published_date": "2026-06-03T16:20:39+00:00",
+      "category": "Energy"
     },
     {
       "title": "OGDC announces major oil and gas discovery in Sindh's Sanghar district",
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2611261/ogdc-announces-major-oil-and-gas-discovery-in-sindhs-sanghar-district",
       "published_date": "2026-06-03T08:41:55+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Saudi center forecasts hotter summer this year",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645919/saudi-arabia",
+      "published_date": "2026-06-03T07:06:55+00:00",
       "category": "Energy"
     },
     {
@@ -403,10 +417,31 @@
       "category": "Energy"
     },
     {
+      "title": "Another meeting expected as PML-N, PPP continue budget discussions ahead of June 10 presentation",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2004970/another-meeting-expected-as-pml-n-ppp-continue-budget-discussions-ahead-of-june-10-presentation",
+      "published_date": "2026-06-03T20:31:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "2 in 10 Pakistanis believe country is on right track: Ipsos survey",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2004946/2-in-10-pakistanis-believe-country-is-on-right-track-ipsos-survey",
+      "published_date": "2026-06-03T17:31:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "In meeting with business leaders, PM Shehbaz says govt taking measures to bring informal economy into tax net",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2004872/in-meeting-with-business-leaders-pm-shehbaz-says-govt-taking-measures-to-bring-informal-economy-into-tax-net",
       "published_date": "2026-06-03T13:11:17+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Govt, PPP agree on recommending June 10 for FY2026-27 budget session",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2611289/govt-ppp-agree-on-recommending-june-10-for-fy2026-27-budget-session",
+      "published_date": "2026-06-03T11:45:46+00:00",
       "category": "Economy"
     },
     {
@@ -522,25 +557,25 @@
       "category": "Economy"
     },
     {
-      "title": "PSX makes slight recovery after sharp sell-off",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2611146/psx-makes-slight-recovery-after-sharp-sell-off",
-      "published_date": "2026-06-02T15:07:14+00:00",
-      "category": "Economy"
+      "title": "Three dead, seven injured in Ukraine attack on Simferopol, Moscow-installed governor says",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2645939/world",
+      "published_date": "2026-06-03T23:06:08+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Cement despatches plunge 21% in May",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2611144/cement-despatches-plunge-21-in-may",
-      "published_date": "2026-06-02T15:07:14+00:00",
-      "category": "Economy"
+      "title": "Ebola had 'big head-start' but response catching up: WHO",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2004961/ebola-had-big-head-start-but-response-catching-up-who",
+      "published_date": "2026-06-03T18:43:04+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "FTO declares 'voluntary' tax deposits illegal",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2611142/fto-declares-voluntary-tax-deposits-illegal",
-      "published_date": "2026-06-02T15:07:14+00:00",
-      "category": "Economy"
+      "title": "Below-normal rainfall, above-normal temperatures expected in most parts of country from June to August: PMD",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2004951/below-normal-rainfall-above-normal-temperatures-expected-in-most-parts-of-country-from-june-to-august-pmd",
+      "published_date": "2026-06-03T16:36:29+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Bilawal pledges to address Diamer-Bhasha Dam resettlement issues if PPP wins G-B polls",
@@ -575,6 +610,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2004877/at-least-18-foreign-nationals-among-21-killed-in-delhi-hotel-fire",
       "published_date": "2026-06-03T13:14:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "K-P govt, dissident PTI lawmakers fail to reach reconciliation ahead of budget",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2611296/k-p-govt-dissident-pti-lawmakers-fail-to-reach-reconciliation-ahead-of-budget",
+      "published_date": "2026-06-03T13:09:48+00:00",
       "category": "Local Events"
     },
     {
@@ -652,34 +694,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2004730/gang-rape-victim-dies-during-botched-abortion-in-lahore",
       "published_date": "2026-06-03T03:48:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Despite govt intervention, Karachi University teachers refuse to end exam boycott",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2004735/despite-govt-intervention-karachi-university-teachers-refuse-to-end-exam-boycott",
-      "published_date": "2026-06-03T03:36:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump names inexperienced ally as intelligence director",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2004772/trump-names-inexperienced-ally-as-intelligence-director",
-      "published_date": "2026-06-03T02:50:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "No extra tax on poultry feed makers, rules FCC",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2004789/no-extra-tax-on-poultry-feed-makers-rules-fcc",
-      "published_date": "2026-06-03T02:17:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lebanon says Israeli strikes on south kill 5, wound hospital staff",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645831/middle-east",
-      "published_date": "2026-06-02T22:06:31+00:00",
       "category": "Local Events"
     }
   ]
