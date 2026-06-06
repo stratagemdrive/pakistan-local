@@ -1,13 +1,34 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-06-06T12:11:14.829780+00:00",
+  "last_updated": "2026-06-06T23:55:49.014882+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "South Africa denounces ‘spectacles’ of Ghana repatriations",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2646220/world",
+      "published_date": "2026-06-06T22:06:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "PM Shehbaz meets interior minister ahead of Naqvi’s Iran visit",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2005678/pm-shehbaz-meets-interior-minister-ahead-of-naqvis-iran-visit",
+      "published_date": "2026-06-06T16:36:09+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Occupied Kashmir will never be 'integral part of India': Islamabad slams New Delhi for 'misleading' UNSC",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2005619/occupied-kashmir-will-never-be-integral-part-of-india-islamabad-slams-new-delhi-for-misleading-unsc",
       "published_date": "2026-06-06T09:18:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran World Cup team flies to Mexico",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2646211/sport",
+      "published_date": "2026-06-06T08:06:18+00:00",
       "category": "Diplomacy"
     },
     {
@@ -22,6 +43,13 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2646154/pakistan",
       "published_date": "2026-06-06T06:06:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK envoy cautions Pakistani applicants against illegal agents making false promises of British asylum",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2611746/uk-envoy-cautions-pakistani-applicants-against-illegal-agents-making-false-promises-of-asylum",
+      "published_date": "2026-06-06T05:56:28+00:00",
       "category": "Diplomacy"
     },
     {
@@ -116,32 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Dar congratulates countries elected as non-permanent UNSC members",
+      "title": "Gazan fishermen patch up dinghies with door frames to keep themselves afloat",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2005143/dar-congratulates-countries-elected-as-non-permanent-unsc-members",
-      "published_date": "2026-06-04T09:24:48+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israel to open embassy in Slovenia",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2646028/world",
-      "published_date": "2026-06-04T07:06:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN peacekeeper from Serbia killed in south Lebanon",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645979/middle-east",
-      "published_date": "2026-06-03T23:06:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pakistan accuses India of weaponizing water after treaty suspension",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2645983/pakistan",
-      "published_date": "2026-06-03T23:06:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2005673/gazan-fishermen-patch-up-dinghies-with-door-frames-to-keep-themselves-afloat",
+      "published_date": "2026-06-06T14:06:28+00:00",
+      "category": "Military"
     },
     {
       "title": "Tribesmen block highway in KP's Khyber over targeted killings",
@@ -176,6 +183,13 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2646152/middle-east",
       "published_date": "2026-06-06T06:06:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanon army chief visits US-Iran mediator Pakistan — Lebanese military",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2646194/pakistan",
+      "published_date": "2026-06-06T05:06:08+00:00",
       "category": "Military"
     },
     {
@@ -267,20 +281,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2005375/chinas-xi-to-visit-north-korea-as-beijing-seeks-deeper-pyongyang-ties",
       "published_date": "2026-06-05T05:36:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Six terrorists killed in Panjgur IBO: ISPR",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2611579/six-terrorists-killed-in-panjgur-ibo-ispr",
-      "published_date": "2026-06-05T02:09:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "AJK general elections to be held on July 27, Election Commission announces",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2611570/ajk-general-elections-to-be-held-on-july-27-election-commission-announces",
-      "published_date": "2026-06-05T00:58:43+00:00",
       "category": "Military"
     },
     {
@@ -564,10 +564,87 @@
       "category": "Economy"
     },
     {
+      "title": "LA stadium workers threaten strike ahead of FIFA World Cup",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2005694/la-stadium-workers-threaten-strike-ahead-of-fifa-world-cup",
+      "published_date": "2026-06-06T18:41:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gilgit-Baltistan votes in legislative assembly elections on Sunday; 24 constituencies up for grabs",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2005690/gilgit-baltistan-votes-in-legislative-assembly-elections-on-sunday-24-constituencies-up-for-grabs",
+      "published_date": "2026-06-06T18:16:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Large parts of country set to experience heatwave conditions from June 7 to 12: PMD",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2005663/large-parts-of-country-set-to-experience-heatwave-conditions-from-june-7-to-12-pmd",
+      "published_date": "2026-06-06T17:34:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PTI alleges pre-poll rigging over security deployment ahead of GB polls",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2005683/pti-alleges-pre-poll-rigging-over-security-deployment-ahead-of-gb-polls",
+      "published_date": "2026-06-06T17:17:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Andreeva wins first Grand Slam title at French Open",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2005681/andreeva-wins-first-grand-slam-title-at-french-open",
+      "published_date": "2026-06-06T15:45:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Female doctor injured in acid attack at Quetta hospital; suspect killed in encounter",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2005660/female-doctor-injured-in-acid-attack-at-quetta-hospital-suspect-killed-in-encounter",
+      "published_date": "2026-06-06T13:51:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PTI and TTAP slam AJK govt's ban on JAAC, call for dialogue",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2611782/pti-and-ttap-slam-ajkban-on-jaac-call-for-dialogue",
+      "published_date": "2026-06-06T13:00:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sharjeel laments ‘low priority’ accorded to Karachi by Centre",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2005655/sharjeel-laments-low-priority-accorded-to-karachi-by-centre",
+      "published_date": "2026-06-06T12:54:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Three injured in gas leak explosion in Rawalpindi",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2611781/three-injured-in-gas-leak-explosion-in-rawalpindi",
+      "published_date": "2026-06-06T11:52:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Punjab steps up monsoon preparedness as authorities issue flood and safety alerts",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2611773/punjab-steps-up-monsoon-preparedness-as-authorities-issue-flood-and-safety-alerts",
+      "published_date": "2026-06-06T10:12:06+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "In pictures: 'Cockroaches' descend on New Delhi as party of social media fame stages protest",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2005645/in-pictures-cockroaches-descend-on-new-delhi-as-party-of-social-media-fame-stages-protest",
       "published_date": "2026-06-06T09:31:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Suspect killed in encounter after acid attack on female doctor in Quetta",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2611771/suspect-killed-in-encounter-after-acid-attack-on-female-doctor-in-quetta",
+      "published_date": "2026-06-06T09:19:30+00:00",
       "category": "Local Events"
     },
     {
@@ -592,6 +669,20 @@
       "category": "Local Events"
     },
     {
+      "title": "72 held in AJK crackdown as govt defends JAAC ban",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2611764/72-held-in-ajk-crackdown-as-govt-defends-jaac-ban",
+      "published_date": "2026-06-06T07:50:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PMD warns of nationwide heatwave as mercury set to climb from June 7-12",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2611762/pmd-warns-of-nationwide-heatwave-as-mercury-set-to-climb-from-june-7-12",
+      "published_date": "2026-06-06T07:31:49+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "'I thought I would perish': Nepali mountaineer who survived nearly a week on Everest recounts ordeal",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2005622/i-thought-i-would-perish-nepali-mountaineer-who-survived-nearly-a-week-on-everest-recounts-ordeal",
@@ -610,97 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2005570/italy-jails-pakistani-couple-for-abusing-daughter",
       "published_date": "2026-06-06T03:10:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BHC suspends FIR filed against Achakzai",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2005573/bhc-suspends-fir-filed-against-achakzai",
-      "published_date": "2026-06-06T03:00:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan pitches motorways to Saudi investors",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2005550/pakistan-pitches-motorways-to-saudi-investors",
-      "published_date": "2026-06-06T02:24:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Security tightened in G-B as Section 144 imposed in Diamer ahead of polls",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2611729/security-tightened-in-g-b-as-section-144-imposed-in-diamer-ahead-of-polls",
-      "published_date": "2026-06-06T00:51:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistani company signs agreement with Huawei for country’s largest Tier III data center",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2646169/pakistan",
-      "published_date": "2026-06-05T22:06:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AJK govt bans Joint Awami Action Committee under anti-terrorism act",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2005462/ajk-govt-bans-joint-awami-action-committee-under-anti-terrorism-act",
-      "published_date": "2026-06-05T20:25:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Earthquake tremors felt in Lahore, other parts of Punjab: PDMA",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2005458/earthquake-tremors-felt-in-lahore-other-parts-of-punjab-pdma",
-      "published_date": "2026-06-05T18:10:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Election campaigning ends in GB as 48-hour ban comes into force",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2005451/election-campaigning-ends-in-gb-as-48-hour-ban-comes-into-force",
-      "published_date": "2026-06-05T17:58:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan ‘categorically rejects’ India’s remarks on GB elections as ‘baseless’",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2005452/pakistan-categorically-rejects-indias-remarks-on-gb-elections-as-baseless",
-      "published_date": "2026-06-05T17:10:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AJK outlaws JAAC following protest call",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2611723/ajk-outlaws-jaac-following-protest-call",
-      "published_date": "2026-06-05T16:34:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bilawal vows to ensure ownership rights, 18th Amendment protections for Gilgit-Baltistan",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2005434/bilawal-vows-to-ensure-ownership-rights-18th-amendment-protections-for-gilgit-baltistan",
-      "published_date": "2026-06-05T15:32:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AJK govt issues travel advisory ahead of JAAC protest, asks visitors to leave",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2005432/ajk-govt-issues-travel-advisory-ahead-of-jaac-protest-asks-visitors-to-leave",
-      "published_date": "2026-06-05T14:59:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "4.9 magnitude quake rattles Punjab, no damage reported",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2611651/49-magnitude-quake-rattles-punjab-no-damage-reported",
-      "published_date": "2026-06-05T12:11:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2 sons of tribal elder killed as armed men open fire in KP's Wana",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2005403/2-sons-of-tribal-elder-killed-as-armed-men-open-fire-in-kps-wana",
-      "published_date": "2026-06-05T10:00:18+00:00",
       "category": "Local Events"
     }
   ]
