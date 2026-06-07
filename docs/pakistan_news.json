@@ -1,8 +1,15 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-06-07T12:24:01.923488+00:00",
+  "last_updated": "2026-06-07T23:57:29.177408+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Putin’s Pakistan puzzle",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2005806/putins-pakistan-puzzle",
+      "published_date": "2026-06-07T13:37:20+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pakistan, China, OIC’s COMSTECH launch joint lab to develop herbal medicine",
       "source": "Arab News Pakistan",
@@ -137,11 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "At SCO meeting, Pakistan demands greater cooperation to tackle ‘terrorism,’ cybercrime",
+      "title": "European leaders ready to support ceasefire talks between Ukraine, Russia",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2646096/pakistan",
-      "published_date": "2026-06-04T23:06:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.arabnews.pk/node/2646321/world",
+      "published_date": "2026-06-08T09:06:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump dismisses idea that Iran betrays his ‘no new wars’ campaign message",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2646320/world",
+      "published_date": "2026-06-08T09:06:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump says he will press Israel to hold back after Iran retaliates for Beirut attack",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2646322/middle-east",
+      "published_date": "2026-06-08T09:06:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "27 terrorists killed in North Waziristan IBOs: ISPR",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2005890/27-terrorists-killed-in-north-waziristan-ibos-ispr",
+      "published_date": "2026-06-07T18:01:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Opec+ approves fourth oil output quota hike since Hormuz closure",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2005888/opec-approves-fourth-oil-output-quota-hike-since-hormuz-closure",
+      "published_date": "2026-06-07T17:00:59+00:00",
+      "category": "Military"
     },
     {
       "title": "One killed, 5 wounded in Israel shooting attacks; suspect dead",
@@ -176,6 +211,13 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2646249/world",
       "published_date": "2026-06-07T07:06:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zelensky meets allies in UK after strike hits Ukraine nuclear site",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2646312/world",
+      "published_date": "2026-06-07T07:06:20+00:00",
       "category": "Military"
     },
     {
@@ -239,48 +281,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2005658/tribesmen-block-highway-in-kps-khyber-over-targeted-killings",
       "published_date": "2026-06-06T11:59:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US, Iran exchange strikes in Gulf in latest flare-up",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2005618/us-iran-exchange-strikes-in-gulf-in-latest-flare-up",
-      "published_date": "2026-06-06T08:40:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "North Korea to build 10,000-ton destroyer, state media says before Xi visit",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2005632/north-korea-to-build-10000-ton-destroyer-state-media-says-before-xi-visit",
-      "published_date": "2026-06-06T07:49:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Several Lebanese soldiers killed in Israeli strike in southern Lebanon",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2646155/middle-east",
-      "published_date": "2026-06-06T06:06:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli forces kill a Palestinian infant in the occupied West Bank, say health officials",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2646152/middle-east",
-      "published_date": "2026-06-06T06:06:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon army chief visits US-Iran mediator Pakistan — Lebanese military",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2646194/pakistan",
-      "published_date": "2026-06-06T05:06:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump rebuked",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2005598/trump-rebuked",
-      "published_date": "2026-06-06T03:23:58+00:00",
       "category": "Military"
     },
     {
@@ -424,10 +424,24 @@
       "category": "Energy"
     },
     {
+      "title": "PPP shares tax-related reservations in pre-budget meeting with Dar, say sources",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2005897/ppp-shares-tax-related-reservations-in-pre-budget-meeting-with-dar-say-sources",
+      "published_date": "2026-06-07T22:07:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Israel's permanent state of war comes with economic, social costs",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2005853/israels-permanent-state-of-war-comes-with-economic-social-costs",
       "published_date": "2026-06-07T09:29:25+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Egypt’s economy grows 5.2% in first 9 months",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2646315/business-economy",
+      "published_date": "2026-06-07T08:06:11+00:00",
       "category": "Economy"
     },
     {
@@ -550,18 +564,39 @@
       "category": "Economy"
     },
     {
-      "title": "Govt launches scheme to bring small shop owners into tax net",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2005415/govt-launches-scheme-to-bring-small-shop-owners-into-tax-net",
-      "published_date": "2026-06-05T13:50:26+00:00",
-      "category": "Economy"
+      "title": "Police search for suspects in Ohio shooting that wounded 12 near a street festival",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2646325/world",
+      "published_date": "2026-06-07T23:06:20+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Trump lawyers deny BBC access to financial details in $10 billion lawsuit, FT says",
+      "title": "Balochistan CM announces civil award to be conferred on man who helped female doctor after acid attack",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2005378/trump-lawyers-deny-bbc-access-to-financial-details-in-10-billion-lawsuit-ft-says",
-      "published_date": "2026-06-05T06:38:23+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2005865/balochistan-cm-announces-civil-award-to-be-conferred-on-man-who-helped-female-doctor-after-acid-attack",
+      "published_date": "2026-06-07T22:09:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bilawal says will meet PM Shehbaz over AJK situation; state media reports JAAC head office sealed",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2005870/bilawal-says-will-meet-pm-shehbaz-over-ajk-situation-state-media-reports-jaac-head-office-sealed",
+      "published_date": "2026-06-07T22:08:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Unofficial results show PPP leading the GB race with victory on 10 seats",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2005670/unofficial-results-show-ppp-leading-the-gb-race-with-victory-on-10-seats",
+      "published_date": "2026-06-07T22:05:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Constitutional amendment not a concession to be wrested, says AJK SC on presidential reference",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2005860/constitutional-amendment-not-a-concession-to-be-wrested-says-ajk-sc-on-presidential-reference",
+      "published_date": "2026-06-07T13:13:11+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Most of JAAC's demands from Oct 2025 agreement fulfilled: minister",
@@ -599,6 +634,13 @@
       "category": "Local Events"
     },
     {
+      "title": "At least 21 Iraqis killed, 19 wounded in bus crash and fire near Nassiriya",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2646316/middle-east",
+      "published_date": "2026-06-07T08:06:22+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "FIA arrests 2 in Lahore over 'illegal' currency exchange, another 2 for copyright violations",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2005849/fia-arrests-2-in-lahore-over-illegal-currency-exchange-another-2-for-copyright-violations",
@@ -610,6 +652,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2005850/world-cup-fever-muted-in-iran-under-shadow-of-war-hardship",
       "published_date": "2026-06-07T07:35:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Global airlines halve profit forecast amid surging fuel bills",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2646311/business-economy",
+      "published_date": "2026-06-07T07:06:47+00:00",
       "category": "Local Events"
     },
     {
@@ -652,55 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2005749/lyari-kicks-its-troubles-aside-as-world-cup-mania-strikes",
       "published_date": "2026-06-07T04:26:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "GB election",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2005801/gb-election",
-      "published_date": "2026-06-07T04:21:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BNP-M announces strike over Zehri incident",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2005772/bnp-m-announces-strike-over-zehri-incident",
-      "published_date": "2026-06-07T04:00:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AJK SC rules refugee seats constitutionally protected, cannot be altered",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2611876/ajk-sc-rules-refugee-seats-constitutionally-protected-cannot-be-altered",
-      "published_date": "2026-06-07T02:55:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "LA stadium workers threaten strike ahead of FIFA World Cup",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2005694/la-stadium-workers-threaten-strike-ahead-of-fifa-world-cup",
-      "published_date": "2026-06-06T18:41:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gilgit-Baltistan votes in legislative assembly elections on Sunday; 24 constituencies up for grabs",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2005690/gilgit-baltistan-votes-in-legislative-assembly-elections-on-sunday-24-constituencies-up-for-grabs",
-      "published_date": "2026-06-06T18:16:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Large parts of country set to experience heatwave conditions from June 7 to 12: PMD",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2005663/large-parts-of-country-set-to-experience-heatwave-conditions-from-june-7-to-12-pmd",
-      "published_date": "2026-06-06T17:34:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PTI alleges pre-poll rigging over security deployment ahead of GB polls",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2005683/pti-alleges-pre-poll-rigging-over-security-deployment-ahead-of-gb-polls",
-      "published_date": "2026-06-06T17:17:38+00:00",
       "category": "Local Events"
     }
   ]
