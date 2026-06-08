@@ -1,13 +1,34 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-06-08T14:50:47.639019+00:00",
+  "last_updated": "2026-06-08T23:56:51.227635+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Pope meets with 6 clergy abuse survivors in Spain, hopes to improve response",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2646457/world",
+      "published_date": "2026-06-08T23:06:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump's new tariff offensive sparks global backlash",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2612089/trumps-new-tariff-offensive-sparks-global-backlash",
+      "published_date": "2026-06-08T11:39:27+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Maritime affairs minister contacts Dar, discusses release of Pakistani seamen held hostage by Somali pirates",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2006112/maritime-affairs-minister-contacts-dar-discusses-release-of-pakistani-seamen-held-hostage-by-somali-pirates",
       "published_date": "2026-06-08T10:05:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Govt 'actively working' to secure release of Pakistani sailors in Somali pirate captivity: maritime minister",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2612073/govt-actively-working-to-secure-release-of-pakistani-sailors-in-somali-pirate-captivity",
+      "published_date": "2026-06-08T08:48:51+00:00",
       "category": "Diplomacy"
     },
     {
@@ -123,25 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Everest Sherpa presumed dead found alive after 6 days; family demands probe into rescue delays",
+      "title": "US-Israel defence integration plan heads for House vote despite opposition",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2005411/everest-sherpa-presumed-dead-found-alive-after-6-days-family-demands-probe-into-rescue-delays",
-      "published_date": "2026-06-05T12:30:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2006172/us-israel-defence-integration-plan-heads-for-house-vote-despite-opposition",
+      "published_date": "2026-06-08T19:16:20+00:00",
+      "category": "Military"
     },
     {
-      "title": "PSX loses 700 points in range-bound trading",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2611623/psx-loses-700-points-in-range-bound-trading",
-      "published_date": "2026-06-05T08:07:28+00:00",
-      "category": "Diplomacy"
+      "title": "Why Houthis threatening Red Sea shipping could mean more for the oil market this time",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2006141/why-houthis-threatening-red-sea-shipping-could-mean-more-for-the-oil-market-this-time",
+      "published_date": "2026-06-08T15:43:21+00:00",
+      "category": "Military"
     },
     {
-      "title": "Pakistan rejects India’s criticism of Gilgit-Baltistan election, demands plebiscite in Kashmir",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2646126/pakistan",
-      "published_date": "2026-06-05T07:06:20+00:00",
-      "category": "Diplomacy"
+      "title": "Iran halts military operations against Israel, warns of harsher attacks if strikes on Lebanon persist",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2006111/iran-halts-military-operations-against-israel-warns-of-harsher-attacks-if-strikes-on-lebanon-persist",
+      "published_date": "2026-06-08T15:01:47+00:00",
+      "category": "Military"
     },
     {
       "title": "'Give peace a little more chance': PM Shehbaz calls for restraint after Israel, Iran exchange attacks",
@@ -172,6 +193,13 @@
       "category": "Military"
     },
     {
+      "title": "'Give peace a little more chance': PM urges restraint amid new round of Iran-Israel confrontation",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2612075/give-peace-a-little-more-chance-pm-urges-restraint-amid-new-round-of-iran-israel-confrontation",
+      "published_date": "2026-06-08T09:07:47+00:00",
+      "category": "Military"
+    },
+    {
       "title": "European leaders ready to support ceasefire talks between Ukraine, Russia",
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2646321/world",
@@ -197,6 +225,20 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2006093/lets-call-it-quits-trump-storms-out-of-tense-rain-plagued-interview-when-confronted-over-election-fraud-claims",
       "published_date": "2026-06-08T07:46:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "France, Germany abandon joint fighter jet project: Berlin",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2646428/world",
+      "published_date": "2026-06-08T06:06:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanese president makes appeal to Israeli government to pursue talks, not war",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2646427/middle-east",
+      "published_date": "2026-06-08T06:06:24+00:00",
       "category": "Military"
     },
     {
@@ -242,46 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Russian drone hit nuclear-fuel storage facility near Chernobyl, Ukraine says",
+      "title": "France to edge out Spain for World Cup glory, economists say",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2646261/world",
-      "published_date": "2026-06-07T09:06:54+00:00",
-      "category": "Military"
+      "url": "https://www.arabnews.pk/node/2646439/sport",
+      "published_date": "2026-06-08T07:06:29+00:00",
+      "category": "Energy"
     },
     {
-      "title": "White House AI policy adviser Krishnan to leave position",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2005854/white-house-ai-policy-adviser-krishnan-to-leave-position",
-      "published_date": "2026-06-07T09:01:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "North Korea nuclear programme 'absolutely non-negotiable': Kim Jong Un's sister",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2005845/north-korea-nuclear-programme-absolutely-non-negotiable-kim-jong-uns-sister",
-      "published_date": "2026-06-07T07:38:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Health workers at the epicenter of Congo’s Ebola outbreak labor with little pay or rest",
+      "title": "Pakistan fisherfolk call for global moratorium on deep-sea mining",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2646249/world",
-      "published_date": "2026-06-07T07:06:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelensky meets allies in UK after strike hits Ukraine nuclear site",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2646312/world",
-      "published_date": "2026-06-07T07:06:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "SMOKERS’ CORNER: MYTHS OF THE 'MADMAN'",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2005279/smokers-corner-myths-of-the-madman",
-      "published_date": "2026-06-07T04:56:23+00:00",
-      "category": "Military"
+      "url": "https://www.arabnews.pk/node/2646426/pakistan",
+      "published_date": "2026-06-08T05:06:54+00:00",
+      "category": "Energy"
     },
     {
       "title": "Oil prices climb more than $4 after Israeli strikes on Iran and Lebanon",
@@ -410,18 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "OGDCL makes significant oil, gas discovery in Sindh’s Sanghar district",
+      "title": "In meeting with PM, president stresses ‘provincial rights, economic stability’ in upcoming budget",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2004950/ogdcl-makes-significant-oil-gas-discovery-in-sindhs-sanghar-district",
-      "published_date": "2026-06-03T16:20:39+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "OGDC announces major oil and gas discovery in Sindh's Sanghar district",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2611261/ogdc-announces-major-oil-and-gas-discovery-in-sindhs-sanghar-district",
-      "published_date": "2026-06-03T08:41:55+00:00",
-      "category": "Energy"
+      "url": "https://www.dawn.com/news/2006163/in-meeting-with-pm-president-stresses-provincial-rights-economic-stability-in-upcoming-budget",
+      "published_date": "2026-06-08T19:19:08+00:00",
+      "category": "Economy"
     },
     {
       "title": "India detains and deports 5,000 Bangladeshis",
@@ -557,11 +564,39 @@
       "category": "Economy"
     },
     {
-      "title": "Slow and steady healing",
+      "title": "Serena Williams to return to tennis in Queen’s doubles on Tuesday",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2646456/sport",
+      "published_date": "2026-06-08T22:06:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Speaker hesitant to convene KP Assembly amid PTI lawmakers’ dissent",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2005595/slow-and-steady-healing",
-      "published_date": "2026-06-06T01:07:19+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2006169/speaker-hesitant-to-convene-kp-assembly-amid-pti-lawmakers-dissent",
+      "published_date": "2026-06-08T20:13:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Karachi police formulate anti-drug policy with educational institutions",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2006166/karachi-police-formulate-anti-drug-policy-with-educational-institutions",
+      "published_date": "2026-06-08T17:53:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Action replay of 2024 elections’: PTI, TTAP reject GB election results, level rigging allegations",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2006146/action-replay-of-2024-elections-pti-ttap-reject-gb-election-results-level-rigging-allegations",
+      "published_date": "2026-06-08T15:28:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Women detained in Afghanistan's Herat in clothing crackdown",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2006152/women-detained-in-afghanistans-herat-in-clothing-crackdown",
+      "published_date": "2026-06-08T14:55:02+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Acid attack more heinous than homicide, tool of patriarchal violence: SC",
@@ -606,6 +641,13 @@
       "category": "Local Events"
     },
     {
+      "title": "PM Shehbaz discusses G-B polls and AJK situation with President Zardari",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2612087/pm-shehbaz-discusses-g-b-polls-and-ajk-situation-with-president-zardari",
+      "published_date": "2026-06-08T10:40:34+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "At least 7 civilians killed during Sunday clash between police, JAAC protesters in AJK's Rawalakot: official",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2006082/at-least-7-civilians-killed-during-sunday-clash-between-police-jaac-protesters-in-ajks-rawalakot-official",
@@ -617,6 +659,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2005920/courts-nod-sought-to-record-pinkys-voice-samples",
       "published_date": "2026-06-08T07:29:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan issues hundreds of visas to Indian Sikhs to attend religious festival from June 10-19",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2646438/pakistan",
+      "published_date": "2026-06-08T07:06:43+00:00",
       "category": "Local Events"
     },
     {
@@ -652,55 +701,6 @@
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2612042/pti-alleges-electoral-rigging-in-g-b-polls",
       "published_date": "2026-06-08T04:25:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KMC eyes Rs1bn annual revenue from tax on hotels, marriage halls",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2005919/kmc-eyes-rs1bn-annual-revenue-from-tax-on-hotels-marriage-halls",
-      "published_date": "2026-06-08T04:10:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Doctors go on strike in Quetta over heinous acid attack",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2006036/doctors-go-on-strike-in-quetta-over-heinous-acid-attack",
-      "published_date": "2026-06-08T03:22:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AJK Police say 3 JAAC members killed in Rawalakot clashes, several injured",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2612038/three-jaac-members-killed-as-ajk-police-claim-rawalakot-siege-cleared",
-      "published_date": "2026-06-08T03:14:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ogra in disarray amid pricing probe, legal challenges",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2006034/ogra-in-disarray-amid-pricing-probe-legal-challenges",
-      "published_date": "2026-06-08T01:54:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan eases licensing rules for foreign investors in financial sector",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2646400/pakistan",
-      "published_date": "2026-06-08T00:06:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan rejects ‘unwarranted’ criticism by British MPs over Azad Kashmir protests, arrests",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2646401/pakistan",
-      "published_date": "2026-06-08T00:06:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In Mexico City, axolotl salamanders are everywhere before the World Cup — except in the wild",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2646388/offbeat",
-      "published_date": "2026-06-07T23:06:54+00:00",
       "category": "Local Events"
     }
   ]
