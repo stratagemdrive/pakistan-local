@@ -1,8 +1,15 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-06-09T13:46:36.077099+00:00",
+  "last_updated": "2026-06-10T00:04:10.766558+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Somali soccer referee denied US entry, will miss World Cup debut",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2006410/somali-soccer-referee-denied-us-entry-will-miss-world-cup-debut",
+      "published_date": "2026-06-09T19:03:47+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "China's Xi hails deeper understanding at end of North Korea summit",
       "source": "Dawn",
@@ -137,11 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "PM Shehbaz meets interior minister ahead of Naqvi’s Iran visit",
+      "title": "FIA disciplines over 100 officials over human smuggling links since Greece boat tragedy",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2005678/pm-shehbaz-meets-interior-minister-ahead-of-naqvis-iran-visit",
-      "published_date": "2026-06-06T16:36:09+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2006395/fia-disciplines-over-100-officials-over-human-smuggling-links-since-greece-boat-tragedy",
+      "published_date": "2026-06-09T17:51:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Soldier martyred, 14 terrorists killed during security operation in Balochistan's Basima: ISPR",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2006398/soldier-martyred-14-terrorists-killed-during-security-operation-in-balochistans-basima-ispr",
+      "published_date": "2026-06-09T17:27:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bahrain commander meets CDF Munir, discusses strengthening military collaboration: ISPR",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2006391/bahrain-commander-meets-cdf-munir-discusses-strengthening-military-collaboration-ispr",
+      "published_date": "2026-06-09T15:21:08+00:00",
+      "category": "Military"
     },
     {
       "title": "US helicopter crew who went down in Strait of Hormuz rescued by drone",
@@ -158,6 +179,13 @@
       "category": "Military"
     },
     {
+      "title": "Soldier martyred, 14 terrorists killed in Balochistan's Khuzdar district: ISPR",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2612264/soldier-martyred-14-terrorists-killed-in-balochistans-basima-district-ispr",
+      "published_date": "2026-06-09T11:07:41+00:00",
+      "category": "Military"
+    },
+    {
       "title": "6 personnel martyred as terrorists' bid to capture Frontier Constabulary post in Peshawar foiled: sources",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2006354/6-personnel-martyred-as-terrorists-bid-to-capture-frontier-constabulary-post-in-peshawar-foiled-sources",
@@ -165,10 +193,31 @@
       "category": "Military"
     },
     {
+      "title": "Political consensus in sight as centre, provinces to cut development spending for strategic initiatives",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2612258/political-consensus-in-sight-as-centre-provinces-to-cut-development-spending-strategic-initiatives",
+      "published_date": "2026-06-09T10:05:44+00:00",
+      "category": "Military"
+    },
+    {
       "title": "India's key objectives in Afghanistan solely driven by singular goal of destabilising Pakistan, envoy tells UNSC",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2006316/indias-key-objectives-in-afghanistan-solely-driven-by-singular-goal-of-destabilising-pakistan-envoy-tells-unsc",
       "published_date": "2026-06-09T09:45:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Deadlock in Egypt talks over Gaza disarmament",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2646575/middle-east",
+      "published_date": "2026-06-09T07:06:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "World Cup nears kickoff after pre-tournament turbulence",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2646572/sport",
+      "published_date": "2026-06-09T07:06:17+00:00",
       "category": "Military"
     },
     {
@@ -235,53 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Why are Houthis threatening to attack Red Sea shipping and what does it mean for oil markets?",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2006141/why-are-houthis-threatening-to-attack-red-sea-shipping-and-what-does-it-mean-for-oil-markets",
-      "published_date": "2026-06-08T13:47:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel, Iran trade fire despite Trump's call for restraint",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2006073/israel-iran-trade-fire-despite-trumps-call-for-restraint",
-      "published_date": "2026-06-08T09:38:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strikes on Iran ‘fully coordinated’ with US, says Tehran",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2006111/israeli-strikes-on-iran-fully-coordinated-with-us-says-tehran",
-      "published_date": "2026-06-08T09:30:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Give peace a little more chance': PM urges restraint amid new round of Iran-Israel confrontation",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2612075/give-peace-a-little-more-chance-pm-urges-restraint-amid-new-round-of-iran-israel-confrontation",
-      "published_date": "2026-06-08T09:07:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "European leaders ready to support ceasefire talks between Ukraine, Russia",
+      "title": "US energy chief says oil exports through Strait of Hormuz, Gulf will ‘continue to rise’",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2646321/world",
-      "published_date": "2026-06-08T09:06:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump dismisses idea that Iran betrays his ‘no new wars’ campaign message",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2646320/world",
-      "published_date": "2026-06-08T09:06:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says he will press Israel to hold back after Iran retaliates for Beirut attack",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2646322/middle-east",
-      "published_date": "2026-06-08T09:06:00+00:00",
-      "category": "Military"
+      "url": "https://www.arabnews.pk/node/2646576/middle-east",
+      "published_date": "2026-06-09T07:06:55+00:00",
+      "category": "Energy"
     },
     {
       "title": "Oil falls as investors await clarity after Iran-Israel halt attacks",
@@ -414,13 +421,6 @@
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2611401/psx-rallies-over-700-points-in-mid-session-trade",
       "published_date": "2026-06-04T03:53:20+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Reko Diq security costs increase as upgrades discussed",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2005001/reko-diq-security-costs-increase-as-upgrades-discussed",
-      "published_date": "2026-06-04T02:38:27+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,55 @@
       "category": "Economy"
     },
     {
+      "title": "Ex-Taliban commander gets 42 years in prison in killings of US soldiers and journalists’ kidnappings",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2646585/world",
+      "published_date": "2026-06-09T22:06:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "President Zardari summons NA, Senate sessions on June 10",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2006413/president-zardari-summons-na-senate-sessions-on-june-10",
+      "published_date": "2026-06-09T19:58:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Waziristan tribal elders decry hardship as Wana-Gomal Zam road remains in ruins",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2006383/south-waziristan-tribal-elders-decry-hardship-as-wana-gomal-zam-road-remains-in-ruins",
+      "published_date": "2026-06-09T16:35:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Imran’s sisters, PTI leaders again denied meeting former premier at Adiala Jail",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2006392/imrans-sisters-pti-leaders-again-denied-meeting-former-premier-at-adiala-jail",
+      "published_date": "2026-06-09T16:02:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In pictures: Heatwave grips Pakistan as temperatures cross 40°C",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2006384/in-pictures-heatwave-grips-pakistan-as-temperatures-cross-40c",
+      "published_date": "2026-06-09T15:44:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ICC rates Lahore’s Gaddafi Stadium ‘unsatisfactory’ after slow pitch in Pakistan-Australia ODI",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2006387/icc-rates-lahores-gaddafi-stadium-unsatisfactory-after-slow-pitch-in-pakistan-australia-odi",
+      "published_date": "2026-06-09T14:37:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "FIA establishes FATF desks across all zones to improve implementation of international investigation standards",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2006381/fia-establishes-fatf-desks-across-all-zones-to-improve-implementation-of-international-investigation-standards",
+      "published_date": "2026-06-09T14:27:25+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "JAAC strike: Markets, streets deserted in AJK's Muzaffarabad but no demonstrations held",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2006361/jaac-strike-markets-streets-deserted-in-ajks-muzaffarabad-but-no-demonstrations-held",
@@ -613,10 +662,31 @@
       "category": "Local Events"
     },
     {
+      "title": "Pakistan to begin mandatory registration for Hajj 2027 this month",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2646563/pakistan",
+      "published_date": "2026-06-09T06:06:40+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Lahore to have rental e-bike service",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2006196/lahore-to-have-rental-e-bike-service",
       "published_date": "2026-06-09T05:20:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Acid attack on woman doctor sparks fear, protests in Pakistan",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2646561/pakistan",
+      "published_date": "2026-06-09T05:06:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan PM orders HIV prevention group with Global Fund amid rising infections",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2646559/pakistan",
+      "published_date": "2026-06-09T05:06:06+00:00",
       "category": "Local Events"
     },
     {
@@ -631,76 +701,6 @@
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2612221/gold-prices-rise-after-three-day-pause-in-global-local-markets",
       "published_date": "2026-06-09T04:42:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Flamingos’ killing at Islamabad’s Rawal Lake raises alarm",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2006212/flamingos-killing-at-islamabads-rawal-lake-raises-alarm",
-      "published_date": "2026-06-09T04:38:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police probe motive behind Quetta acid attack",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2006279/police-probe-motive-behind-quetta-acid-attack",
-      "published_date": "2026-06-09T03:18:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PPP poised to form govt in GB",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2006258/ppp-poised-to-form-govt-in-gb",
-      "published_date": "2026-06-09T02:36:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AJK braces for long march as tensions persist",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2006256/ajk-braces-for-long-march-as-tensions-persist",
-      "published_date": "2026-06-09T02:25:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prosecution identifies serious lacunas in murder charge sheet against ‘drug baroness’ Pinky",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2006228/prosecution-identifies-serious-lacunas-in-murder-charge-sheet-against-drug-baroness-pinky",
-      "published_date": "2026-06-09T01:31:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pak-Iran border trade halt to trigger LPG shortages",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2006250/pak-iran-border-trade-halt-to-trigger-lpg-shortages",
-      "published_date": "2026-06-09T01:30:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police crack down on anti-hijab protests in western Afghanistan",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2646534/world",
-      "published_date": "2026-06-09T00:06:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Acid attack on woman doctor sparks fear, protests in Pakistan",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2646539/world",
-      "published_date": "2026-06-09T00:06:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A banned group’s call for a strike halts business, transport across Pakistan-administered Kashmir",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2646532/world",
-      "published_date": "2026-06-09T00:06:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Serena Williams to return to tennis in Queen’s doubles on Tuesday",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2646456/sport",
-      "published_date": "2026-06-08T22:06:12+00:00",
       "category": "Local Events"
     }
   ]
