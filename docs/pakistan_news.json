@@ -1,6 +1,6 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-06-11T14:47:17.206157+00:00",
+  "last_updated": "2026-06-12T00:13:53.647359+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -144,6 +144,34 @@
       "category": "Diplomacy"
     },
     {
+      "title": "US House rejects extension of key spy powers",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2646848/world",
+      "published_date": "2026-06-11T22:06:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "First Hangor-class submarine arrives at Karachi Port",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2007071/first-hangor-class-submarine-arrives-at-karachi-port",
+      "published_date": "2026-06-11T18:10:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "CDF Munir discusses enhanced defence cooperation with Turkish land forces commander",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2007045/cdf-munir-discusses-enhanced-defence-cooperation-with-turkish-land-forces-commander",
+      "published_date": "2026-06-11T16:52:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Alarm and scepticism follow Trump’s Kharg Island threat",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2007047/alarm-and-scepticism-follow-trumps-kharg-island-threat",
+      "published_date": "2026-06-11T16:40:55+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Smuggled dinosaur fossils return to Mongolia after two decades",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2006912/smuggled-dinosaur-fossils-return-to-mongolia-after-two-decades",
@@ -151,10 +179,31 @@
       "category": "Military"
     },
     {
+      "title": "Funeral prayers offered for Mi-17 helicopter crash martyrs in Rawalpindi: ISPR",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2612644/funeral-prayers-offered-for-mi-17-helicopter-crash-martyrs-in-rawalpindi-ispr",
+      "published_date": "2026-06-11T11:51:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Turkish Land Forces commander lauds Pakistan military’s role in regional peace, meets top leadership",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2612640/turkish-army-chief-lauds-pakistan-militarys-role-in-regional-peace-meets-top-leadership",
+      "published_date": "2026-06-11T10:51:05+00:00",
+      "category": "Military"
+    },
+    {
       "title": "FIFA World Cup set for kickoff after high ticket prices, visa issues dog buildup",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2006874/fifa-world-cup-set-for-kickoff-after-high-ticket-prices-visa-issues-dog-buildup",
       "published_date": "2026-06-11T09:10:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war poses Middle East’s biggest economic shock in five decades",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2646842/business-economy",
+      "published_date": "2026-06-11T08:06:33+00:00",
       "category": "Military"
     },
     {
@@ -235,53 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Iran targets American bases in Jordan and the Gulf after fresh US strikes near Hormuz",
+      "title": "Weather pattern El Nino has begun, says US agency NOAA",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2006586/iran-targets-american-bases-in-jordan-and-the-gulf-after-fresh-us-strikes-near-hormuz",
-      "published_date": "2026-06-10T05:49:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mohsin to hold key meeting as PCB mulls changes",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2006492/mohsin-to-hold-key-meeting-as-pcb-mulls-changes",
-      "published_date": "2026-06-10T05:11:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan targets terrorist hideouts along Afghan border, killing 26 militants: Tarar",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2612389/pakistan-targets-terrorist-hideouts-along-afghan-border-killing-26-militants-tarar",
-      "published_date": "2026-06-10T02:54:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan army’s Mi-17 helicopter crashes in Muzaffarabad, killing all on board",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2646645/pakistan",
-      "published_date": "2026-06-09T23:06:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "FIA disciplines over 100 officials over human smuggling links since Greece boat tragedy",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2006395/fia-disciplines-over-100-officials-over-human-smuggling-links-since-greece-boat-tragedy",
-      "published_date": "2026-06-09T17:51:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Soldier martyred, 14 terrorists killed during security operation in Balochistan's Basima: ISPR",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2006398/soldier-martyred-14-terrorists-killed-during-security-operation-in-balochistans-basima-ispr",
-      "published_date": "2026-06-09T17:27:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bahrain commander meets CDF Munir, discusses strengthening military collaboration: ISPR",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2006391/bahrain-commander-meets-cdf-munir-discusses-strengthening-military-collaboration-ispr",
-      "published_date": "2026-06-09T15:21:08+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/2006917/weather-pattern-el-nino-has-begun-says-us-agency-noaa",
+      "published_date": "2026-06-11T15:43:44+00:00",
+      "category": "Energy"
     },
     {
       "title": "Power capacity jumps 8.5% to 49,651MW",
@@ -417,11 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Inventory gains recovery opposed",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2611702/inventory-gains-recovery-opposed",
-      "published_date": "2026-06-05T15:59:59+00:00",
-      "category": "Energy"
+      "title": "Pricey football World Cup keeps fans away, hits US hotels, airlines",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2007073/pricey-football-world-cup-keeps-fans-away-hits-us-hotels-airlines",
+      "published_date": "2026-06-11T18:42:06+00:00",
+      "category": "Economy"
     },
     {
       "title": "Economy grows 3.7pc in FY26 — fastest in four years, but short of target",
@@ -442,6 +449,13 @@
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2612619/ict-exports-reach-34b-but-structural-gaps-persist",
       "published_date": "2026-06-11T07:46:46+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Qatar seek redemption vs. Swiss after woeful debut",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2646833/sport",
+      "published_date": "2026-06-11T07:06:51+00:00",
       "category": "Economy"
     },
     {
@@ -550,18 +564,32 @@
       "category": "Economy"
     },
     {
-      "title": "Pakistan records highest-ever monthly remittances at $4.3b: SBP",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2612414/pakistan-records-highest-ever-monthly-remittances-at-43b-sbp",
-      "published_date": "2026-06-10T05:39:29+00:00",
-      "category": "Economy"
+      "title": "Mexico beat South Africa to kick off World Cup",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2646845/sport",
+      "published_date": "2026-06-12T09:06:03+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Kenyan export levy may raise tea prices",
+      "title": "Mexico beat South Africa 2-0 to kick off 2026 FIFA World Cup",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2006529/kenyan-export-levy-may-raise-tea-prices",
-      "published_date": "2026-06-10T01:37:13+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2007165/mexico-beat-south-africa-2-0-to-kick-off-2026-fifa-world-cup",
+      "published_date": "2026-06-11T21:43:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "GB election results taking time to be finalised, but notification to be issued within 14 days: CEC",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2007059/gb-election-results-taking-time-to-be-finalised-but-notification-to-be-issued-within-14-days-cec",
+      "published_date": "2026-06-11T17:37:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SC sets aside order closing Imran’s right to defence in Rs10bn defamation suit by PM Shehbaz",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2006907/sc-sets-aside-order-closing-imrans-right-to-defence-in-rs10bn-defamation-suit-by-pm-shehbaz",
+      "published_date": "2026-06-11T15:35:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "NA suspends PTI MNA Iqbal Afridi for budget session over alleged misconduct with staff, police",
@@ -589,6 +617,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2006895/khawaja-asif-urges-jaac-to-let-ajk-voters-decide-fate-of-refugee-seats",
       "published_date": "2026-06-11T13:15:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PMA demands judicial probe into acid attack on Dr Mahnoor",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2612652/pma-demands-judicial-probe-into-acid-attack-on-dr-mahnoor",
+      "published_date": "2026-06-11T13:11:57+00:00",
       "category": "Local Events"
     },
     {
@@ -620,6 +655,27 @@
       "category": "Local Events"
     },
     {
+      "title": "UN reports record levels of settler violence in the West Bank",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2646837/middle-east",
+      "published_date": "2026-06-11T08:06:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands of Albanians protest Trump-linked resort project",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2646834/world",
+      "published_date": "2026-06-11T08:06:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Local cafes host FIFA World Cup match screenings",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2646839/saudi-arabia",
+      "published_date": "2026-06-11T08:06:14+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Pakistan passed at diplomacy, let’s get the degrees rolling now",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2006850/pakistan-passed-at-diplomacy-lets-get-the-degrees-rolling-now",
@@ -645,62 +701,6 @@
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2612590/ajk-reinstates-177-firs-against-jaac-members-over-breach-of-oct-25-agreement",
       "published_date": "2026-06-11T04:14:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Karachi sizzles as feels-like temperature climbs to 54°C",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2006711/karachi-sizzles-as-feels-like-temperature-climbs-to-54c",
-      "published_date": "2026-06-11T04:07:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AJK refugee seats cannot be abolished, Senate told",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2006772/ajk-refugee-seats-cannot-be-abolished-senate-told",
-      "published_date": "2026-06-11T03:25:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "FCC orders fresh test of seized chemical",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2006773/fcc-orders-fresh-test-of-seized-chemical",
-      "published_date": "2026-06-11T03:10:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sikh pilgrims arrive from India for Jore Mela",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2006776/sikh-pilgrims-arrive-from-india-for-jore-mela",
-      "published_date": "2026-06-11T02:58:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "CDA to involve PCB in revamping five grounds for first-class cricket",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2006736/cda-to-involve-pcb-in-revamping-five-grounds-for-first-class-cricket",
-      "published_date": "2026-06-11T02:07:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French city imposes curfew for under-16s during ‘high risk’ World Cup matches",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2646790/sport",
-      "published_date": "2026-06-11T02:06:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Serena Williams’ comeback at the Queen’s Club is over after injury to doubles partner",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2646782/sport",
-      "published_date": "2026-06-11T01:06:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Glimpse of prominent Gaza doctor during Israeli court hearing renews calls for his release",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2646783/middle-east",
-      "published_date": "2026-06-11T01:06:37+00:00",
       "category": "Local Events"
     }
   ]
