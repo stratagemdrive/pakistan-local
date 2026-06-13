@@ -1,6 +1,6 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-06-13T12:54:04.994114+00:00",
+  "last_updated": "2026-06-13T23:57:05.439910+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -144,6 +144,20 @@
       "category": "Diplomacy"
     },
     {
+      "title": "US-Iran peace deal inches closer as PM Shehbaz says finalisation expected within a day",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2007576/us-iran-peace-deal-inches-closer-as-pm-shehbaz-says-finalisation-expected-within-a-day",
+      "published_date": "2026-06-13T18:24:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US-Venezuela joint operation kills leader of Tren de Aragua gang",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2007609/us-venezuela-joint-operation-kills-leader-of-tren-de-aragua-gang",
+      "published_date": "2026-06-13T18:21:44+00:00",
+      "category": "Military"
+    },
+    {
       "title": "CTD claims arrest of suspect supplying drone technology to TTP in Karachi",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2007579/ctd-claims-arrest-of-suspect-supplying-drone-technology-to-ttp-in-karachi",
@@ -162,6 +176,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2007564/anthropic-disables-fable-5-mythos-5-models-after-us-order-limiting-foreign-access",
       "published_date": "2026-06-13T08:46:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What the discovery of Assad-era chemical weapons means for Syria",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2647076/middle-east",
+      "published_date": "2026-06-13T08:06:16+00:00",
       "category": "Military"
     },
     {
@@ -260,27 +281,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2007266/pakistan-secures-top-position-at-international-military-drill-competition-in-uk-ispr",
       "published_date": "2026-06-12T06:55:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Somaliland says it has a right to choose its relationships as it opens new Taiwan office",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2646923/world",
-      "published_date": "2026-06-12T01:06:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK PM Starmer says he has not lost authority, will fight to stay in job",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2646916/world",
-      "published_date": "2026-06-12T00:06:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hezbollah confident any US-Iran deal will include Lebanon, politician says",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2646914/middle-east",
-      "published_date": "2026-06-12T00:06:24+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,20 @@
       "category": "Energy"
     },
     {
+      "title": "Doctors Without Borders report found cases of abuse and exploitation by staff in Chad",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2647077/middle-east",
+      "published_date": "2026-06-14T09:06:55+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Trump's name removed from Washington arts center",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2007605/trumps-name-removed-from-washington-arts-center",
+      "published_date": "2026-06-13T17:06:59+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Finance minister terms proposed FY27 budget as 'significant progress' in path to economic growth",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2007563/finance-minister-terms-proposed-fy27-budget-as-significant-progress-in-path-to-economic-growth",
@@ -431,10 +445,24 @@
       "category": "Economy"
     },
     {
+      "title": "US, India to tackle trade at G7 but deal not imminent",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2612988/us-india-to-tackle-trade-at-g7-but-deal-not-imminent",
+      "published_date": "2026-06-13T11:09:34+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Pakistan PM defends federal budget after opposition criticism over impact on provinces",
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2647016/pakistan",
       "published_date": "2026-06-13T09:06:02+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Startup Wrap: MENA startup funding rises 202% to $454.7m in May",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2647069/business-economy",
+      "published_date": "2026-06-13T08:06:08+00:00",
       "category": "Economy"
     },
     {
@@ -536,32 +564,25 @@
       "category": "Economy"
     },
     {
-      "title": "Inflation-shielding subsidy budget axed by 8%",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2612938/inflation-shielding-subsidy-budget-axed-by-8",
-      "published_date": "2026-06-12T16:36:41+00:00",
-      "category": "Economy"
+      "title": "NCCIA prioritises cases of blackmail, harassment of women; arrests 10 in Punjab",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2007598/nccia-prioritises-cases-of-blackmail-harassment-of-women-arrests-10-in-punjab",
+      "published_date": "2026-06-13T16:33:03+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "'Budget lacks export push, growth strategy'",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2612936/budget-lacks-export-push-growth-strategy",
-      "published_date": "2026-06-12T16:36:41+00:00",
-      "category": "Economy"
+      "title": "Police in Larkana stop forced child marriage of two teenagers",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2007596/police-in-larkana-stop-forced-child-marriage-of-two-teenagers",
+      "published_date": "2026-06-13T16:11:22+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Fleet to double under Blue Economy plan",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2612934/fleet-to-double-under-blue-economy-plan",
-      "published_date": "2026-06-12T16:36:41+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "PSX soars 2,700 points amid budget buzz",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2612937/psx-soars-2700-points-amid-budget-buzz",
-      "published_date": "2026-06-12T16:36:41+00:00",
-      "category": "Economy"
+      "title": "SJC allows judges to attend political, diplomatic functions with prior approval",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2007584/sjc-allows-judges-to-attend-political-diplomatic-functions-with-prior-approval",
+      "published_date": "2026-06-13T14:48:14+00:00",
+      "category": "Local Events"
     },
     {
       "title": "In NA, PM Shehbaz affirms govt commitment to provinces' development",
@@ -578,10 +599,45 @@
       "category": "Local Events"
     },
     {
+      "title": "AJK SC Bar Association warns violators of peace, calls for immediate surrender",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2612990/ajk-sc-bar-warns-violators-calls-for-immediate-surrender",
+      "published_date": "2026-06-13T11:37:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PDMA issues Punjab rain alert as thunderstorms, hail forecast across province",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2612984/pdma-issues-punjab-rain-alert-as-thunderstorms-hail-forecast-across-province",
+      "published_date": "2026-06-13T10:10:56+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Alleged militant commander killed in Bannu; attempt to destroy link bridge foiled",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2007554/alleged-militant-commander-killed-in-bannu-attempt-to-destroy-link-bridge-foiled",
       "published_date": "2026-06-13T07:22:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kane hails England preparation as squad arrives at base camp",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2647061/sport",
+      "published_date": "2026-06-13T07:06:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Haiti fans pick up the beat as 52-year World Cup hoodoo ends",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2647057/sport",
+      "published_date": "2026-06-13T07:06:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PM Shehbaz says Pakistan now preparing for electronic ​signing of US-Iran deal",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2612968/pm-shehbaz-says-pakistan-now-preparing-for-electronic-signing-of-us-iran-deal",
+      "published_date": "2026-06-13T06:31:18+00:00",
       "category": "Local Events"
     },
     {
@@ -645,62 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2007324/supreme-court-to-lift-austerity-measures-from-june-15",
       "published_date": "2026-06-12T14:37:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former senator Taj Afridi dies in M-1 motorway crash",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2007313/former-senator-taj-afridi-dies-in-m-1-motorway-crash",
-      "published_date": "2026-06-12T13:00:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MQM-P delegation calls on PM Shehbaz ahead of budget; party leader says Rs20bn allocation sought for Karachi projects",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2007301/mqm-p-delegation-calls-on-pm-shehbaz-ahead-of-budget-party-leader-says-rs20bn-allocation-sought-for-karachi-projects",
-      "published_date": "2026-06-12T11:50:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "11 arrested in Karachi for slogans, flags supporting MQM founder Altaf Hussain",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2007280/11-arrested-in-karachi-for-slogans-flags-supporting-mqm-founder-altaf-hussain",
-      "published_date": "2026-06-12T09:09:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mexico beat South Africa to kick off World Cup",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2646845/sport",
-      "published_date": "2026-06-12T09:06:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A year after deadly Air India crash, families await answers",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2007273/a-year-after-deadly-air-india-crash-families-await-answers",
-      "published_date": "2026-06-12T07:39:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "JAAC protesters in AJK's Poonch district disperse on fears of major crackdown",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2007259/jaac-protesters-in-ajks-poonch-district-disperse-on-fears-of-major-crackdown",
-      "published_date": "2026-06-12T06:30:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Literacy rate improves by 2pc, but education spending falls in 2025",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2007104/literacy-rate-improves-by-2pc-but-education-spending-falls-in-2025",
-      "published_date": "2026-06-12T05:30:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2 policemen martyred in separate 'targeted attacks' in Bannu",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2007254/2-policemen-martyred-in-separate-targeted-attacks-in-bannu",
-      "published_date": "2026-06-12T04:40:35+00:00",
       "category": "Local Events"
     }
   ]
