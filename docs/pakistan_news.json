@@ -1,8 +1,15 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-06-14T13:00:58.730198+00:00",
+  "last_updated": "2026-06-15T00:00:23.137812+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Oil slips over 4 percent after US, Iran reach peace deal, reopen Strait of Hormuz",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2647182/business-economy",
+      "published_date": "2026-06-14T22:06:10+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pakistan FM discusses US-Iran peace deal progress with Saudi, Turkish counterparts",
       "source": "Arab News Pakistan",
@@ -137,11 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pakistan urges US, Iran to 'give peace a little more chance' amid fresh round of hostilities",
+      "title": "Deal is reached to end Iran war and Trump orders stop to US naval blockade",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2647180/middle-east",
+      "published_date": "2026-06-15T09:06:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US, Iran reach peace deal, signing set for Friday, Pakistan says",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2647183/pakistan",
+      "published_date": "2026-06-14T22:06:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany hammer World Cup debutants Curacao after early scare",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2006590/pakistan-urges-us-iran-to-give-peace-a-little-more-chance-amid-fresh-round-of-hostilities",
-      "published_date": "2026-06-10T12:32:53+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2007821/germany-hammer-world-cup-debutants-curacao-after-early-scare",
+      "published_date": "2026-06-14T19:24:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "A US-Iran deal to stop the war is imminent. Here's what we know about its contents so far",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2007794/a-us-iran-deal-to-stop-the-war-is-imminent-heres-what-we-know-about-its-contents-so-far",
+      "published_date": "2026-06-14T14:18:21+00:00",
+      "category": "Military"
     },
     {
       "title": "UK intercepts Russian shadow fleet vessel in Channel: defence ministry",
@@ -169,6 +197,20 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2647116/middle-east",
       "published_date": "2026-06-14T09:06:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Frankly Speaking: Where does the Saudi-India relationship go next?",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2647175/saudi-arabia",
+      "published_date": "2026-06-14T08:06:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gaza health officials say six killed in Israeli attacks",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2647169/middle-east",
+      "published_date": "2026-06-14T07:06:00+00:00",
       "category": "Military"
     },
     {
@@ -239,48 +281,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2007548/21-terrorists-killed-in-north-waziristan-ibos-in-last-72-hours-ispr",
       "published_date": "2026-06-13T06:44:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US thrash Paraguay in LA to launch home FIFA World Cup in style",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2007545/us-thrash-paraguay-in-la-to-launch-home-fifa-world-cup-in-style",
-      "published_date": "2026-06-13T06:18:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US plans big cut to fighter jets, warships for Nato: NYT",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2007460/us-plans-big-cut-to-fighter-jets-warships-for-nato-nyt",
-      "published_date": "2026-06-13T03:10:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US spy powers lapse raises World Cup concerns",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2007459/us-spy-powers-lapse-raises-world-cup-concerns",
-      "published_date": "2026-06-13T00:22:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine drone strikes kills one, sparks fire at Russian port of Temryuk",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2647029/world",
-      "published_date": "2026-06-13T00:06:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan says expects US-Iran deal in 24 hours, preparing for electronic signing of document",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2647027/pakistan",
-      "published_date": "2026-06-12T23:06:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan PM says US-Iran peace deal signing expected within 24 hours",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2647023/middle-east",
-      "published_date": "2026-06-12T23:06:26+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Info minister invites opposition to sign Charter of Economy, defends proposed FY27 budget",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2007773/info-minister-invites-opposition-to-sign-charter-of-economy-defends-proposed-fy27-budget",
+      "published_date": "2026-06-14T13:50:30+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Info minister invites opposition for Charter of Economy, defends proposed FY27 budget",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2007773/info-minister-invites-opposition-for-charter-of-economy-defends-proposed-fy27-budget",
@@ -557,11 +564,39 @@
       "category": "Economy"
     },
     {
-      "title": "US, India to tackle trade at G7 but deal not imminent",
+      "title": "India rout Pakistan at women's T20 World Cup",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2007818/india-rout-pakistan-at-womens-t20-world-cup",
+      "published_date": "2026-06-14T18:12:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tarar calls for end to differences over AJKLA refugee seats via democratic means",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2007805/tarar-calls-for-end-to-differences-over-ajkla-refugee-seats-via-democratic-means",
+      "published_date": "2026-06-14T16:42:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "FIA foils alleged attempt to travel abroad using fake NOC in Multan",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2007804/fia-foils-alleged-attempt-to-travel-abroad-using-fake-noc-in-multan",
+      "published_date": "2026-06-14T14:19:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fafen calls for overhaul of KP Right to Information Act",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2007799/fafen-calls-for-overhaul-of-kp-right-to-information-act",
+      "published_date": "2026-06-14T13:39:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PPP AJK seeks withdrawal of election schedule for migrant seats amid rising tensions",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2612988/us-india-to-tackle-trade-at-g7-but-deal-not-imminent",
-      "published_date": "2026-06-13T11:09:34+00:00",
-      "category": "Economy"
+      "url": "https://tribune.com.pk/story/2613151/ppp-ajk-seeks-withdrawal-of-election-schedule-for-migrant-seats-amid-rising-tensions",
+      "published_date": "2026-06-14T13:16:37+00:00",
+      "category": "Local Events"
     },
     {
       "title": "At least 7 killed, 33 injured in rain-related incidents across KP in a day",
@@ -599,10 +634,31 @@
       "category": "Local Events"
     },
     {
+      "title": "Clashes as thousands protest in Geneva ahead of G7 summit in France",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2647176/world",
+      "published_date": "2026-06-14T08:06:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "De Bruyne ready to face Egypt today",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2647177/sport",
+      "published_date": "2026-06-14T08:06:24+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Bilawal calls for end to AJK protests as unrest 'damaging' Pakistan's reputation amid global spotlight",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2007765/bilawal-calls-for-end-to-ajk-protests-as-unrest-damaging-pakistans-reputation-amid-global-spotlight",
       "published_date": "2026-06-14T07:41:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Helicopters collide over Rio de Janeiro, killing 6",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2647174/world",
+      "published_date": "2026-06-14T07:06:07+00:00",
       "category": "Local Events"
     },
     {
@@ -645,62 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2007678/pakistan-secures-entry-to-first-fifa-asean-cup",
       "published_date": "2026-06-14T02:42:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SMOKERS’ CORNER: LAHORE VS KARACHI",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2007052/smokers-corner-lahore-vs-karachi",
-      "published_date": "2026-06-14T00:55:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Drug addict kills wife for money in Swat",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2007635/drug-addict-kills-wife-for-money-in-swat",
-      "published_date": "2026-06-14T00:22:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Seven killed, 33 injured as heavy rains lash northwest Pakistan",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2647123/pakistan",
-      "published_date": "2026-06-13T23:06:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Flood risk churns Leh waters",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2613065/flood-risk-churns-leh-waters",
-      "published_date": "2026-06-13T17:35:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NCCIA prioritises cases of blackmail, harassment of women; arrests 10 in Punjab",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2007598/nccia-prioritises-cases-of-blackmail-harassment-of-women-arrests-10-in-punjab",
-      "published_date": "2026-06-13T16:33:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police in Larkana stop forced child marriage of two teenagers",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2007596/police-in-larkana-stop-forced-child-marriage-of-two-teenagers",
-      "published_date": "2026-06-13T16:11:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SJC allows judges to attend political, diplomatic functions with prior approval",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2007584/sjc-allows-judges-to-attend-political-diplomatic-functions-with-prior-approval",
-      "published_date": "2026-06-13T14:48:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In NA, PM Shehbaz affirms govt commitment to provinces' development",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2007559/in-na-pm-shehbaz-affirms-govt-commitment-to-provinces-development",
-      "published_date": "2026-06-13T12:50:23+00:00",
       "category": "Local Events"
     }
   ]
