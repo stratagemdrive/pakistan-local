@@ -1,8 +1,29 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-06-16T00:22:31.456338+00:00",
-  "story_count": 99,
+  "last_updated": "2026-06-16T16:01:16.007709+00:00",
+  "story_count": 97,
   "stories": [
+    {
+      "title": "Economy showing signs of recovery: Khawaja Asif",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2613458/economy-showing-signs-of-recovery-khawaja-asif",
+      "published_date": "2026-06-16T05:16:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK MP backs Pakistan’s response to attacks from Afghanistan",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2008233/uk-mp-backs-pakistans-response-to-attacks-from-afghanistan",
+      "published_date": "2026-06-16T02:59:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Finn on trial for Russian sanctions violation risks prison",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2647419/world",
+      "published_date": "2026-06-16T02:06:32+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UN calls on Afghanistan’s Taliban rulers to reverse crackdown on women",
       "source": "Arab News Pakistan",
@@ -123,25 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "'Peace has never been this close': PM Shehbaz says text of 'final' US-Iran peace deal agreed upon",
+      "title": "5 suspected terrorists killed during intelligence-based operation in Attock: CTD",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2007361/peace-has-never-been-this-close-pm-shehbaz-says-text-of-final-us-iran-peace-deal-agreed-upon",
-      "published_date": "2026-06-12T19:10:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2008293/5-suspected-terrorists-killed-during-intelligence-based-operation-in-attock-ctd",
+      "published_date": "2026-06-16T11:19:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "PPP set to form G-B govt as Bilawal hails PM's support",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2612944/ppp-set-to-form-g-b-govt-as-bilawal-hails-pms-support",
-      "published_date": "2026-06-12T17:05:23+00:00",
-      "category": "Diplomacy"
+      "title": "US military to build war-ready stockpile in Australia, documents show",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2008291/us-military-to-build-war-ready-stockpile-in-australia-documents-show",
+      "published_date": "2026-06-16T08:48:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "PM Shehbaz invites PPP to form Gilgit-Baltistan govt, says PML-N to sit in opposition",
+      "title": "Naqvi calls on ulema to strengthen state’s anti-terrorism narrative",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2612854/pm-shehbaz-invites-ppp-to-form-gilgit-baltistan-govt-says-pml-n-to-sit-in-opposition",
-      "published_date": "2026-06-12T11:29:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://tribune.com.pk/story/2613464/naqvi-calls-on-ulema-to-strengthen-states-anti-terrorism-narrative",
+      "published_date": "2026-06-16T06:16:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Five terrorists killed in intelligence-based operation near Attock: CTD",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2613463/five-terrorists-killed-in-intelligence-based-operation-near-attock-ctd",
+      "published_date": "2026-06-16T05:46:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US Air Force B-52 bomber crashes in California, killing all 8 crew aboard",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2008268/us-air-force-b-52-bomber-crashes-in-california-killing-all-8-crew-aboard",
+      "published_date": "2026-06-16T05:14:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The Indus Waters Treaty: Correcting the record, preserving the law",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2008013/the-indus-waters-treaty-correcting-the-record-preserving-the-law",
+      "published_date": "2026-06-16T05:01:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran begin fraught FIFA World Cup with 2-2 New Zealand draw",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2008261/iran-begin-fraught-fifa-world-cup-with-2-2-new-zealand-draw",
+      "published_date": "2026-06-16T04:31:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanese leaders discuss preparations for new round of Israel talks",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2647424/middle-east",
+      "published_date": "2026-06-16T03:06:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hezbollah thanks Iran negotiator for help stopping Israel’s Lebanon war",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2647422/middle-east",
+      "published_date": "2026-06-16T02:06:43+00:00",
+      "category": "Military"
     },
     {
       "title": "Security Council extends UN mission in Afghanistan mandate till June 2027, flags security concerns",
@@ -221,67 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "One dead in Israeli strike on car in south Lebanon",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2647275/middle-east",
-      "published_date": "2026-06-15T03:06:41+00:00",
-      "category": "Military"
+      "title": "PM directs authorities to expedite work on 100MW solar power project in GB",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2008274/pm-directs-authorities-to-expedite-work-on-100mw-solar-power-project-in-gb",
+      "published_date": "2026-06-16T07:12:09+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Vance says funds won’t be transferred to Iran in exchange for signing deal to halt war",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2647272/middle-east",
-      "published_date": "2026-06-15T03:06:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "France shuts down dozen Israeli stands at defense trade show",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2647269/world",
-      "published_date": "2026-06-15T02:06:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two officers martyred in PAF trainer jet crash near Mardan: ISPR",
+      "title": "Oil falls $4 to three-month low",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2613253/two-officers-martyred-in-paf-trainer-jet-crash-near-mardan-ispr",
-      "published_date": "2026-06-15T01:51:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US, Iran reach peace deal, signing set for Friday, Pakistan says",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2647183/pakistan",
-      "published_date": "2026-06-14T22:06:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Germany hammer World Cup debutants Curacao after early scare",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2007821/germany-hammer-world-cup-debutants-curacao-after-early-scare",
-      "published_date": "2026-06-14T19:24:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "A US-Iran deal to stop the war is imminent. Here's what we know about its contents so far",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2007794/a-us-iran-deal-to-stop-the-war-is-imminent-heres-what-we-know-about-its-contents-so-far",
-      "published_date": "2026-06-14T14:18:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK intercepts Russian shadow fleet vessel in Channel: defence ministry",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2007796/uk-intercepts-russian-shadow-fleet-vessel-in-channel-defence-ministry",
-      "published_date": "2026-06-14T12:51:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Taiwan launches website for Chinese nationals to report intelligence",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2007792/taiwan-launches-website-for-chinese-nationals-to-report-intelligence",
-      "published_date": "2026-06-14T12:13:53+00:00",
-      "category": "Military"
+      "url": "https://tribune.com.pk/story/2613363/oil-falls-4-to-three-month-low",
+      "published_date": "2026-06-15T16:34:30+00:00",
+      "category": "Energy"
     },
     {
       "title": "SBP maintains interest rates at 11.5%",
@@ -389,32 +403,130 @@
       "category": "Energy"
     },
     {
-      "title": "German envoy cites trade hurdles",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2612314/german-envoy-cites-trade-hurdles",
-      "published_date": "2026-06-09T15:48:11+00:00",
-      "category": "Energy"
+      "title": "Pakistan's economy has left the ICU, says Khawaja Asif",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2008286/pakistans-economy-has-left-the-icu-says-khawaja-asif",
+      "published_date": "2026-06-16T15:46:13+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Global oil inventories near 22-year low",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2612316/global-oil-inventories-near-22-year-low",
-      "published_date": "2026-06-09T15:48:11+00:00",
-      "category": "Energy"
+      "title": "India blocks Telegram before retest exam to curb cheating",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2008345/india-blocks-telegram-before-retest-exam-to-curb-cheating",
+      "published_date": "2026-06-16T15:30:29+00:00",
+      "category": "Economy"
     },
     {
-      "title": "US energy chief says oil exports through Strait of Hormuz, Gulf will ‘continue to rise’",
+      "title": "PTI’s Ali Zafar rejects budget, says it achieves neither growth nor public welfare",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2008342/ptis-ali-zafar-rejects-budget-says-it-achieves-neither-growth-nor-public-welfare",
+      "published_date": "2026-06-16T15:30:03+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Yum Brands to sell Pizza Hut for $2.7 billion after prolonged demand slump",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2613474/yum-brands-to-sell-pizza-hut-for-27-billion-after-prolonged-demand-slump",
+      "published_date": "2026-06-16T08:09:12+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Aurangzeb sees budget upside from US-Iran deal, but says 'way too premature' to revise projections",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2008265/aurangzeb-sees-budget-upside-from-us-iran-deal-but-says-way-too-premature-to-revise-projections",
+      "published_date": "2026-06-16T07:16:45+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Govt's economic planning mindful of possible external and geopolitical risks, finmin tells UK MP",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2008272/govts-economic-planning-mindful-of-possible-external-and-geopolitical-risks-finmin-tells-uk-mp",
+      "published_date": "2026-06-16T06:44:38+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Buying frenzy powers PSX up 3,353 points",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2613448/psx-extends-rally-crosses-180000-mark",
+      "published_date": "2026-06-16T03:39:39+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "BUDGET 2026-27: Senate panel backs 5pc tax on earnings from social media",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2008234/budget-2026-27-senate-panel-backs-5pc-tax-on-earnings-from-social-media",
+      "published_date": "2026-06-16T02:31:46+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Business circles disappointed over SBP rate pause",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2008208/business-circles-disappointed-over-sbp-rate-pause",
+      "published_date": "2026-06-16T02:30:17+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "BUDGET 2026-27: Record Rs3.6tr overspending belies govt’s austerity claims",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2008210/budget-2026-27-record-rs36tr-overspending-belies-govts-austerity-claims",
+      "published_date": "2026-06-16T02:23:12+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Fitch says Pakistan budget reflects commitment to fiscal discipline under IMF program",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2646576/middle-east",
-      "published_date": "2026-06-09T07:06:55+00:00",
-      "category": "Energy"
+      "url": "https://www.arabnews.pk/node/2647421/pakistan",
+      "published_date": "2026-06-16T02:06:30+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Oil falls as investors await clarity after Iran-Israel halt attacks",
+      "title": "Israel seizes powers over Hebron shrine from Palestinian Authority",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2647417/middle-east",
+      "published_date": "2026-06-16T01:06:47+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "FinMin sees upsides to 2027 economic outlook after US-Iran deal, but says too early to revise budget",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2612199/oil-falls-as-investors-await-clarity-after-iran-israel-halt-attacks",
-      "published_date": "2026-06-09T01:05:59+00:00",
-      "category": "Energy"
+      "url": "https://tribune.com.pk/story/2613431/pakistan-eyes-more-global-bond-issues-sees-budget-upside-from-iran-deal",
+      "published_date": "2026-06-16T00:06:19+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "SBP holds policy rate at 11.5%",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2613359/sbp-holds-policy-rate-at-115",
+      "published_date": "2026-06-15T16:34:30+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Policy risks eat into export revenue",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2613364/policy-risks-eat-into-export-revenue",
+      "published_date": "2026-06-15T16:34:30+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Service Long March lists at PSX as 11th IPO in FY26",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2613366/service-long-march-lists-at-psx-as-11th-ipo-in-fy26",
+      "published_date": "2026-06-15T16:34:30+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "In stellar performance, PSX gains 4,640 points",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2613367/in-stellar-performance-psx-gains-4640-points",
+      "published_date": "2026-06-15T16:34:30+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Gold rallies as global prices hit 1-week high",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2613368/gold-rallies-as-global-prices-hit-1-week-high",
+      "published_date": "2026-06-15T16:34:30+00:00",
+      "category": "Economy"
     },
     {
       "title": "PCB unveils new framework for awarding central contracts from next fiscal year",
@@ -431,130 +543,88 @@
       "category": "Economy"
     },
     {
-      "title": "KSE-100 rallies by over 4,000 points after US, Iran reach preliminary agreement",
+      "title": "Punjab finance minister presents ‘people-friendly’ budget in assembly",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2008001/kse-100-rallies-by-over-4000-points-after-us-iran-reach-preliminary-agreement",
-      "published_date": "2026-06-15T14:29:45+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2008300/punjab-finance-minister-presents-people-friendly-budget-in-assembly",
+      "published_date": "2026-06-16T15:45:51+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Central bank keeps policy rate unchanged at 11.5pc",
+      "title": "Four independents join Aleem Khan’s Istehkam-i-Pakistan Party in Gilgit-Baltistan",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2008043/central-bank-keeps-policy-rate-unchanged-at-115pc",
-      "published_date": "2026-06-15T13:00:14+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2008336/four-independents-join-aleem-khans-istehkam-i-pakistan-party-in-gilgit-baltistan",
+      "published_date": "2026-06-16T14:26:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Govt refuses to share cost of tax relief with Parliament",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2613311/govt-refuses-to-share-cost-of-tax-relief-with-parliament",
-      "published_date": "2026-06-15T09:53:28+00:00",
-      "category": "Economy"
+      "title": "Lawyers Imaan Mazari, Hadi Chattha awarded prestigious human rights prize for advocacy work",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2008326/lawyers-imaan-mazari-hadi-chattha-awarded-prestigious-human-rights-prize-for-advocacy-work",
+      "published_date": "2026-06-16T13:50:46+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Pakistan Senate panel backs first-ever tax on life insurance profits",
+      "title": "'We do not accept govt's version of events,' says Aleema after Imran taken to hospital for 5th time for eye ailment",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2008278/we-do-not-accept-govts-version-of-events-says-aleema-after-imran-taken-to-hospital-for-5th-time-for-eye-ailment",
+      "published_date": "2026-06-16T07:44:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hafizabad DPO changed after ‘row with MPA’s son over office toilet use’",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2008130/hafizabad-dpo-changed-after-row-with-mpas-son-over-office-toilet-use",
+      "published_date": "2026-06-16T04:19:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pinky’s long-running drug network targeted elite areas, students: IO",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2008169/pinkys-long-running-drug-network-targeted-elite-areas-students-io",
+      "published_date": "2026-06-16T03:39:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SC judge advocates stricter safeguards in drug cases",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2008218/sc-judge-advocates-stricter-safeguards-in-drug-cases",
+      "published_date": "2026-06-16T03:28:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BUDGET 2026-27: Punjab to unveil ‘Rs5.3tr’ tax-free budget today",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2008199/budget-2026-27-punjab-to-unveil-rs53tr-tax-free-budget-today",
+      "published_date": "2026-06-16T03:20:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "JAAC protest in Rawalakot ‘dwindles’ as shutter-down strike continues across AJK",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2008215/jaac-protest-in-rawalakot-dwindles-as-shutter-down-strike-continues-across-ajk",
+      "published_date": "2026-06-16T03:15:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Like father, like son: Prince George to attend Eton College",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2647295/pakistan",
-      "published_date": "2026-06-15T06:06:12+00:00",
-      "category": "Economy"
+      "url": "https://www.arabnews.pk/node/2647425/world",
+      "published_date": "2026-06-16T03:06:53+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "KSE-100 gains 4,640 points as investors cheer budget reforms, easing US-Iran tensions",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2613261/psx-rallies-on-us-iran-agreement-as-kse-100-jumps-over-3000-points-by-midday",
-      "published_date": "2026-06-15T04:04:59+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "BUDGET 2026-27 : Multiple risks looms over next-year budget, finance ministry warns",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2007935/budget-2026-27-multiple-risks-looms-over-next-year-budget-finance-ministry-warns",
-      "published_date": "2026-06-15T02:20:39+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Under war clouds, revenues falter, debt costs rise",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2613246/under-war-clouds-revenues-falter-debt-costs-rise",
-      "published_date": "2026-06-14T23:32:43+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Public transport gets major boost in federal budget",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2613229/public-transport-gets-major-boost-in-federal-budget",
-      "published_date": "2026-06-14T21:39:45+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Money is there, just not in budget",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2613185/money-is-there-just-not-in-budget",
-      "published_date": "2026-06-14T20:51:20+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "A holding operation, not a growth budget",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2613186/a-holding-operation-not-a-growth-budget",
-      "published_date": "2026-06-14T20:51:20+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Info minister invites opposition to sign Charter of Economy, defends proposed FY27 budget",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2007773/info-minister-invites-opposition-to-sign-charter-of-economy-defends-proposed-fy27-budget",
-      "published_date": "2026-06-14T13:50:30+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Info minister invites opposition for Charter of Economy, defends proposed FY27 budget",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2007773/info-minister-invites-opposition-for-charter-of-economy-defends-proposed-fy27-budget",
-      "published_date": "2026-06-14T09:49:07+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Doctors Without Borders report found cases of abuse and exploitation by staff in Chad",
+      "title": "UK PM says ‘justice done’ over reported Russia-linked arsons",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2647077/middle-east",
-      "published_date": "2026-06-14T09:06:55+00:00",
-      "category": "Economy"
+      "url": "https://www.arabnews.pk/node/2647413/world",
+      "published_date": "2026-06-16T01:06:51+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Switzerland votes on proposal to cap population at 10m",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2007775/switzerland-votes-on-proposal-to-cap-population-at-10m",
-      "published_date": "2026-06-14T08:38:37+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Agriculture largely ignored",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2007672/agriculture-largely-ignored",
-      "published_date": "2026-06-14T05:21:03+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Policy rate hike unlikely in final FY26 review",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2007671/policy-rate-hike-unlikely-in-final-fy26-review",
-      "published_date": "2026-06-14T05:14:52+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "BUDGET 2026-27: Steeper fines introduced for tax compliance",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2007674/budget-2026-27-steeper-fines-introduced-for-tax-compliance",
-      "published_date": "2026-06-14T05:05:12+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Budget presser",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2007731/budget-presser",
-      "published_date": "2026-06-14T04:03:19+00:00",
-      "category": "Economy"
+      "title": "UK pledges £8 million to support joint efforts with Pakistan against illegal migration, crime",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2647416/pakistan",
+      "published_date": "2026-06-16T01:06:13+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Muharram moon not sighted in Pakistan, Ashura to fall on June 26",
@@ -568,6 +638,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2008087/yellow-line-brt-two-bureaucrats-booked-in-karachi-over-misuse-of-authority-rs85bn-payment",
       "published_date": "2026-06-15T17:26:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fatal CCD shooting case deepens",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2613393/fatal-ccd-shooting-case-deepens",
+      "published_date": "2026-06-15T17:13:37+00:00",
       "category": "Local Events"
     },
     {
@@ -603,97 +680,6 @@
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2613316/australian-pm-demands-transparent-inquiry-into-nine-year-old-girls-killing-by-punjab-ccd",
       "published_date": "2026-06-15T10:57:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Govt calls on JAAC to abandon 'violence', says no direct talks ongoing although AJK PM welcome to try",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2613292/govt-calls-on-jaac-to-abandon-violence-says-no-direct-talks-ongoing-although-ajk-pm-welcome-to-try",
-      "published_date": "2026-06-15T08:05:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ATC upholds arrest warrants for Sohail Afridi in Oct 4 protest case",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2613288/atc-upholds-arrest-warrants-for-sohail-afridi-in-oct-4-protest-case",
-      "published_date": "2026-06-15T07:18:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dutch court sentences Syrian to 26 years in prison for torture",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2647304/middle-east",
-      "published_date": "2026-06-15T07:06:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ewing Hall controversy deepens as govt denies reports of demolition",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2007868/ewing-hall-controversy-deepens-as-govt-denies-reports-of-demolition",
-      "published_date": "2026-06-15T05:38:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New urban province termed ‘an unavoidable necessity’",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2007885/new-urban-province-termed-an-unavoidable-necessity",
-      "published_date": "2026-06-15T04:55:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinian leader Abbas announces presidential election in early 2027",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2647284/middle-east",
-      "published_date": "2026-06-15T04:06:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Met office warns of more rains, floods in Pakistan after 12 killed last week",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2647273/pakistan",
-      "published_date": "2026-06-15T03:06:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Death toll reaches 10 as rains ravage KP, Punjab",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2007939/death-toll-reaches-10-as-rains-ravage-kp-punjab",
-      "published_date": "2026-06-15T03:04:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chakwal encounter gets international scrutiny",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2007933/chakwal-encounter-gets-international-scrutiny",
-      "published_date": "2026-06-15T02:52:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Irsa increases flows to Sindh after crop damage",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2007931/irsa-increases-flows-to-sindh-after-crop-damage",
-      "published_date": "2026-06-15T02:41:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PPP links AJK election to peace in region",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2007938/ppp-links-ajk-election-to-peace-in-region",
-      "published_date": "2026-06-15T02:29:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two civilians killed, over 30 injured in attack on police post in Pakistan’s northwest",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2647264/pakistan",
-      "published_date": "2026-06-15T01:06:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Australia to probe Israel’s alleged abuse of flotilla activists",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2647268/world",
-      "published_date": "2026-06-15T01:06:20+00:00",
       "category": "Local Events"
     }
   ]
