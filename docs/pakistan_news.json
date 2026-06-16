@@ -1,8 +1,15 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-06-15T16:20:46.514473+00:00",
+  "last_updated": "2026-06-16T00:22:31.456338+00:00",
   "story_count": 99,
   "stories": [
+    {
+      "title": "UN calls on Afghanistan’s Taliban rulers to reverse crackdown on women",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2647320/world",
+      "published_date": "2026-06-15T23:06:07+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pakistan to assume chairmanship of SCO Council of Heads of States in September",
       "source": "Dawn",
@@ -15,6 +22,20 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2008010/pm-shehbaz-says-pakistan-to-host-signing-ceremony-of-us-iran-agreement-in-geneva",
       "published_date": "2026-06-15T10:01:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "In US, Trump’s Iran deal receives mixed reception",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2647312/world",
+      "published_date": "2026-06-15T08:06:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Somaliland opens embassy in Jerusalem",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2647307/middle-east",
+      "published_date": "2026-06-15T07:06:20+00:00",
       "category": "Diplomacy"
     },
     {
@@ -123,25 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Britain says full import ban on Russian diesel, jet fuel will happen by 2027",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2646976/world",
-      "published_date": "2026-06-12T08:06:09+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Bangladesh, India to coordinate patrols on border, share intelligence amid migrant tensions",
+      "title": "Security Council extends UN mission in Afghanistan mandate till June 2027, flags security concerns",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2007264/bangladesh-india-to-coordinate-patrols-on-border-share-intelligence-amid-migrant-tensions",
-      "published_date": "2026-06-12T06:45:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "FM Dar, EU’s Kallas welcome progress in US-Iran talks, hope for lasting agreement",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2612795/fm-dar-eus-kallas-welcome-progress-in-us-iran-talks-hope-for-lasting-agreement",
-      "published_date": "2026-06-12T04:53:44+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2008103/security-council-extends-un-mission-in-afghanistan-mandate-till-june-2027-flags-security-concerns",
+      "published_date": "2026-06-15T18:15:21+00:00",
+      "category": "Military"
     },
     {
       "title": "UK court upholds Britain's ban on Palestine Action group",
@@ -162,6 +169,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2008006/paf-trainer-aircraft-crashes-near-mardan-both-pilots-martyred",
       "published_date": "2026-06-15T11:52:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Women's Parliamentary Caucus moves to fast-track anti-acid attack law in Balochistan",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2613319/womens-parliamentary-caucus-moves-to-fast-track-anti-acid-attack-law-in-balochistan",
+      "published_date": "2026-06-15T11:35:29+00:00",
       "category": "Military"
     },
     {
@@ -190,6 +204,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2007972/us-iran-reach-preliminary-agreement-to-end-war-signing-set-for-friday",
       "published_date": "2026-06-15T07:17:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "B-52 bomber crashes after takeoff at US military base",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2647305/world",
+      "published_date": "2026-06-15T07:06:47+00:00",
       "category": "Military"
     },
     {
@@ -260,27 +281,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2007792/taiwan-launches-website-for-chinese-nationals-to-report-intelligence",
       "published_date": "2026-06-14T12:13:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "FOOTBALL: THE MOST UNCERTAIN WORLD CUP",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2007056/football-the-most-uncertain-world-cup",
-      "published_date": "2026-06-14T11:19:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran media says Tehran ‘not yet’ taken final decision on US peace deal",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2647116/middle-east",
-      "published_date": "2026-06-14T09:06:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Frankly Speaking: Where does the Saudi-India relationship go next?",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2647175/saudi-arabia",
-      "published_date": "2026-06-14T08:06:51+00:00",
       "category": "Military"
     },
     {
@@ -445,6 +445,20 @@
       "category": "Economy"
     },
     {
+      "title": "Govt refuses to share cost of tax relief with Parliament",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2613311/govt-refuses-to-share-cost-of-tax-relief-with-parliament",
+      "published_date": "2026-06-15T09:53:28+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pakistan Senate panel backs first-ever tax on life insurance profits",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2647295/pakistan",
+      "published_date": "2026-06-15T06:06:12+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "KSE-100 gains 4,640 points as investors cheer budget reforms, easing US-Iran tensions",
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2613261/psx-rallies-on-us-iran-agreement-as-kse-100-jumps-over-3000-points-by-midday",
@@ -543,18 +557,18 @@
       "category": "Economy"
     },
     {
-      "title": "Tarar claims Rs800b total revenue recovery, calls budget a 'relief' measure",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2613093/tarar-claims-rs800b-total-revenue-recovery-calls-budget-a-relief-measure",
-      "published_date": "2026-06-14T02:26:02+00:00",
-      "category": "Economy"
+      "title": "Muharram moon not sighted in Pakistan, Ashura to fall on June 26",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2008058/muharram-moon-not-sighted-in-pakistan-ashura-to-fall-on-june-26",
+      "published_date": "2026-06-15T17:43:14+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Pakistan removes tax on sanitary products, contraceptives in major budget relief measure",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2647121/pakistan",
-      "published_date": "2026-06-13T23:06:52+00:00",
-      "category": "Economy"
+      "title": "Yellow Line BRT: Two bureaucrats booked in Karachi over misuse of authority, Rs8.5bn payment",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2008087/yellow-line-brt-two-bureaucrats-booked-in-karachi-over-misuse-of-authority-rs85bn-payment",
+      "published_date": "2026-06-15T17:26:20+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Australian PM calls for 'transparent inquiry' into killing of girl by CCD in Punjab’s Chakwal",
@@ -585,6 +599,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Australian PM demands 'transparent' inquiry into nine-year-old girl's killing by Punjab CCD",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2613316/australian-pm-demands-transparent-inquiry-into-nine-year-old-girls-killing-by-punjab-ccd",
+      "published_date": "2026-06-15T10:57:07+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Govt calls on JAAC to abandon 'violence', says no direct talks ongoing although AJK PM welcome to try",
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2613292/govt-calls-on-jaac-to-abandon-violence-says-no-direct-talks-ongoing-although-ajk-pm-welcome-to-try",
@@ -596,6 +617,13 @@
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2613288/atc-upholds-arrest-warrants-for-sohail-afridi-in-oct-4-protest-case",
       "published_date": "2026-06-15T07:18:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dutch court sentences Syrian to 26 years in prison for torture",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2647304/middle-east",
+      "published_date": "2026-06-15T07:06:55+00:00",
       "category": "Local Events"
     },
     {
@@ -666,34 +694,6 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2647268/world",
       "published_date": "2026-06-15T01:06:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two men convicted of plot to torch houses linked to UK PM Starmer",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2647262/world",
-      "published_date": "2026-06-15T00:06:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man, son gunned down over land dispute",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2613231/man-son-gunned-down-over-land-dispute",
-      "published_date": "2026-06-14T21:39:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India rout Pakistan at women's T20 World Cup",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2007818/india-rout-pakistan-at-womens-t20-world-cup",
-      "published_date": "2026-06-14T18:12:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tarar calls for end to differences over AJKLA refugee seats via democratic means",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2007805/tarar-calls-for-end-to-differences-over-ajkla-refugee-seats-via-democratic-means",
-      "published_date": "2026-06-14T16:42:51+00:00",
       "category": "Local Events"
     }
   ]
