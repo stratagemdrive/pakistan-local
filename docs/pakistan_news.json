@@ -1,13 +1,41 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-06-17T14:28:15.403475+00:00",
-  "story_count": 99,
+  "last_updated": "2026-06-18T00:06:14.010189+00:00",
+  "story_count": 98,
   "stories": [
+    {
+      "title": "Macron deploys Versailles’ gold, mirrors and history in a high-stakes courtship of Trump",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2647628/world",
+      "published_date": "2026-06-17T23:06:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ghana's Partey loses bid to enter Canada for World Cup",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2008646/ghanas-partey-loses-bid-to-enter-canada-for-world-cup",
+      "published_date": "2026-06-17T19:50:47+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Former cricket captain Shahid Afridi visits UN, appreciates Pakistan's diplomatic engagement",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2008570/former-cricket-captain-shahid-afridi-visits-un-appreciates-pakistans-diplomatic-engagement",
       "published_date": "2026-06-17T11:01:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump has nothing but praise for Modi at G7 after tensions over US military strike, trade",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2647619/world",
+      "published_date": "2026-06-17T08:06:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran deal calls for diluting uranium, waiving sanctions, opening strait",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2647615/middle-east",
+      "published_date": "2026-06-17T07:06:04+00:00",
       "category": "Diplomacy"
     },
     {
@@ -116,38 +144,59 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Oil prices slip to their lowest since March as US, Iran reach preliminary agreement to reopen Hormuz",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2007998/oil-prices-slip-to-their-lowest-since-march-as-us-iran-reach-preliminary-agreement-to-reopen-hormuz",
-      "published_date": "2026-06-15T06:14:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Political leadership welcomes US–Iran agreement, praises diplomatic efforts",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2613250/political-leadership-welcomes-usiran-understanding-praise-diplomacy",
-      "published_date": "2026-06-15T01:02:36+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Oil slips over 4 percent after US, Iran reach peace deal, reopen Strait of Hormuz",
+      "title": "The interim US-Iran deal leaves the fate of Tehran’s nuclear program still to be negotiated",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2647182/business-economy",
-      "published_date": "2026-06-14T22:06:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.arabnews.pk/node/2647627/middle-east",
+      "published_date": "2026-06-17T22:06:29+00:00",
+      "category": "Military"
     },
     {
-      "title": "PPP, PML-N differences settled, claims Chan",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2613199/ppppml-n-differences-settled-claims-chan",
-      "published_date": "2026-06-14T21:00:26+00:00",
-      "category": "Diplomacy"
+      "title": "US official unveils 14-point Iran agreement to halt conflict and reopen Strait of Hormuz",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2008644/us-official-unveils-14-point-iran-agreement-to-halt-conflict-and-reopen-strait-of-hormuz",
+      "published_date": "2026-06-17T19:29:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What happens when the Strait of Hormuz reopens?",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2008641/what-happens-when-the-strait-of-hormuz-reopens",
+      "published_date": "2026-06-17T18:49:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "PAA extends airspace ban on Indian aircraft until July 24",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2008630/paa-extends-airspace-ban-on-indian-aircraft-until-july-24",
+      "published_date": "2026-06-17T17:36:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US-Iran deal a ‘political nightmare’ for Netanyahu, analysts say",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2008608/us-iran-deal-a-political-nightmare-for-netanyahu-analysts-say",
+      "published_date": "2026-06-17T17:13:03+00:00",
+      "category": "Military"
     },
     {
       "title": "Pakistan, UK agree to expand cooperation on counterterrorism, illegal migration",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2008555/pakistan-uk-agree-to-expand-cooperation-on-counterterrorism-illegal-migration",
       "published_date": "2026-06-17T08:19:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How Israel’s new ‘security belts’ could impact Middle East stability",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2647622/middle-east",
+      "published_date": "2026-06-17T08:06:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Czechs expect a different South Africa, says coach Koubek",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2647620/sport",
+      "published_date": "2026-06-17T08:06:16+00:00",
       "category": "Military"
     },
     {
@@ -232,55 +281,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2008291/us-military-to-build-war-ready-stockpile-in-australia-documents-show",
       "published_date": "2026-06-16T08:48:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran and US to embark on two months of peace talks Friday",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2647466/middle-east",
-      "published_date": "2026-06-16T08:06:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UN Secretary-General visits Haiti as gang violence soars",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2647468/world",
-      "published_date": "2026-06-16T08:06:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Naqvi calls on ulema to strengthen state’s anti-terrorism narrative",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2613464/naqvi-calls-on-ulema-to-strengthen-states-anti-terrorism-narrative",
-      "published_date": "2026-06-16T06:16:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pope Leo says ‘thanks be to God’ for interim US-Iran peace deal",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2647456/world",
-      "published_date": "2026-06-16T06:06:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Five terrorists killed in intelligence-based operation near Attock: CTD",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2613463/five-terrorists-killed-in-intelligence-based-operation-near-attock-ctd",
-      "published_date": "2026-06-16T05:46:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US Air Force B-52 bomber crashes in California, killing all 8 crew aboard",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2008268/us-air-force-b-52-bomber-crashes-in-california-killing-all-8-crew-aboard",
-      "published_date": "2026-06-16T05:14:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The Indus Waters Treaty: Correcting the record, preserving the law",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2008013/the-indus-waters-treaty-correcting-the-record-preserving-the-law",
-      "published_date": "2026-06-16T05:01:03+00:00",
       "category": "Military"
     },
     {
@@ -410,11 +410,18 @@
       "category": "Energy"
     },
     {
-      "title": "Spinwam gas bidding violates rules",
+      "title": "Nawaz urges AJK to end protests, sit-ins and engage in meaningful dialogue with govt",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2008589/nawaz-urges-ajk-to-end-protests-sit-ins-and-engage-in-meaningful-dialogue-with-govt",
+      "published_date": "2026-06-17T15:19:57+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Balochistan unveils Rs1.089tr budget, targets Rs170b in revenue",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2612543/spinwam-gas-bidding-violates-rules",
-      "published_date": "2026-06-10T16:20:03+00:00",
-      "category": "Energy"
+      "url": "https://tribune.com.pk/story/2613711/balochistan-unveils-rs1089tr-budget-targets-rs170b-in-revenue",
+      "published_date": "2026-06-17T13:59:11+00:00",
+      "category": "Economy"
     },
     {
       "title": "Sindh CM Murad Ali Shah presents Rs3.56tr budget with no new taxes, 7pc pay raise",
@@ -435,6 +442,20 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2008544/pm-shehbaz-terms-federal-budget-people-friendly-hopes-it-will-promote-an-export-oriented-economy",
       "published_date": "2026-06-17T11:49:16+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "PM vows to pass economic gains to public once regional peace is fully restored",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2613676/pm-vows-to-pass-economic-gains-to-public-once-regional-peace-is-fully-restored",
+      "published_date": "2026-06-17T09:02:51+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "PSX ends flat after record rally",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2613667/psx-ends-flat-after-record-rally",
+      "published_date": "2026-06-17T08:04:13+00:00",
       "category": "Economy"
     },
     {
@@ -529,32 +550,39 @@
       "category": "Economy"
     },
     {
-      "title": "Punjab budget raises tax rates",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2613540/punjab-budget-raises-tax-rates",
-      "published_date": "2026-06-16T15:41:11+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Punjab allocates Rs91.9b for agriculture",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2613541/punjab-allocates-rs919b-for-agriculture",
-      "published_date": "2026-06-16T15:41:11+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "More global bond issues on horizon",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2613542/more-global-bond-issues-on-horizon",
-      "published_date": "2026-06-16T15:41:11+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "India blocks Telegram before retest exam to curb cheating",
+      "title": "Autopsy report of nine-year-old girl killed in Chakwal CCD shooting reveals multiple bullet wounds",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2008345/india-blocks-telegram-before-retest-exam-to-curb-cheating",
-      "published_date": "2026-06-16T15:30:29+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2008638/autopsy-report-of-nine-year-old-girl-killed-in-chakwal-ccd-shooting-reveals-multiple-bullet-wounds",
+      "published_date": "2026-06-17T19:12:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Congo Ebola response strained a month after WHO declares international emergency",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2008618/congo-ebola-response-strained-a-month-after-who-declares-international-emergency",
+      "published_date": "2026-06-17T17:09:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "TTAP rejects PTI claims of no prior notice for 10,000-strong demonstration outside Adiala jail",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2008602/ttap-rejects-pti-claims-of-no-prior-notice-for-10000-strong-demonstration-outside-adiala-jail",
+      "published_date": "2026-06-17T16:41:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PPP lawmaker calls for separate South Punjab province in Senate",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2008601/ppp-lawmaker-calls-for-separate-south-punjab-province-in-senate",
+      "published_date": "2026-06-17T16:19:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sikh caretaker couple gunned down at Mardan gurdwara",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2613712/sikh-caretaker-couple-gunned-down-at-mardan-gurdwara",
+      "published_date": "2026-06-17T14:25:49+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Imaan, Hadi seek early hearing of appeal against IHC decision in social media posts case",
@@ -571,10 +599,24 @@
       "category": "Local Events"
     },
     {
+      "title": "PM Shehbaz, Bilawal agree on close federal-provincial coordination for projects of national importance",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2613679/pm-shehbaz-bilawal-agree-on-close-federal-provincial-coordination-for-projectsnational-importance",
+      "published_date": "2026-06-17T09:35:15+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Motorway police make fire extinguishers mandatory for all vehicles",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2008554/motorway-police-make-fire-extinguishers-mandatory-for-all-vehicles",
       "published_date": "2026-06-17T08:39:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "World Cup goals record ‘just a number,’ says Messi",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2647618/sport",
+      "published_date": "2026-06-17T07:06:02+00:00",
       "category": "Local Events"
     },
     {
@@ -645,55 +687,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2008336/four-independents-join-aleem-khans-istehkam-i-pakistan-party-in-gilgit-baltistan",
       "published_date": "2026-06-16T14:26:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Five-year-old boy dies after falling into uncovered manhole in Lahore's Sundar area",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2613507/six-year-old-boy-dies-after-falling-into-uncovered-manhole-in-lahores-sundar-area",
-      "published_date": "2026-06-16T14:22:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lawyers Imaan Mazari, Hadi Chattha awarded prestigious human rights prize for advocacy work",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2008326/lawyers-imaan-mazari-hadi-chattha-awarded-prestigious-human-rights-prize-for-advocacy-work",
-      "published_date": "2026-06-16T13:50:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ghana asks Canada court to overturn Partey’s World Cup visa denial",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2647464/sport",
-      "published_date": "2026-06-16T08:06:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'We do not accept govt's version of events,' says Aleema after Imran taken to hospital for 5th time for eye ailment",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2008278/we-do-not-accept-govts-version-of-events-says-aleema-after-imran-taken-to-hospital-for-5th-time-for-eye-ailment",
-      "published_date": "2026-06-16T07:44:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hafizabad DPO changed after ‘row with MPA’s son over office toilet use’",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2008130/hafizabad-dpo-changed-after-row-with-mpas-son-over-office-toilet-use",
-      "published_date": "2026-06-16T04:19:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pinky’s long-running drug network targeted elite areas, students: IO",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2008169/pinkys-long-running-drug-network-targeted-elite-areas-students-io",
-      "published_date": "2026-06-16T03:39:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SC judge advocates stricter safeguards in drug cases",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2008218/sc-judge-advocates-stricter-safeguards-in-drug-cases",
-      "published_date": "2026-06-16T03:28:06+00:00",
       "category": "Local Events"
     }
   ]
