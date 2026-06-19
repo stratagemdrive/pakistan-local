@@ -1,8 +1,15 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-06-19T14:17:44.375995+00:00",
+  "last_updated": "2026-06-19T23:59:01.202725+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "FM Dar to attend R-4 foreign ministers’ meeting in Cairo on June 21: FO",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2009239/fm-dar-to-attend-r-4-foreign-ministers-meeting-in-cairo-on-june-21-fo",
+      "published_date": "2026-06-19T15:06:03+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Strong Ramadan and Hajj results eased impact of Iran war, Saudi tourism minister says",
       "source": "Arab News Pakistan",
@@ -137,11 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "‘Mediation for sake of regional stability, not narrow interests’",
+      "title": "PM Shehbaz, Saudi crown prince discuss Iran-US talks, stress peace process must not be undermined",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2008461/mediation-for-sake-of-regional-stability-not-narrow-interests",
-      "published_date": "2026-06-17T03:16:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2009269/pm-shehbaz-saudi-crown-prince-discuss-iran-us-talks-stress-peace-process-must-not-be-undermined",
+      "published_date": "2026-06-19T17:23:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Outrage in Italy after Trump says Meloni 'begged' for photo op",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2009272/outrage-in-italy-after-trump-says-meloni-begged-for-photo-op",
+      "published_date": "2026-06-19T17:20:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "For Vance, Iran talks could shape political rise",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2009265/for-vance-iran-talks-could-shape-political-rise",
+      "published_date": "2026-06-19T16:21:48+00:00",
+      "category": "Military"
     },
     {
       "title": "Australia, last continent without H5 bird flu, detects first suspected case",
@@ -162,6 +183,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2009116/pm-shehbaz-says-significant-reduction-to-be-announced-in-fuel-prices-amid-global-decline",
       "published_date": "2026-06-19T08:51:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What does the US-Iran agreement reveal about the true winners and losers of the war?",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2647883/middle-east",
+      "published_date": "2026-06-19T08:06:39+00:00",
       "category": "Military"
     },
     {
@@ -253,34 +281,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2008902/landmark-islamabad-mou-to-go-a-long-way-in-rebuilding-iran-pm-shehbaz-tells-pezeshkian",
       "published_date": "2026-06-18T18:16:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine sets Moscow refinery ablaze in biggest attack in years",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2008917/ukraine-sets-moscow-refinery-ablaze-in-biggest-attack-in-years",
-      "published_date": "2026-06-18T16:35:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What the US-Iran deal means for West Asian security and Pakistan",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2008890/what-the-us-iran-deal-means-for-west-asian-security-and-pakistan",
-      "published_date": "2026-06-18T13:16:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Oil falls further on Mideast deal, but Fed outlook knocks equities",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2008870/oil-falls-further-on-mideast-deal-but-fed-outlook-knocks-equities",
-      "published_date": "2026-06-18T11:05:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fact-check: Viral Indian defence ministry document about Operation Sindoor 2.0 is AI-generated",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2613892/fact-check-viral-indian-defence-ministry-document-about-operation-sindoor-20-is-ai-generated",
-      "published_date": "2026-06-18T10:39:07+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "PSX tumbles over 2,400 points on back of uncertainty over US-Iran talks",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2009125/psx-tumbles-over-2400-points-on-back-of-uncertainty-over-us-iran-talks",
+      "published_date": "2026-06-19T15:11:12+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "PM Shehbaz announces reduction in prices of petrol by Rs74, diesel by Rs67",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2009236/pm-shehbaz-announces-reduction-in-prices-of-petrol-by-rs74-diesel-by-rs67",
@@ -442,6 +449,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2009125/psx-tumbles-over-1800-points-in-intraday-trade-on-back-of-uncertainty-over-us-iran-talks",
       "published_date": "2026-06-19T10:35:13+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Opposition slams Punjab Rs5.9tr budget, calls it political branding over welfare",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2614081/opposition-slams-punjab-rs59t-budget-calls-it-political-branding-over-welfare",
+      "published_date": "2026-06-19T09:06:29+00:00",
       "category": "Economy"
     },
     {
@@ -550,18 +564,25 @@
       "category": "Economy"
     },
     {
-      "title": "ADB approves $700m loan for Pakistan's insurance sector",
+      "title": "Two trains reported to have collided north of London: transport police",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2008839/adb-approves-700m-loan-for-pakistans-insurance-sector",
-      "published_date": "2026-06-18T07:34:58+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2009281/two-trains-reported-to-have-collided-north-of-london-transport-police",
+      "published_date": "2026-06-19T19:01:50+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Trump says Apple to partner with Intel on US chip design, production",
+      "title": "Passengers stranded for hours after landslide halts train services in Attock's Jand area",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2008829/trump-says-apple-to-partner-with-intel-on-us-chip-design-production",
-      "published_date": "2026-06-18T06:16:52+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2009275/passengers-stranded-for-hours-after-landslide-halts-train-services-in-attocks-jand-area",
+      "published_date": "2026-06-19T17:55:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "GB's Supreme Appellate Court suspends election results for candidates of 3 constituencies",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2009242/gbs-supreme-appellate-court-suspends-election-results-for-candidates-of-3-constituencies",
+      "published_date": "2026-06-19T15:35:54+00:00",
+      "category": "Local Events"
     },
     {
       "title": "FY2026-27: KP CM presents Rs2.17tr budget, with estimated fiscal deficit of Rs48bn",
@@ -613,6 +634,27 @@
       "category": "Local Events"
     },
     {
+      "title": "Tunisia’s new coach faces baptism of fire against ‘best team in Asia’",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2647879/sport",
+      "published_date": "2026-06-19T08:06:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PPP, IPP hold consultations on G-B govt formation",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2614071/ppp-ipp-hold-consultations-on-g-b-govt-formation",
+      "published_date": "2026-06-19T07:22:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kane hails World Cup ‘Wonderwall’ singalong as England highlight",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2647867/sport",
+      "published_date": "2026-06-19T06:06:41+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Hackers target Capital Development Authority's billing system, demand ransom in Bitcoin",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2008949/hackers-target-capital-development-authoritys-billing-system-demand-ransom-in-bitcoin",
@@ -659,48 +701,6 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2647762/lifestyle",
       "published_date": "2026-06-18T23:06:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan denies Afghan claim of strikes on Daesh hideouts, says intercepted one drone",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2647816/pakistan",
-      "published_date": "2026-06-18T22:06:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fresh arrests target Turkiye’s opposition-run municipalities",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2647817/middle-east",
-      "published_date": "2026-06-18T22:06:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police, CCD admit 'mistake' in Chakwal girl shooting, assure incident will not be covered up or defended",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2008924/police-ccd-admit-mistake-in-chakwal-girl-shooting-assure-incident-will-not-be-covered-up-or-defended",
-      "published_date": "2026-06-18T18:44:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Apple launches official flagship store on e-commerce platform Daraz Pakistan",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2008918/apple-launches-official-flagship-store-on-e-commerce-platform-daraz-pakistan",
-      "published_date": "2026-06-18T17:51:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IHC refers Afridi’s petition seeking meeting with Imran for provincial budget consultations to chief justice",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2008905/ihc-refers-afridis-petition-seeking-meeting-with-imran-for-provincial-budget-consultations-to-chief-justice",
-      "published_date": "2026-06-18T16:49:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hotly anticipated video game Grand Theft Auto VI presales to begin June 25",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2008900/hotly-anticipated-video-game-grand-theft-auto-vi-presales-to-begin-june-25",
-      "published_date": "2026-06-18T15:06:58+00:00",
       "category": "Local Events"
     }
   ]
