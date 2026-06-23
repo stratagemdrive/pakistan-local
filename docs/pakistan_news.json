@@ -1,8 +1,22 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-06-23T13:45:06.892829+00:00",
+  "last_updated": "2026-06-23T23:47:52.540298+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Leaders of four Central European countries meet in Hungary to reboot regional group",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2648345/world",
+      "published_date": "2026-06-24T09:06:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Hands of friendship': Iran president calls for new regional security structure among Muslim nations",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2010220/hands-of-friendship-iran-president-calls-for-new-regional-security-structure-among-muslim-nations",
+      "published_date": "2026-06-23T20:00:16+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran's President Pezeshkian welcomed with guard of honour at PM House",
       "source": "Dawn",
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pakistan urges vigilance against attempts to undermine US-Iran peace process",
+      "title": "UN finds Rapid Support Forces and its allies committed almost 90% of rape and sexual violence in Sudan",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2648047/pakistan",
-      "published_date": "2026-06-21T05:06:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.arabnews.pk/node/2648346/middle-east",
+      "published_date": "2026-06-23T22:06:34+00:00",
+      "category": "Military"
     },
     {
-      "title": "Pakistan’s PIA enhances free baggage allowances, connectivity options on Beijing routes",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2648021/pakistan",
-      "published_date": "2026-06-20T23:06:15+00:00",
-      "category": "Diplomacy"
+      "title": "NAB to launch AI-based investigation system to probe financial crimes, white-collar offences",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2010341/nab-to-launch-ai-based-investigation-system-to-probe-financial-crimes-white-collar-offences",
+      "published_date": "2026-06-23T19:02:22+00:00",
+      "category": "Military"
     },
     {
       "title": "Israel's 'deliberate targeting' of children part of ongoing Gaza genocide: UN probe",
@@ -162,6 +176,13 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2648190/middle-east",
       "published_date": "2026-06-23T09:06:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hezbollah chief demands full timetabled Israeli withdrawal from Lebanon",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2648330/middle-east",
+      "published_date": "2026-06-23T08:06:31+00:00",
       "category": "Military"
     },
     {
@@ -260,27 +281,6 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2648067/middle-east",
       "published_date": "2026-06-22T09:06:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Honduras to buy drones from Ukraine to fight drug trade",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2648182/world",
-      "published_date": "2026-06-22T07:06:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US joins UN in warning ‘mass atrocities’ imminent in Sudan",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2648166/world",
-      "published_date": "2026-06-22T06:06:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Qatar says gas export terminal blast killed 13 Pakistanis, Indians as workers tried to resume operations",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2648159/pakistan",
-      "published_date": "2026-06-22T03:06:36+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "KGTL plans up to $100m more investment in Karachi port after cargo surge from Iran war",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2010285/kgtl-plans-up-to-100m-more-investment-in-karachi-port-after-cargo-surge-from-iran-war",
+      "published_date": "2026-06-23T13:46:16+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "A budget to forget",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2010169/a-budget-to-forget",
@@ -557,11 +564,39 @@
       "category": "Economy"
     },
     {
-      "title": "Pakistan targets 400,000 trained workers for FIFA World Cup 2034 hosted by Saudi Arabia",
+      "title": "Karachi police issue traffic plan for Muharram 8-10 processions",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2009709/pakistan-targets-400000-trained-workers-for-fifa-world-cup-2034-hosted-by-saudi-arabia",
-      "published_date": "2026-06-21T15:16:51+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2010289/karachi-police-issue-traffic-plan-for-muharram-8-10-processions",
+      "published_date": "2026-06-23T20:53:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Victims of 2024 Kenya police violence say compensation promise a 'smokescreen'",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2010332/victims-of-2024-kenya-police-violence-say-compensation-promise-a-smokescreen",
+      "published_date": "2026-06-23T20:12:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PTI rails against Adiala jail admin after another meeting with Imran denied",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2010336/pti-rails-against-adiala-jail-admin-after-another-meeting-with-imran-denied",
+      "published_date": "2026-06-23T19:49:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ECP summons KP, Islamabad officials on July 1 over delay in local govt polls data",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2010298/ecp-summons-kp-islamabad-officials-on-july-1-over-delay-in-local-govt-polls-data",
+      "published_date": "2026-06-23T15:25:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sargodha police arrest 4 suspects in 7-year-old girl's murder case",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2010300/sargodha-police-arrest-4-suspects-in-7-year-old-girls-murder-case",
+      "published_date": "2026-06-23T14:50:18+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Every monsoon, thousands of seashells wash up on Karachi's shores. Here's why",
@@ -596,6 +631,20 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2010258/philippines-rethinks-school-safety-after-rare-shooting-kills-3",
       "published_date": "2026-06-23T09:39:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Local World Cup fans wave many flags in multicultural Houston",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2648333/sport",
+      "published_date": "2026-06-23T08:06:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Libya’s eastern government bans entry of nationals from four African countries",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2648334/middle-east",
+      "published_date": "2026-06-23T08:06:07+00:00",
       "category": "Local Events"
     },
     {
@@ -652,55 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2010145/pti-bigwigs-gohar-ali-khan-salman-akram-raja-eye-meeting-with-imran",
       "published_date": "2026-06-23T02:35:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan clears 435-km fuel pipeline linking Punjab to northwest",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2648256/pakistan",
-      "published_date": "2026-06-22T22:06:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kenya halts US Ebola facility: health minister tells court",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2648253/world",
-      "published_date": "2026-06-22T22:06:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "14 killed in fire at building in India's Lucknow",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2010034/14-killed-in-fire-at-building-in-indias-lucknow",
-      "published_date": "2026-06-22T17:04:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Adiala Jail, Imran's counsel in Vakalatnama row",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2614653/adiala-jail-imrans-counsel-in-vakalatnama-row",
-      "published_date": "2026-06-22T16:37:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SC reopens teacher back-benefits case",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2614656/sc-reopens-teacher-back-benefits-case",
-      "published_date": "2026-06-22T16:37:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man shot dead on way to court",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2614632/man-shot-dead-on-way-to-court",
-      "published_date": "2026-06-22T16:04:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PPP's Amjad Hussain elected as GB chief minister after members take oath",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2009973/ppps-amjad-hussain-elected-as-gb-chief-minister-after-members-take-oath",
-      "published_date": "2026-06-22T15:50:55+00:00",
       "category": "Local Events"
     }
   ]
