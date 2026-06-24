@@ -1,8 +1,22 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-06-24T13:25:52.306937+00:00",
+  "last_updated": "2026-06-24T23:57:21.534183+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "World court judges sue Trump administration over sanctions",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2648485/world",
+      "published_date": "2026-06-25T09:06:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Khawaja Asif doubles down, says 'stands by' contentious AJK remarks despite volley of criticism",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2614935/khawaja-asif-doubles-down-says-stands-by-contentious-ajk-remarks-despite-volley-of-criticism",
+      "published_date": "2026-06-24T13:27:39+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "PM Shehbaz, Qatari emir express satisfaction at 'positive progress' of US-Iran talks, agree to sustain momentum",
       "source": "Dawn",
@@ -130,24 +144,45 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Oil falls after US-Iran talks conclude in Switzerland",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2009979/oil-falls-after-us-iran-talks-conclude-in-switzerland",
-      "published_date": "2026-06-22T07:06:16+00:00",
-      "category": "Diplomacy"
+      "title": "Israeli army says contractor killed in Gaza ‘accident’",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2648487/middle-east",
+      "published_date": "2026-06-25T09:06:16+00:00",
+      "category": "Military"
     },
     {
-      "title": "US, Iran make 'encouraging progress' after hours-long talks in Burgenstock; agree on roadmap to reach final peace deal in 60 days",
+      "title": "Israeli strike on south Lebanon kills two, Hezbollah accuses it of truce ‘violation’",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2648488/middle-east",
+      "published_date": "2026-06-24T22:06:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US-Iran deal may leave Israel's Netanyahu as biggest casualty",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2009504/us-iran-make-encouraging-progress-after-hours-long-talks-in-burgenstock-agree-on-roadmap-to-reach-final-peace-deal-in-60-days",
-      "published_date": "2026-06-22T07:04:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2010572/us-iran-deal-may-leave-israels-netanyahu-as-biggest-casualty",
+      "published_date": "2026-06-24T20:18:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Startup Revora raises $2m in seed funding to build AI platform for e-commerce merchants",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2010565/startup-revora-raises-2m-in-seed-funding-to-build-ai-platform-for-e-commerce-merchants",
+      "published_date": "2026-06-24T15:41:53+00:00",
+      "category": "Military"
     },
     {
       "title": "CDF Munir, Libyan military leader stress importance of strengthening bilateral defence ties",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2010538/cdf-munir-libyan-military-leader-stress-importance-of-strengthening-bilateral-defence-ties",
       "published_date": "2026-06-24T13:06:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "SHO among 7 police personnel kidnapped in South Waziristan",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2614924/sho-among-7-police-personnel-kidnapped-in-south-waziristan",
+      "published_date": "2026-06-24T11:34:44+00:00",
       "category": "Military"
     },
     {
@@ -169,6 +204,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2010505/caught-in-fighting-between-security-forces-and-terrorists-residents-in-kps-bara-are-forced-to-leave-their-homes",
       "published_date": "2026-06-24T08:52:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Just 1 in 4 Americans believes Iran war was worth its costs, poll finds",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2648477/world",
+      "published_date": "2026-06-24T07:06:33+00:00",
       "category": "Military"
     },
     {
@@ -239,48 +281,6 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2648409/world",
       "published_date": "2026-06-23T23:06:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UN finds Rapid Support Forces and its allies committed almost 90% of rape and sexual violence in Sudan",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2648346/middle-east",
-      "published_date": "2026-06-23T22:06:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "NAB to launch AI-based investigation system to probe financial crimes, white-collar offences",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2010341/nab-to-launch-ai-based-investigation-system-to-probe-financial-crimes-white-collar-offences",
-      "published_date": "2026-06-23T19:02:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel's 'deliberate targeting' of children part of ongoing Gaza genocide: UN probe",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2010272/israels-deliberate-targeting-of-children-part-of-ongoing-gaza-genocide-un-probe",
-      "published_date": "2026-06-23T12:46:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The regional geo-strategic landscape in West Asia post the Iran war",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2009903/the-regional-geo-strategic-landscape-in-west-asia-post-the-iran-war",
-      "published_date": "2026-06-23T10:35:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What will rid Lebanon of Hezbollah’s influence — the US-Iran MoU or negotiations with Israel?",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2648190/middle-east",
-      "published_date": "2026-06-23T09:06:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hezbollah chief demands full timetabled Israeli withdrawal from Lebanon",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2648330/middle-east",
-      "published_date": "2026-06-23T08:06:31+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,27 @@
       "category": "Energy"
     },
     {
+      "title": "NA approves over Rs500bn in supplementary budget for FY25, Rs475bn for FY26",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2010552/na-approves-over-rs500bn-in-supplementary-budget-for-fy25-rs475bn-for-fy26",
+      "published_date": "2026-06-24T21:10:29+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "CM Afridi vows peace in FY27 as KP Assembly passes Rs2.17tr budget",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2010593/cm-afridi-vows-peace-in-fy27-as-kp-assembly-passes-rs217tr-budget",
+      "published_date": "2026-06-24T20:06:35+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Barclays upgrades Pakistan's sovereign debt to 'overweight' on improved oil market outlook: report",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2010586/barclays-upgrades-pakistans-sovereign-debt-to-overweight-on-improved-oil-market-outlook-report",
+      "published_date": "2026-06-24T19:28:50+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "PSX gains over 1,600 points as buying momentum returns",
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2614870/buying-spree-lifts-mood-at-psx",
@@ -543,25 +564,74 @@
       "category": "Economy"
     },
     {
-      "title": "CAP warns sales tax expansion will hike prices",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2614616/cap-warns-sales-tax-expansion-will-hike-prices",
-      "published_date": "2026-06-22T15:00:56+00:00",
-      "category": "Economy"
+      "title": "Magnitude 6.9 quake hits northern Japan, no tsunami warning",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2648493",
+      "published_date": "2026-06-24T23:06:23+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "PSX ends lower after volatile session",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2614617/psx-ends-lower-after-volatile-session",
-      "published_date": "2026-06-22T15:00:56+00:00",
-      "category": "Economy"
+      "title": "Back-to-back powerful earthquakes hit Venezuela, collapsing buildings in the capital of Caracas",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2648492/world",
+      "published_date": "2026-06-24T23:06:02+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Alan Greenspan, longtime US Federal Reserve chairman, dies aged 100",
+      "title": "Over 150 baby deaths linked to UK maternity scandal: probe",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2010020/alan-greenspan-longtime-us-federal-reserve-chairman-dies-aged-100",
-      "published_date": "2026-06-22T12:36:36+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2010576/over-150-baby-deaths-linked-to-uk-maternity-scandal-probe",
+      "published_date": "2026-06-24T20:25:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan pushes for global action against hepatitis amid alarming WHO findings",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2010592/pakistan-pushes-for-global-action-against-hepatitis-amid-alarming-who-findings",
+      "published_date": "2026-06-24T19:03:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PTI calls for 'transparent, judicially supervised' probe into 2018, 2024 elections",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2010567/pti-calls-for-transparent-judicially-supervised-probe-into-2018-2024-elections",
+      "published_date": "2026-06-24T17:05:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prime suspect in 7-year-old Sargodha girl's murder case killed during CCD encounter, police say",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2010557/prime-suspect-in-7-year-old-sargodha-girls-murder-case-killed-during-ccd-encounter-police-say",
+      "published_date": "2026-06-24T16:36:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French mountaineer dies as avalanche hits GB's K-6 peak",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2010554/french-mountaineer-dies-as-avalanche-hits-gbs-k-6-peak",
+      "published_date": "2026-06-24T15:25:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cybersecurity company flags hundreds of fake websites targeting FIFA World Cup fans",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2010558/cybersecurity-company-flags-hundreds-of-fake-websites-targeting-fifa-world-cup-fans",
+      "published_date": "2026-06-24T15:10:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SOUNDSCAPES OF MUHARRAM",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2009513/soundscapes-of-muharram",
+      "published_date": "2026-06-24T15:02:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SHO among 8 cops kidnapped by armed men in Upper South Waziristan: police",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2010551/sho-among-8-cops-kidnapped-by-armed-men-in-upper-south-waziristan-police",
+      "published_date": "2026-06-24T14:45:53+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Khawaja Asif comes under fire in NA for 'sweeping statement' regarding Kashmiris",
@@ -631,76 +701,6 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2648421/pakistan",
       "published_date": "2026-06-24T00:06:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan calls for free navigation in Hormuz amid regional debate",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2648408/pakistan",
-      "published_date": "2026-06-23T23:06:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan says over 51,000 register for Hajj 2027 in first two days of sign-ups",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2648404/pakistan",
-      "published_date": "2026-06-23T22:06:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Six ‘highly wanted’ militants killed in northwest Pakistan operation after police checkpoint attack",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2648403/pakistan",
-      "published_date": "2026-06-23T22:06:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Karachi police issue traffic plan for Muharram 8-10 processions",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2010289/karachi-police-issue-traffic-plan-for-muharram-8-10-processions",
-      "published_date": "2026-06-23T20:53:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Victims of 2024 Kenya police violence say compensation promise a 'smokescreen'",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2010332/victims-of-2024-kenya-police-violence-say-compensation-promise-a-smokescreen",
-      "published_date": "2026-06-23T20:12:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PTI rails against Adiala jail admin after another meeting with Imran denied",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2010336/pti-rails-against-adiala-jail-admin-after-another-meeting-with-imran-denied",
-      "published_date": "2026-06-23T19:49:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Local govts starved of provincial funds",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2614819/local-govts-starved-of-provincial-funds",
-      "published_date": "2026-06-23T16:29:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gold tumbles Rs10,400 on global sell-off",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2614821/gold-tumbles-rs10400-on-global-sell-off",
-      "published_date": "2026-06-23T16:29:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ECP summons KP, Islamabad officials on July 1 over delay in local govt polls data",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2010298/ecp-summons-kp-islamabad-officials-on-july-1-over-delay-in-local-govt-polls-data",
-      "published_date": "2026-06-23T15:25:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sargodha police arrest 4 suspects in 7-year-old girl's murder case",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2010300/sargodha-police-arrest-4-suspects-in-7-year-old-girls-murder-case",
-      "published_date": "2026-06-23T14:50:18+00:00",
       "category": "Local Events"
     }
   ]
