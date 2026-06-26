@@ -1,8 +1,15 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-06-25T13:23:11.024005+00:00",
+  "last_updated": "2026-06-26T00:03:34.931430+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Israel feared the fall of Assad not the rise of instability, Syrian envoy tells UN Security Council",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2648615/middle-east",
+      "published_date": "2026-06-26T09:06:21+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "'Need each other': France's Macron to host Italy's Meloni after Trump rift",
       "source": "Dawn",
@@ -15,6 +22,20 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2648485/world",
       "published_date": "2026-06-25T09:06:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN envoy says Jeddah deal can still anchor future Sudan peace talks, as fears grow over El-Obeid",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2648610/middle-east",
+      "published_date": "2026-06-25T08:06:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Syria remains committed to protecting children’s rights, envoy says",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2648611/middle-east",
+      "published_date": "2026-06-25T08:06:12+00:00",
       "category": "Diplomacy"
     },
     {
@@ -123,25 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Dar says US-Iran talks in Switzerland could have happened earlier if not for Israel's attacks on Lebanon",
+      "title": "US Supreme Court sides with Trump in asylum-processing case",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2010236/dar-says-us-iran-talks-in-switzerland-could-have-happened-earlier-if-not-for-israels-attacks-on-lebanon",
-      "published_date": "2026-06-23T08:35:09+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Five Eyes spy alliance warns AI can outpace cybersecurity norms 'in months, not years'",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2010237/five-eyes-spy-alliance-warns-ai-can-outpace-cybersecurity-norms-in-months-not-years",
-      "published_date": "2026-06-23T07:37:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "China joins India, Iran as key security officials gather at BRICS",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2010139/china-joins-india-iran-as-key-security-officials-gather-at-brics",
-      "published_date": "2026-06-23T02:46:13+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2010837/us-supreme-court-sides-with-trump-in-asylum-processing-case",
+      "published_date": "2026-06-25T17:59:07+00:00",
+      "category": "Military"
     },
     {
       "title": "Truce brings no relief for displaced from Lebanon's destroyed, occupied towns",
@@ -176,6 +183,20 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2648487/middle-east",
       "published_date": "2026-06-25T09:06:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Cyprus fears Turkiye will exclude it from UN climate meet",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2648603/world",
+      "published_date": "2026-06-25T08:06:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Chad sees influx of drone victims from Sudan",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2648600/middle-east",
+      "published_date": "2026-06-25T07:06:03+00:00",
       "category": "Military"
     },
     {
@@ -260,27 +281,6 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2648401/world",
       "published_date": "2026-06-24T09:06:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Caught in fighting between security forces and terrorists, residents in KP's Bara are forced to leave their homes",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2010505/caught-in-fighting-between-security-forces-and-terrorists-residents-in-kps-bara-are-forced-to-leave-their-homes",
-      "published_date": "2026-06-24T08:52:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Just 1 in 4 Americans believes Iran war was worth its costs, poll finds",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2648477/world",
-      "published_date": "2026-06-24T07:06:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Naval chief vows modernisation of warfare techniques, tools to consolidate maritime influence",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2614885/naval-chief-vows-modernisation-of-warfare-techniques-tools-to-consolidate-maritime-influence",
-      "published_date": "2026-06-24T06:34:21+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Apple raises prices for MacBooks and iPads, as costs soar over AI",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2010845/apple-raises-prices-for-macbooks-and-ipads-as-costs-soar-over-ai",
+      "published_date": "2026-06-25T19:19:18+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Wealthy nations reap huge benefits from immigration, study finds",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2010809/wealthy-nations-reap-huge-benefits-from-immigration-study-finds",
@@ -557,11 +564,67 @@
       "category": "Economy"
     },
     {
-      "title": "A budget to forget",
+      "title": "Could Israel’s Hebron planning takeover become a blueprint for annexing the West Bank?",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2648616/middle-east",
+      "published_date": "2026-06-26T09:06:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ecuador edge Germany to squeeze into World Cup last 32",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2648618/sport",
+      "published_date": "2026-06-25T22:06:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands feared dead in Venezuela after two major earthquakes; world sends aid, rescue teams",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2010169/a-budget-to-forget",
-      "published_date": "2026-06-23T09:02:56+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2010737/thousands-feared-dead-in-venezuela-after-two-major-earthquakes-world-sends-aid-rescue-teams",
+      "published_date": "2026-06-25T18:19:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Audit report identifies Rs3.41bn worth of irregularities in health sector",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2010834/audit-report-identifies-rs341bn-worth-of-irregularities-in-health-sector",
+      "published_date": "2026-06-25T18:06:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police launch high-level probe into rape, murder of 3-year-old girl in Karachi's Quaidabad",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2010824/police-launch-high-level-probe-into-rape-murder-of-3-year-old-girl-in-karachis-quaidabad",
+      "published_date": "2026-06-25T17:42:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Countrywide Muharram 9 processions conclude peacefully amid strict security",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2010752/countrywide-muharram-9-processions-conclude-peacefully-amid-strict-security",
+      "published_date": "2026-06-25T17:37:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Preliminary postmortem report of 7-year-old girl in Sargodha indicates possibility of rape: police",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2010828/preliminary-postmortem-report-of-7-year-old-girl-in-sargodha-indicates-possibility-of-rape-police",
+      "published_date": "2026-06-25T16:23:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In pictures: Mourners in black take part in Muharram 9 processions across Pakistan",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2010818/in-pictures-mourners-in-black-take-part-in-muharram-9-processions-across-pakistan",
+      "published_date": "2026-06-25T15:17:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AJK police chief warns against disinformation amid standoff, denies curbs on goods transport",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2010823/ajk-police-chief-warns-against-disinformation-amid-standoff-denies-curbs-on-goods-transport",
+      "published_date": "2026-06-25T14:59:25+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Death toll from Venezuela's massive twin quakes jumps to 164, nearly 1,000 injured: president",
@@ -613,6 +676,13 @@
       "category": "Local Events"
     },
     {
+      "title": "President Zardari calls for 'meaningful cost' on Israel after UN inquiry exposes crimes against Gaza's children",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2615085/zardari-calls-for-meaningful-cost-on-israel-after-un-inquiry-exposes-crimes-against-gazas-children",
+      "published_date": "2026-06-25T11:05:58+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "PM-appointed committee recommends telecom bill changes to safeguard property rights",
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2648533/pakistan",
@@ -620,87 +690,17 @@
       "category": "Local Events"
     },
     {
-      "title": "Man killed in IED blast in Balochistan's Ormara",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2010751/man-killed-in-ied-blast-in-balochistans-ormara",
-      "published_date": "2026-06-25T06:22:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Terrorists use quadcopter to drop explosives on Bannu police station",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2010719/terrorists-use-quadcopter-to-drop-explosives-on-bannu-police-station",
-      "published_date": "2026-06-25T05:16:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Horror in Karachi's Quaidabad after 3-year-old’s body found dumped outside her home",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2010607/horror-in-karachis-quaidabad-after-3-year-olds-body-found-dumped-outside-her-home",
-      "published_date": "2026-06-25T03:54:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Law minister-led panel suggests major changes to language of telecom bill",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2010642/law-minister-led-panel-suggests-major-changes-to-language-of-telecom-bill",
-      "published_date": "2026-06-25T03:00:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Parwaz Card initiative: 135 skilled youths leave for KSA to start jobs",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2010698/parwaz-card-initiative-135-skilled-youths-leave-for-ksa-to-start-jobs",
-      "published_date": "2026-06-25T02:44:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Magnitude 6.9 quake hits northern Japan, no tsunami warning",
+      "title": "Israeli push for control over ancient West Bank sites rapped",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2648493",
-      "published_date": "2026-06-24T23:06:23+00:00",
+      "url": "https://www.arabnews.pk/node/2648609/middle-east",
+      "published_date": "2026-06-25T08:06:49+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Back-to-back powerful earthquakes hit Venezuela, collapsing buildings in the capital of Caracas",
+      "title": "Israeli forces accused of extrajudicial killings after 2 men shot in West Bank raids",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2648492/world",
-      "published_date": "2026-06-24T23:06:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bilawal, Aleem discuss G-B set-up",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2615010/bilawal-aleem-discuss-g-b-set-up",
-      "published_date": "2026-06-24T20:45:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Over 150 baby deaths linked to UK maternity scandal: probe",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2010576/over-150-baby-deaths-linked-to-uk-maternity-scandal-probe",
-      "published_date": "2026-06-24T20:25:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan pushes for global action against hepatitis amid alarming WHO findings",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2010592/pakistan-pushes-for-global-action-against-hepatitis-amid-alarming-who-findings",
-      "published_date": "2026-06-24T19:03:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PTI calls for 'transparent, judicially supervised' probe into 2018, 2024 elections",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2010567/pti-calls-for-transparent-judicially-supervised-probe-into-2018-2024-elections",
-      "published_date": "2026-06-24T17:05:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prime suspect in 7-year-old Sargodha girl's murder case killed during CCD encounter, police say",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2010557/prime-suspect-in-7-year-old-sargodha-girls-murder-case-killed-during-ccd-encounter-police-say",
-      "published_date": "2026-06-24T16:36:12+00:00",
+      "url": "https://www.arabnews.pk/node/2648608/middle-east",
+      "published_date": "2026-06-25T08:06:43+00:00",
       "category": "Local Events"
     }
   ]
