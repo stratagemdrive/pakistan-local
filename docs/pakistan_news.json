@@ -1,8 +1,15 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-06-26T13:16:12.366007+00:00",
+  "last_updated": "2026-06-26T23:53:21.390199+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Another group of Iranian sailors from vessel seized by US arrives in Pakistan",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2011061/another-group-of-iranian-sailors-from-vessel-seized-by-us-arrives-in-pakistan",
+      "published_date": "2026-06-26T16:34:17+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Israel feared the fall of Assad not the rise of instability, Syrian envoy tells UN Security Council",
       "source": "Arab News Pakistan",
@@ -137,17 +144,38 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Islamabad MoU, Lucerne summit between US and Iran reaffirm faith in dialogue, diplomacy: FO",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2010496/islamabad-mou-lucerne-summit-between-us-and-iran-reaffirm-faith-in-dialogue-diplomacy-fo",
-      "published_date": "2026-06-24T08:13:42+00:00",
-      "category": "Diplomacy"
+      "title": "Hezbollah supporters take to streets of Beirut to protest Israel deal",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2648728",
+      "published_date": "2026-06-26T23:06:19+00:00",
+      "category": "Military"
     },
     {
       "title": "Tehran rejects US-GCC statement citing 'Iran threats' as 'interventionist, provocative'",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2011035/tehran-rejects-us-gcc-statement-citing-iran-threats-as-interventionist-provocative",
       "published_date": "2026-06-26T11:42:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How Lebanon’s conflict is putting pregnant women and girls at greater risk",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2648722/middle-east",
+      "published_date": "2026-06-26T08:06:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanon president: Israel deal first step to restoring sovereignty",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2648720/middle-east",
+      "published_date": "2026-06-26T08:06:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hezbollah lawmaker warns Lebanese authorities against enforcing Washington agreement with Israel",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2648714/middle-east",
+      "published_date": "2026-06-26T07:06:27+00:00",
       "category": "Military"
     },
     {
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "'Missiles were flying all over': Trump says it may never be known who was at fault for strike on girls' school in Iran",
+      "title": "Govt keeps petrol, diesel prices unchanged 'till further orders'",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2010749/missiles-were-flying-all-over-trump-says-it-may-never-be-known-who-was-at-fault-for-strike-on-girls-school-in-iran",
-      "published_date": "2026-06-25T05:59:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump, Republican senator engage in shouting match over Iran war",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2010746/trump-republican-senator-engage-in-shouting-match-over-iran-war",
-      "published_date": "2026-06-25T05:14:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "FM Dar credits US-Iran mediation role for Pakistan's emergence as global 'peacemaker'",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2615046/fm-dar-credits-us-iran-mediation-role-for-pakistans-emergence-as-global-peacemaker",
-      "published_date": "2026-06-25T04:15:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Belarus says there are attempts to drag it into Ukraine war, points at West",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2648541/world",
-      "published_date": "2026-06-24T23:06:24+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/2011069/govt-keeps-petrol-diesel-prices-unchanged-till-further-orders",
+      "published_date": "2026-06-26T20:50:33+00:00",
+      "category": "Energy"
     },
     {
       "title": "Europe on high alert as killer heat spreads",
@@ -414,13 +421,6 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2648155/middle-east",
       "published_date": "2026-06-22T02:06:49+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "A city dug up and left thirsting",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2614437/a-city-dug-up-and-left-thirsting",
-      "published_date": "2026-06-21T14:54:46+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,48 @@
       "category": "Economy"
     },
     {
+      "title": "Netherlands coach wary of Morocco threat despite topping group",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2648725/football",
+      "published_date": "2026-06-26T22:06:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ashura processions conclude peacefully countrywide amid strict security",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2011005/ashura-processions-conclude-peacefully-countrywide-amid-strict-security",
+      "published_date": "2026-06-26T19:18:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Death toll from Venezuela earthquake rises to 920 as foreign rescue teams start arriving",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2010996/death-toll-from-venezuela-earthquake-rises-to-920-as-foreign-rescue-teams-start-arriving",
+      "published_date": "2026-06-26T18:45:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "At least 7 terrorists killed in operation in KP's Bannu: security sources",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2011073/at-least-7-terrorists-killed-in-operation-in-kps-bannu-security-sources",
+      "published_date": "2026-06-26T17:28:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Small aircraft crashes into Beijing's tallest building, eyewitnesses say",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2011060/small-aircraft-crashes-into-beijings-tallest-building-eyewitnesses-say",
+      "published_date": "2026-06-26T15:24:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In pictures: Mourners commemorate Ashura with processions nationwide",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2011053/in-pictures-mourners-commemorate-ashura-with-processions-nationwide",
+      "published_date": "2026-06-26T14:07:34+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "5.1-magnitude quake jolts parts of Balochistan",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2011046/51-magnitude-quake-jolts-parts-of-balochistan",
@@ -620,6 +662,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Hakimi to appeal ruling to stand trial for rape, lawyer says",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2648703/sport",
+      "published_date": "2026-06-26T05:06:19+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Minor girl’s rape, murder: Police trying to save ‘other culprits’: victim’s family",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2010933/minor-girls-rape-murder-police-trying-to-save-other-culprits-victims-family",
@@ -652,55 +701,6 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2648663/pakistan",
       "published_date": "2026-06-25T23:06:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ecuador edge Germany to squeeze into World Cup last 32",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2648618/sport",
-      "published_date": "2026-06-25T22:06:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands feared dead in Venezuela after two major earthquakes; world sends aid, rescue teams",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2010737/thousands-feared-dead-in-venezuela-after-two-major-earthquakes-world-sends-aid-rescue-teams",
-      "published_date": "2026-06-25T18:19:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Audit report identifies Rs3.41bn worth of irregularities in health sector",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2010834/audit-report-identifies-rs341bn-worth-of-irregularities-in-health-sector",
-      "published_date": "2026-06-25T18:06:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police launch high-level probe into rape, murder of 3-year-old girl in Karachi's Quaidabad",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2010824/police-launch-high-level-probe-into-rape-murder-of-3-year-old-girl-in-karachis-quaidabad",
-      "published_date": "2026-06-25T17:42:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Countrywide Muharram 9 processions conclude peacefully amid strict security",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2010752/countrywide-muharram-9-processions-conclude-peacefully-amid-strict-security",
-      "published_date": "2026-06-25T17:37:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "7 abducted policemen recovered",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2615193/7-abducted-policemen-recovered",
-      "published_date": "2026-06-25T16:42:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Preliminary postmortem report of 7-year-old girl in Sargodha indicates possibility of rape: police",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2010828/preliminary-postmortem-report-of-7-year-old-girl-in-sargodha-indicates-possibility-of-rape-police",
-      "published_date": "2026-06-25T16:23:34+00:00",
       "category": "Local Events"
     }
   ]
