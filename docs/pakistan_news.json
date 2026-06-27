@@ -1,6 +1,6 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-06-27T12:12:33.276572+00:00",
+  "last_updated": "2026-06-27T23:52:52.455969+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -8,6 +8,13 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2648753/world",
       "published_date": "2026-06-27T08:06:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan reaffirms support for dialogue as US-Iran truce comes under strain",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2648820/pakistan",
+      "published_date": "2026-06-27T07:06:12+00:00",
       "category": "Diplomacy"
     },
     {
@@ -137,17 +144,31 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Khawaja Asif doubles down, says 'stands by' contentious AJK remarks despite volley of criticism",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2614935/khawaja-asif-doubles-down-says-stands-by-contentious-ajk-remarks-despite-volley-of-criticism",
-      "published_date": "2026-06-24T13:27:39+00:00",
-      "category": "Diplomacy"
+      "title": "Lebanon’s deal with Israel requires Hezbollah to disarm. That might be difficult",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2648830/middle-east",
+      "published_date": "2026-06-27T22:06:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "3 Sindh Rangers personnel martyred during attack on local headquarters in Karachi's Gulistan-i-Jauhar: Sindh IG",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2011178/3-sindh-rangers-personnel-martyred-during-attack-on-local-headquarters-in-karachis-gulistan-i-jauhar-sindh-ig",
+      "published_date": "2026-06-27T20:19:26+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran fans on emotional rollercoaster after FIFA World Cup draw with Egypt",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2011150/iran-fans-on-emotional-rollercoaster-after-fifa-world-cup-draw-with-egypt",
       "published_date": "2026-06-27T10:48:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Heavy firing, explosion rock Karachi's Gulistan-e-Jauhar",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2615288/heavy-firing-explosion-rock-karachis-gulistan-e-jauhar",
+      "published_date": "2026-06-27T10:46:23+00:00",
       "category": "Military"
     },
     {
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Anthropic accuses Alibaba of mass AI capability ‘theft’",
+      "title": "Marcelo Bielsa: The coach who changed football, but not his ways",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2010879/anthropic-accuses-alibaba-of-mass-ai-capability-theft",
-      "published_date": "2026-06-26T02:30:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel’s Katz warns Iran against attacking Israel",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2648673/middle-east",
-      "published_date": "2026-06-26T00:06:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel drops leaflets over south Lebanon town ordering residents to leave",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2648665/middle-east",
-      "published_date": "2026-06-25T23:06:28+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/2011170/marcelo-bielsa-the-coach-who-changed-football-but-not-his-ways",
+      "published_date": "2026-06-27T17:16:01+00:00",
+      "category": "Energy"
     },
     {
       "title": "Minister says govt not giving preference to any sector after petrol, diesel prices kept unchanged",
@@ -417,11 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Oil falls almost 4% after US-Iran talks",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2614613/oil-falls-almost-4-after-us-iran-talks",
-      "published_date": "2026-06-22T15:00:56+00:00",
-      "category": "Energy"
+      "title": "What Saudi Arabia can learn from the 2026 World Cup property boom",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2648829/business-economy",
+      "published_date": "2026-06-28T09:06:43+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Traders to resume business activities in Muzaffarabad from Sunday, distance themselves from JAAC",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2011175/traders-to-resume-business-activities-in-muzaffarabad-from-sunday-distance-themselves-from-jaac",
+      "published_date": "2026-06-27T18:03:17+00:00",
+      "category": "Economy"
     },
     {
       "title": "Small plane crash at Beijing high-rise kills the pilot and injures 13, authorities say",
@@ -550,18 +564,46 @@
       "category": "Economy"
     },
     {
-      "title": "Budget impact mixed for key sectors",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2614995/budget-impact-mixed-for-key-sectors",
-      "published_date": "2026-06-24T15:50:00+00:00",
-      "category": "Economy"
+      "title": "Venezuela quakes kill almost 1,500, with millions more in need",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2011171/venezuela-quakes-kill-almost-1500-with-millions-more-in-need",
+      "published_date": "2026-06-27T18:51:41+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Pak-Iran trade gets boost with Taftan customs station",
+      "title": "Tremors felt in Punjab, KP hours after quakes in Balochistan",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2011136/tremors-felt-in-punjab-kp-hours-after-quakes-in-balochistan",
+      "published_date": "2026-06-27T16:04:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How some Venezuelans' smartphones warned of quake",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2011159/how-some-venezuelans-smartphones-warned-of-quake",
+      "published_date": "2026-06-27T13:54:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sargodha police arrests 3 suspects for allegedly burying boy alive after reporting rape attempt",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2614993/pak-iran-trade-gets-boost-with-taftan-customs-station",
-      "published_date": "2026-06-24T15:50:00+00:00",
-      "category": "Economy"
+      "url": "https://tribune.com.pk/story/2615299/sargodha-police-arrests-3-suspects-for-allegedly-burying-boy-alive-after-reporting-rape-attempt",
+      "published_date": "2026-06-27T13:51:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Aleema challenges PTI founder Imran Khan's 'solitary confinement' before IHC",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2011160/aleema-challenges-pti-founder-imran-khans-solitary-confinement-before-ihc",
+      "published_date": "2026-06-27T13:16:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK to expand refugee sponsorship schemes",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2011157/uk-to-expand-refugee-sponsorship-schemes",
+      "published_date": "2026-06-27T12:20:27+00:00",
+      "category": "Local Events"
     },
     {
       "title": "PMD issues Glof alert for GB, KP amid soaring temperatures",
@@ -575,6 +617,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2011145/germany-hit-by-record-temperatures-as-european-heatwave-moves-east",
       "published_date": "2026-06-27T10:07:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PTI issues show-cause notice to MNA Iqbal Afridi over alleged discipline violations",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2615285/pti-issues-show-cause-notice-to-mna-iqbal-afridi-over-alleged-discipline-violations",
+      "published_date": "2026-06-27T09:40:42+00:00",
       "category": "Local Events"
     },
     {
@@ -613,6 +662,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Two Rangers personnel killed in attack on Karachi office, rescue officials say",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2648806/pakistan",
+      "published_date": "2026-06-27T06:06:23+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Iran wait on FIFA World Cup progress after late goal disallowed in Egypt draw",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2011109/iran-wait-on-fifa-world-cup-progress-after-late-goal-disallowed-in-egypt-draw",
@@ -645,62 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2010951/recurring-fires-expose-safety-gaps-at-h-9-weekly-bazaar-in-islamabad",
       "published_date": "2026-06-27T03:27:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India resorting to covert tactics, using proxies to destabilise Pakistan: PM Shehbaz",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2615261/india-resorting-to-covert-tactics-using-proxies-to-destabilise-pakistan-pm-shehbaz",
-      "published_date": "2026-06-27T03:16:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Body of Pakistani fisherman who died in India prison repatriated to Karachi, charity says",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2648767/pakistan",
-      "published_date": "2026-06-26T23:06:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Netherlands coach wary of Morocco threat despite topping group",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2648725/football",
-      "published_date": "2026-06-26T22:06:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ashura processions conclude peacefully countrywide amid strict security",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2011005/ashura-processions-conclude-peacefully-countrywide-amid-strict-security",
-      "published_date": "2026-06-26T19:18:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Death toll from Venezuela earthquake rises to 920 as foreign rescue teams start arriving",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2010996/death-toll-from-venezuela-earthquake-rises-to-920-as-foreign-rescue-teams-start-arriving",
-      "published_date": "2026-06-26T18:45:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "At least 7 terrorists killed in operation in KP's Bannu: security sources",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2011073/at-least-7-terrorists-killed-in-operation-in-kps-bannu-security-sources",
-      "published_date": "2026-06-26T17:28:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Small aircraft crashes into Beijing's tallest building, eyewitnesses say",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2011060/small-aircraft-crashes-into-beijings-tallest-building-eyewitnesses-say",
-      "published_date": "2026-06-26T15:24:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In pictures: Mourners commemorate Ashura with processions nationwide",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2011053/in-pictures-mourners-commemorate-ashura-with-processions-nationwide",
-      "published_date": "2026-06-26T14:07:34+00:00",
       "category": "Local Events"
     }
   ]
