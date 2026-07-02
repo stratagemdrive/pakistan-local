@@ -1,8 +1,29 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-07-02T00:00:46.132101+00:00",
+  "last_updated": "2026-07-02T13:02:12.033995+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "FO says PM to visit Iran, Turkiye from July 3-5; to attend funeral of assassinated Iranian supreme leader",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2012436/fo-says-pm-to-visit-iran-turkiye-from-july-3-5-to-attend-funeral-of-assassinated-iranian-supreme-leader",
+      "published_date": "2026-07-02T10:17:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mediators say 'positive progress' made in US-Iran talks in Doha",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2012389/mediators-say-positive-progress-made-in-us-iran-talks-in-doha",
+      "published_date": "2026-07-02T07:38:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Thailand denies viral claim Macron knelt before king",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2649398/world",
+      "published_date": "2026-07-01T23:07:58+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US, Israel sign agreement to build permanent American embassy in Jerusalem",
       "source": "Dawn",
@@ -123,25 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iraqi FM makes first visit to Syria since Assad’s fall",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2648988/middle-east",
-      "published_date": "2026-06-29T01:06:14+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pakistan to host ‘first of its kind’ Indus Waters Treaty conference, seeks consensus on dams",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2648977/pakistan",
-      "published_date": "2026-06-28T23:06:58+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU foreign policy chief voices concern over ceasefire violations in call with Dar",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2615400/bahrain-fm-plans-pakistan-visit-to-thank-leadership-for-facilitating-islamabad-mou",
-      "published_date": "2026-06-28T01:26:13+00:00",
-      "category": "Diplomacy"
+      "title": "Blood, iron and water: India's riparian hypocrisy",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2012435/blood-iron-and-water-indias-riparian-hypocrisy",
+      "published_date": "2026-07-02T09:52:17+00:00",
+      "category": "Military"
     },
     {
       "title": "More than 2 mn military casualties in Ukraine war: study",
@@ -158,10 +165,73 @@
       "category": "Military"
     },
     {
+      "title": "Israel's Knesset advances bill to ban call to prayer by mosques over loudspeakers",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2012427/israels-knesset-advances-bill-to-ban-call-to-prayer-by-mosques-over-loudspeakers",
+      "published_date": "2026-07-02T07:58:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "3 killed, 10 injured in suspected drone attack in KP's Bajaur",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2012403/3-killed-10-injured-in-suspected-drone-attack-in-kps-bajaur",
+      "published_date": "2026-07-02T06:56:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Child killed, four injured as under-construction wall collapses in Lahore",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2616092/child-killed-four-injured-as-under-construction-wall-collapses-in-lahore",
+      "published_date": "2026-07-02T06:03:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Rescue operation continues to save Venezuelan trapped under rubble one week after quakes",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2012393/rescue-operation-continues-to-save-venezuelan-trapped-under-rubble-one-week-after-quakes",
+      "published_date": "2026-07-02T05:05:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Suspected drone attack kills three, injures eight in K-P's Bajaur",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2616073/suspected-drone-attack-kills-three-injures-eight-in-k-ps-bajaur",
+      "published_date": "2026-07-02T02:50:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US to form specialised ‘anti-drone force’",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2012312/us-to-form-specialised-anti-drone-force",
+      "published_date": "2026-07-02T02:34:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK’s Starmer apologizes to mothers and children traumatized by decades of forced adoptions",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2649397/world",
+      "published_date": "2026-07-01T23:07:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lithuania moves to end nuclear weapon ban as ‘situation getting worse’",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2649402/world",
+      "published_date": "2026-07-01T23:07:05+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Global South excluded from AI governance, UN warns, as safeguards lag tech advances",
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2649349/world",
       "published_date": "2026-07-01T22:07:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Expanding conflict drives record hunger in northern Nigeria: WFP",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2649394/world",
+      "published_date": "2026-07-01T22:07:08+00:00",
       "category": "Military"
     },
     {
@@ -214,74 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Xi vows to strengthen China's military, stamp out corruption",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2012144/xi-vows-to-strengthen-chinas-military-stamp-out-corruption",
-      "published_date": "2026-07-01T06:52:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US lifts curbs on Anthropic's Fable, Mythos AI models",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2012133/us-lifts-curbs-on-anthropics-fable-mythos-ai-models",
-      "published_date": "2026-07-01T04:17:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan rebuffs India's statement on targeted strikes against terrorist infrastructure in Afghanistan",
+      "title": "Oil falls for a third straight day after US, Iran conclude talks in Doha",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2615904/pakistan-rebuffs-indias-statement-on-targeted-actions-against-terrorist-infrastructureafghanistan",
-      "published_date": "2026-07-01T03:32:14+00:00",
-      "category": "Military"
+      "url": "https://tribune.com.pk/story/2616077/oil-falls-for-a-third-straight-day-after-us-iran-conclude-talks-in-doha",
+      "published_date": "2026-07-02T03:31:11+00:00",
+      "category": "Energy"
     },
     {
-      "title": "4 drones from Afghanistan downed: ISPR",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2012077/4-drones-from-afghanistan-downed-ispr",
-      "published_date": "2026-07-01T02:26:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "1 dead in Romania in a powerful storm after intense heatwave",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2649266/world",
-      "published_date": "2026-07-01T00:07:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sri Lanka ends emergency imposed since deadly 2025 cyclone",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2649263/world",
-      "published_date": "2026-07-01T00:07:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "120 dead in latest Sudan cholera outbreak: WHO",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2649268/middle-east",
-      "published_date": "2026-07-01T00:07:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "NATO summit will see allies commit to more assistance for Ukraine, says Rutte",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2649248/world",
-      "published_date": "2026-06-30T22:07:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UNRWA warns of breaking point as funding crisis threatens mandate to help Palestine refugees",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2649198/middle-east",
-      "published_date": "2026-06-30T22:07:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "ICC says Mali, Burkina, Niger withdrawals undermine justice",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2649249/world",
-      "published_date": "2026-06-30T22:07:15+00:00",
-      "category": "Military"
+      "title": "Govt raises Climate Support Levy, cuts Petroleum Levy to keep fuel prices unchanged",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2616072/govt-raises-climate-support-levy-cuts-petroleum-levy-to-keep-fuel-prices-unchanged",
+      "published_date": "2026-07-02T02:36:55+00:00",
+      "category": "Energy"
     },
     {
       "title": "Consumer inflation rate eases slightly to 11.1pc in June due to lower energy, food prices: PBS",
@@ -410,18 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Farmers fear drought as Italy's longest river runs dry",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2011126/farmers-fear-drought-as-italys-longest-river-runs-dry",
-      "published_date": "2026-06-27T08:13:17+00:00",
-      "category": "Energy"
+      "title": "PSX surges over 1,400 points in early trading",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2616074/psx-surges-over-1400-points-in-early-trading",
+      "published_date": "2026-07-02T03:03:39+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Petroleum minister rules out preferential treatment for any sector, says 'good news' likely in coming days",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2615262/petroleum-minister-rules-out-preferential-treatment-for-any-sector-says-good-news-likely",
-      "published_date": "2026-06-27T04:25:25+00:00",
-      "category": "Energy"
+      "title": "China imposes ‘national security’ rules on overseas investments",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2012306/china-imposes-national-security-rules-on-overseas-investments",
+      "published_date": "2026-07-02T02:41:58+00:00",
+      "category": "Economy"
     },
     {
       "title": "IMF cuts Israel’s economic growth estimate to 3.5 percent in 2026",
@@ -435,6 +449,48 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2649348/middle-east",
       "published_date": "2026-07-01T22:07:14+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Budget tax changes come into force",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2616035/budget-tax-changes-come-into-force",
+      "published_date": "2026-07-01T16:58:25+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Govt achieves inflation goal, but consumers suffer",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2616011/govt-achieves-inflation-goal-but-consumers-suffer",
+      "published_date": "2026-07-01T16:29:44+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Business leaders denounce live animal export policy",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2616014/business-leaders-denounce-live-animal-export-policy",
+      "published_date": "2026-07-01T16:29:44+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Gold falls despite 2% global surge",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2616017/gold-falls-despite-2-global-surge",
+      "published_date": "2026-07-01T16:29:44+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "PSX soars 3,748 points on easing inflation",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2616016/psx-soars-3748-points-on-easing-inflation",
+      "published_date": "2026-07-01T16:29:44+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Privatisation body extends deadline for EOIs",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2616012/privatisation-body-extends-deadline-for-eois",
+      "published_date": "2026-07-01T16:29:44+00:00",
       "category": "Economy"
     },
     {
@@ -508,199 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "A year after USAID shutdown, Americans still back foreign development aid, poll shows",
+      "title": "Child killed, 5 people injured in roof collapse incident in Lahore",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2011844/a-year-after-usaid-shutdown-americans-still-back-foreign-development-aid-poll-shows",
-      "published_date": "2026-06-30T07:55:05+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2012445/child-killed-5-people-injured-in-roof-collapse-incident-in-lahore",
+      "published_date": "2026-07-02T13:00:35+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "WhatsApp messenger to offer usernames",
+      "title": "Security forces foil attempts to blow up girls' school, bridge in KP's Bannu",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2011777/whatsapp-messenger-to-offer-usernames",
-      "published_date": "2026-06-30T03:43:04+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2012465/security-forces-foil-attempts-to-blow-up-girls-school-bridge-in-kps-bannu",
+      "published_date": "2026-07-02T12:55:40+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Investor optimism powers PSX to 1,887-point surge",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2615728/buying-spree-lifts-psx-over-1000-points",
-      "published_date": "2026-06-30T03:21:46+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "PM Shehbaz directs major overhaul of agriculture sector",
+      "title": "SHC seeks details from Sindh health secretary, police chief on reports of HIV outbreak at Karachi hospital",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2011799/pm-shehbaz-directs-major-overhaul-of-agriculture-sector",
-      "published_date": "2026-06-30T02:53:48+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2012459/shc-seeks-details-from-sindh-health-secretary-police-chief-on-reports-of-hiv-outbreak-at-karachi-hospital",
+      "published_date": "2026-07-02T12:54:45+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Gulf turmoil hurting Pakistan’s economic outlook",
+      "title": "2 killed in rain-related incidents in KP, taking two-day tally to 9: PDMA",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2011767/gulf-turmoil-hurting-pakistans-economic-outlook",
-      "published_date": "2026-06-30T02:43:24+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2012392/2-killed-in-rain-related-incidents-in-kp-taking-two-day-tally-to-9-pdma",
+      "published_date": "2026-07-02T11:25:03+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "BUDGET 2026-27: AJK Assembly passes Rs286bn budget for FY27",
+      "title": "Pakistan, Saudi Arabia sign agreement for construction of cricket stadium in Jeddah",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2011771/budget-2026-27-ajk-assembly-passes-rs286bn-budget-for-fy27",
-      "published_date": "2026-06-30T02:22:34+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2012421/pakistan-saudi-arabia-sign-agreement-for-construction-of-cricket-stadium-in-jeddah",
+      "published_date": "2026-07-02T08:55:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "DHS secretary celebrates Iran’s exit from World Cup with ‘happy dance’",
+      "title": "PIA's first direct flight from Lahore to Manchester takes off after 6 years",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2012429/pias-first-direct-flight-from-lahore-to-manchester-takes-off-after-6-years",
+      "published_date": "2026-07-02T08:44:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Creators, admins of WhatsApp groups not criminally liable for posts made by members: LHC",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2012432/creators-admins-of-whatsapp-groups-not-criminally-liable-for-posts-made-by-members-lhc",
+      "published_date": "2026-07-02T08:29:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lahore court extends pre-arrest bail of PML-N MPA accused of harassing television actress Momina Iqbal",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2012428/lahore-court-extends-pre-arrest-bail-of-pml-n-mpa-accused-of-harassing-television-actress-momina-iqbal",
+      "published_date": "2026-07-02T07:52:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hope fades, hunger grows a week after Venezuela quakes",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2012409/hope-fades-hunger-grows-a-week-after-venezuela-quakes",
+      "published_date": "2026-07-02T06:59:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russian daredevils unfurl banner atop New York's Empire State Building in proposal stunt",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2012405/russian-daredevils-unfurl-banner-atop-new-yorks-empire-state-building-in-proposal-stunt",
+      "published_date": "2026-07-02T06:42:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pemra seeks Council of Islamic Ideology's guidance on Geo News' suspension",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2012406/pemra-seeks-council-of-islamic-ideologys-guidance-on-geo-news-suspension",
+      "published_date": "2026-07-02T06:39:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Speaker, CM meet to ‘mend fences’ after recent controversies",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2012325/speaker-cm-meet-to-mend-fences-after-recent-controversies",
+      "published_date": "2026-07-02T06:10:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former AJK premier Sardar Tanveer Ilyas quits PPP after ticket row",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2012292/former-ajk-premier-sardar-tanveer-ilyas-quits-ppp-after-ticket-row",
+      "published_date": "2026-07-02T02:52:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Govt asked to undo ‘reconstruction’ at Taxila sites",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2012293/govt-asked-to-undo-reconstruction-at-taxila-sites",
+      "published_date": "2026-07-02T02:47:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Women’s inheritance rights enshrined in Sharia, Supreme Court holds",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2012294/womens-inheritance-rights-enshrined-in-sharia-supreme-court-holds",
+      "published_date": "2026-07-02T02:43:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NDMA issues alert as rapid glacier melt triggers floods across GB",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2012289/ndma-issues-alert-as-rapid-glacier-melt-triggers-floods-across-gb",
+      "published_date": "2026-07-02T02:32:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DR Congo’s Ebola official death toll exceeds 400: authorities",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2649106/world",
-      "published_date": "2026-06-30T00:06:14+00:00",
-      "category": "Economy"
+      "url": "https://www.arabnews.pk/node/2649408/world",
+      "published_date": "2026-07-02T00:07:25+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Nine-year FBR tax dispute with overseas Pakistani sparks debate over enforcement powers",
+      "title": "Inter-communal clashes kill 48 in Nigeria: intel report",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2649093/pakistan",
-      "published_date": "2026-06-29T22:06:17+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "No Supreme Court judge in JCP panels for vetting high court judges",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2012237/no-supreme-court-judge-in-jcp-panels-for-vetting-high-court-judges",
-      "published_date": "2026-07-01T20:00:52+00:00",
+      "url": "https://www.arabnews.pk/node/2649409/world",
+      "published_date": "2026-07-02T00:07:01+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Telenor Pakistan, Ufone formally merge after IHC approval",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2012241/telenor-pakistan-ufone-formally-merge-after-ihc-approval",
-      "published_date": "2026-07-01T18:42:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three tourists die after boat capsizes at Saifullah Lake in KP’s Kalam region: rescue officials",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2012233/three-tourists-die-after-boat-capsizes-at-saifullah-lake-in-kps-kalam-region-rescue-officials",
-      "published_date": "2026-07-01T17:41:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Barrister Gohar says PTI not talking with govt at the moment",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2012228/barrister-gohar-says-pti-not-talking-with-govt-at-the-moment",
-      "published_date": "2026-07-01T17:29:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ECP notes Centre's 'non-assistance' among reasons for delay in Islamabad LG polls, summons chief commissioner",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2012205/ecp-notes-centres-non-assistance-among-reasons-for-delay-in-islamabad-lg-polls-summons-chief-commissioner",
-      "published_date": "2026-07-01T14:30:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "High-profile attacks persist in June despite overall decline in terrorism: PICSS",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2012198/high-profile-attacks-persist-in-june-despite-overall-decline-in-terrorism-picss",
-      "published_date": "2026-07-01T13:26:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PlayStation to phase out physical disc production for consoles from January 2028",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2012204/playstation-to-phase-out-physical-disc-production-for-consoles-from-january-2028",
-      "published_date": "2026-07-01T13:11:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tremors jolt Islamabad, Punjab and K-P as 5.3 magnitude quake strikes Afghanistan",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2615968/tremors-jolt-islamabad-punjab-and-k-p-as-53-magnitude-quake-strikes-afghanistan",
-      "published_date": "2026-07-01T13:06:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lahore police book tuition centre owners, contractor after roof collapse claims 14 lives",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2012147/lahore-police-book-tuition-centre-owners-contractor-after-roof-collapse-claims-14-lives",
-      "published_date": "2026-07-01T13:03:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NCCIA to set up special cell in Punjab for swift probe into cases involving women, children",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2012168/nccia-to-set-up-special-cell-in-punjab-for-swift-probe-into-cases-involving-women-children",
-      "published_date": "2026-07-01T11:38:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teen girl allegedly killed for 'honour' by uncle, cousin in K-P's Lower Dir",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2615954/teen-girl-allegedly-killed-for-honour-by-uncle-cousin-in-k-ps-lower-dir",
-      "published_date": "2026-07-01T11:06:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "World Bank approves $70m loan for Connected Punjab Programme aimed at improving digital infrastructure",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2012188/world-bank-approves-70m-loan-for-connected-punjab-programme-aimed-at-improving-digital-infrastructure",
-      "published_date": "2026-07-01T10:36:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lahore airport runways to be closed for 3 hours daily from July 5-Sept 15 due to risk of increased bird activity",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2012158/lahore-airport-runways-to-be-closed-for-3-hours-daily-from-july-5-sept-15-due-to-risk-of-increased-bird-activity",
-      "published_date": "2026-07-01T09:41:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Venezuela quake survivors seek food, shelter as toll rises to nearly 2,000",
+      "title": "Tears and prayers as funerals held for children killed in Lahore tutoring center roof collapse",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2649197/world",
-      "published_date": "2026-07-01T09:07:52+00:00",
+      "url": "https://www.arabnews.pk/node/2649400/pakistan",
+      "published_date": "2026-07-01T23:07:58+00:00",
       "category": "Local Events"
     },
     {
-      "title": "4 people die in Mexico City during celebrations after World Cup win",
+      "title": "Rebels in Indonesia’s Papua kill American pilot, burn plane, spokesperson says",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2649339/sport",
-      "published_date": "2026-07-01T08:07:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PM Shehbaz orders emergency response committee, provincial preparedness ahead of monsoon",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2615912/pm-directs-opf-to-prepare-roadmap-for-overseas-pakistanis-welfare",
-      "published_date": "2026-07-01T05:03:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gold slides for third consecutive day in global, local markets",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2615910/gold-slides-for-third-consecutive-day-in-global-local-markets",
-      "published_date": "2026-07-01T04:43:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "1 killed, 6 others injured in suspected drone strike in Peshawar ouskirts",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2012136/1-killed-6-others-injured-in-suspected-drone-strike-in-peshawar-ouskirts",
-      "published_date": "2026-07-01T04:37:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PA to return controversial bill to govt for changes",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2012019/pa-to-return-controversial-bill-to-govt-for-changes",
-      "published_date": "2026-07-01T03:17:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Karachiites in for price shock as KWSC set to hike bowser charges",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2012051/karachiites-in-for-price-shock-as-kwsc-set-to-hike-bowser-charges",
-      "published_date": "2026-07-01T03:06:54+00:00",
+      "url": "https://www.arabnews.pk/node/2649403/world",
+      "published_date": "2026-07-01T23:07:12+00:00",
       "category": "Local Events"
     }
   ]
