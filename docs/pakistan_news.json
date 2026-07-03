@@ -1,8 +1,22 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-07-03T13:01:17.574610+00:00",
+  "last_updated": "2026-07-03T23:56:01.291845+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Saudi leaders send condolences as Iran holds funeral for slain supreme leader",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2649603/saudi-arabia",
+      "published_date": "2026-07-03T22:07:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "PM Shehbaz arrives in Turkiye on official visit",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2012743/pm-shehbaz-arrives-in-turkiye-on-official-visit",
+      "published_date": "2026-07-03T18:25:29+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "The king without a crown: Mohamed Salah's quest for global recognition",
       "source": "Dawn",
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Indus Waters Treaty violation would render 'profound consequences' for regional peace, FM Dar warns India",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2615765/indus-waters-treaty-violation-would-render-profound-consequences-for-regional-peace",
-      "published_date": "2026-06-30T09:42:59+00:00",
-      "category": "Diplomacy"
+      "title": "In pictures: Scenes from the state funeral for Iran's assassinated supreme leader Ali Khamenei in Tehran",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2012742/in-pictures-scenes-from-the-state-funeral-for-irans-assassinated-supreme-leader-ali-khamenei-in-tehran",
+      "published_date": "2026-07-03T18:42:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "Iran prioritizes diplomacy with US but remains ready for war: negotiator",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2649186/middle-east",
-      "published_date": "2026-06-30T08:06:24+00:00",
-      "category": "Diplomacy"
+      "title": "India approves buying $5.46 billion in military equipment",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2012724/india-approves-buying-546-billion-in-military-equipment",
+      "published_date": "2026-07-03T14:37:24+00:00",
+      "category": "Military"
     },
     {
       "title": "PM Shehbaz, CDF Munir pay respects to Iran's assassinated supreme leader Khamenei",
@@ -155,6 +169,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2012684/what-are-some-of-the-key-challenges-nato-is-facing-ahead-of-the-summit-in-ankara",
       "published_date": "2026-07-03T09:16:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia says seized eastern Ukrainian stronghold of Kostyantynivka",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2649596/world",
+      "published_date": "2026-07-03T08:07:37+00:00",
       "category": "Military"
     },
     {
@@ -263,25 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "3 killed, 10 injured in suspected drone attack in KP's Bajaur",
+      "title": "Govt slashes petrol, diesel prices by Rs1.97",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2012403/3-killed-10-injured-in-suspected-drone-attack-in-kps-bajaur",
-      "published_date": "2026-07-02T06:56:19+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/2012738/govt-slashes-petrol-diesel-prices-by-rs197",
+      "published_date": "2026-07-03T19:36:50+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Child killed, four injured as under-construction wall collapses in Lahore",
+      "title": "Govt cuts petrol, diesel prices by Rs1.97 per litre",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2616092/child-killed-four-injured-as-under-construction-wall-collapses-in-lahore",
-      "published_date": "2026-07-02T06:03:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rescue operation continues to save Venezuelan trapped under rubble one week after quakes",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2012393/rescue-operation-continues-to-save-venezuelan-trapped-under-rubble-one-week-after-quakes",
-      "published_date": "2026-07-02T05:05:58+00:00",
-      "category": "Military"
+      "url": "https://tribune.com.pk/story/2616343/govt-cuts-petrol-diesel-prices-by-rs197-per-litre",
+      "published_date": "2026-07-03T14:24:09+00:00",
+      "category": "Energy"
     },
     {
       "title": "PSX climbs 851 points as banking, oil & gas shine",
@@ -410,24 +424,17 @@
       "category": "Energy"
     },
     {
-      "title": "High receivables weigh on gas utility",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2615670/high-receivables-weigh-on-gas-utility",
-      "published_date": "2026-06-29T15:31:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Pakistan launches urgent LNG tender",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2615677/pakistan-launches-urgent-lng-tender",
-      "published_date": "2026-06-29T15:31:00+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "India investigating Tata data leak that exposed Apple iPhone secrets",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2012695/india-investigating-tata-data-leak-that-exposed-apple-iphone-secrets",
       "published_date": "2026-07-03T09:44:15+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pakistan PM in Türkiye for talks with Erdoğan after attending Khamenei funeral",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2649587/pakistan",
+      "published_date": "2026-07-03T07:07:39+00:00",
       "category": "Economy"
     },
     {
@@ -557,17 +564,80 @@
       "category": "Economy"
     },
     {
-      "title": "Privatisation body extends deadline for EOIs",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2616012/privatisation-body-extends-deadline-for-eois",
-      "published_date": "2026-07-01T16:29:44+00:00",
-      "category": "Economy"
+      "title": "UK in talks with Pakistan over deportation of Rochdale grooming gang leader: BBC",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2012747/uk-in-talks-with-pakistan-over-deportation-of-rochdale-grooming-gang-leader-bbc",
+      "published_date": "2026-07-03T19:30:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dashing Djokovic matches Federer with 105th Wimbledon match win",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2012739/dashing-djokovic-matches-federer-with-105th-wimbledon-match-win",
+      "published_date": "2026-07-03T18:29:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sukkur-Hyderabad M-6 motorway project split into five sections, NA body informed",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2012731/sukkur-hyderabad-m-6-motorway-project-split-into-five-sections-na-body-informed",
+      "published_date": "2026-07-03T17:51:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Unidentified quadcopter crashes on rooftop of house in Islamabad’s Humak locality",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2012735/unidentified-quadcopter-crashes-on-rooftop-of-house-in-islamabads-humak-locality",
+      "published_date": "2026-07-03T16:38:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "EPA Punjab launches skimming boat to remove plastic waste from Lahore Canal",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2012725/epa-punjab-launches-skimming-boat-to-remove-plastic-waste-from-lahore-canal",
+      "published_date": "2026-07-03T16:30:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "IHC suspends National Highway Authority notification to impose 50pc additional toll on vehicles without M-Tag",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2012713/ihc-suspends-national-highway-authority-notification-to-impose-50pc-additional-toll-on-vehicles-without-m-tag",
+      "published_date": "2026-07-03T16:29:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "FIA arrests five in Islamabad for alleged smuggling of human placenta: report",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2012727/fia-arrests-five-in-islamabad-for-alleged-smuggling-of-human-placenta-report",
+      "published_date": "2026-07-03T15:00:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "1,000 days of genocide: A tally of devastation in Gaza",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2012709/1000-days-of-genocide-a-tally-of-devastation-in-gaza",
+      "published_date": "2026-07-03T13:54:53+00:00",
+      "category": "Local Events"
     },
     {
       "title": "40 killed, 8 injured as passenger bus falls into ravine near Balochistan-KP border",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2012664/40-killed-8-injured-as-passenger-bus-falls-into-ravine-near-balochistan-kp-border",
       "published_date": "2026-07-03T12:36:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ETPB rejects social media claims of Gurdwara Singh Sabha demolition in Sheikhupura",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2616336/etpb-rejects-social-media-claims-of-gurdwara-singh-sabha-demolition-in-sheikhupura",
+      "published_date": "2026-07-03T11:32:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "IHC restrains NHA from collecting 50pc additional toll on M-Tag violations",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2616333/ihc-restrains-nha-from-collecting-50pc-additional-toll-on-m-tag-violations",
+      "published_date": "2026-07-03T10:59:39+00:00",
       "category": "Local Events"
     },
     {
@@ -606,6 +676,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Russian attacks kill six in three different regions, officials say",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2649576/world",
+      "published_date": "2026-07-03T06:07:12+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "LHC says nikahnama alone cannot prove valid marriage in forced marriage disputes",
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2616289/lhc-says-nikahnama-alone-cannot-prove-valid-marriage-in-forced-marriage-disputes",
@@ -624,83 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2012651/2-cops-martyred-as-police-patrol-comes-under-attack-in-kps-mohmand",
       "published_date": "2026-07-03T03:39:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Balochistan to launch convoy system on highways",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2012596/balochistan-to-launch-convoy-system-on-highways",
-      "published_date": "2026-07-03T03:31:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "JAAC protests have subsided, premier told",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2012599/jaac-protests-have-subsided-premier-told",
-      "published_date": "2026-07-03T03:27:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rights-based prison reforms pledged",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2012600/rights-based-prison-reforms-pledged",
-      "published_date": "2026-07-03T03:19:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PTI boycotts AJK elections, citing regional crisis",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2012583/pti-boycotts-ajk-elections-citing-regional-crisis",
-      "published_date": "2026-07-03T02:45:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Leaders insist Imran’s release remains PTI’s ‘ultimate objective’",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2012586/leaders-insist-imrans-release-remains-ptis-ultimate-objective",
-      "published_date": "2026-07-03T02:38:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Senate panel calls for probe into foreign-funded power projects",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2012588/senate-panel-calls-for-probe-into-foreign-funded-power-projects",
-      "published_date": "2026-07-03T02:20:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan monsoon kills 17 since June 26 as more heavy rain forecast",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2649540/pakistan",
-      "published_date": "2026-07-03T00:07:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "FBI deploying 260 analysts to Georgia election fraud inquiry, memo shows",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2649489/world",
-      "published_date": "2026-07-02T22:07:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Watchdog faults Secret Service for missing 102 radio calls during 2024 Trump shooting",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2649490/world",
-      "published_date": "2026-07-02T22:07:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lahore police register case against five suspects over abduction, sexual assault of two foreign women",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2012477/lahore-police-register-case-against-five-suspects-over-abduction-sexual-assault-of-two-foreign-women",
-      "published_date": "2026-07-02T18:34:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Submarine cable fault may cause intermittent internet disruption: PTA",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2012491/submarine-cable-fault-may-cause-intermittent-internet-disruption-pta",
-      "published_date": "2026-07-02T18:06:54+00:00",
       "category": "Local Events"
     }
   ]
