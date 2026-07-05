@@ -1,6 +1,6 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-07-05T12:21:44.437924+00:00",
+  "last_updated": "2026-07-05T23:55:22.305799+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -144,6 +144,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Venezuela leader vows ‘no social unrest here’ after quakes",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2649790/world",
+      "published_date": "2026-07-05T22:07:55+00:00",
+      "category": "Military"
+    },
+    {
       "title": "'Hero of Kargil': Military top brass pays tribute to Karnal Sher Khan on 27th martyrdom anniversary",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2013139/hero-of-kargil-military-top-brass-pays-tribute-to-karnal-sher-khan-on-27th-martyrdom-anniversary",
@@ -162,6 +169,20 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2649723/world",
       "published_date": "2026-07-05T08:07:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Netanyahu says some Lebanese Christian villages ‘asked to be annexed’ by Israel",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2649777/middle-east",
+      "published_date": "2026-07-05T07:07:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zelensky says ‘fighting continuing’ for key town of Kostyantynivka",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2649780/world",
+      "published_date": "2026-07-05T07:07:23+00:00",
       "category": "Military"
     },
     {
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Pope Leo marks US anniversary with migrant appeal on Lampedusa",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2649620/world",
-      "published_date": "2026-07-04T06:07:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "In pictures: Scenes from the state funeral for Iran's assassinated supreme leader Ali Khamenei in Tehran",
+      "title": "Opec+ approves further oil output increase as Hormuz exports start to recover",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2012742/in-pictures-scenes-from-the-state-funeral-for-irans-assassinated-supreme-leader-ali-khamenei-in-tehran",
-      "published_date": "2026-07-03T18:42:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Cement demand increases 7.2%",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2616392/cement-demand-increases-72",
-      "published_date": "2026-07-03T15:38:02+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/2013159/opec-approves-further-oil-output-increase-as-hormuz-exports-start-to-recover",
+      "published_date": "2026-07-05T14:37:02+00:00",
+      "category": "Energy"
     },
     {
       "title": "India eyes oil exploration expansion after Middle East war shortages",
@@ -417,11 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Consumer inflation rate eases slightly to 11.1pc in June due to lower energy, food prices: PBS",
+      "title": "What initiatives has the govt planned for FY27 to boost weather forecasting, early warning systems?",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2012196/consumer-inflation-rate-eases-slightly-to-111pc-in-june-due-to-lower-energy-food-prices-pbs",
-      "published_date": "2026-07-01T12:20:59+00:00",
-      "category": "Energy"
+      "url": "https://www.dawn.com/news/2013152/what-initiatives-has-the-govt-planned-for-fy27-to-boost-weather-forecasting-early-warning-systems",
+      "published_date": "2026-07-05T14:14:50+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Venezuela quake death toll rises to nearly 3,000; foreign rescue teams begin winding down operations",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2013149/venezuela-quake-death-toll-rises-to-nearly-3000-foreign-rescue-teams-begin-winding-down-operations",
+      "published_date": "2026-07-05T12:50:58+00:00",
+      "category": "Economy"
     },
     {
       "title": "’It’s a win-win’: Islamabad cafés turn into hybrid retail spaces for small businesses",
@@ -550,18 +564,53 @@
       "category": "Economy"
     },
     {
-      "title": "Remittance incentives to banks abolished as IMF steps in",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2012606/remittance-incentives-to-banks-abolished-as-imf-steps-in",
-      "published_date": "2026-07-03T02:24:13+00:00",
-      "category": "Economy"
+      "title": "Djokovic breaks another Federer record at Wimbledon despite ‘meltdowns’ on Center Court",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2649793/sport",
+      "published_date": "2026-07-05T23:07:07+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Pakistan expects remittances to reach record $44 billion in next fiscal year — central bank chief",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2649534/pakistan",
-      "published_date": "2026-07-02T22:07:59+00:00",
-      "category": "Economy"
+      "title": "NHA increases toll tax on Islamabad-Lahore M-2 Motorway by 7pc",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2013174/nha-increases-toll-tax-on-islamabad-lahore-m-2-motorway-by-7pc",
+      "published_date": "2026-07-05T19:09:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Clashes reported from AJK as JAAC holds demonstrations",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2013177/clashes-reported-from-ajk-as-jaac-holds-demonstrations",
+      "published_date": "2026-07-05T18:58:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Suspect who shot PAF officer dead arrested within 9 hours: Islamabad IG",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2013169/suspect-who-shot-paf-officer-dead-arrested-within-9-hours-islamabad-ig",
+      "published_date": "2026-07-05T18:02:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Djokovic makes Wimbledon history to reach quarter-finals",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2013167/djokovic-makes-wimbledon-history-to-reach-quarter-finals",
+      "published_date": "2026-07-05T16:51:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "IT minister stresses proposed telecom bill needed as existing laws insufficient for 5G, other modern tech",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2013161/it-minister-stresses-proposed-telecom-bill-needed-as-existing-laws-insufficient-for-5g-other-modern-tech",
+      "published_date": "2026-07-05T16:06:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "8 tribesmen, young girl killed in separate incidents in Balochistan",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2013156/8-tribesmen-young-girl-killed-in-separate-incidents-in-balochistan",
+      "published_date": "2026-07-05T15:11:12+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Foreign women abduction case: Police ordered to treat 'minister-linked suspect' like any other criminal",
@@ -589,6 +638,13 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2649724/world",
       "published_date": "2026-07-05T08:07:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Venezuela quake survivor &#039;reborn&#039; after eight days in rubble",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2649786/world",
+      "published_date": "2026-07-05T08:07:21+00:00",
       "category": "Local Events"
     },
     {
@@ -645,62 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2012776/smokers-corner-cola-politics",
       "published_date": "2026-07-05T05:18:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Security without safety",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2013088/security-without-safety",
-      "published_date": "2026-07-05T03:55:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "No long marches likely as JAAC eyes fresh demos in AJK",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2013051/no-long-marches-likely-as-jaac-eyes-fresh-demos-in-ajk",
-      "published_date": "2026-07-05T03:16:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dead driver, bus owners booked in Sherani bus crash case",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2013053/dead-driver-bus-owners-booked-in-sherani-bus-crash-case",
-      "published_date": "2026-07-05T03:12:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IHC finalises three nominees for judges’ vacancies",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2013054/ihc-finalises-three-nominees-for-judges-vacancies",
-      "published_date": "2026-07-05T03:08:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "LHC moved over delay in setting up constitutional benches",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2013072/lhc-moved-over-delay-in-setting-up-constitutional-benches",
-      "published_date": "2026-07-05T02:40:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Punjab to digitally map citizens’ health, demographic profiles",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2013050/punjab-to-digitally-map-citizens-health-demographic-profiles",
-      "published_date": "2026-07-05T01:51:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Serena Williams pulls out of Wimbledon doubles with knee injury",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2012970/serena-williams-pulls-out-of-wimbledon-doubles-with-knee-injury",
-      "published_date": "2026-07-04T18:14:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Major uplift projects carried into new FY",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2616551/major-uplift-projects-carried-into-new-fy",
-      "published_date": "2026-07-04T17:33:01+00:00",
       "category": "Local Events"
     }
   ]
