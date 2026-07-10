@@ -1,8 +1,29 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-07-10T13:16:26.895348+00:00",
+  "last_updated": "2026-07-10T23:46:27.045223+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "US sanctions Iranian accused of embezzling for Tehran elites",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2650465/middle-east",
+      "published_date": "2026-07-11T09:07:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi crown prince, US president discuss latest Mideast developments",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2650475/saudi-arabia",
+      "published_date": "2026-07-10T22:07:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan urges US, Iran to honor interim peace framework, avoid steps hurting talks",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2650440/pakistan",
+      "published_date": "2026-07-10T07:07:23+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pakistan assures EU of fulfilling obligations under GSP+ framework",
       "source": "Dawn",
@@ -123,25 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Italy's Meloni seeks to avoid escalation after Trump revives personal feud",
+      "title": "US demands Iran publicly state that Strait of Hormuz is open and Tehran won’t attack ships anymore",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2650470/middle-east",
+      "published_date": "2026-07-11T09:07:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "75 terrorists killed in Balochistan since July 5, says CM Bugti",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2013601/italys-meloni-seeks-to-avoid-escalation-after-trump-revives-personal-feud",
-      "published_date": "2026-07-07T12:26:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2014419/75-terrorists-killed-in-balochistan-since-july-5-says-cm-bugti",
+      "published_date": "2026-07-10T18:54:38+00:00",
+      "category": "Military"
     },
     {
-      "title": "US revokes temporary sanctions waiver on Iranian oil",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2650024/middle-east",
-      "published_date": "2026-07-07T07:07:42+00:00",
-      "category": "Diplomacy"
+      "title": "PM Shehbaz calls on Iran, other parties not to jeopardise ‘hard-earned peace gains’",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2014422/pm-shehbaz-calls-on-iran-other-parties-not-to-jeopardise-hard-earned-peace-gains",
+      "published_date": "2026-07-10T18:21:30+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ukraine’s Zelensky wants to discuss air defenses with Trump",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2649964/world",
-      "published_date": "2026-07-07T00:07:25+00:00",
-      "category": "Diplomacy"
+      "title": "Trump's promise on Patriots will take time, leaving Ukraine facing tough choices",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2014411/trumps-promise-on-patriots-will-take-time-leaving-ukraine-facing-tough-choices",
+      "published_date": "2026-07-10T15:45:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "China successfully tests sea-based rocket booster recovery system",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2014393/china-successfully-tests-sea-based-rocket-booster-recovery-system",
+      "published_date": "2026-07-10T13:47:51+00:00",
+      "category": "Military"
     },
     {
       "title": "More wreckage of crashed cargo plane found, search for crew ongoing: PAA",
@@ -162,6 +197,27 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2650333/world",
       "published_date": "2026-07-10T09:07:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "43 terrorists neutralised in Balochistan's Operation Shabaan so far: security sources",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2617535/43-terrorists-neutralised-in-balochistans-operation-shaban-so-far-security-sources",
+      "published_date": "2026-07-10T08:50:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli strike on southern Lebanon kills one",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2650463/middle-east",
+      "published_date": "2026-07-10T08:07:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Students abducted in May by Muslim militants in Nigeria are rescued, government says",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2650439/world",
+      "published_date": "2026-07-10T07:07:54+00:00",
       "category": "Military"
     },
     {
@@ -228,60 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Kremlin discusses letting Turkiye sell off Russian-made missile systems",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2650388/world",
-      "published_date": "2026-07-09T23:07:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudan’s cholera outbreak may get worse due to conflict and rains, WHO warns",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2650383/middle-east",
-      "published_date": "2026-07-09T22:07:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "20 crew members rescued from sinking cargo dhow east of Ormara: ISPR",
+      "title": "Govt raises petrol price by Rs13.18, diesel by Rs13.80",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2014176/20-crew-members-rescued-from-sinking-cargo-dhow-east-of-ormara-ispr",
-      "published_date": "2026-07-09T16:12:30+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/2014423/govt-raises-petrol-price-by-rs1318-diesel-by-rs1380",
+      "published_date": "2026-07-10T18:34:08+00:00",
+      "category": "Energy"
     },
     {
-      "title": "'Mutual and singular decision' by leadership to end terrorism, PM Shehbaz says after Balochistan attacks",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2014127/mutual-and-singular-decision-by-leadership-to-end-terrorism-pm-shehbaz-says-after-balochistan-attacks",
-      "published_date": "2026-07-09T13:36:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Families of crew aboard crashed cargo plane face agonising wait",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2014159/families-of-crew-aboard-crashed-cargo-plane-face-agonising-wait",
-      "published_date": "2026-07-09T13:29:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan, Croatia could utilise their locations to unlock 'enormous potential' for growth: Dar",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2014096/pakistan-croatia-could-utilise-their-locations-to-unlock-enormous-potential-for-growth-dar",
-      "published_date": "2026-07-09T10:08:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan Navy rescues 20 crew members from sinking cargo dhow off Ormara: ISPR",
+      "title": "Govt hikes petrol price by Rs13.18, high-speed diesel by Rs13.80",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2617354/pakistan-navy-rescues-20-crew-members-from-sinking-cargo-dhow-off-ormara-ispr",
-      "published_date": "2026-07-09T10:04:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "In meeting with Naqvi, UN chief praises Pakistan's efforts for peace",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2014088/in-meeting-with-naqvi-un-chief-praises-pakistans-efforts-for-peace",
-      "published_date": "2026-07-09T07:52:14+00:00",
-      "category": "Military"
+      "url": "https://tribune.com.pk/story/2617570/govt-hikes-petrol-price-by-rs1318-high-speed-diesel-by-rs1380",
+      "published_date": "2026-07-10T13:43:34+00:00",
+      "category": "Energy"
     },
     {
       "title": "PM directs formation of committee to review PML-N lawmakers' suggestions for GB's welfare",
@@ -410,18 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "PSX tumbles nearly 1,200 points on broad-based profit-taking",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2616943/psx-slips-into-red-as-investors-book-profits",
-      "published_date": "2026-07-07T03:42:06+00:00",
-      "category": "Energy"
+      "title": "Privatisation Commission approves ADB's advisory role in outsourcing Islamabad Airport operations",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2014398/privatisation-commission-approves-adbs-advisory-role-in-outsourcing-islamabad-airport-operations",
+      "published_date": "2026-07-10T14:28:14+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Oil prices gain as focus shifts to supply recovery and demand",
+      "title": "Hanna Urak sit-in ends after talks with Balochistan govt",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2616924/oil-prices-gain-as-focus-shifts-to-supply-recovery-and-demand",
-      "published_date": "2026-07-07T00:48:32+00:00",
-      "category": "Energy"
+      "url": "https://tribune.com.pk/story/2617561/hanna-urak-sit-in-ends-after-talks-with-balochistan-govt",
+      "published_date": "2026-07-10T12:14:26+00:00",
+      "category": "Economy"
     },
     {
       "title": "Modi visits New Zealand as trade deal sparks India pushback",
@@ -550,18 +564,25 @@
       "category": "Economy"
     },
     {
-      "title": "IMF keeps growth forecast low at 3.5%",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2617257/imf-keeps-growth-forecast-low-at-35",
-      "published_date": "2026-07-08T19:09:45+00:00",
-      "category": "Economy"
+      "title": "Merino’s late strike sends Spain past Belgium into World Cup semis",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2650469/sport",
+      "published_date": "2026-07-11T09:07:49+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Security concerns hit investor confidence",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2617255/security-concerns-hit-investor-confidence",
-      "published_date": "2026-07-08T19:09:45+00:00",
-      "category": "Economy"
+      "title": "DOJ charges white supremacist after threats to US lawmaker, Muslims and transgender people",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2650474/world",
+      "published_date": "2026-07-10T22:07:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "KP govt decides to withdraw controversial clauses from law granting expanded privileges to lawmakers",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2014416/kp-govt-decides-to-withdraw-controversial-clauses-from-law-granting-expanded-privileges-to-lawmakers",
+      "published_date": "2026-07-10T16:49:18+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Mufti Taqi Usmani declares crypto-based purchases impermissible under Islamic law",
@@ -680,27 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2014166/gbs-top-court-disqualifies-ppp-candidate-for-concealing-assets",
       "published_date": "2026-07-09T16:24:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Islamabad court convicts 3 in case of illegal funds transfer for Bahria Town projects",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2014172/islamabad-court-convicts-3-in-case-of-illegal-funds-transfer-for-bahria-town-projects",
-      "published_date": "2026-07-09T16:04:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "At least 64 deportees from Libya, Greece convicted in 3 Punjab districts after summary trial",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2014133/at-least-64-deportees-from-libya-greece-convicted-in-3-punjab-districts-after-summary-trial",
-      "published_date": "2026-07-09T15:19:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Five injured as rival student groups clash at Karachi University",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2617376/five-injured-as-rival-student-groups-clash-at-karachi-university",
-      "published_date": "2026-07-09T13:17:31+00:00",
       "category": "Local Events"
     }
   ]
