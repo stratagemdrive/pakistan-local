@@ -1,8 +1,43 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-07-13T13:27:49.912513+00:00",
+  "last_updated": "2026-07-13T23:41:41.163541+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Security Council members rally behind Saudi Arabia, denounce Iran’s role in Houthi escalations",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2650787/middle-east",
+      "published_date": "2026-07-13T22:07:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan allows 26 World Food Programme containers to enter Afghanistan via Torkham",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2015160/pakistan-allows-26-world-food-programme-containers-to-enter-afghanistan-via-torkham",
+      "published_date": "2026-07-13T18:08:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ousted PM Hasina faces prison on return to Bangladesh, minister says",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2015140/ousted-pm-hasina-faces-prison-on-return-to-bangladesh-minister-says",
+      "published_date": "2026-07-13T13:58:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan urges OIC nations to translate commitments into action for women’s socio-economic empowerment",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2618007/OIC-Women%27s-Empowerment-",
+      "published_date": "2026-07-13T10:03:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan urges OIC nations to translate commitments into action for women’s empowerment",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2650772/pakistan",
+      "published_date": "2026-07-13T07:07:17+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "World urged to implement UN resolutions on Kashmir",
       "source": "Dawn",
@@ -109,45 +144,45 @@
       "category": "Diplomacy"
     },
     {
-      "title": "PSX snaps winning streak, loses 3,130 points",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2617774/psx-snaps-winning-streak-loses-3130-points",
-      "published_date": "2026-07-11T17:38:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran's Supreme Leader Mojtaba Khamenei vows revenge for assassinated father",
+      "title": "Yemen govt says hit Sanaa airport, Houthis attack Saudi Arabia",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2014642/irans-supreme-leader-mojtaba-khamenei-vows-revenge-for-assassinated-father",
-      "published_date": "2026-07-11T16:15:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2015162/yemen-govt-says-hit-sanaa-airport-houthis-attack-saudi-arabia",
+      "published_date": "2026-07-13T18:25:45+00:00",
+      "category": "Military"
     },
     {
-      "title": "Islamabad to host 2-day OIC moot on women empowerment from Sunday",
+      "title": "Rubio lashes out at International Criminal Court, accuses it of 'waging war' against US",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2014617/islamabad-to-host-2-day-oic-moot-on-women-empowerment-from-sunday",
-      "published_date": "2026-07-11T11:23:04+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2015154/rubio-lashes-out-at-international-criminal-court-accuses-it-of-waging-war-against-us",
+      "published_date": "2026-07-13T17:38:42+00:00",
+      "category": "Military"
     },
     {
-      "title": "Pakistan welcomes delegates of 9th OIC Ministerial Conference on Women from July 12-13",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2617708/pakistan-welcomes-delegates-of-9th-oic-ministerial-conference-on-women-from-july-12-13",
-      "published_date": "2026-07-11T10:00:50+00:00",
-      "category": "Diplomacy"
+      "title": "Middle East rocked by heaviest attacks since US-Iran April ceasefire",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2015083/middle-east-rocked-by-heaviest-attacks-since-us-iran-april-ceasefire",
+      "published_date": "2026-07-13T16:48:56+00:00",
+      "category": "Military"
     },
     {
-      "title": "US sanctions Iranian accused of embezzling for Tehran elites",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2650465/middle-east",
-      "published_date": "2026-07-11T09:07:44+00:00",
-      "category": "Diplomacy"
+      "title": "EU Parliament’s resolution: a flawed ritual, not Pakistan's reality",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2015142/eu-parliaments-resolution-a-flawed-ritual-not-pakistans-reality",
+      "published_date": "2026-07-13T15:36:51+00:00",
+      "category": "Military"
     },
     {
       "title": "8 more terrorists killed during ongoing Operation Shaban in Balochistan: state media",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2015092/8-more-terrorists-killed-during-ongoing-operation-shaban-in-balochistan-state-media",
       "published_date": "2026-07-13T12:53:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "FBI chief discusses specialised training to combat counterterrorism financing with Naqvi, hails 'critical' Pak-US partnership",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2618027/fbi-chief-discusses-specialised-training-to-combat-counterterrorism-financing-with-naqvi",
+      "published_date": "2026-07-13T12:39:11+00:00",
       "category": "Military"
     },
     {
@@ -172,6 +207,13 @@
       "category": "Military"
     },
     {
+      "title": "US missions in UAE suspend consular appointments over ‘security situation’",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2650770/middle-east",
+      "published_date": "2026-07-13T07:07:25+00:00",
+      "category": "Military"
+    },
+    {
       "title": "US launches fresh strikes on Iran, Tehran targets American assets in Gulf states in flareup over Hormuz",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2015083/us-launches-fresh-strikes-on-iran-tehran-targets-american-assets-in-gulf-states-in-flareup-over-hormuz",
@@ -183,6 +225,13 @@
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2617983/field-marshal-munir-arrives-in-turkiye-for-two-day-official-visit",
       "published_date": "2026-07-13T05:58:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistani defense forces chief in Turkiye for talks with Turkish political, military leadership",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2650760/pakistan",
+      "published_date": "2026-07-13T05:07:29+00:00",
       "category": "Military"
     },
     {
@@ -232,55 +281,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2014807/iran-expands-attacks-on-gulf-states-after-us-strikes-says-strait-of-hormuz-closed",
       "published_date": "2026-07-12T21:12:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Architect of wars': Netanyahu gears for what could be his political life's defining contest",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2014913/architect-of-wars-netanyahu-gears-for-what-could-be-his-political-lifes-defining-contest",
-      "published_date": "2026-07-12T18:41:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "7 more terrorists killed as Operation Shaban continues in Balochistan: state media",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2014844/7-more-terrorists-killed-as-operation-shaban-continues-in-balochistan-state-media",
-      "published_date": "2026-07-12T14:26:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iraqi prime minister to visit Washington on Monday; oil and gas deals expected",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2014882/iraqi-prime-minister-to-visit-washington-on-monday-oil-and-gas-deals-expected",
-      "published_date": "2026-07-12T12:13:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "3 more terrorists killed as Operation Shaban continues in Balochistan: state media",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2014844/3-more-terrorists-killed-as-operation-shaban-continues-in-balochistan-state-media",
-      "published_date": "2026-07-12T12:01:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What triggered the plunge of K2 flight",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2014774/what-triggered-the-plunge-of-k2-flight",
-      "published_date": "2026-07-12T11:59:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump's critic-turned-ally US Senator Lindsey Graham dies at 71",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2014843/trumps-critic-turned-ally-us-senator-lindsey-graham-dies-at-71",
-      "published_date": "2026-07-12T11:35:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan says 105 militants killed in Balochistan counterterror operations since July 5",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2650606/pakistan",
-      "published_date": "2026-07-12T09:07:47+00:00",
       "category": "Military"
     },
     {
@@ -564,6 +564,34 @@
       "category": "Economy"
     },
     {
+      "title": "Young doctor shot dead in robbery near Karachi's Teen Talwar: police",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2015139/young-doctor-shot-dead-in-robbery-near-karachis-teen-talwar-police",
+      "published_date": "2026-07-13T19:01:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "KP Assembly speaker refers controversial legislation expanding lawmakers’ privileges to house committee for review",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2015167/kp-assembly-speaker-refers-controversial-legislation-expanding-lawmakers-privileges-to-house-committee-for-review",
+      "published_date": "2026-07-13T18:46:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "FCC sets aside SC judgment that allowed demolition of restaurants in Margalla Hills National Park",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2015144/fcc-sets-aside-sc-judgment-that-allowed-demolition-of-restaurants-in-margalla-hills-national-park",
+      "published_date": "2026-07-13T15:53:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Al-Qadir Trust case: Imran, Bushra challenge SC registrar's refusal to entertain their petitions",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2015127/al-qadir-trust-case-imran-bushra-challenge-sc-registrars-refusal-to-entertain-their-petitions",
+      "published_date": "2026-07-13T15:41:58+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "At OIC moot on women, minister says men's 'active engagement' needed to promote equality",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2015100/at-oic-moot-on-women-minister-says-mens-active-engagement-needed-to-promote-equality",
@@ -627,10 +655,24 @@
       "category": "Local Events"
     },
     {
+      "title": "ICE agent shoots and kills a motorist in Biddeford, Maine, Sen. Angus King says",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2650778/world",
+      "published_date": "2026-07-13T08:07:03+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "FCC bars court intervention in Nai Gaj Dam project until completion",
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2617977/fcc-bars-court-intervention-in-nai-gaj-dam-project-until-completion",
       "published_date": "2026-07-13T04:40:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK unveils plan to ban Iran Revolutionary Guards: ministry",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2650756/middle-east",
+      "published_date": "2026-07-13T04:07:27+00:00",
       "category": "Local Events"
     },
     {
@@ -659,48 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2014933/70-students-return-home-after-being-stranded-in-afghanistan",
       "published_date": "2026-07-13T03:03:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PPP, IPP men retain seats in GB re-polling",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2014969/ppp-ipp-men-retain-seats-in-gb-re-polling",
-      "published_date": "2026-07-13T02:49:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Five labourers shot dead near Pakistan-Iran border",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2014970/five-labourers-shot-dead-near-pakistan-iran-border",
-      "published_date": "2026-07-13T02:23:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fire breaks out at a pub in Bangkok, killing at least 27 people",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2650675/world",
-      "published_date": "2026-07-12T23:07:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sinner fends off Zverev in power battle to retain Wimbledon crown",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2014926/sinner-fends-off-zverev-in-power-battle-to-retain-wimbledon-crown",
-      "published_date": "2026-07-12T22:03:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "5 workers from Punjab gunned down in Balochistan's Washuk: DC",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2014893/5-workers-from-punjab-gunned-down-in-balochistans-washuk-dc",
-      "published_date": "2026-07-12T20:57:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tribal districts rally against new taxes",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2617939/tribal-districts-rally-against-new-taxes",
-      "published_date": "2026-07-12T20:31:37+00:00",
       "category": "Local Events"
     }
   ]
