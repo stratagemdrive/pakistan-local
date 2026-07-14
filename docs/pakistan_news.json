@@ -1,8 +1,22 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-07-14T12:19:17.629370+00:00",
+  "last_updated": "2026-07-14T23:41:05.044847+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "MQM-P seeks representation in Parliamentary Committee on Kashmir",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2015436/mqm-p-seeks-representation-in-parliamentary-committee-on-kashmir",
+      "published_date": "2026-07-14T17:07:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "DPM Dar reaffirms Pakistan’s commitment to Saarc process during meeting with Secretary-General Golam Sarwar: FO",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2015433/dpm-dar-reaffirms-pakistans-commitment-to-saarc-process-during-meeting-with-secretary-general-golam-sarwar-fo",
+      "published_date": "2026-07-14T16:12:14+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Country's overall situation, AJK comes under discussion as Dar meets Bilawal",
       "source": "Dawn",
@@ -130,18 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Dar holds phone call with Iranian FM amid latest attacks in Mideast, calls for de-escalation and restraint",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2014857/dar-holds-phone-call-with-iranian-fm-amid-latest-attacks-in-mideast-calls-for-de-escalation-and-restraint",
-      "published_date": "2026-07-12T08:21:16+00:00",
-      "category": "Diplomacy"
+      "title": "UK right wing politician’s murder ‘targeted attack’: police",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2650928/world",
+      "published_date": "2026-07-14T22:07:31+00:00",
+      "category": "Military"
     },
     {
-      "title": "Pakistan expresses condolences as ex-Qatari emir Sheikh Hamad bin Khalifa Al Thani passes away",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2650604/pakistan",
-      "published_date": "2026-07-12T07:07:00+00:00",
-      "category": "Diplomacy"
+      "title": "Trump steps back from Hormuz fee plan; new strikes hit Iran",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2015455/trump-steps-back-from-hormuz-fee-plan-new-strikes-hit-iran",
+      "published_date": "2026-07-14T18:12:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "CDF Munir meets Turkish President Erdogan, armed forces chief in Ankara: ISPR",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2015389/cdf-munir-meets-turkish-president-erdogan-armed-forces-chief-in-ankara-ispr",
+      "published_date": "2026-07-14T15:07:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "In pictures: France flaunts firepower, unity with allies in Bastille Day parade",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2015412/in-pictures-france-flaunts-firepower-unity-with-allies-in-bastille-day-parade",
+      "published_date": "2026-07-14T14:54:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Can US Senator Lindsey Graham's Ukraine initiatives survive without him?",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2015401/can-us-senator-lindsey-grahams-ukraine-initiatives-survive-without-him",
+      "published_date": "2026-07-14T14:52:41+00:00",
+      "category": "Military"
     },
     {
       "title": "After Houthi attacks on Saudi Arabia, PM Shehbaz reaffirms Pakistan's support for kingdom's security",
@@ -155,6 +190,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2015389/cdf-munir-meets-turkish-president-erdogan-armed-forces-chief-in-ankara",
       "published_date": "2026-07-14T11:04:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "AJK govt says Rawalakot attack leaves no option but action against banned JAAC",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2618226/ajk-govt-says-rawalakot-attack-leaves-no-option-but-action-against-banned-jaac",
+      "published_date": "2026-07-14T10:37:43+00:00",
       "category": "Military"
     },
     {
@@ -207,6 +249,20 @@
       "category": "Military"
     },
     {
+      "title": "Israel’s parliament approves laws to enshrine exemption of ultra-Orthodox men from military service",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2650899/middle-east",
+      "published_date": "2026-07-14T06:07:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Rangers personnel martyred in Rawalakot attack by banned JAAC armed groups",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2618182/rangers-personnel-martyred-in-rawalakot-attack-by-banned-jaac-armed-groups",
+      "published_date": "2026-07-14T05:39:53+00:00",
+      "category": "Military"
+    },
+    {
       "title": "FBI chief Kash Patel hosts Naqvi in Washington, hails 'critical partnership'",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2015325/fbi-chief-kash-patel-hosts-naqvi-in-washington-hails-critical-partnership",
@@ -228,60 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Rubio lashes out at International Criminal Court, accuses it of 'waging war' against US",
+      "title": "In pictures: Why Karachi continues to rank among the least liveable cities in the world",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2015154/rubio-lashes-out-at-international-criminal-court-accuses-it-of-waging-war-against-us",
-      "published_date": "2026-07-13T17:38:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Middle East rocked by heaviest attacks since US-Iran April ceasefire",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2015083/middle-east-rocked-by-heaviest-attacks-since-us-iran-april-ceasefire",
-      "published_date": "2026-07-13T16:48:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "EU Parliament’s resolution: a flawed ritual, not Pakistan's reality",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2015142/eu-parliaments-resolution-a-flawed-ritual-not-pakistans-reality",
-      "published_date": "2026-07-13T15:36:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "8 more terrorists killed during ongoing Operation Shaban in Balochistan: state media",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2015092/8-more-terrorists-killed-during-ongoing-operation-shaban-in-balochistan-state-media",
-      "published_date": "2026-07-13T12:53:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "FBI chief discusses specialised training to combat counterterrorism financing with Naqvi, hails 'critical' Pak-US partnership",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2618027/fbi-chief-discusses-specialised-training-to-combat-counterterrorism-financing-with-naqvi",
-      "published_date": "2026-07-13T12:39:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "CDF Munir arrives in Turkiye on 2-day official visit: state media",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2015119/cdf-munir-arrives-in-turkiye-on-2-day-official-visit-state-media",
-      "published_date": "2026-07-13T10:56:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US launches more strikes on Iran as standoff over Strait of Hormuz escalates",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2650673/middle-east",
-      "published_date": "2026-07-13T09:07:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "After the US-Iran MoU: Diplomacy’s unfinished business",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2015091/after-the-us-iran-mou-diplomacys-unfinished-business",
-      "published_date": "2026-07-13T07:49:42+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/2015422/in-pictures-why-karachi-continues-to-rank-among-the-least-liveable-cities-in-the-world",
+      "published_date": "2026-07-14T14:35:40+00:00",
+      "category": "Energy"
     },
     {
       "title": "Wildlife rescuers help birds survive Pakistan’s hotter summers",
@@ -417,11 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "Russia's diesel export ban deepens supply crunch",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2617770/russias-diesel-export-ban-deepens-supply-crunch",
-      "published_date": "2026-07-11T17:38:07+00:00",
-      "category": "Energy"
+      "title": "What to know about the US outbreak of cyclospora parasite intestinal illness",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2015460/what-to-know-about-the-us-outbreak-of-cyclospora-parasite-intestinal-illness",
+      "published_date": "2026-07-14T18:30:10+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Burnham in sight of Downing Street, wins top UK union support",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2015435/burnham-in-sight-of-downing-street-wins-top-uk-union-support",
+      "published_date": "2026-07-14T17:32:03+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Bloodbath at PSX as KSE-100 loses 6,400 points over renewed US-Iran fighting",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2015331/bloodbath-at-psx-as-kse-100-loses-6400-points-over-renewed-us-iran-fighting",
+      "published_date": "2026-07-14T12:56:01+00:00",
+      "category": "Economy"
     },
     {
       "title": "India to ban import of goods made using forced labour amid US probe",
@@ -442,6 +463,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2015331/meltdown-at-psx-as-kse-100-loses-6000-points-over-renewed-us-iran-fighting",
       "published_date": "2026-07-14T10:16:31+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Freed Palestinian detainees campaign against sexual abuse in Israeli jails",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2650911/middle-east",
+      "published_date": "2026-07-14T08:07:44+00:00",
       "category": "Economy"
     },
     {
@@ -536,32 +564,60 @@
       "category": "Economy"
     },
     {
-      "title": "Trade promotion paradox: billions spent, exports fall",
+      "title": "US judge blocks Trump administration’s visa limits for social media researchers",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2650926/world",
+      "published_date": "2026-07-14T22:07:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bomb Disposal Unit official martyred in IED explosion in KP's Peshawar district: police",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2015448/bomb-disposal-unit-official-martyred-in-ied-explosion-in-kps-peshawar-district-police",
+      "published_date": "2026-07-14T18:36:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New York becomes first US state to impose data centre moratorium",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2015428/new-york-becomes-first-us-state-to-impose-data-centre-moratorium",
+      "published_date": "2026-07-14T15:41:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AJK govt says operation under way to reopen routes blocked by banned JAAC",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2015416/ajk-govt-says-operation-under-way-to-reopen-routes-blocked-by-banned-jaac",
+      "published_date": "2026-07-14T14:32:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "21 of 26 WFP vehicles carrying aid enter Afghanistan via Torkham border",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2015404/21-of-26-wfp-vehicles-carrying-aid-enter-afghanistan-via-torkham-border",
+      "published_date": "2026-07-14T13:11:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ECP starts consultations with KP govt to fix date for LG polls in 23 districts",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2015399/ecp-starts-consultations-with-kp-govt-to-fix-date-for-lg-polls-in-23-districts",
+      "published_date": "2026-07-14T12:59:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ECP, K-P govt begin talks on schedule for local government elections in 23 districts",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2617876/trade-promotion-paradox-billions-spent-exports-fall",
-      "published_date": "2026-07-12T15:44:50+00:00",
-      "category": "Economy"
+      "url": "https://tribune.com.pk/story/2618239/ecp-k-p-govt-begin-talks-on-schedule-for-local-government-elections-in-23-districts",
+      "published_date": "2026-07-14T11:48:37+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "'Shameful': Proposed bill allowing blue passports for ex-legislators’ kids comes under scrutiny on social media",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2014879/shameful-proposed-bill-allowing-blue-passports-for-ex-legislators-kids-comes-under-scrutiny-on-social-media",
-      "published_date": "2026-07-12T12:52:13+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Former emir of Qatar, Sheikh Hamad bin Khalifa Al Thani, dies at 74",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2014840/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-at-74",
-      "published_date": "2026-07-12T10:35:55+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Sales tax masks provincial collection weaknesses",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2014763/sales-tax-masks-provincial-collection-weaknesses",
-      "published_date": "2026-07-12T04:48:56+00:00",
-      "category": "Economy"
+      "title": "Saeed Ghani confirms 120 HIV cases linked to outbreak at Karachi's Valika Hospital",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2618231/saeed-ghani-confirms-120-hiv-cases-linked-to-outbreak-at-karachis-valika-hospital",
+      "published_date": "2026-07-14T11:03:13+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Egg-free school meals introduced by BJP govt scramble politics in India's West Bengal",
@@ -582,6 +638,20 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2650819/world",
       "published_date": "2026-07-14T08:07:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Elon Musk likely broke the law by giving voters $1m, Wisconsin board says",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2650910/world",
+      "published_date": "2026-07-14T07:07:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gold prices drop Rs5,600 per tola locally",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2618194/gold-prices-drop-rs5600-per-tola-locally",
+      "published_date": "2026-07-14T07:03:35+00:00",
       "category": "Local Events"
     },
     {
@@ -631,76 +701,6 @@
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2618160/mastermind-of-rangers-camp-attack-in-karachi-arrested-police",
       "published_date": "2026-07-14T02:27:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KP Assembly speaker refers controversial legislation expanding MPAs' privileges to committee for review",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2015167/kp-assembly-speaker-refers-controversial-legislation-expanding-mpas-privileges-to-committee-for-review",
-      "published_date": "2026-07-14T02:16:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Floods wreak havoc on Diamer",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2015286/floods-wreak-havoc-on-diamer",
-      "published_date": "2026-07-14T02:15:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli fire kills nine in Gaza, including a 10-year-old, officials say",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2650833/middle-east",
-      "published_date": "2026-07-13T23:07:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan’s KP governor urges Saudi Airlines to launch Peshawar-Madinah flights",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2650831/pakistan",
-      "published_date": "2026-07-13T22:07:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Karachi Port handles 20,000-TEU mega vessel",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2618136/karachi-port-handles-20000-teu-mega-vessel",
-      "published_date": "2026-07-13T20:20:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Young doctor shot dead in robbery near Karachi's Teen Talwar: police",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2015139/young-doctor-shot-dead-in-robbery-near-karachis-teen-talwar-police",
-      "published_date": "2026-07-13T19:01:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KP Assembly speaker refers controversial legislation expanding lawmakers’ privileges to house committee for review",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2015167/kp-assembly-speaker-refers-controversial-legislation-expanding-lawmakers-privileges-to-house-committee-for-review",
-      "published_date": "2026-07-13T18:46:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "FCC sets aside SC judgment that allowed demolition of restaurants in Margalla Hills National Park",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2015144/fcc-sets-aside-sc-judgment-that-allowed-demolition-of-restaurants-in-margalla-hills-national-park",
-      "published_date": "2026-07-13T15:53:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Al-Qadir Trust case: Imran, Bushra challenge SC registrar's refusal to entertain their petitions",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2015127/al-qadir-trust-case-imran-bushra-challenge-sc-registrars-refusal-to-entertain-their-petitions",
-      "published_date": "2026-07-13T15:41:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "At OIC moot on women, minister says men's 'active engagement' needed to promote equality",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2015100/at-oic-moot-on-women-minister-says-mens-active-engagement-needed-to-promote-equality",
-      "published_date": "2026-07-13T13:22:30+00:00",
       "category": "Local Events"
     }
   ]
