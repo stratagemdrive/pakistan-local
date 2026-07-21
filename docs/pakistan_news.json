@@ -1,8 +1,22 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-07-21T12:40:52.428480+00:00",
+  "last_updated": "2026-07-21T23:46:20.275894+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Saudi foreign minister and European counterparts discuss threats to shipping in Red Sea and Gulf",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2651820/saudi-arabia",
+      "published_date": "2026-07-22T09:07:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "PM Shehbaz launches first AI-based digitisation platform to replace paper-based work in PMO",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2017285/pm-shehbaz-launches-first-ai-based-digitisation-platform-to-replace-paper-based-work-in-pmo",
+      "published_date": "2026-07-21T14:02:47+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UN signals major rise in Ukraine-Russia war civilian deaths, injuries",
       "source": "Arab News Pakistan",
@@ -22,6 +36,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2017231/pakistan-origin-physician-asif-mahmood-elected-chair-of-us-commission-on-religious-freedom",
       "published_date": "2026-07-21T07:56:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France summons Iranian charge d’affaires over diplomat dispute",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2651793/world",
+      "published_date": "2026-07-21T07:07:22+00:00",
       "category": "Diplomacy"
     },
     {
@@ -123,25 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Jordan has not ordered evacuation of Aqaba airport or seaport, government spokesperson says",
+      "title": "Ukraine’s Zelensky fires his military chief after protests and names a replacement",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2651488/middle-east",
-      "published_date": "2026-07-18T22:07:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.arabnews.pk/node/2651827/world",
+      "published_date": "2026-07-21T23:07:31+00:00",
+      "category": "Military"
     },
     {
-      "title": "PSX extends losing streak on regional tensions",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2619043/psx-extends-losing-streak-on-regional-tensions",
-      "published_date": "2026-07-18T15:15:29+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Judicial commission formed to probe Ziarat incident: CM Bugti",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2618998/judicial-commission-formed-to-probe-ziarat-incident-cm-bugti",
-      "published_date": "2026-07-18T13:01:30+00:00",
-      "category": "Diplomacy"
+      "title": "Iranian interior minister meets PM Shehbaz, CDF Munir in Islamabad",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2017273/iranian-interior-minister-meets-pm-shehbaz-cdf-munir-in-islamabad",
+      "published_date": "2026-07-21T16:18:24+00:00",
+      "category": "Military"
     },
     {
       "title": "Iranian interior minister meets PM Shehbaz in Islamabad",
@@ -158,10 +172,31 @@
       "category": "Military"
     },
     {
+      "title": "Iranian interior minister discusses border security with CDF Asim Munir",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2619482/iranian-interior-minister-discusses-border-security-with-cdf-asim-munir",
+      "published_date": "2026-07-21T09:51:17+00:00",
+      "category": "Military"
+    },
+    {
       "title": "3 excise officials kidnapped after attack on checkpost in Balochistan's Chagai: police sources",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2017233/3-excise-officials-kidnapped-after-attack-on-checkpost-in-balochistans-chagai-police-sources",
       "published_date": "2026-07-21T09:13:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hegseth estimates cost of Iran war at $37.5 billion",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2651813/world",
+      "published_date": "2026-07-21T08:07:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bystander wounded near White House to sue Secret Service, lawyer says",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2651812/world",
+      "published_date": "2026-07-21T07:07:14+00:00",
       "category": "Military"
     },
     {
@@ -249,39 +284,32 @@
       "category": "Military"
     },
     {
-      "title": "Netanyahu will not be arrested while in US, Trump says",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2651655/middle-east",
-      "published_date": "2026-07-20T07:07:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Brent oil tops $90 as US, Iran expand strikes in the Middle East",
+      "title": "Govt increases petrol price by Rs4.93, diesel by Rs7.15 per litre",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2016987/brent-oil-tops-90-as-us-iran-expand-strikes-in-the-middle-east",
-      "published_date": "2026-07-20T05:44:10+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/2017311/govt-increases-petrol-price-by-rs493-diesel-by-rs715-per-litre",
+      "published_date": "2026-07-21T18:06:50+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Iranian interior minister in Pakistan as Islamabad seeks to sustain US-Iran diplomacy",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2651629/pakistan",
-      "published_date": "2026-07-20T04:07:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gulf states appeal for return to talks as US, Iran trade blows",
+      "title": "Petrol pump owners announce nationwide strike after talks over daily pricing fail",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2016864/gulf-states-appeal-for-return-to-talks-as-us-iran-trade-blows",
-      "published_date": "2026-07-20T01:49:39+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/2017314/petrol-pump-owners-announce-nationwide-strike-after-talks-over-daily-pricing-fail",
+      "published_date": "2026-07-21T17:30:25+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Iran president says country in ‘full-scale war’ with US",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2651607/middle-east",
-      "published_date": "2026-07-20T00:07:39+00:00",
-      "category": "Military"
+      "title": "Petrol pump owners announce nationwide shutdown after talks with govt fail",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2619513/petrol-pump-owners-announce-nationwide-shutdown-after-talks-with-govt-fail",
+      "published_date": "2026-07-21T13:08:48+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Govt raises petrol price by Rs4.93, HSD by Rs7.15 per litre for July 22",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2619510/govt-raises-petrol-price-by-rs493-hsd-by-rs715-per-litre",
+      "published_date": "2026-07-21T12:45:43+00:00",
+      "category": "Energy"
     },
     {
       "title": "Centre committed to working closely with GB government, PM tells CM Amjad Hussain",
@@ -295,6 +323,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2017214/psx-gains-1200-points-during-intraday-trade-as-oil-eases-amid-us-iran-mediation-efforts",
       "published_date": "2026-07-21T07:55:17+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Pakistan hikes petrol and diesel prices as US-Iran war escalates",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2651795/pakistan",
+      "published_date": "2026-07-21T07:07:00+00:00",
       "category": "Energy"
     },
     {
@@ -389,45 +424,59 @@
       "category": "Energy"
     },
     {
-      "title": "At China forum, Pakistan warns of accelerating glacier melt, urges greater cooperation",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2651530/pakistan",
-      "published_date": "2026-07-19T07:07:18+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Daily fuel price adjustments to curb market abuse, ensure fair prices: petroleum minister",
+      "title": "Indian opposition leader Rahul Gandhi arrested outside PM Modi's Delhi residence amid mass protest",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2016504/daily-fuel-price-adjustments-to-curb-market-abuse-ensure-fair-prices-petroleum-minister",
-      "published_date": "2026-07-18T17:28:26+00:00",
-      "category": "Energy"
+      "url": "https://www.dawn.com/news/2017219/indian-opposition-leader-rahul-gandhi-arrested-outside-pm-modis-delhi-residence-amid-mass-protest",
+      "published_date": "2026-07-21T17:55:39+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Industry supports daily oil pricing regime",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2619036/industry-supports-daily-oil-pricing-regime",
-      "published_date": "2026-07-18T15:15:28+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Petroleum minister says daily fuel pricing will ensure transparency, reduce political intervention",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2618986/petroleum-ministe-says-daily-fuel-pricing-will-ensure-transparency-reduce-political-intervention",
-      "published_date": "2026-07-18T10:30:08+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Rawal Lake park loses half of tree cover in 2 decades",
+      "title": "India student protests give opposition a rare opening against Modi",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2016269/rawal-lake-park-loses-half-of-tree-cover-in-2-decades",
-      "published_date": "2026-07-18T03:48:46+00:00",
-      "category": "Energy"
+      "url": "https://www.dawn.com/news/2017316/india-student-protests-give-opposition-a-rare-opening-against-modi",
+      "published_date": "2026-07-21T17:55:35+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Who is who in UK PM Andy Burnham's new cabinet",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2017300/who-is-who-in-uk-pm-andy-burnhams-new-cabinet",
+      "published_date": "2026-07-21T15:32:13+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pakistan seeks $10 billion in US backstop facility to boost reserves, source says",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2619526/pakistan-seeks-10-billion-in-us-backstop-facility-to-boost-reserves-source-says",
+      "published_date": "2026-07-21T14:25:12+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "KSE-100 makes marginal gains as global energy uncertainty weighs on early rally",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2017214/kse-100-makes-marginal-gains-as-global-energy-uncertainty-weighs-on-early-rally",
+      "published_date": "2026-07-21T12:56:34+00:00",
+      "category": "Economy"
     },
     {
       "title": "Pakistan approves first initial public offering of new fiscal year",
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2651722/pakistan",
       "published_date": "2026-07-21T09:07:29+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Govt appoints international bank consortiums for future sovereign debt issuances",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2619465/govt-appoints-international-bank-consortiums-for-future-sovereign-debt-issuances",
+      "published_date": "2026-07-21T07:59:52+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pakistan seeks $10 billion in US backstop facility to boost reserves, source says",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2651808/pakistan",
+      "published_date": "2026-07-21T07:07:05+00:00",
       "category": "Economy"
     },
     {
@@ -515,53 +564,46 @@
       "category": "Economy"
     },
     {
-      "title": "NYT report on new FBI directive stuns nation",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2016858/nyt-report-on-new-fbi-directive-stuns-nation",
-      "published_date": "2026-07-20T03:13:01+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Pakistan says B2B pharma conference with China secured over $1.7 billion in investment commitments",
+      "title": "Hundreds flee as wildfire rips through southern France",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2651602/pakistan",
-      "published_date": "2026-07-19T23:07:17+00:00",
-      "category": "Economy"
+      "url": "https://www.arabnews.pk/node/2651821/world",
+      "published_date": "2026-07-22T09:07:21+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Fiscal federalism in practice vs law",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2619195/fiscal-federalism-in-practice-vs-law-1",
-      "published_date": "2026-07-19T14:26:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Should we worry about C/A deficit?",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2619191/should-we-worry-about-ca-deficit-1",
-      "published_date": "2026-07-19T14:25:59+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Pocket-size AI: Powerful phones star at China",
+      "title": "French parliament backs social media ban for under-15s",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2016726/pocket-size-ai-powerful-phones-star-at-china",
-      "published_date": "2026-07-19T12:50:42+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2017321/french-parliament-backs-social-media-ban-for-under-15s",
+      "published_date": "2026-07-21T18:57:10+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Drap urged to exempt 10cc syringes from ban",
+      "title": "LHC confirms death sentences of convicts in motorway gang rape case",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2016590/drap-urged-to-exempt-10cc-syringes-from-ban",
-      "published_date": "2026-07-19T06:34:31+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2017293/lhc-confirms-death-sentences-of-convicts-in-motorway-gang-rape-case",
+      "published_date": "2026-07-21T16:40:40+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "SMOKERS’ CORNER: MANUFACTURING GEN-Z",
+      "title": "PML-N supremo Nawaz kicks off party's election campaign in AJK",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2016574/smokers-corner-manufacturing-gen-z",
-      "published_date": "2026-07-19T06:23:40+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2017265/pml-n-supremo-nawaz-kicks-off-partys-election-campaign-in-ajk",
+      "published_date": "2026-07-21T13:52:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jamaat-i-Islami announces nationwide road blockade against petroleum levy",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2017280/jamaat-i-islami-announces-nationwide-road-blockade-against-petroleum-levy",
+      "published_date": "2026-07-21T13:30:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Diamond smile: Singapore jails Indian man for gem in mouth theft",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2017279/diamond-smile-singapore-jails-indian-man-for-gem-in-mouth-theft",
+      "published_date": "2026-07-21T13:28:08+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Court grants post-arrest bail to podcast host Rehan Tariq in blasphemy case",
@@ -659,48 +701,6 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2651739/pakistan",
       "published_date": "2026-07-21T00:07:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ebola quarantine center for Americans is up and working in Kenya despite a court ban, activists say",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2651679/world",
-      "published_date": "2026-07-20T22:07:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Major rivers swell amid fresh flood alerts",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2619413/major-rivers-swell-amid-fresh-flood-alerts",
-      "published_date": "2026-07-20T20:14:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chenab water level likely to surge following ongoing rains in Indian-occupied Kashmir, Punjab",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2017067/chenab-water-level-likely-to-surge-following-ongoing-rains-in-indian-occupied-kashmir-punjab",
-      "published_date": "2026-07-20T18:46:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds protest in Delhi demanding restoration of autonomy for occupied Kashmir",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2017041/hundreds-protest-in-delhi-demanding-restoration-of-autonomy-for-occupied-kashmir",
-      "published_date": "2026-07-20T17:54:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wife’s right to dower remains protected if marriage dissolved due to husband’s misconduct: LHC",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2017050/wifes-right-to-dower-remains-protected-if-marriage-dissolved-due-to-husbands-misconduct-lhc",
-      "published_date": "2026-07-20T16:07:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PML-N MPA seeks ban on appointment of dual nationals to government service",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2017045/pml-n-mpa-seeks-ban-on-appointment-of-dual-nationals-to-government-service",
-      "published_date": "2026-07-20T15:17:12+00:00",
       "category": "Local Events"
     }
   ]
