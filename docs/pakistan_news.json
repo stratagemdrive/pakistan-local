@@ -1,8 +1,15 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-07-25T12:05:47.109639+00:00",
+  "last_updated": "2026-07-25T23:50:31.614104+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Volker Turk's term as UN human rights chief extended despite US warnings",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2018302/volker-turks-term-as-un-human-rights-chief-extended-despite-us-warnings",
+      "published_date": "2026-07-25T12:20:04+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pakistan calls for stronger SCO connectivity, warns against confrontational geopolitics",
       "source": "Arab News Pakistan",
@@ -15,6 +22,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2018267/us-announces-visa-restriction-policy-on-cyber-criminals-their-immediate-family-members",
       "published_date": "2026-07-25T06:28:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan, Saudi Arabia stress diplomacy as Red Sea tensions escalate after Houthi attacks",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2652292/pakistan",
+      "published_date": "2026-07-25T06:07:10+00:00",
       "category": "Diplomacy"
     },
     {
@@ -130,18 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Prime Minister Carney says Canada is ready to respond if Trump’s new tariffs go into effect",
+      "title": "Overnight Russian attack triggers fires in Ukrainian capital Kyiv",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2652096/world",
-      "published_date": "2026-07-23T22:07:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.arabnews.pk/node/2652317/world",
+      "published_date": "2026-07-25T23:07:57+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN chief praises Pakistan’s peace initiatives to ‘reduce tensions and create space for dialogue’",
+      "title": "US military says it redirected 12 ships trying to break Hormuz blockade",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2652316/middle-east",
+      "published_date": "2026-07-25T22:07:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Security forces kill 4 terrorists in South Waziristan, foil suicide attack on checkpost: ISPR",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2017861/un-chief-praises-pakistans-peace-initiatives-to-reduce-tensions-and-create-space-for-dialogue",
-      "published_date": "2026-07-23T18:48:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2018322/security-forces-kill-4-terrorists-in-south-waziristan-foil-suicide-attack-on-checkpost-ispr",
+      "published_date": "2026-07-25T17:21:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel kills senior police official in Gaza, medics say",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2018321/israel-kills-senior-police-official-in-gaza-medics-say",
+      "published_date": "2026-07-25T16:38:40+00:00",
+      "category": "Military"
     },
     {
       "title": "FIA sets up investigation unit to trace criminals operating on the dark web",
@@ -151,10 +179,31 @@
       "category": "Military"
     },
     {
+      "title": "Four terrorists killed as security forces foil suicide attack in South Waziristan: ISPR",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2620232/four-terrorists-killed-as-security-forces-foil-suicide-attack-in-south-waziristan-ispr",
+      "published_date": "2026-07-25T11:48:39+00:00",
+      "category": "Military"
+    },
+    {
       "title": "3 more terrorists killed in Mastung IBO, taking tally to 13",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2018281/3-more-terrorists-killed-in-mastung-ibo-taking-tally-to-13",
       "published_date": "2026-07-25T09:32:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bab Al-Mandab Strait blockade — the risks to global shipping",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2652309/middle-east",
+      "published_date": "2026-07-25T08:07:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran says Ukrainian attack on vessel in Caspian Sea killed sailor",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2652304/middle-east",
+      "published_date": "2026-07-25T08:07:40+00:00",
       "category": "Military"
     },
     {
@@ -169,6 +218,13 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2652255/world",
       "published_date": "2026-07-25T07:07:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Investment momentum continues in MENA amid conflict",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2652293/business-economy",
+      "published_date": "2026-07-25T07:07:22+00:00",
       "category": "Military"
     },
     {
@@ -228,60 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Anthropic bets on cheaper AI with new model",
+      "title": "Govt keeps petrol, diesel prices unchanged for two days",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2018102/anthropic-bets-on-cheaper-ai-with-new-model",
-      "published_date": "2026-07-24T17:59:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "PM Shehbaz inaugurates country's 'largest' data centre, AI cloud Sky47 in Islamabad",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2018057/pm-shehbaz-inaugurates-countrys-largest-data-centre-ai-cloud-sky47-in-islamabad",
-      "published_date": "2026-07-24T16:21:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gen Raza's appointment as CNSC completes military overhaul under 27th Amendment, signals impending reshuffle",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2018052/gen-razas-appointment-as-cnsc-completes-military-overhaul-under-27th-amendment-signals-impending-reshuffle",
-      "published_date": "2026-07-24T12:14:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Security forces kill 4 terrorists in Mastung operation: interior ministry",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2018035/security-forces-kill-4-terrorists-in-mastung-operation-interior-ministry",
-      "published_date": "2026-07-24T10:29:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump: Iran getting ‘very serious’ on talks",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2652226/middle-east",
-      "published_date": "2026-07-24T08:07:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How Saudi- and UN-led initiatives are putting rural women at the heart of Syria’s recovery",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2652229/middle-east",
-      "published_date": "2026-07-24T08:07:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lt Gen Aamer Raza promoted to 4-star rank, appointed first Commander National Strategic Command",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2018019/lt-gen-aamer-raza-promoted-to-4-star-rank-appointed-first-commander-national-strategic-command",
-      "published_date": "2026-07-24T07:58:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan, Iran explore path toward new talks with US in a China-initiated push — sources",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2652218/pakistan",
-      "published_date": "2026-07-24T07:07:05+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/2018328/govt-keeps-petrol-diesel-prices-unchanged-for-two-days",
+      "published_date": "2026-07-25T19:10:08+00:00",
+      "category": "Energy"
     },
     {
       "title": "Petrol price up by Rs3.66, HSD by Rs4.80 as govt revises fuel rates",
@@ -417,11 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Centre committed to working closely with GB government, PM tells CM Amjad Hussain",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2017241/centre-committed-to-working-closely-with-gb-government-pm-tells-cm-amjad-hussain",
-      "published_date": "2026-07-21T08:42:37+00:00",
-      "category": "Energy"
+      "title": "How MENA startups can sharpen their investment pitches",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2652297/business-economy",
+      "published_date": "2026-07-25T07:07:16+00:00",
+      "category": "Economy"
     },
     {
       "title": "Interior minister says Pakistan welcomes foreign investment in meeting with UK peer",
@@ -557,11 +564,46 @@
       "category": "Economy"
     },
     {
-      "title": "Aurangzeb reviews IMF programme progress",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2619922/aurangzeb-reviews-imf-programme-progress",
-      "published_date": "2026-07-23T16:03:58+00:00",
-      "category": "Economy"
+      "title": "Karachi receives second day of monsoon rain with light to moderate showers",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2018323/karachi-receives-second-day-of-monsoon-rain-with-light-to-moderate-showers",
+      "published_date": "2026-07-25T18:40:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In pictures: Indian youth supporting Cockroach Janta Party celebrate education minister's resignation",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2018313/in-pictures-indian-youth-supporting-cockroach-janta-party-celebrate-education-ministers-resignation",
+      "published_date": "2026-07-25T15:50:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Multiple areas in GB remain cut off after flash floods, Glofs wash away access routes",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2018311/multiple-areas-in-gb-remain-cut-off-after-flash-floods-glofs-wash-away-access-routes",
+      "published_date": "2026-07-25T15:36:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NDMA warns of rising flood risks as Chenab sees medium-level flooding",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2018318/ndma-warns-of-rising-flood-risks-as-chenab-sees-medium-level-flooding",
+      "published_date": "2026-07-25T15:12:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Naqvi, Bugti review Balochistan's security situation, vow stronger counter-terrorism measures",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2018307/naqvi-bugti-review-balochistans-security-situation-vow-stronger-counter-terrorism-measures",
+      "published_date": "2026-07-25T13:31:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PML-N's 'gift': Buses promised by Maryam reach AJK as election commission warns against violating electoral code",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2018276/pml-ns-gift-buses-promised-by-maryam-reach-ajk-as-election-commission-warns-against-violating-electoral-code",
+      "published_date": "2026-07-25T13:19:27+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Trump bashes 'fake news,' stokes 2028 furore in press gala rerun",
@@ -578,6 +620,13 @@
       "category": "Local Events"
     },
     {
+      "title": "PTI's Salman Akram Raja calls for Aug 5 protest, alleges wheat crisis and political victimisation",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2620230/ptis-salman-akram-raja-calls-for-aug-5-protest-alleges-wheat-crisis-and-political-victimisation",
+      "published_date": "2026-07-25T10:40:25+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "13 militants killed in ongoing operation after deadly attacks in Pakistan’s southwest",
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2652259/pakistan",
@@ -589,6 +638,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2018282/italian-embassy-teen-apologise-after-confrontation-with-thai-woman-on-bangkok-train",
       "published_date": "2026-07-25T08:54:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Naqvi chairs high-level security meeting in Quetta, vows support for Balochistan",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2620219/naqvi-chairs-high-level-security-meeting-in-quetta-vows-support-for-balochistan",
+      "published_date": "2026-07-25T08:35:40+00:00",
       "category": "Local Events"
     },
     {
@@ -627,80 +683,24 @@
       "category": "Local Events"
     },
     {
+      "title": "Military says troops foil suicide assault in northwest Pakistan, kill four militants",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2652300/pakistan",
+      "published_date": "2026-07-25T07:07:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tunisia’s Sidi Bou Said inscribed on UNESCO World Heritage list",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2652301/middle-east",
+      "published_date": "2026-07-25T07:07:13+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Funeral prayers offered for policemen, soldiers killed in deadly attack in Pakistan’s northwest",
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2652246/pakistan",
       "published_date": "2026-07-25T06:07:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Karachi's DHA City becomes first private entity to light up its own housing project",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2018147/karachis-dha-city-becomes-first-private-entity-to-light-up-its-own-housing-project",
-      "published_date": "2026-07-25T03:41:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nurse booked after newborn’s thumb accidentally severed at Pindi's Holy Family Hospital",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2018134/nurse-booked-after-newborns-thumb-accidentally-severed-at-pindis-holy-family-hospital",
-      "published_date": "2026-07-25T03:33:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AJK Election Commission warns against code of conduct violations ahead of polls",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2620191/ajk-election-commission-warns-against-code-of-conduct-violations-ahead-of-polls",
-      "published_date": "2026-07-25T03:06:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sharifs’ pre-poll promises to AJK don’t sit well with PPP",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2018204/sharifs-pre-poll-promises-to-ajk-dont-sit-well-with-ppp",
-      "published_date": "2026-07-25T02:17:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IHC declares Imaan, Chattha's sentence suspension pleas maintainable",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2620183/ihc-declares-imaan-chattha-sentence-suspension-pleas-maintainable",
-      "published_date": "2026-07-25T01:40:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IHC registrar issues notice to Justice Babar Sattar, asks him to vacate Islamabad residence",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2018103/ihc-registrar-issues-notice-to-justice-babar-sattar-asks-him-to-vacate-islamabad-residence",
-      "published_date": "2026-07-24T18:34:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Karachi receives season’s first monsoon showers, light to moderate rain reported in parts of city",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2018094/karachi-receives-seasons-first-monsoon-showers-light-to-moderate-rain-reported-in-parts-of-city",
-      "published_date": "2026-07-24T17:23:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NCCIA contractual officers get IHC relief",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2620148/nccia-contractual-officers-get-ihc-relief",
-      "published_date": "2026-07-24T16:15:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Lapdog media': Indian reporters caught in youth protest anger",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2018076/lapdog-media-indian-reporters-caught-in-youth-protest-anger",
-      "published_date": "2026-07-24T14:44:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PML-N supremo questions lack of development in AJK after his ouster from power",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2018068/pml-n-supremo-questions-lack-of-development-in-ajk-after-his-ouster-from-power",
-      "published_date": "2026-07-24T14:17:38+00:00",
       "category": "Local Events"
     }
   ]
