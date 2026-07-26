@@ -1,8 +1,29 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-07-26T12:09:53.209919+00:00",
+  "last_updated": "2026-07-26T23:51:01.324586+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Israel to allow international force into Gaza, Israeli official says",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2018568/israel-to-allow-international-force-into-gaza-israeli-official-says",
+      "published_date": "2026-07-26T19:51:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tarar claims man arrested for spreading anti-state material online in exchange for Indian funding",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2018518/tarar-claims-man-arrested-for-spreading-anti-state-material-online-in-exchange-for-indian-funding",
+      "published_date": "2026-07-26T13:22:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "IAEA chief, Pakistan FM discuss regional situation after US, Iran halt attacks",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2652388/pakistan",
+      "published_date": "2026-07-26T07:07:41+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Peshawar University teacher honoured with Ashoka Award in London",
       "source": "Dawn",
@@ -123,25 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Mastung Judge’s killing exposes foreign strings, BLA–BYC nexus; analysts demand UNSC sanctions",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2620033/mastung-judges-killing-exposes-foreign-strings-blabyc-nexus-analysts-demand-unsc-sanctions",
-      "published_date": "2026-07-24T09:53:03+00:00",
-      "category": "Diplomacy"
+      "title": "Vessel sinks a week after being struck by Russian fire, Ukrainian officials say",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2652399/world",
+      "published_date": "2026-07-27T09:07:36+00:00",
+      "category": "Military"
     },
     {
-      "title": "UNESCO adds West Bank site and Lebanese castles to World Heritage List despite Israeli objections",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2652145/middle-east",
-      "published_date": "2026-07-24T09:07:22+00:00",
-      "category": "Diplomacy"
+      "title": "Iran says Middle East attacks halted after US holds fire amid reported concerns over dwindling munitions",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2018487/iran-says-middle-east-attacks-halted-after-us-holds-fire-amid-reported-concerns-over-dwindling-munitions",
+      "published_date": "2026-07-26T14:03:16+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN rights chief Volker Turk faces opposition to new term",
+      "title": "Why does conflict bedevil the Middle East?",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2652144/world",
-      "published_date": "2026-07-24T09:07:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.arabnews.pk/node/2652397/middle-east",
+      "published_date": "2026-07-26T08:07:30+00:00",
+      "category": "Military"
     },
     {
       "title": "US holds fire against Iran as reports of concerns over dwindling munitions emerge",
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "French PM orders deployment of A400M military plane to help battle fires",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2652257/world",
-      "published_date": "2026-07-25T08:07:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Italy defense minister offers ousted Ukraine counterpart Fedorov adviser role",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2652255/world",
-      "published_date": "2026-07-25T07:07:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Investment momentum continues in MENA amid conflict",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2652293/business-economy",
-      "published_date": "2026-07-25T07:07:22+00:00",
-      "category": "Military"
+      "title": "London's Gatwick Airport hit by water supply problem",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2018528/londons-gatwick-airport-hit-by-water-supply-problem",
+      "published_date": "2026-07-26T15:24:26+00:00",
+      "category": "Energy"
     },
     {
       "title": "Pakistan keeps fuel prices unchanged till July 27",
@@ -417,11 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "KUFPEC eyes cooperation in petroleum sector",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2619554/kufpec-eyes-cooperation-in-petroleum-sector",
-      "published_date": "2026-07-21T14:56:03+00:00",
-      "category": "Energy"
+      "title": "Shortage of ventilators posing risks to saving lives in hospitals across Islamabad",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2018533/shortage-of-ventilators-posing-risks-to-saving-lives-in-hospitals-across-islamabad",
+      "published_date": "2026-07-26T17:06:50+00:00",
+      "category": "Economy"
     },
     {
       "title": "War dries up unofficial dollar inflows",
@@ -557,11 +564,67 @@
       "category": "Economy"
     },
     {
-      "title": "SBP names 10 primary dealers for FY27",
+      "title": "Nationwide deaths this monsoon cross 100; more rain likely in country's upper parts from July 29",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2018500/nationwide-deaths-this-monsoon-cross-100-more-rain-likely-in-countrys-upper-parts-from-july-29",
+      "published_date": "2026-07-26T19:34:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Modi announces panel to reform India's exam system; anti-govt graffiti at Jantar Mantar painted over",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2018534/modi-announces-panel-to-reform-indias-exam-system-anti-govt-graffiti-at-jantar-mantar-painted-over",
+      "published_date": "2026-07-26T19:27:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In reply to Nawaz, Bilawal says people of AJK not ready to 'bargain away their rights' in elections",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2018538/in-reply-to-nawaz-bilawal-says-people-of-ajk-not-ready-to-bargain-away-their-rights-in-elections",
+      "published_date": "2026-07-26T19:08:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Suspect in Berlin attack near Pride gathering shot dead by police",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2018511/suspect-in-berlin-attack-near-pride-gathering-shot-dead-by-police",
+      "published_date": "2026-07-26T19:08:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "MQM-P begins street movement for Karachi rights, seeks constitutional reforms",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2619924/sbp-names-10-primary-dealers-for-fy27",
-      "published_date": "2026-07-23T16:03:59+00:00",
-      "category": "Economy"
+      "url": "https://tribune.com.pk/story/2620440/mqm-p-begins-street-movement-for-karachi-rights-seeks-constitutional-reforms",
+      "published_date": "2026-07-26T13:47:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In Spectrum: Satluj: The film India could not watch",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2018416/in-spectrum-satluj-the-film-india-could-not-watch",
+      "published_date": "2026-07-26T13:12:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Parts of Karachi may face water shortage after power breakdown at Dhabeji pumping station",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2018517/parts-of-karachi-may-face-water-shortage-after-power-breakdown-at-dhabeji-pumping-station",
+      "published_date": "2026-07-26T12:48:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PMD issues Glof alert for northern areas as several GB areas cut off for 5th consecutive day",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2018510/pmd-issues-glof-alert-for-northern-areas-as-several-gb-areas-cut-off-for-5th-consecutive-day",
+      "published_date": "2026-07-26T12:13:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bilawal criticises PML-N over portraying public buses as personal gifts, urges AJK voters to back PPP",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2620430/bilawal-criticises-pml-n-over-portraying-public-buses-as-personal-gifts-urges-ajk-voters-to-back-ppp",
+      "published_date": "2026-07-26T12:07:43+00:00",
+      "category": "Local Events"
     },
     {
       "title": "KP Governor Kundi says over 1,300kg of explosives used in Tank checkpost attack",
@@ -613,6 +676,20 @@
       "category": "Local Events"
     },
     {
+      "title": "Israel to allow international force into Gaza, Israeli official says",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2652380/middle-east",
+      "published_date": "2026-07-26T06:07:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan’s FIA defends passenger profiling, phone checks at airports to curb human smuggling",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2652381/pakistan",
+      "published_date": "2026-07-26T06:07:08+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Bomb blast near KP's Bajaur dam claims two lives",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2018433/bomb-blast-near-kps-bajaur-dam-claims-two-lives",
@@ -624,83 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2018443/ajk-election-and-beyond",
       "published_date": "2026-07-26T04:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Outsourcing security",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2018444/outsourcing-security",
-      "published_date": "2026-07-26T04:08:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan vows to continue military operations in northwest as security forces foil suicide attack",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2652327/pakistan",
-      "published_date": "2026-07-26T04:07:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two injured as ambulance attacked in Balochistan's Musakhel",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2018373/two-injured-as-ambulance-attacked-in-balochistans-musakhel",
-      "published_date": "2026-07-26T03:36:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PTI slams govt over Rs1.8bn package for bureaucrats",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2018375/pti-slams-govt-over-rs18bn-package-for-bureaucrats",
-      "published_date": "2026-07-26T03:28:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ravi, Chenab flood levels likely to reach medium to high today",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2018383/ravi-chenab-flood-levels-likely-to-reach-medium-to-high-today",
-      "published_date": "2026-07-26T03:01:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Seven killed, 20 hurt as heavy rains lash Punjab",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2018407/seven-killed-20-hurt-as-heavy-rains-lash-punjab",
-      "published_date": "2026-07-26T02:53:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mirpur heads to polls amid barbs, warnings",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2018408/mirpur-heads-to-polls-amid-barbs-warnings",
-      "published_date": "2026-07-26T02:40:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan says water flows in major rivers within ‘safe limits’ as monsoon death toll jumps to 108",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2652345/pakistan",
-      "published_date": "2026-07-25T23:07:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Karachi receives second day of monsoon rain with light to moderate showers",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2018323/karachi-receives-second-day-of-monsoon-rain-with-light-to-moderate-showers",
-      "published_date": "2026-07-25T18:40:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In pictures: Indian youth supporting Cockroach Janta Party celebrate education minister's resignation",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2018313/in-pictures-indian-youth-supporting-cockroach-janta-party-celebrate-education-ministers-resignation",
-      "published_date": "2026-07-25T15:50:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Multiple areas in GB remain cut off after flash floods, Glofs wash away access routes",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2018311/multiple-areas-in-gb-remain-cut-off-after-flash-floods-glofs-wash-away-access-routes",
-      "published_date": "2026-07-25T15:36:35+00:00",
       "category": "Local Events"
     }
   ]
