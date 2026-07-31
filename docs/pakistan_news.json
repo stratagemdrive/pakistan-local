@@ -1,8 +1,29 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-07-31T13:01:51.001249+00:00",
+  "last_updated": "2026-07-31T23:52:17.712238+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Italy suspends Schengen agreement with Spain: foreign minister",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2019745/italy-suspends-schengen-agreement-with-spain-foreign-minister",
+      "published_date": "2026-07-31T18:01:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Viral Kashmir visuals. One media blackout: what an investigation found",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2621364/viral-kashmir-visuals-one-media-blackout-what-an-investigatio-found",
+      "published_date": "2026-07-31T11:37:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Chelsea fined $13m, handed suspended transfer ban for breaching agent rules",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2652948/sport",
+      "published_date": "2026-07-31T06:07:37+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pakistan backs Saudi right to  self-defence after Iraq strikes",
       "source": "Dawn",
@@ -123,25 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US walks out on France at UN Security Council",
+      "title": "Pakistan welcomes Board of Peace developments under Gaza Peace Plan: PM Shehbaz",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2019149/us-walks-out-on-france-at-un-security-council",
-      "published_date": "2026-07-29T02:45:31+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2019749/pakistan-welcomes-board-of-peace-developments-under-gaza-peace-plan-pm-shehbaz",
+      "published_date": "2026-07-31T17:59:55+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN sounds alarm on politicization of refugees and asylum",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2652650/world",
-      "published_date": "2026-07-28T23:07:36+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Netanyahu visits White House for first Trump talks during Iran war",
+      "title": "Good governance 'quintessential' for security and stability of Pakistan: DG ISPR",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2019032/netanyahu-visits-white-house-for-first-trump-talks-during-iran-war",
-      "published_date": "2026-07-28T17:40:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2019472/good-governance-quintessential-for-security-and-stability-of-pakistan-dg-ispr",
+      "published_date": "2026-07-31T16:21:13+00:00",
+      "category": "Military"
     },
     {
       "title": "Perception being created that the situation in Balochistan is deteriorating: DG ISPR",
@@ -165,6 +179,13 @@
       "category": "Military"
     },
     {
+      "title": "How a Saudi maritime defense initiative aims to protect key shipping lanes, boost regional stability",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2652958/middle-east",
+      "published_date": "2026-07-31T08:07:02+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Game Review: Part Two — Lego Batman: Legacy is a must-play for any Bat-fan",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2019382/game-review-part-two-lego-batman-legacy-is-a-must-play-for-any-bat-fan",
@@ -176,6 +197,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2019684/president-approves-nishan-i-imtiaz-for-new-strategic-command-chief",
       "published_date": "2026-07-31T07:20:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan backs Hamas disarmament progress, pushes for independent Palestinian state",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2652950/pakistan",
+      "published_date": "2026-07-31T07:07:43+00:00",
       "category": "Military"
     },
     {
@@ -256,32 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Palestinian shot during settler march through West Bank towns",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2652913/middle-east",
-      "published_date": "2026-07-31T00:07:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump convenes Cabinet at Camp David amid simmering Iran war",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2652908/world",
-      "published_date": "2026-07-30T22:07:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan exits war-risk list",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2621280/pakistan-exits-war-risk-list",
-      "published_date": "2026-07-30T20:33:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gangster Uzair Baloch’s brother shot, critically injured in Karachi’s Lyari: police",
+      "title": "Govt cuts petrol price by 12 paisas, diesel by 66 paisas for the next three days",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2019527/gangster-uzair-balochs-brother-shot-critically-injured-in-karachis-lyari-police",
-      "published_date": "2026-07-30T18:33:35+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/2019751/govt-cuts-petrol-price-by-12-paisas-diesel-by-66-paisas-for-the-next-three-days",
+      "published_date": "2026-07-31T18:41:39+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "JI links Karachi woes to poor governance, announces protests against petroleum levy next week",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2621360/ji-links-karachi-woes-to-poor-governance-announces-protests-against-petroleum-levy-next-week",
+      "published_date": "2026-07-31T10:58:46+00:00",
+      "category": "Energy"
     },
     {
       "title": "Govt increases petrol price by Rs1.09, HSD by Rs2.42",
@@ -410,18 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "PSX tumbles 1,340 points as global sell-off, oil surge hit sentiment",
+      "title": "Pakistan removal from Lloyd's war-risk list will bring economic growth: FM Dar",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2620902/psx-tumbles-1340-points-as-global-sell-off-oil-surge-hit-sentiment",
-      "published_date": "2026-07-29T03:22:05+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Pakistan-bound crude tanker among ships transiting Bab el-Mandeb despite Houthi attacks",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2652686/pakistan",
-      "published_date": "2026-07-28T22:07:43+00:00",
-      "category": "Energy"
+      "url": "https://tribune.com.pk/story/2621376/pakistan-removal-from-lloyds-war-risk-list-will-bring-economic-growth-fm-dar",
+      "published_date": "2026-07-31T13:51:18+00:00",
+      "category": "Economy"
     },
     {
       "title": "Pakistan considers tax relief to expand high-speed Internet in remote areas",
@@ -557,11 +564,74 @@
       "category": "Economy"
     },
     {
-      "title": "FBATI chief says technology, innovation key to trade future",
+      "title": "Labour’s Bev Craig is elected Greater Manchester mayor to succeed Andy Burnham",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2652971/world",
+      "published_date": "2026-07-31T23:08:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Search operation for climbers missing after Broad Peak avalanche suspended due to bad weather",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2019683/search-operation-for-climbers-missing-after-broad-peak-avalanche-suspended-due-to-bad-weather",
+      "published_date": "2026-07-31T19:03:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Schools in Sindh to remain closed on August 4: education department",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2019744/schools-in-sindh-to-remain-closed-on-august-4-education-department",
+      "published_date": "2026-07-31T17:41:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ECP says ready to hold LG polls in Punjab, KP, blames last-minute amendments for delays",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2019739/ecp-says-ready-to-hold-lg-polls-in-punjab-kp-blames-last-minute-amendments-for-delays",
+      "published_date": "2026-07-31T17:20:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PPP's Central Executive Committee to deliberate creation of new administrative units: secretary general",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2019716/ppps-central-executive-committee-to-deliberate-creation-of-new-administrative-units-secretary-general",
+      "published_date": "2026-07-31T16:57:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Shangla mourns 28 miners killed in Balochistan coal mine accident",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2019732/shangla-mourns-28-miners-killed-in-balochistan-coal-mine-accident",
+      "published_date": "2026-07-31T16:25:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What we know about the sudden influx of migrants in Spain's enclave of Ceuta",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2019734/what-we-know-about-the-sudden-influx-of-migrants-in-spains-enclave-of-ceuta",
+      "published_date": "2026-07-31T15:56:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Over 4,000 police personnel to be deployed for security during AJK Assembly elections in Rawalpindi division",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2019728/over-4000-police-personnel-to-be-deployed-for-security-during-ajk-assembly-elections-in-rawalpindi-division",
+      "published_date": "2026-07-31T14:59:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Three killed, three injured in Tharparkar lightning strike",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2621041/fbati-chief-says-technology-innovation-key-to-trade-future",
-      "published_date": "2026-07-29T20:49:50+00:00",
-      "category": "Economy"
+      "url": "https://tribune.com.pk/story/2621375/three-killed-three-injured-in-tharparkar-lightning-strike",
+      "published_date": "2026-07-31T13:50:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Supreme Court accepts PTI founder’s chamber appeal, orders fixation of case before bench",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2019723/supreme-court-accepts-pti-founders-chamber-appeal-orders-fixation-of-case-before-bench",
+      "published_date": "2026-07-31T13:28:09+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Private schools in Sindh to decide weekly working days at their own convenience, education department says",
@@ -627,80 +697,10 @@
       "category": "Local Events"
     },
     {
-      "title": "At least 32 killed after coal mine explosion near Quetta; search under way for 2 miners",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2019693/at-least-32-killed-after-coal-mine-explosion-near-quetta-search-under-way-for-2-miners",
-      "published_date": "2026-07-31T07:43:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prayer leader accused of raping minor girl in Chakwal injured, arrested after 'pistol goes off in trousers': police",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2019687/prayer-leader-accused-of-raping-minor-girl-in-chakwal-injured-arrested-after-pistol-goes-off-in-trousers-police",
-      "published_date": "2026-07-31T06:46:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sleepless night near border of Spain's Ceuta as migrants torch vehicles",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2019690/sleepless-night-near-border-of-spains-ceuta-as-migrants-torch-vehicles",
-      "published_date": "2026-07-31T06:39:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "At least 15 killed in coal mine blast near Quetta",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2019623/at-least-15-killed-in-coal-mine-blast-near-quetta",
-      "published_date": "2026-07-31T03:19:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rescue efforts in full swing as dozens of villages in Punjab still under water",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2019598/rescue-efforts-in-full-swing-as-dozens-of-villages-in-punjab-still-under-water",
-      "published_date": "2026-07-31T02:31:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan braces for more rains as monsoon death toll climbs to 122",
+      "title": "UNICEF: Sudan’s El-Obeid ‘massive disaster’",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2652911/pakistan",
-      "published_date": "2026-07-30T23:07:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan, Türkiye agree in principle to revive Islamabad-Tehran-Istanbul freight rail link",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2652907/pakistan",
-      "published_date": "2026-07-30T22:07:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ECP refuses to recognise Achakzai as PkMAP chief over failure to hold intra-party polls",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2019533/ecp-refuses-to-recognise-achakzai-as-pkmap-chief-over-failure-to-hold-intra-party-polls",
-      "published_date": "2026-07-30T18:39:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arshad Nadeem qualifies for javelin throw final at Commonwealth Games",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2019491/arshad-nadeem-qualifies-for-javelin-throw-final-at-commonwealth-games",
-      "published_date": "2026-07-30T18:29:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Naqvi urges 'all political parties' to settle issue of more provinces, says current 'system' has collapsed",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2019502/naqvi-urges-all-political-parties-to-settle-issue-of-more-provinces-says-current-system-has-collapsed",
-      "published_date": "2026-07-30T17:53:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two miners killed, several feared trapped after Quetta coal mine explosion",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2019505/two-miners-killed-several-feared-trapped-after-quetta-coal-mine-explosion",
-      "published_date": "2026-07-30T16:13:47+00:00",
+      "url": "https://www.arabnews.pk/node/2652959/middle-east",
+      "published_date": "2026-07-31T08:07:05+00:00",
       "category": "Local Events"
     }
   ]
