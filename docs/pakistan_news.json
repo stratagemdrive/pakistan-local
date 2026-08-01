@@ -1,8 +1,22 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-07-31T23:52:17.712238+00:00",
+  "last_updated": "2026-08-01T12:06:24.454963+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Pak-China friendship is time-tested, remains steadfast despite evolving global challenges: CDF Munir",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2621517/pak-china-friendship-is-time-tested-remains-steadfast-despite-evolving-global-challenges-cdf-munir",
+      "published_date": "2026-08-01T05:12:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan continues rescue operation for missing climbers after Broad Peak avalanche",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2652986/pakistan",
+      "published_date": "2026-08-01T04:08:47+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Italy suspends Schengen agreement with Spain: foreign minister",
       "source": "Dawn",
@@ -130,24 +144,52 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Situation in Middle East comes under discussion as DPM Dar meets Kuwait FM",
+      "title": "CDF Munir says Pak-China friendship has remained steadfast amid evolving regional, global challenges",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2019222/situation-in-middle-east-comes-under-discussion-as-dpm-dar-meets-kuwait-fm",
-      "published_date": "2026-07-29T09:41:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2019924/cdf-munir-says-pak-china-friendship-has-remained-steadfast-amid-evolving-regional-global-challenges",
+      "published_date": "2026-08-01T10:23:04+00:00",
+      "category": "Military"
     },
     {
-      "title": "Pakistan, Egypt discuss coordinated Arab-Islamic diplomacy as Gaza crisis deepens",
+      "title": "Search operation to locate 7 climbers missing after Broad Peak avalanche resumes",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2019914/search-operation-to-locate-7-climbers-missing-after-broad-peak-avalanche-resumes",
+      "published_date": "2026-08-01T08:13:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "From Gaza to graduation: Palestinian students complete war-interrupted studies in Lahore",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2652740/pakistan",
-      "published_date": "2026-07-29T07:07:15+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.arabnews.pk/node/2652991/pakistan",
+      "published_date": "2026-08-01T07:08:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan military rejects UN report alleging civilian deaths Afghanistan strikes",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2652985/pakistan",
+      "published_date": "2026-08-01T04:08:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistani, Chinese armies bound by shared commitment to regional peace— Field Marshal Munir",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2653002/pakistan",
+      "published_date": "2026-07-31T22:08:02+00:00",
+      "category": "Military"
     },
     {
       "title": "Pakistan welcomes Board of Peace developments under Gaza Peace Plan: PM Shehbaz",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2019749/pakistan-welcomes-board-of-peace-developments-under-gaza-peace-plan-pm-shehbaz",
       "published_date": "2026-07-31T17:59:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "SPI slips below double digits despite ME war",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2621398/spi-slips-below-double-digits-despite-me-war",
+      "published_date": "2026-07-31T16:21:53+00:00",
       "category": "Military"
     },
     {
@@ -242,52 +284,24 @@
       "category": "Military"
     },
     {
-      "title": "US govt map of Africa mislabels every country at global conference",
+      "title": "Govt cuts petrol price by 12 paisas, high-speed diesel by 66 paisas for the next three days",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2019644/us-govt-map-of-africa-mislabels-every-country-at-global-conference",
-      "published_date": "2026-07-31T02:33:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Targeted fuel subsidy may return if Gulf tensions persist",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2019603/targeted-fuel-subsidy-may-return-if-gulf-tensions-persist",
-      "published_date": "2026-07-31T02:26:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Riyadh unveils maritime alliance as war spreads",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2019602/riyadh-unveils-maritime-alliance-as-war-spreads",
-      "published_date": "2026-07-31T02:18:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Death toll rises to 34 in Quetta mine blast as rescue operation continues",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2621297/34-miners-die-in-quetta-mine-blastas-rescue-operation-continues",
-      "published_date": "2026-07-31T01:26:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Oil falls more than $1 on greater flows despite US-Iran war",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2621292/oil-falls-more-than-1-on-greater-flows-despite-us-iran-war",
-      "published_date": "2026-07-31T00:57:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "President approves Nishan-e-Imtiaz for newly appointed national strategic commander",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2621291/president-approves-nishan-i-imtiaz-for-newly-appointed-national-strategic-commander",
-      "published_date": "2026-07-31T00:26:35+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/2019751/govt-cuts-petrol-price-by-12-paisas-high-speed-diesel-by-66-paisas-for-the-next-three-days",
+      "published_date": "2026-08-01T02:21:35+00:00",
+      "category": "Energy"
     },
     {
       "title": "Govt cuts petrol price by 12 paisas, diesel by 66 paisas for the next three days",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2019751/govt-cuts-petrol-price-by-12-paisas-diesel-by-66-paisas-for-the-next-three-days",
       "published_date": "2026-07-31T18:41:39+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "PSX rebounds 546 points on oil price fall",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2621404/psx-rebounds-546-points-on-oil-price-fall",
+      "published_date": "2026-07-31T16:21:53+00:00",
       "category": "Energy"
     },
     {
@@ -410,18 +424,53 @@
       "category": "Energy"
     },
     {
-      "title": "After the quake came the blast: Inside Japan's shopping mall disaster",
+      "title": "FIFA scraps private investment plan after fierce backlash from officials worldwide",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2019227/after-the-quake-came-the-blast-inside-japans-shopping-mall-disaster",
-      "published_date": "2026-07-29T09:28:11+00:00",
-      "category": "Energy"
+      "url": "https://www.dawn.com/news/2019907/fifa-scraps-private-investment-plan-after-fierce-backlash-from-officials-worldwide",
+      "published_date": "2026-08-01T05:39:33+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Lack of access to cooling to amplify heat deaths in Pakistan",
+      "title": "Banks likely to stay dependent on govt borrowing for profits",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2019142/lack-of-access-to-cooling-to-amplify-heat-deaths-in-pakistan",
-      "published_date": "2026-07-29T03:28:02+00:00",
-      "category": "Energy"
+      "url": "https://www.dawn.com/news/2019810/banks-likely-to-stay-dependent-on-govt-borrowing-for-profits",
+      "published_date": "2026-08-01T02:25:46+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pakistani, Bangladeshi companies sign vehicle export deal to boost bilateral trade",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2653001/pakistan",
+      "published_date": "2026-07-31T22:08:33+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "FBR exceeds July target by Rs30b",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2621395/fbr-exceeds-july-target-by-rs30b",
+      "published_date": "2026-07-31T16:21:53+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Climate forum planned to cut wheat imports",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2621401/climate-forum-planned-to-cut-wheat-imports",
+      "published_date": "2026-07-31T16:21:53+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Gold up Rs3,000 despite global dip",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2621400/gold-up-rs3000-despite-global-dip",
+      "published_date": "2026-07-31T16:21:53+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "PRA seals three premises",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2621399/pra-seals-three-premises",
+      "published_date": "2026-07-31T16:21:53+00:00",
+      "category": "Economy"
     },
     {
       "title": "Pakistan removal from Lloyd's war-risk list will bring economic growth: FM Dar",
@@ -515,192 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Interior Minister Mohsin Naqvi calls for new administrative units citing existing governance failure",
+      "title": "DISCOURSE: THE STAMP OF A MASTER",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2018216/discourse-the-stamp-of-a-master",
+      "published_date": "2026-08-01T11:05:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cleric affiliated with JUI-F shot dead in Lower South Waziristan",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2019910/cleric-affiliated-with-jui-f-shot-dead-in-lower-south-waziristan",
+      "published_date": "2026-08-01T11:00:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tourists barred from visiting Saiful Muluk",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2019799/tourists-barred-from-visiting-saiful-muluk",
+      "published_date": "2026-08-01T10:19:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PML-N never won a general election without rigging, alleges PPP's Saeed Ghani",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2019925/pml-n-never-won-a-general-election-without-rigging-alleges-ppps-saeed-ghani",
+      "published_date": "2026-08-01T10:01:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Parts of Karachi receive light showers; more rain expected",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2019923/parts-of-karachi-receive-light-showers-more-rain-expected",
+      "published_date": "2026-08-01T09:59:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan minister demands inquiry into coal mine explosion that killed 34",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2652999/pakistan",
+      "published_date": "2026-08-01T09:08:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PML-N MNA Malik Iqbal Channar passes away at 76",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2019919/pml-n-mna-malik-iqbal-channar-passes-away-at-76",
+      "published_date": "2026-08-01T08:44:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Quetta coal mine explosion: Search and rescue operation concludes as last two bodies recovered",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2019918/quetta-coal-mine-explosion-search-and-rescue-operation-concludes-as-last-two-bodies-recovered",
+      "published_date": "2026-08-01T08:19:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Activists held in Lahore for holding pro-Kashmir demonstration",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2019778/activists-held-in-lahore-for-holding-pro-kashmir-demonstration",
+      "published_date": "2026-08-01T08:00:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Modi says he forgives protesters who abused him during youth-led demonstrations against exam paper leaks",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2019908/modi-says-he-forgives-protesters-who-abused-him-during-youth-led-demonstrations-against-exam-paper-leaks",
+      "published_date": "2026-08-01T05:55:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Light rain brings relief to parts of Karachi, more showers expected",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2621128/interior-minister-mohsin-naqvi-calls-for-new-administrative-units-citing-existing-governance-failure",
-      "published_date": "2026-07-30T07:39:45+00:00",
-      "category": "Economy"
+      "url": "https://tribune.com.pk/story/2621519/light-rain-brings-relief-to-parts-of-karachi-more-showers-expected",
+      "published_date": "2026-08-01T05:26:14+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Saudi Arabia rolls over $5 billion deposit with Pakistan for three years — officials",
+      "title": "MOUNTAINEERING: THE LAST DESCENT",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2012980/mountaineering-the-last-descent",
+      "published_date": "2026-08-01T05:11:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan warns of urban floods in Punjab as monsoon death toll reaches 122",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2652849/pakistan",
-      "published_date": "2026-07-30T06:07:37+00:00",
-      "category": "Economy"
+      "url": "https://www.arabnews.pk/node/2652987/pakistan",
+      "published_date": "2026-08-01T05:08:35+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Punjab shuffles senior bureaucrats",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2019400/punjab-shuffles-senior-bureaucrats",
-      "published_date": "2026-07-30T04:19:55+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "‘Managed’ exchange rate hurts exports, investments",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2019351/managed-exchange-rate-hurts-exports-investments",
-      "published_date": "2026-07-30T02:31:54+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "‘Pakistan’s population can reach 400 million by 2040’",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2019379/pakistans-population-can-reach-400-million-by-2040",
-      "published_date": "2026-07-30T02:24:13+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Saudi Arabia rolls over $5b debt",
+      "title": "Gold prices fall by Rs3,700 per tola in local market",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2621037/saudi-arabia-rolls-over-5b-debt",
-      "published_date": "2026-07-29T20:49:50+00:00",
-      "category": "Economy"
+      "url": "https://tribune.com.pk/story/2621510/gold-prices-fall-by-rs3700-per-tola-in-local-market",
+      "published_date": "2026-08-01T04:20:08+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Gold slides as dollar firms ahead of Fed decision",
+      "title": "CTD arrests 54 suspected terrorists including 'five RAW agents' during IBOs across Punjab",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2621038/gold-slides-as-dollar-firms-ahead-of-fed-decision",
-      "published_date": "2026-07-29T20:49:50+00:00",
-      "category": "Economy"
+      "url": "https://tribune.com.pk/story/2621508/ctd-arrests-54-suspected-terrorists-including-five-raw-agents-during-ibos-across-punjab",
+      "published_date": "2026-08-01T04:10:40+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Labour’s Bev Craig is elected Greater Manchester mayor to succeed Andy Burnham",
+      "title": "Is Maryam bridging gap between PML-N legislators and admin?",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2019781/is-maryam-bridging-gap-between-pml-n-legislators-and-admin",
+      "published_date": "2026-08-01T03:56:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Imaan Mazari seeks urgent SC hearing against conviction",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2019800/imaan-mazari-seeks-urgent-sc-hearing-against-conviction",
+      "published_date": "2026-08-01T03:09:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Commonwealth Games: Pakistan bags boxing bronze after disappointing javelin show",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2652971/world",
-      "published_date": "2026-07-31T23:08:12+00:00",
+      "url": "https://www.arabnews.pk/node/2652984/pakistan",
+      "published_date": "2026-08-01T03:08:26+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Search operation for climbers missing after Broad Peak avalanche suspended due to bad weather",
+      "title": "Fatima claims Pakistan’s first medal at 2026 Commonwealth games",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2019683/search-operation-for-climbers-missing-after-broad-peak-avalanche-suspended-due-to-bad-weather",
-      "published_date": "2026-07-31T19:03:32+00:00",
+      "url": "https://www.dawn.com/news/2019813/fatima-claims-pakistans-first-medal-at-2026-commonwealth-games",
+      "published_date": "2026-08-01T02:46:22+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Schools in Sindh to remain closed on August 4: education department",
+      "title": "Parts of Punjab, Sindh face urban flooding risk",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2019744/schools-in-sindh-to-remain-closed-on-august-4-education-department",
-      "published_date": "2026-07-31T17:41:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ECP says ready to hold LG polls in Punjab, KP, blames last-minute amendments for delays",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2019739/ecp-says-ready-to-hold-lg-polls-in-punjab-kp-blames-last-minute-amendments-for-delays",
-      "published_date": "2026-07-31T17:20:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PPP's Central Executive Committee to deliberate creation of new administrative units: secretary general",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2019716/ppps-central-executive-committee-to-deliberate-creation-of-new-administrative-units-secretary-general",
-      "published_date": "2026-07-31T16:57:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shangla mourns 28 miners killed in Balochistan coal mine accident",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2019732/shangla-mourns-28-miners-killed-in-balochistan-coal-mine-accident",
-      "published_date": "2026-07-31T16:25:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What we know about the sudden influx of migrants in Spain's enclave of Ceuta",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2019734/what-we-know-about-the-sudden-influx-of-migrants-in-spains-enclave-of-ceuta",
-      "published_date": "2026-07-31T15:56:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Over 4,000 police personnel to be deployed for security during AJK Assembly elections in Rawalpindi division",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2019728/over-4000-police-personnel-to-be-deployed-for-security-during-ajk-assembly-elections-in-rawalpindi-division",
-      "published_date": "2026-07-31T14:59:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three killed, three injured in Tharparkar lightning strike",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2621375/three-killed-three-injured-in-tharparkar-lightning-strike",
-      "published_date": "2026-07-31T13:50:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Supreme Court accepts PTI founder’s chamber appeal, orders fixation of case before bench",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2019723/supreme-court-accepts-pti-founders-chamber-appeal-orders-fixation-of-case-before-bench",
-      "published_date": "2026-07-31T13:28:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Private schools in Sindh to decide weekly working days at their own convenience, education department says",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2019711/private-schools-in-sindh-to-decide-weekly-working-days-at-their-own-convenience-education-department-says",
-      "published_date": "2026-07-31T12:32:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two law enforcers martyred in DI Khan ambush: police",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2019712/two-law-enforcers-martyred-in-di-khan-ambush-police",
-      "published_date": "2026-07-31T11:50:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Fear of the regime has now gone’: How big a risk does ‘cockroach’ movement pose to India’s BJP?",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2019709/fear-of-the-regime-has-now-gone-how-big-a-risk-does-cockroach-movement-pose-to-indias-bjp",
-      "published_date": "2026-07-31T10:00:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "4 bodies found as search continues for climbers missing after Broad Peak avalanche",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2019683/4-bodies-found-as-search-continues-for-climbers-missing-after-broad-peak-avalanche",
-      "published_date": "2026-07-31T09:31:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "People allowed back home in southwestern France as fire weakens",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2652902/world",
-      "published_date": "2026-07-31T09:07:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Govt will resolve your issues and ensure your protection, Naqvi tells traders from KP and Balochistan",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2019703/govt-will-resolve-your-issues-and-ensure-your-protection-naqvi-tells-traders-from-kp-and-balochistan",
-      "published_date": "2026-07-31T08:47:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meta India head named in case over Facebook videos targeting PM Modi",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2019705/meta-india-head-named-in-case-over-facebook-videos-targeting-pm-modi",
-      "published_date": "2026-07-31T08:38:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IHC tells NCCIA to provide journalist Asad Toor with details of allegations against him",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2019702/ihc-tells-nccia-to-provide-journalist-asad-toor-with-details-of-allegations-against-him",
-      "published_date": "2026-07-31T08:28:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan rescuers find 4 bodies of 10 climbers missing on Broad Peak after avalanche",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2652901/pakistan",
-      "published_date": "2026-07-31T08:07:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UNICEF: Sudan’s El-Obeid ‘massive disaster’",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2652959/middle-east",
-      "published_date": "2026-07-31T08:07:05+00:00",
+      "url": "https://www.dawn.com/news/2019823/parts-of-punjab-sindh-face-urban-flooding-risk",
+      "published_date": "2026-08-01T02:23:53+00:00",
       "category": "Local Events"
     }
   ]
