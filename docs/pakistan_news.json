@@ -1,8 +1,43 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-08-03T13:44:36.428807+00:00",
+  "last_updated": "2026-08-03T23:58:45.701412+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Myanmar's detained former leader Aung San Suu Kyi meets Red Cross official",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2020393/myanmars-detained-former-leader-aung-san-suu-kyi-meets-red-cross-official",
+      "published_date": "2026-08-03T18:56:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Your countdown has begun': Bilawal warns of launching movement against govt over alleged rigging in AJK polls",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2621871/your-countdown-has-begun-bilawal-warns-of-launching-movement-against-centre",
+      "published_date": "2026-08-03T12:27:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Denmark targets August 21 for second Security Council UN chief poll",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2653282/world",
+      "published_date": "2026-08-03T08:08:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US trial opens on UN worker killed in Boeing 737 MAX crash",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2653281/world",
+      "published_date": "2026-08-03T08:08:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Zelensky sacks his ambassador to the US",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2653271/world",
+      "published_date": "2026-08-03T07:08:21+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Japan, US confirm joint yen-buying intervention, signal more action",
       "source": "The Express Tribune",
@@ -109,39 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pakistan says US-Iran negotiations on Hormuz, de-escalation ‘ongoing’",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2652789/pakistan",
-      "published_date": "2026-07-30T08:07:55+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU agrees rescue centre in eastern Libya as migrant departures rise",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2652867/middle-east",
-      "published_date": "2026-07-30T08:07:18+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "JI chief mocks Maryam-Bilawal exchanges as 'political theatre'",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2621133/ji-chief-mocks-maryam-bilawal-exchanges-as-political-theatre",
-      "published_date": "2026-07-30T07:56:16+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Spain slams Italy over Schengen exclusion call",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2652855/world",
-      "published_date": "2026-07-30T07:07:10+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pakistan, Türkiye express concern over Israel’s military actions in Palestine, Al-Aqsa violations",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2652779/pakistan",
-      "published_date": "2026-07-30T07:07:06+00:00",
-      "category": "Diplomacy"
+      "title": "After deadly day, Gazans say Trump's touting of plan jars with grim reality",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2020367/after-deadly-day-gazans-say-trumps-touting-of-plan-jars-with-grim-reality",
+      "published_date": "2026-08-03T14:41:33+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran denies negotiations with US after Trump announces talks",
@@ -162,6 +169,27 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2020337/israel-conveys-comments-concerns-to-us-on-gaza-plan-says-version-made-public-does-not-reflect-its-position",
       "published_date": "2026-08-03T08:41:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Can Trump’s ‘art of the deal’ strategy reshape the conflict with Iran?",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2653273/middle-east",
+      "published_date": "2026-08-03T07:08:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Dr. Satyanjal Pandey assumes charge as India’s new chargé d’affaires in Islamabad",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2653270/pakistan",
+      "published_date": "2026-08-03T07:08:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Somalia’s Al-Shabab seize strategic town",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2653276/world",
+      "published_date": "2026-08-03T07:08:28+00:00",
       "category": "Military"
     },
     {
@@ -256,32 +284,32 @@
       "category": "Military"
     },
     {
-      "title": "Security forces kill 10 terrorists in IBOs under Operation 11 Gurj across K-P",
+      "title": "Govt slashes petrol price by Rs4.08, high-speed diesel by Rs2.45",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2020389/govt-slashes-petrol-price-by-rs408-high-speed-diesel-by-rs245",
+      "published_date": "2026-08-03T19:40:34+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Govt reduces petrol price by Rs4.08, HSD by Rs2.45 for August 4",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2621669/security-forces-kill-10-terrorists-in-ibos-under-operation-11-gurj-across-k-p",
-      "published_date": "2026-08-02T07:13:09+00:00",
-      "category": "Military"
+      "url": "https://tribune.com.pk/story/2621876/govt-reduces-petrol-price-by-rs408-hsd-by-rs245-for-august-4",
+      "published_date": "2026-08-03T13:42:44+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Iranian MP says efforts underway to revive Pakistan-brokered US-Iran deal",
+      "title": "Pakistan slashes petrol price by Rs4 per liter as Middle East tensions ease",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2653147/pakistan",
-      "published_date": "2026-08-02T06:08:51+00:00",
-      "category": "Military"
+      "url": "https://www.arabnews.pk/node/2653275/pakistan",
+      "published_date": "2026-08-03T07:08:22+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Sri Lanka deploys troops after prison riot",
+      "title": "England, Wales had driest July on record: Met Office",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2653094/world",
-      "published_date": "2026-08-02T06:08:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran discusses regional tensions with Pakistan, Saudi Arabia after Trump cancels planned strikes",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2653091/pakistan",
-      "published_date": "2026-08-02T05:08:15+00:00",
-      "category": "Military"
+      "url": "https://www.arabnews.pk/node/2653259/world",
+      "published_date": "2026-08-03T06:08:04+00:00",
+      "category": "Energy"
     },
     {
       "title": "PSX jumps over 2,100 points on lower oil prices, global optimism",
@@ -396,32 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Govt increases petrol price by Rs1.09, HSD price by Rs2.42",
+      "title": "PM Shehbaz directs completion of privatisation programmes according to agreed timelines",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2019530/govt-increases-petrol-price-by-rs109-hsd-price-by-rs242",
-      "published_date": "2026-07-30T18:36:36+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Root named England Test captain, Fleming appointed coach",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2019513/root-named-england-test-captain-fleming-appointed-coach",
-      "published_date": "2026-07-30T15:06:09+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Govt announces Rs1.09 increase in petrol, Rs2.42 in diesel price for July 31",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2621162/govt-announces-rs109-increase-in-petrol-rs242-in-diesel-price-for-july-31",
-      "published_date": "2026-07-30T12:52:36+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Two dead as methane blast collapses coal mine in Balochistan's Sorange, traps over two dozen miners",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2621148/two-dead-as-methane-blast-collapses-coal-mine-in-balochistans-sorange-traps-over-two-dozen-miners",
-      "published_date": "2026-07-30T10:38:21+00:00",
-      "category": "Energy"
+      "url": "https://www.dawn.com/news/2020371/pm-privatisation",
+      "published_date": "2026-08-03T15:46:15+00:00",
+      "category": "Economy"
     },
     {
       "title": "Bulls in charge as PSX opens week by gaining 2,100 points",
@@ -557,11 +564,39 @@
       "category": "Economy"
     },
     {
-      "title": "Gold up Rs3,000 despite global dip",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2621400/gold-up-rs3000-despite-global-dip",
-      "published_date": "2026-07-31T16:21:53+00:00",
-      "category": "Economy"
+      "title": "'Tick tock': Bilawal says PML-N's 'countdown' has begun, will hold rally in AJK's Poonch ahead of polls",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2020385/tick-tock-bilawal-says-pml-ns-countdown-has-begun-will-hold-rally-in-ajks-poonch-ahead-of-polls",
+      "published_date": "2026-08-03T21:35:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Religious scholar killed in explosion at supermarket in South Waziristan's Wana",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2020348/religious-scholar-killed-in-explosion-at-supermarket-in-south-waziristans-wana",
+      "published_date": "2026-08-03T20:22:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "At least 3 killed in rain-related incidents across Punjab; parts of Lahore inundated",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2020381/at-least-3-killed-in-rain-related-incidents-across-punjab-parts-of-lahore-inundated",
+      "published_date": "2026-08-03T19:59:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AJK information secretary says 7 law enforcement personnel martyred in recent unrest",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2020373/ajk-information-secretary-says-7-law-enforcement-personnel-martyred-in-recent-unrest",
+      "published_date": "2026-08-03T19:51:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Islamabad ATC hands Mushtaq Ahmad to police on 3-day physical remand in protest case",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2020365/islamabad-atc-hands-mushtaq-ahmad-to-police-on-3-day-physical-remand-in-protest-case",
+      "published_date": "2026-08-03T15:39:46+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Death toll from suicide bombing near police station in Swat rises to 17",
@@ -585,10 +620,38 @@
       "category": "Local Events"
     },
     {
+      "title": "Swat mourns Kabal Police Station suicide bombing",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2621869/swat-mourns-kabal-police-station-suicide-bombing",
+      "published_date": "2026-08-03T12:02:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PML-N consolidates lead with 23 seats in AJK elections, PPP stands second with nine",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2621868/pml-n-consolidates-lead-with-23-seats-in-ajk-elections-ppp-stands-second-with-nine",
+      "published_date": "2026-08-03T11:57:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Islamabad ATC grants police 3-day physical remand of former senator Mushtaq Ahmad in AJK protest case",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2621860/islamabad-atc-grants-police-3-day-physical-remand-of-former-senator-mushtaq-ahmad",
+      "published_date": "2026-08-03T10:49:56+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Court acquits former India wrestling chief of sexually harassing athletes",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2020344/court-acquits-former-india-wrestling-chief-of-sexually-harassing-athletes",
       "published_date": "2026-08-03T10:03:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tarar slams PPP's 'baseless accusations' on AJK polls, urges ally to accept results",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2621837/tarar-slams-ppps-baseless-accusations-on-ajk-polls-urges-ally-to-accept-results",
+      "published_date": "2026-08-03T08:16:05+00:00",
       "category": "Local Events"
     },
     {
@@ -638,69 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2020278/balochistan-govt-orders-inquiry-into-sorange-coal-mine-disaster",
       "published_date": "2026-08-03T02:45:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Information ministry accuses Al Jazeera of misrepresenting AJK elections",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2621799/information-ministry-accuses-al-jazeera-of-misrepresenting-ajk-elections",
-      "published_date": "2026-08-03T02:12:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russian planes fire a salvo of glide bombs at a southern Ukraine city, killing 1 and wounding dozens",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2653212/world",
-      "published_date": "2026-08-02T22:08:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PTI plans next phase of struggle",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2621783/pti-plans-next-phase-of-struggle",
-      "published_date": "2026-08-02T21:59:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AJK polls: PML-N leads in second phase",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2621777/ajk-polls-pml-n-leads-in-second-phase",
-      "published_date": "2026-08-02T20:55:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Second phase of AJK polls concludes amid renewed rigging allegations by PPP",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2020095/second-phase-of-ajk-polls-concludes-amid-renewed-rigging-allegations-by-ppp",
-      "published_date": "2026-08-02T19:38:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Scuffle and chaos mar MQM-P meeting as two groups clash at party's Bahadurabad office",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2020162/scuffle-and-chaos-mar-mqm-p-meeting-as-two-groups-clash-at-partys-bahadurabad-office",
-      "published_date": "2026-08-02T19:25:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "At least 14 people, including police officials, martyred in suicide attack on Kabal police station in Swat: police",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2020154/at-least-14-people-including-police-officials-martyred-in-suicide-attack-on-kabal-police-station-in-swat-police",
-      "published_date": "2026-08-02T18:43:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "At Nepal school, outpouring of grief for climber Nirmal Purja",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2020165/at-nepal-school-outpouring-of-grief-for-climber-nirmal-purja",
-      "published_date": "2026-08-02T18:29:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Routine life disrupted in Hyderabad after rain lashes city",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2020152/routine-life-disrupted-in-hyderabad-after-rain-lashes-city",
-      "published_date": "2026-08-02T14:20:04+00:00",
       "category": "Local Events"
     }
   ]
