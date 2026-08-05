@@ -1,8 +1,15 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-08-05T12:58:48.838804+00:00",
+  "last_updated": "2026-08-05T23:46:38.919362+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "AJK observes Youm-e-Istehsal-e-Kashmir",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2622285/ajk-observes-youm-e-istehsal-e-kashmir",
+      "published_date": "2026-08-05T14:03:15+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "‘No sovereignty over East Jerusalem’: Dar condemns Al-Aqsa incursions by ‘extremist Israeli settlers’",
       "source": "Dawn",
@@ -11,10 +18,24 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Pakistan, Iran agree on round-the-clock border operations to spur trade",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2622249/pakistan-iran-agree-on-round-the-clock-border-operations-to-spur-trade",
+      "published_date": "2026-08-05T09:45:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Youm-i-Istehsal: Pakistan says lasting peace in South Asia linked to peaceful resolution of Kashmir dispute",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2020739/youm-i-istehsal-pakistan-says-lasting-peace-in-south-asia-linked-to-peaceful-resolution-of-kashmir-dispute",
       "published_date": "2026-08-05T07:21:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN expert welcomes moves to extradite Tate brothers",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2653553/world",
+      "published_date": "2026-08-05T07:08:12+00:00",
       "category": "Diplomacy"
     },
     {
@@ -123,25 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "JAAC responds to Bilawal’s letter, shows willingness to join truth commission talks",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2621552/jaac-responds-to-bilawals-letter-shows-willingness-to-join-truth-commission-talks",
-      "published_date": "2026-08-01T12:54:31+00:00",
-      "category": "Diplomacy"
+      "title": "Islamabad raises Afghan terrorism concerns at UN Security Council",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2020807/islamabad-raises-afghan-terrorism-concerns-at-un-security-council",
+      "published_date": "2026-08-05T19:19:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "JI Lahore chief denounces crackdown on Kashmir solidarity protesters",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2621534/ji-lahore-chief-denounces-crackdown-on-kashmir-solidarity-protesters",
-      "published_date": "2026-08-01T09:14:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UAE eases visit visas for Pakistanis after months of uncertainty, travel agents say",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2653059/pakistan",
-      "published_date": "2026-08-01T07:08:19+00:00",
-      "category": "Diplomacy"
+      "title": "Search team reaches Broad Peak base camp with body of renowned mountaineer Nirmal Purja",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2020787/search-team-reaches-broad-peak-base-camp-with-body-of-renowned-mountaineer-nirmal-purja",
+      "published_date": "2026-08-05T13:08:55+00:00",
+      "category": "Military"
     },
     {
       "title": "Strong El Nino could push 49 million more people into acute hunger, UN agency says",
@@ -169,6 +183,20 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2020745/trump-warns-iran-to-open-strait-of-hormuz-or-get-hit-very-hard",
       "published_date": "2026-08-05T08:14:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Communication with Mojtaba ‘very difficult at moment’: Iran president",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2653566/middle-east",
+      "published_date": "2026-08-05T08:08:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran threatens to hit Gulf states if US launches new strikes",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2653568/middle-east",
+      "published_date": "2026-08-05T08:08:15+00:00",
       "category": "Military"
     },
     {
@@ -256,32 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Several terrorists killed in K-P's Lakki Marwat: state media",
+      "title": "Govt raises petrol price by Rs4.45, cuts HSD by Rs2",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2020812/govt-raises-petrol-price-by-rs445-cuts-hsd-by-rs2",
+      "published_date": "2026-08-05T19:14:59+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Govt increases petrol price by Rs4.45, decreases HSD by Rs2 for August 6",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2622002/several-terrorists-killed-in-k-ps-lakki-marwat-state-media",
-      "published_date": "2026-08-04T01:09:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Qatar blames Israel for delayed implementation of Gaza peace plan",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2653346/middle-east",
-      "published_date": "2026-08-04T00:08:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Six years after Beirut port blast, victims’ families say ‘wound has not healed’",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2653340/middle-east",
-      "published_date": "2026-08-03T23:08:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "WHO pleads for more support to tackle Ebola outbreak",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2653344/world",
-      "published_date": "2026-08-03T23:08:04+00:00",
-      "category": "Military"
+      "url": "https://tribune.com.pk/story/2622272/govt-increases-petrol-price-by-rs445-decreases-hsd-by-rs2-for-august-6",
+      "published_date": "2026-08-05T13:32:30+00:00",
+      "category": "Energy"
     },
     {
       "title": "Gulf shipping traffic steady amid uncertainty of US-Iran peace talks",
@@ -410,18 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Iranian oil smuggling drops 60pc, claim sources",
+      "title": "India panel warns Meta over Modi video removal",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2020065/iranian-oil-smuggling-drops-60pc-claim-sources",
-      "published_date": "2026-08-02T02:45:59+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Billions in olive oil exports at risk",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2621600/billions-in-olive-oil-exports-at-risk",
-      "published_date": "2026-08-01T18:33:26+00:00",
-      "category": "Energy"
+      "url": "https://www.dawn.com/news/2020793/india-panel-warns-meta-over-modi-video-removal",
+      "published_date": "2026-08-05T14:44:14+00:00",
+      "category": "Economy"
     },
     {
       "title": "Pakistan, US hold counter-terrorism dialogue, reaffirm commitment to combating terrorist groups",
@@ -435,6 +442,20 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2653469/pakistan",
       "published_date": "2026-08-05T09:08:18+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Could a US-Iran deal over Hormuz reshape global shipping and the rules of international trade?",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2653564/middle-east",
+      "published_date": "2026-08-05T08:08:21+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US suspends avocado imports from Mexican state over security concerns",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2653562/world",
+      "published_date": "2026-08-05T07:08:02+00:00",
       "category": "Economy"
     },
     {
@@ -543,31 +564,73 @@
       "category": "Economy"
     },
     {
-      "title": "GEPCO line losses drop to 9.8%",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2621981/gepco-line-losses-drop-to-98",
-      "published_date": "2026-08-03T20:50:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Shehbaz orders timely state asset privatisation",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2621966/shehbaz-orders-timely-state-asset-privatisation",
-      "published_date": "2026-08-03T19:23:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "PM Shehbaz directs completion of privatisation programmes according to agreed timelines",
+      "title": "Govt will complete tenure, Shehbaz to remain PM for five years: Naqvi",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2020371/pm-privatisation",
-      "published_date": "2026-08-03T15:46:15+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2020813/govt-will-complete-tenure-shehbaz-to-remain-pm-for-five-years-naqvi",
+      "published_date": "2026-08-05T18:57:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan beat West Indies by eight wickets to draw series",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2020814/pakistan-beat-west-indies-by-eight-wickets-to-draw-series",
+      "published_date": "2026-08-05T18:37:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sindh restores five-day working week for schools, colleges",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2020804/sindh-restores-five-day-working-week-for-schools-colleges",
+      "published_date": "2026-08-05T17:16:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan, Iran agree to keep border crossings open round the clock to boost trade",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2020798/pakistan-iran-agree-to-keep-border-crossings-open-round-the-clock-to-boost-trade",
+      "published_date": "2026-08-05T16:30:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Roads blocked, traffic disrupted as PTI holds rally near Karachi Press Club",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2020790/roads-blocked-traffic-disrupted-as-pti-holds-rally-near-karachi-press-club",
+      "published_date": "2026-08-05T15:54:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Woman killed, 11 injured as speeding SUV rams pickup on Karachi's Shahrah-e-Bhutto",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2622286/woman-killed-11-injured-as-speeding-suv-rams-pickup-on-karachis-shahrah-e-bhutto",
+      "published_date": "2026-08-05T14:10:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Post-mortem report of Karachi waffle chain owner raises ‘more questions than answers’",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2622274/post-mortem-report-of-karachi-waffle-chain-owner-raises-more-questions-than-answers",
+      "published_date": "2026-08-05T13:54:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police detain PTI workers after Karachi protest against 3 years of Imran's imprisonment",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2622267/police-detain-pti-workers-after-karachi-protest-against-3-years-of-imrans-imprisonment",
+      "published_date": "2026-08-05T13:11:05+00:00",
+      "category": "Local Events"
     },
     {
       "title": "PM Shehbaz directs adoption of 'comprehensive strategy' to attract investors for Discos' privatisation",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2020772/pm-shehbaz-directs-adoption-of-comprehensive-strategy-to-attract-investors-for-discos-privatisation",
       "published_date": "2026-08-05T12:52:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Schools in Sindh to open five days a week as govt reverses earlier step",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2622262/schools-in-sindh-to-open-five-days-a-week-as-govt-reverses-earlier-step",
+      "published_date": "2026-08-05T12:25:39+00:00",
       "category": "Local Events"
     },
     {
@@ -578,10 +641,24 @@
       "category": "Local Events"
     },
     {
+      "title": "PTI stages nationwide protests to mark three years of Imran Khan's imprisonment",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2622253/pti-stages-nationwide-protests-to-mark-three-years-of-imran-khans-imprisonment",
+      "published_date": "2026-08-05T10:30:17+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "AJK elections: PML-N, PPP secure one seat each following delayed polls in Muzaffarabad constituencies",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2020768/ajk-elections-pml-n-ppp-secure-one-seat-each-following-delayed-polls-in-muzaffarabad-constituencies",
       "published_date": "2026-08-05T10:12:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Karachi police arrest 17-year-old relative for alleged rape, murder after toddler dies in Qayyumabad",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2622247/karachi-police-arrest-17-year-old-relative-for-alleged-rape-murder-after-toddler-dies-in-qayyumabad",
+      "published_date": "2026-08-05T09:16:13+00:00",
       "category": "Local Events"
     },
     {
@@ -624,83 +701,6 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2653457/pakistan",
       "published_date": "2026-08-05T07:08:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The viral videos that inspired tens of thousands to swim from Morocco to Spain’s Ceuta",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2020755/the-viral-videos-that-inspired-tens-of-thousands-to-swim-from-morocco-to-spains-ceuta",
-      "published_date": "2026-08-05T06:50:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two young women suspected of petty theft die in Lahore police custody",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2020639/two-young-women-suspected-of-petty-theft-die-in-lahore-police-custody",
-      "published_date": "2026-08-05T06:17:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Delayed AJK poll results hand one seat each to PML-N, PPP in Muzaffarabad constituencies",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2622213/delayed-ajk-poll-results-hand-one-seat-each-to-pml-n-ppp-in-muzaffarabad-constituencies",
-      "published_date": "2026-08-05T05:42:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan close on series-levelling win against West Indies",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2020743/pakistan-close-on-series-levelling-win-against-west-indies",
-      "published_date": "2026-08-05T05:10:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IHC petition challenges delay in acting on JCP recommendations",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2622206/ihc-petition-challenges-delay-in-acting-on-jcp-recommendations",
-      "published_date": "2026-08-05T05:01:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "CJP Afridi promises women facilitation centres in courts nationwide",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2020723/cjp-afridi-promises-women-facilitation-centres-in-courts-nationwide",
-      "published_date": "2026-08-05T03:31:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IHC suspends order for disclosure of cricketers’ salaries, perks",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2020681/ihc-suspends-order-for-disclosure-of-cricketers-salaries-perks",
-      "published_date": "2026-08-05T02:58:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two gas utilities to become five",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2020700/two-gas-utilities-to-become-five",
-      "published_date": "2026-08-05T02:53:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kara­koram Highway closed, Ghizer worst hit by more flash floods",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2020690/karakoram-highway-closed-ghizer-worst-hit-by-more-flash-floods",
-      "published_date": "2026-08-05T02:42:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PML-N, PPP headed for one seat each in delayed AJK constituencies",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2020692/pml-n-ppp-headed-for-one-seat-each-in-delayed-ajk-constituencies",
-      "published_date": "2026-08-05T02:42:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PTI all set to ‘take to streets’ for Imran’s release today",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2020688/pti-all-set-to-take-to-streets-for-imrans-release-today",
-      "published_date": "2026-08-05T02:38:36+00:00",
       "category": "Local Events"
     }
   ]
