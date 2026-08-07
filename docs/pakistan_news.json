@@ -1,8 +1,22 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-08-07T11:50:32.287061+00:00",
+  "last_updated": "2026-08-07T23:23:38.183453+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "PPP to abide by will of the people when deciding upon new administrative units: Bilawal",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2622630/ppp-to-abide-by-will-of-the-people-when-deciding-upon-new-administrative-units-bilawal",
+      "published_date": "2026-08-07T08:48:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany holds security meeting over explosive drone amid Russia protest",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2653811/world",
+      "published_date": "2026-08-07T06:08:59+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "PM Shehbaz meets Saudi Crown Prince MBS in Makkah",
       "source": "The Express Tribune",
@@ -130,24 +144,59 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pakistan gets a pass on new US visa bond rule",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2020480/pakistan-gets-a-pass-on-new-us-visa-bond-rule",
-      "published_date": "2026-08-04T02:57:38+00:00",
-      "category": "Diplomacy"
+      "title": "Syrian security forces foil Daesh bombing plot near Damascus; two militants killed",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2653838/middle-east",
+      "published_date": "2026-08-07T22:08:53+00:00",
+      "category": "Military"
     },
     {
-      "title": "Govt slams Al Jazeera's AJK coverage",
+      "title": "'Historic day': Experts, politicos weigh in on Makkah defence pact",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021276/historic-day-experts-politicos-weigh-in-on-makkah-defence-pact",
+      "published_date": "2026-08-07T18:27:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What is the Patriot missile system and why are supplies depleted worldwide?",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021288/what-is-the-patriot-missile-system-and-why-are-supplies-depleted-worldwide",
+      "published_date": "2026-08-07T18:12:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Italy defies Spanish demand to lift border curbs over Ceuta migrant crisis",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021280/italy-defies-spanish-demand-to-lift-border-curbs-over-ceuta-migrant-crisis",
+      "published_date": "2026-08-07T16:16:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The Gulf’s new security architecture takes shape",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021269/the-gulfs-new-security-architecture-takes-shape",
+      "published_date": "2026-08-07T14:10:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Thousands rally in Swat, demand lasting peace and end to unrest",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2621969/govt-slams-al-jazeeras-ajk-coverage",
-      "published_date": "2026-08-03T19:23:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://tribune.com.pk/story/2622649/thousands-rally-in-swat-demand-lasting-peace-and-end-to-unrest",
+      "published_date": "2026-08-07T11:48:26+00:00",
+      "category": "Military"
     },
     {
       "title": "Pakistan, Saudi Arabia, Turkiye sign tripartite defence agreement in Makkah",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2021248/pakistan-saudi-arabia-turkiye-sign-tripartite-defence-agreement-in-makkah",
       "published_date": "2026-08-07T11:11:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Shared resolve for peace and security': President Zardari, PM Shehbaz hail Makkah defence pact",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2622641/shared-resolve-for-peace-and-security-president-zardari-pm-shehbaz-hail-makkah-defence-pact",
+      "published_date": "2026-08-07T10:51:13+00:00",
       "category": "Military"
     },
     {
@@ -162,6 +211,13 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2653738/world",
       "published_date": "2026-08-07T07:08:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian attacks kill two in Ukraine’s southeastern Dnipropetrovsk Region",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2653809/world",
+      "published_date": "2026-08-07T06:08:32+00:00",
       "category": "Military"
     },
     {
@@ -228,60 +284,39 @@
       "category": "Military"
     },
     {
-      "title": "Houthi attacks wound 11 in Saudi Arabia after deadly strike on Yemen troops",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2653706/saudi-arabia",
-      "published_date": "2026-08-06T22:08:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "CDF Munir discusses enhancement of defence, security cooperation with Somalia: ISPR",
+      "title": "Govt reduces petrol price by Rs2.20, high-speed diesel by Rs1.50",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021029/cdf-munir-discusses-enhancement-of-defence-security-cooperation-with-somalia-ispr",
-      "published_date": "2026-08-06T14:06:27+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/2021290/govt-reduces-petrol-price-by-rs220-high-speed-diesel-by-rs150",
+      "published_date": "2026-08-07T19:08:14+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Security forces kill 12 terrorists in Balochistan's Mastung, Washuk IBOs: ISPR",
+      "title": "Power consumers to pay 75 paisa per unit FCA in August bills",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021030/security-forces-kill-12-terrorists-in-balochistans-mastung-washuk-ibos-ispr",
-      "published_date": "2026-08-06T13:47:38+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/2021273/power-consumers-to-pay-75-paisa-per-unit-fca-in-august-bills",
+      "published_date": "2026-08-07T15:18:08+00:00",
+      "category": "Energy"
     },
     {
-      "title": "UNDERSTANDING IRAN’S WAR STRATEGY",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2020030/understanding-irans-war-strategy",
-      "published_date": "2026-08-06T12:30:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "North Korea fires ballistic missile, South Korea military says",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021016/north-korea-fires-ballistic-missile-south-korea-military-says",
-      "published_date": "2026-08-06T11:44:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "PM Shehbaz departs for Saudi Arabia on 3-day visit",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2020987/pm-shehbaz-departs-for-saudi-arabia-on-3-day-visit",
-      "published_date": "2026-08-06T10:58:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bodies of Nirmal Purja, 4 other climbers airlifted to Skardu after Broad Peak avalanche",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021002/bodies-of-nirmal-purja-4-other-climbers-airlifted-to-skardu-after-broad-peak-avalanche",
-      "published_date": "2026-08-06T10:53:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Security forces kill 12 terrorists in Balochistan IBOs: ISPR",
+      "title": "Nepra approves 75 paisa per unit hike in electricity tariff under FCA",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2622432/security-forces-kill-12-terrorists-in-balochistan-ibos-ispr",
-      "published_date": "2026-08-06T08:13:38+00:00",
-      "category": "Military"
+      "url": "https://tribune.com.pk/story/2622658/nepra-approves-75-paisa-per-unit-hike-in-electricity-tariff-under-fca",
+      "published_date": "2026-08-07T13:23:53+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Govt reduces petrol price by Rs2.20, HSD by Rs1.50 for next three days",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2622656/govt-reduces-petrol-price-by-rs220-hsd-by-rs150-for-next-three-days",
+      "published_date": "2026-08-07T13:00:50+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "How settler violence and settlement expansion are impacting life across the West Bank",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2653823/middle-east",
+      "published_date": "2026-08-07T08:08:31+00:00",
+      "category": "Energy"
     },
     {
       "title": "PSX slips as profit-taking, oil concerns weigh on sentiment",
@@ -389,39 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Stocks surge 2,100 points on oil price dip",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2621985/stocks-surge-2100-points-on-oil-price-dip",
-      "published_date": "2026-08-03T20:50:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Govt slashes petrol price by Rs4.08, high-speed diesel by Rs2.45",
+      "title": "Mineral wealth",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2020389/govt-slashes-petrol-price-by-rs408-high-speed-diesel-by-rs245",
-      "published_date": "2026-08-03T19:40:34+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Govt reduces petrol price by Rs4.08, HSD by Rs2.45 for August 4",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2621876/govt-reduces-petrol-price-by-rs408-hsd-by-rs245-for-august-4",
-      "published_date": "2026-08-03T13:42:44+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Pakistan slashes petrol price by Rs4 per liter as Middle East tensions ease",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2653275/pakistan",
-      "published_date": "2026-08-03T07:08:22+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "England, Wales had driest July on record: Met Office",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2653259/world",
-      "published_date": "2026-08-03T06:08:04+00:00",
-      "category": "Energy"
+      "url": "https://www.dawn.com/news/2021154/mineral-wealth",
+      "published_date": "2026-08-07T12:47:18+00:00",
+      "category": "Economy"
     },
     {
       "title": "AI reshapes Pakistan’s software industry as entry-level roles decline by 25 percent",
@@ -557,11 +564,53 @@
       "category": "Economy"
     },
     {
-      "title": "Pakistan, US make progress on reciprocal trade framework: finance ministry",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2622183/pakistan-us-make-progress-on-reciprocal-trade-framework-finance-ministry",
-      "published_date": "2026-08-05T00:45:20+00:00",
-      "category": "Economy"
+      "title": "Goods transporters to go on strike from Saturday after talks with govt fail",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021293/goods-transporters-to-go-on-strike-from-saturday-after-talks-with-govt-fail",
+      "published_date": "2026-08-07T18:18:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sindh govt constitutes third medical board for exhumation of Mir Ali Raza’s body",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021292/sindh-govt-constitutes-third-medical-board-for-exhumation-of-mir-ali-razas-body",
+      "published_date": "2026-08-07T18:17:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "JI protests cause traffic disruptions across Karachi",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021256/ji-protests-cause-traffic-disruptions-across-karachi",
+      "published_date": "2026-08-07T17:24:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SCBA backs call for new provinces, calls it 'step forward' for better governance",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021274/scba-backs-call-for-new-provinces-calls-it-step-forward-for-better-governance",
+      "published_date": "2026-08-07T15:25:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Domestic, foreign investors show interest in Fesco privatisation: privatisation commission",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021271/domestic-foreign-investors-show-interest-in-fesco-privatisation-privatisation-commission",
+      "published_date": "2026-08-07T14:58:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bilawal claims 'certain elements' within PML-N are sowing division among allies, undermining PM Shehbaz",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021262/bilawal-claims-certain-elements-within-pml-n-are-sowing-division-among-allies-undermining-pm-shehbaz",
+      "published_date": "2026-08-07T12:49:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Canal controversy",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021158/canal-controversy",
+      "published_date": "2026-08-07T12:17:14+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Schedule for 3rd phase of AJK polls revised over law and order concerns",
@@ -613,6 +662,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Pakistani charity Edhi Foundation says over $23,000 stolen in Karachi armed robbery",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2653804/pakistan",
+      "published_date": "2026-08-07T05:08:04+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Student found dead in private varsity’s hostel",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2021084/student-found-dead-in-private-varsitys-hostel",
@@ -645,62 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2021134/pti-remains-wary-as-govt-renews-talks-offer",
       "published_date": "2026-08-07T03:05:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan to emulate Chinese techniques of investigation",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021141/pakistan-to-emulate-chinese-techniques-of-investigation",
-      "published_date": "2026-08-07T02:54:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Govt mulls bypassing Zardari’s assent for judges’ appointment",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021130/govt-mulls-bypassing-zardaris-assent-for-judges-appointment",
-      "published_date": "2026-08-07T02:39:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Daily flights to Riyadh from 14th",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021119/daily-flights-to-riyadh-from-14th",
-      "published_date": "2026-08-07T02:08:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UN Security Council condemns ‘heinous and cowardly’ terror attack in Pakistan’s Swat district",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2653718/world",
-      "published_date": "2026-08-07T00:08:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Australia grants citizenship to 2 Iranian women’s football players who sought asylum",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2653716/sport",
-      "published_date": "2026-08-07T00:08:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands protest private property legislation in Argentina",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2653711/world",
-      "published_date": "2026-08-06T22:08:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man charged with arson in Spokane, Washington, told police he planned wildfire for weeks",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2653714/world",
-      "published_date": "2026-08-06T22:08:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mir Raza's father demands justice as police defend probe",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2622524/mir-razas-father-demands-justice-as-police-defend-probe",
-      "published_date": "2026-08-06T20:46:03+00:00",
       "category": "Local Events"
     }
   ]
