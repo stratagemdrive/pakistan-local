@@ -1,8 +1,22 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-08-08T11:35:30.350811+00:00",
+  "last_updated": "2026-08-08T23:17:10.898533+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Voting on remaining AJK Poonch division seats may be held by Aug 20-21, says CEC",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021521/voting-on-remaining-ajk-poonch-division-seats-may-be-held-by-aug-20-21-says-cec",
+      "published_date": "2026-08-08T19:00:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan, New Zealand seek to boost cooperation in agri, education sectors",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021491/pakistan-new-zealand-seek-to-boost-cooperation-in-agri-education-sectors",
+      "published_date": "2026-08-08T12:46:56+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "OIC welcomes Pak-Saudi-Turkiye joint defence pact, calls it 'important strategic step'",
       "source": "Dawn",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Dar departs for ministerial meeting in Jordan on deteriorating situation in occupied Jerusalem: FO",
+      "title": "Hamas says still ready to go ahead with Gaza plan",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2020574/dar-departs-for-ministerial-meeting-in-jordan-on-deteriorating-situation-in-occupied-jerusalem-fo",
-      "published_date": "2026-08-04T15:55:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump administration revokes visa of Brazil’s ambassador to US in spat with Lula",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2653417/world",
-      "published_date": "2026-08-04T08:08:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2021507/hamas-says-still-ready-to-go-ahead-with-gaza-plan",
+      "published_date": "2026-08-08T15:19:57+00:00",
+      "category": "Military"
     },
     {
       "title": "US Senate confirms Trump’s ex lawyer as attorney general",
@@ -274,13 +281,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2021248/pakistan-saudi-arabia-turkiye-sign-tripartite-defence-agreement-in-makkah",
       "published_date": "2026-08-07T11:11:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Shared resolve for peace and security': President Zardari, PM Shehbaz hail Makkah defence pact",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2622641/shared-resolve-for-peace-and-security-president-zardari-pm-shehbaz-hail-makkah-defence-pact",
-      "published_date": "2026-08-07T10:51:13+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "India's 'cockroach' protest movement keeps heat on Modi",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021494/indias-cockroach-protest-movement-keeps-heat-on-modi",
+      "published_date": "2026-08-08T13:58:53+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Pakistan sanctions over $35 million for textile, other exporters to boost competitiveness",
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2653866/pakistan",
@@ -557,11 +564,46 @@
       "category": "Economy"
     },
     {
-      "title": "Pakistan, Iran target FTA",
+      "title": "Initial findings of second post-mortem show multiple injuries on Mir Raza Ali, police surgeon says",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021482/initial-findings-of-second-post-mortem-show-multiple-injuries-on-mir-raza-ali-police-surgeon-says",
+      "published_date": "2026-08-08T18:27:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "JI announces Aug 16 sit-ins in provincial capitals to protest petroleum levy",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021518/ji-announces-aug-16-sit-ins-in-provincial-capitals-to-protest-petroleum-levy",
+      "published_date": "2026-08-08T18:17:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Typhoon Dolphin hits Japan's Okinawa, China shuts ports ahead of landfall",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021508/typhoon-dolphin-hits-japans-okinawa-china-shuts-ports-ahead-of-landfall",
+      "published_date": "2026-08-08T14:58:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "JI postpones Sunday sit-ins, sets Aug 16 for nationwide protests",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2622293/pakistan-iran-target-fta",
-      "published_date": "2026-08-05T15:33:42+00:00",
-      "category": "Economy"
+      "url": "https://tribune.com.pk/story/2622810/ji-postpones-sunday-sit-ins-sets-aug-16-for-nationwide-protests",
+      "published_date": "2026-08-08T14:11:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Flawed investigations",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021431/flawed-investigations",
+      "published_date": "2026-08-08T13:13:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heavy rain disrupts traffic, daily life in Lahore’s low-lying areas",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021490/heavy-rain-disrupts-traffic-daily-life-in-lahores-low-lying-areas",
+      "published_date": "2026-08-08T12:02:16+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Rana Sanaullah says PML-N will form govt in AJK with two-thirds majority",
@@ -575,6 +617,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2021482/mir-raza-alis-body-exhumed-following-restoration-of-original-medical-board",
       "published_date": "2026-08-08T11:05:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Goods transporters announce indefinite nationwide strike after talks fail",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2622793/goods-transporters-announce-indefinite-nationwide-strike-after-talks-fail",
+      "published_date": "2026-08-08T07:52:31+00:00",
       "category": "Local Events"
     },
     {
@@ -599,10 +648,38 @@
       "category": "Local Events"
     },
     {
+      "title": "At least eight killed in Central Africa road accident",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2653933/world",
+      "published_date": "2026-08-08T07:08:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan bags three medals at International Nuclear Science Olympiad in Jeddah",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2653927/pakistan",
+      "published_date": "2026-08-08T07:08:24+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Govt restores original medical board for exhumation of Mir Raza’s body",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2021395/govt-restores-original-medical-board-for-exhumation-of-mir-razas-body",
       "published_date": "2026-08-08T06:33:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lawyer, family of late Karachi entrepreneur Mir Raza says he was murdered after torture",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2653920/pakistan",
+      "published_date": "2026-08-08T06:08:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sindh IG dissolves Mir Raza probe team after post-mortem reveals firearm injury",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2622780/samples-sent-for-testing-after-mir-raza-alis-post-mortem-following-exhumation",
+      "published_date": "2026-08-08T04:50:20+00:00",
       "category": "Local Events"
     },
     {
@@ -624,83 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2021391/robbers-loot-rs65m-from-edhi-home-in-karachi",
       "published_date": "2026-08-08T03:31:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Watchdogs call for scrapping foreign press curbs",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021399/watchdogs-call-for-scrapping-foreign-press-curbs",
-      "published_date": "2026-08-08T02:45:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KP amends controversial law on lawmakers’ privileges",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021413/kp-amends-controversial-law-on-lawmakers-privileges",
-      "published_date": "2026-08-08T02:28:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Efforts underway to end deadlock over judges’ appointments",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021417/efforts-underway-to-end-deadlock-over-judges-appointments",
-      "published_date": "2026-08-08T02:15:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Goods transporters to go on strike from Saturday after talks with govt fail",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021293/goods-transporters-to-go-on-strike-from-saturday-after-talks-with-govt-fail",
-      "published_date": "2026-08-07T18:18:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sindh govt constitutes third medical board for exhumation of Mir Ali Raza’s body",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021292/sindh-govt-constitutes-third-medical-board-for-exhumation-of-mir-ali-razas-body",
-      "published_date": "2026-08-07T18:17:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "JI protests cause traffic disruptions across Karachi",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021256/ji-protests-cause-traffic-disruptions-across-karachi",
-      "published_date": "2026-08-07T17:24:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SCBA backs call for new provinces, calls it 'step forward' for better governance",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021274/scba-backs-call-for-new-provinces-calls-it-step-forward-for-better-governance",
-      "published_date": "2026-08-07T15:25:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Domestic, foreign investors show interest in Fesco privatisation: privatisation commission",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021271/domestic-foreign-investors-show-interest-in-fesco-privatisation-privatisation-commission",
-      "published_date": "2026-08-07T14:58:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bilawal claims 'certain elements' within PML-N are sowing division among allies, undermining PM Shehbaz",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021262/bilawal-claims-certain-elements-within-pml-n-are-sowing-division-among-allies-undermining-pm-shehbaz",
-      "published_date": "2026-08-07T12:49:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Canal controversy",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021158/canal-controversy",
-      "published_date": "2026-08-07T12:17:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Schedule for 3rd phase of AJK polls revised over law and order concerns",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021240/schedule-for-3rd-phase-of-ajk-polls-revised-over-law-and-order-concerns",
-      "published_date": "2026-08-07T10:16:22+00:00",
       "category": "Local Events"
     }
   ]
