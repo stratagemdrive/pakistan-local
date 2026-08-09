@@ -1,8 +1,22 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-08-09T11:36:24.243291+00:00",
+  "last_updated": "2026-08-09T23:18:58.006635+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Pakistani hostages held by Somali pirates issue new distress message seeking govt help",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021700/pakistani-hostages-held-by-somali-pirates-issue-new-distress-message-seeking-govt-help",
+      "published_date": "2026-08-09T13:31:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan’s envoy seeks greater trade, investment to deepen US ties",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2622979/pakistans-envoy-seeks-greater-trade-investment-to-deepen-us-ties",
+      "published_date": "2026-08-09T13:08:37+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Makkah defence pact ‘purely defensive’, not targeted at any country: Dar",
       "source": "The Express Tribune",
@@ -130,24 +144,45 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pakistan condemns attacks on vessels in Bab Al-Mandab, reaffirms defense partnership with Saudi Arabia",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2653624/pakistan",
-      "published_date": "2026-08-05T23:08:40+00:00",
-      "category": "Diplomacy"
+      "title": "Movement restricted under Section 144 in some areas of South Waziristan, Tank on Monday",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021730/movement-restricted-under-section-144-in-some-areas-of-south-waziristan-tank-on-monday",
+      "published_date": "2026-08-09T19:28:24+00:00",
+      "category": "Military"
     },
     {
-      "title": "AJK observes Youm-e-Istehsal-e-Kashmir",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2622285/ajk-observes-youm-e-istehsal-e-kashmir",
-      "published_date": "2026-08-05T14:03:15+00:00",
-      "category": "Diplomacy"
+      "title": "Houthi attacks kill 11 in Yemen, target Saudi oil refinery",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021681/houthi-attacks-kill-11-in-yemen-target-saudi-oil-refinery",
+      "published_date": "2026-08-09T16:44:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan rejects Afghan Taliban claims of weapons smuggled into Afghanistan as 'frivolous, baseless'",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021712/pakistan-rejects-afghan-taliban-claims-of-weapons-smuggled-into-afghanistan-as-frivolous-baseless",
+      "published_date": "2026-08-09T14:45:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Netanyahu rejects Trump's Gaza plan, vows no pullout until Hamas disarms",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021708/netanyahu-rejects-trumps-gaza-plan-vows-no-pullout-until-hamas-disarms",
+      "published_date": "2026-08-09T14:03:56+00:00",
+      "category": "Military"
     },
     {
       "title": "Fire extinguished at Aramco refinery in Jazan, Saudi Arabia says",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2021681/fire-extinguished-at-aramco-refinery-in-jazan-saudi-arabia-says",
       "published_date": "2026-08-09T11:21:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "PM lauds Balochi song blending folk culture with national unity",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2622964/pm-lauds-balochi-song-blending-folk-culture-with-national-unity",
+      "published_date": "2026-08-09T10:50:30+00:00",
       "category": "Military"
     },
     {
@@ -165,10 +200,31 @@
       "category": "Military"
     },
     {
+      "title": "Russia says air defenses intercepted 285 Ukrainian drones over 12-hour period",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654032/world",
+      "published_date": "2026-08-09T08:08:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How Makkah Defense Agreement could redraw regional security architecture",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654035/middle-east",
+      "published_date": "2026-08-09T08:08:38+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Tehran says won’t reopen Hormuz until US accepts Iran’s conditions",
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2653972/middle-east",
       "published_date": "2026-08-09T08:08:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gaza plan rejected by Netanyahu ‘only way forward’: Trump board head",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654027/middle-east",
+      "published_date": "2026-08-09T07:08:31+00:00",
       "category": "Military"
     },
     {
@@ -179,10 +235,24 @@
       "category": "Military"
     },
     {
+      "title": "Trump says US ‘low-keying it’ with Iran",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654019/middle-east",
+      "published_date": "2026-08-09T07:08:06+00:00",
+      "category": "Military"
+    },
+    {
       "title": "SMOKERS’ CORNER: THE OUTRAGE MACHINE",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2021603/smokers-corner-the-outrage-machine",
       "published_date": "2026-08-09T05:44:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Govt rejects Afghan Taliban claim of weapons smuggling, calls allegation ‘baseless’",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2622945/govt-rejects-afghan-taliban-claim-of-weapons-smuggling-calls-allegation-baseless",
+      "published_date": "2026-08-09T05:40:14+00:00",
       "category": "Military"
     },
     {
@@ -211,76 +281,6 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2653867/world",
       "published_date": "2026-08-08T09:08:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Captain martyred, 7 terrorists killed in intelligence-based operation in Hangu: ISPR",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021456/captain-martyred-7-terrorists-killed-in-intelligence-based-operation-in-hangu-ispr",
-      "published_date": "2026-08-08T09:06:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump's attack on 'birth tourism' faces uphill legal battle after Supreme Court ruling",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021467/trumps-attack-on-birth-tourism-faces-uphill-legal-battle-after-supreme-court-ruling",
-      "published_date": "2026-08-08T07:17:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Broad Peak operation among ‘most difficult ever undertaken,’ Pakistan Alpine Club chief says",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2653852/pakistan",
-      "published_date": "2026-08-08T07:08:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Seven militants, one army officer killed in operation in northwest Pakistan",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2653857/pakistan",
-      "published_date": "2026-08-08T07:08:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Libya’s Zawia refinery says leak caused by drone crash is under control",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2653854/middle-east",
-      "published_date": "2026-08-08T07:08:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump administration to invest $3 billion in minerals projects to boost US defence supply chains",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021463/trump-administration-to-invest-3-billion-in-minerals-projects-to-boost-us-defence-supply-chains",
-      "published_date": "2026-08-08T05:35:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi landmarks light up with Pakistani, Saudi and Turkish flags to celebrate joint defense pact",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2653850/pakistan",
-      "published_date": "2026-08-08T04:08:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The supreme sacrifice",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021430/the-supreme-sacrifice",
-      "published_date": "2026-08-08T03:44:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Broad Peak search for bodies of 3 climbers paused",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021394/broad-peak-search-for-bodies-of-3-climbers-paused",
-      "published_date": "2026-08-08T02:56:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Army captian martyred, seven terrorists killed, in Hangu IBO: ISPR",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2622749/army-captian-martyred-seven-terrorists-killed-in-hangu-ibo-ispr",
-      "published_date": "2026-08-08T00:46:18+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Pakistan to partner with Saudi Arabia, Kuwait, Qatar on oil storage scheme",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021711/pakistan-to-partner-with-saudi-arabia-kuwait-qatar-on-oil-storage-scheme",
+      "published_date": "2026-08-09T14:02:23+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "US firms back 80/20 EPZ rule",
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2622855/us-firms-back-8020-epz-rule",
@@ -557,11 +564,46 @@
       "category": "Economy"
     },
     {
-      "title": "US firms look to Pakistan for critical mineral supplies",
+      "title": "Sindh govt decides judicial commission to probe Mir Raza Ali murder case",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2020895/us-firms-look-to-pakistan-for-critical-mineral-supplies",
-      "published_date": "2026-08-06T02:34:18+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2021701/sindh-govt-decides-judicial-commission-to-probe-mir-raza-ali-murder-case",
+      "published_date": "2026-08-09T19:41:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Curfew imposed in Balochistan Surab's district over law and order concerns",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021717/curfew-imposed-in-balochistan-surabs-district-over-law-and-order-concerns",
+      "published_date": "2026-08-09T18:21:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anger mounts in US over vast network of car license plate cameras",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021725/anger-mounts-in-us-over-vast-network-of-car-license-plate-cameras",
+      "published_date": "2026-08-09T18:12:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lionel Messi bids farewell to father who guided his glittering career",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021719/lionel-messi-bids-farewell-to-father-who-guided-his-glittering-career",
+      "published_date": "2026-08-09T16:46:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wrong solution to the right problem",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021615/wrong-solution-to-the-right-problem",
+      "published_date": "2026-08-09T15:21:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2 tribal elders shot dead in KP's Lower South Waziristan",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021703/2-tribal-elders-shot-dead-in-kps-lower-south-waziristan",
+      "published_date": "2026-08-09T11:37:09+00:00",
+      "category": "Local Events"
     },
     {
       "title": "2 tribal elders shot dead in KP's South Waziristan",
@@ -592,10 +634,24 @@
       "category": "Local Events"
     },
     {
+      "title": "Punjab police called to AJK for 'specific purposes', alleges PPP AJK chief",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2622954/punjab-police-called-to-ajk-for-specific-purposes-alleges-ppp-ajk-chief",
+      "published_date": "2026-08-09T08:36:48+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Punjab says nearly 2.7 million Afghans returned from Pakistan since deportation drive began",
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2653966/pakistan",
       "published_date": "2026-08-09T08:08:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French police arrest four Spaniards over $300,000 watch theft",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654033/world",
+      "published_date": "2026-08-09T08:08:08+00:00",
       "category": "Local Events"
     },
     {
@@ -610,6 +666,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2021692/pakistans-muhammad-zubair-becomes-tekken-8-champion-at-esports-world-cup-in-paris",
       "published_date": "2026-08-09T07:24:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan’s Peshawar bans aerial firing, firecrackers ahead of Independence Day",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654028/pakistan",
+      "published_date": "2026-08-09T07:08:58+00:00",
       "category": "Local Events"
     },
     {
@@ -638,69 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2021616/counterterrorism-paradox",
       "published_date": "2026-08-09T04:38:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Flour prices rising as govt yet to issue import tender",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021625/flour-prices-rising-as-govt-yet-to-issue-import-tender",
-      "published_date": "2026-08-09T03:46:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan bags three medals at Nuclear Science Olympiad",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021650/pakistan-bags-three-medals-at-nuclear-science-olympiad",
-      "published_date": "2026-08-09T03:21:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Poonch medical college closure threatens academic year of 500 students",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021648/poonch-medical-college-closure-threatens-academic-year-of-500-students",
-      "published_date": "2026-08-09T03:15:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IHC seeks govt reply over withholding tax hike on goods transportation",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021632/ihc-seeks-govt-reply-over-withholding-tax-hike-on-goods-transportation",
-      "published_date": "2026-08-09T02:44:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fuel cost hits Lahore Metro service",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021653/fuel-cost-hits-lahore-metro-service",
-      "published_date": "2026-08-09T02:38:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SC sets aside orders to restore BISP retailer’s blocked ID",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021654/sc-sets-aside-orders-to-restore-bisp-retailers-blocked-id",
-      "published_date": "2026-08-09T02:32:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "33 held, booked under ATA for resisting  anti-encroachment drive",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021587/33-held-booked-under-ata-for-resisting-anti-encroachment-drive",
-      "published_date": "2026-08-09T00:43:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan says 15 militants killed in Balochistan operations",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2653983/pakistan",
-      "published_date": "2026-08-08T23:08:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Afghanistan’s gold rush upends lives and landscapes",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2653979/world",
-      "published_date": "2026-08-08T22:08:58+00:00",
       "category": "Local Events"
     }
   ]
