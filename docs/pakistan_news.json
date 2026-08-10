@@ -1,8 +1,36 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-08-09T23:18:58.006635+00:00",
+  "last_updated": "2026-08-10T11:53:35.585008+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Iran says Pak-Saudi-Turkiye deal shows 'change in perception' towards US",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021886/iran-says-pak-saudi-turkiye-deal-shows-change-in-perception-towards-us",
+      "published_date": "2026-08-10T09:32:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Dar reiterates Makkah defence pact is ‘defensive in nature, not directed against any country’",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2623091/dar-reiterates-makkah-defence-pact-is-defensive-in-nature-not-directed-against-any-country",
+      "published_date": "2026-08-10T05:25:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kuwaiti foreign minister congratulates DPM Dar on Makkah defence pact",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2623068/kuwaiti-foreign-minister-congratulates-dar-on-makkah-defence-pact",
+      "published_date": "2026-08-10T00:53:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Is $10b Pak-Iran trade a pipe dream?",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2622992/is-10b-pak-iran-trade-a-pipe-dream",
+      "published_date": "2026-08-09T14:47:58+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pakistani hostages held by Somali pirates issue new distress message seeking govt help",
       "source": "Dawn",
@@ -116,32 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "FO slams India's remarks on AJK polls, says it has no 'standing or moral authority' to comment on process",
+      "title": "Late night terrorist attack on Upper Swat police post foiled: DPO",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2020999/fo-slams-indias-remarks-on-ajk-polls-says-it-has-no-standing-or-moral-authority-to-comment-on-process",
-      "published_date": "2026-08-06T08:56:32+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2021906/late-night-terrorist-attack-on-upper-swat-police-post-foiled-dpo",
+      "published_date": "2026-08-10T10:57:16+00:00",
+      "category": "Military"
     },
     {
-      "title": "PMDC reschedules MDCAT; exam to now be held on Sept 20",
+      "title": "South Korea, US to begin exercises next week to bolster readiness against North’s threats",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654087/world",
+      "published_date": "2026-08-10T09:08:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran says Saudi-Pakistan-Türkiye deal shows ‘change in perception’ toward US",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654083/pakistan",
+      "published_date": "2026-08-10T08:08:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Security forces kill 5 terrorists in intelligence-based operation in Balochistan's Panjgur",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2020995/pmdc-reschedules-mdcat-exam-to-now-be-held-on-sept-20",
-      "published_date": "2026-08-06T08:48:53+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2021890/security-forces-kill-5-terrorists-in-intelligence-based-operation-in-balochistans-panjgur",
+      "published_date": "2026-08-10T06:51:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "PSX extends rally despite lingering geopolitical jitters",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2622395/psx-gains-nearly-1000-points-on-broad-based-buying",
-      "published_date": "2026-08-06T04:36:53+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "PM Shehbaz departs for Saudi Arabia on three day official visit",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2622381/pm-shebaz-cdf-munir-to-visit-saudi-arabia-from-aug-6-to-8-mofa",
-      "published_date": "2026-08-06T02:00:52+00:00",
-      "category": "Diplomacy"
+      "title": "Pakistan says Makkah defense pact seeks ‘peace through strength,’ not confrontation",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654093/pakistan",
+      "published_date": "2026-08-09T22:08:12+00:00",
+      "category": "Military"
     },
     {
       "title": "Movement restricted under Section 144 in some areas of South Waziristan, Tank on Monday",
@@ -246,41 +281,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2021603/smokers-corner-the-outrage-machine",
       "published_date": "2026-08-09T05:44:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Govt rejects Afghan Taliban claim of weapons smuggling, calls allegation ‘baseless’",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2622945/govt-rejects-afghan-taliban-claim-of-weapons-smuggling-calls-allegation-baseless",
-      "published_date": "2026-08-09T05:40:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Makkah agreement",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021619/makkah-agreement",
-      "published_date": "2026-08-09T04:21:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Unregulated placer gold mining raises concerns in GB",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021627/unregulated-placer-gold-mining-raises-concerns-in-gb",
-      "published_date": "2026-08-09T02:48:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hamas says still ready to go ahead with Gaza plan",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021507/hamas-says-still-ready-to-go-ahead-with-gaza-plan",
-      "published_date": "2026-08-08T15:19:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US Senate confirms Trump’s ex lawyer as attorney general",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2653867/world",
-      "published_date": "2026-08-08T09:08:02+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,27 @@
       "category": "Energy"
     },
     {
+      "title": "Three football confederations rebuke Infantino, say sport ‘belongs to no individual’",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021918/three-football-confederations-rebuke-infantino-say-sport-belongs-to-no-individual",
+      "published_date": "2026-08-10T11:45:54+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Mir Raza Ali's father claims son's business partner missing after police questioning",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2623089/mir-raza-alis-father-claims-sons-business-partner-missing-after-police-questioning",
+      "published_date": "2026-08-10T04:47:28+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pakistan's internal governance crisis",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2622993/pakistans-internal-governance-crisis",
+      "published_date": "2026-08-09T14:47:58+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Pakistan to partner with Saudi Arabia, Kuwait, Qatar on oil storage scheme",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2021711/pakistan-to-partner-with-saudi-arabia-kuwait-qatar-on-oil-storage-scheme",
@@ -543,164 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "PSX investor base tops 600,000",
+      "title": "In letter to PM, Achakzai urges 'immediate' appointment of new chief election commissioner",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021914/in-letter-to-pm-achakzai-urges-immediate-appointment-of-new-chief-election-commissioner",
+      "published_date": "2026-08-10T11:52:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sindh govt defers judicial commission decision on Mir Raza Ali murder case probe",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021913/sindh-govt-defers-judicial-commission-decision-on-mir-raza-ali-murder-case-probe",
+      "published_date": "2026-08-10T11:51:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "3rd phase of AJK polls: PPP continues to allege rigging as voting under way in Poonch Division's Bagh, Haveli",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021864/3rd-phase-of-ajk-polls-ppp-continues-to-allege-rigging-as-voting-under-way-in-poonch-divisions-bagh-haveli",
+      "published_date": "2026-08-10T11:49:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan launches polio drive targeting over 1 million children in Islamabad, Rawalpindi",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654086/pakistan",
+      "published_date": "2026-08-10T09:08:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Malaysia PM Anwar Ibrahim undergoes elective surgery to treat hernia",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021885/malaysia-pm-anwar-ibrahim-undergoes-elective-surgery-to-treat-hernia",
+      "published_date": "2026-08-10T08:40:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Afghanistan's gold rush upends lives, landscapes in northeastern Badakhshan province",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021897/afghanistans-gold-rush-upends-lives-landscapes-in-northeastern-badakhshan-province",
+      "published_date": "2026-08-10T08:22:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indian students step up exam protests in Jharkhand, march towards state assembly",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021895/indian-students-step-up-exam-protests-in-jharkhand-march-towards-state-assembly",
+      "published_date": "2026-08-10T08:06:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Delay in judicial appointments: IHC tells govt to explain consequences of keeping PM's advice pending",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021893/delay-in-judicial-appointments-ihc-tells-govt-to-explain-consequences-of-keeping-pms-advice-pending",
+      "published_date": "2026-08-10T08:04:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Work is work, it has to be done': Brickmakers in Pakistan scorched by sun above and fire below",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021884/work-is-work-it-has-to-be-done-brickmakers-in-pakistan-scorched-by-sun-above-and-fire-below",
+      "published_date": "2026-08-10T07:02:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mir Raza’s grave is not a silent one",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021881/mir-razas-grave-is-not-a-silent-one",
+      "published_date": "2026-08-10T04:39:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prime suspect in Rs8.5bn Yellow Line graft case under NAB scrutiny",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021854/prime-suspect-in-rs85bn-yellow-line-graft-case-under-nab-scrutiny",
+      "published_date": "2026-08-10T04:20:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Judicial probe launched into death of 2 girls in Lahore police custody",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021764/judicial-probe-launched-into-death-of-2-girls-in-lahore-police-custody",
+      "published_date": "2026-08-10T04:15:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "High court judge to investigate Mir Raza murder case, says home minister",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021856/high-court-judge-to-investigate-mir-raza-murder-case-says-home-minister",
+      "published_date": "2026-08-10T03:27:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ten more placed  on Fourth Schedule  in Azad Kashmir",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021813/ten-more-placed-on-fourth-schedule-in-azad-kashmir",
+      "published_date": "2026-08-10T03:14:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AJK govt appoints Public Service Commission members amid questions over timing",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021823/ajk-govt-appoints-public-service-commission-members-amid-questions-over-timing",
+      "published_date": "2026-08-10T02:41:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tarbela Dam attains maximum storage level",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021826/tarbela-dam-attains-maximum-storage-level",
+      "published_date": "2026-08-10T02:35:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rs115bn WB-funded rehabilitation project restructured quietly",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021814/rs115bn-wb-funded-rehabilitation-project-restructured-quietly",
+      "published_date": "2026-08-10T02:20:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "IHC seeks govt, law ministry reports on long-pending judges' appointment summary",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2622494/psx-investor-base-tops-600000",
-      "published_date": "2026-08-06T16:40:56+00:00",
-      "category": "Economy"
+      "url": "https://tribune.com.pk/story/2623071/ihc-seeks-govt-law-ministry-reports-on-long-pending-judges-appointment-summary",
+      "published_date": "2026-08-10T02:02:39+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "SBP reserves rise $13m",
+      "title": "Polling begins in Poonch Division's Bagh, Haveli in third phase of AJK elections",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2622492/sbp-reserves-rise-13m",
-      "published_date": "2026-08-06T16:40:56+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Industry ‘tight-lipped’ over Naqvi’s remarks",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2020875/industry-tight-lipped-over-naqvis-remarks",
-      "published_date": "2026-08-06T02:35:35+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Sindh govt decides judicial commission to probe Mir Raza Ali murder case",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021701/sindh-govt-decides-judicial-commission-to-probe-mir-raza-ali-murder-case",
-      "published_date": "2026-08-09T19:41:10+00:00",
+      "url": "https://tribune.com.pk/story/2623064/polling-begins-in-poonch-divisionss-bagh-haveli-in-third-phase-of-ajk-elections",
+      "published_date": "2026-08-10T00:16:15+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Curfew imposed in Balochistan Surab's district over law and order concerns",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021717/curfew-imposed-in-balochistan-surabs-district-over-law-and-order-concerns",
-      "published_date": "2026-08-09T18:21:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anger mounts in US over vast network of car license plate cameras",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021725/anger-mounts-in-us-over-vast-network-of-car-license-plate-cameras",
-      "published_date": "2026-08-09T18:12:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lionel Messi bids farewell to father who guided his glittering career",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021719/lionel-messi-bids-farewell-to-father-who-guided-his-glittering-career",
-      "published_date": "2026-08-09T16:46:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wrong solution to the right problem",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021615/wrong-solution-to-the-right-problem",
-      "published_date": "2026-08-09T15:21:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2 tribal elders shot dead in KP's Lower South Waziristan",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021703/2-tribal-elders-shot-dead-in-kps-lower-south-waziristan",
-      "published_date": "2026-08-09T11:37:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2 tribal elders shot dead in KP's South Waziristan",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021703/2-tribal-elders-shot-dead-in-kps-south-waziristan",
-      "published_date": "2026-08-09T11:03:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police form new team to probe Mir Raza Ali's case; murder charge added to FIR",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021701/police-form-new-team-to-probe-mir-raza-alis-case-murder-charge-added-to-fir",
-      "published_date": "2026-08-09T10:51:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New autopsy finds Mir Ali Raza was shot in the back, suffered multiple injuries",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021595/new-autopsy-finds-mir-ali-raza-was-shot-in-the-back-suffered-multiple-injuries",
-      "published_date": "2026-08-09T09:29:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan orders stricter airport document checks amid crackdown on illegal migration",
+      "title": "Hundreds of Syria Kurds head back to border town after years of displacement",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2653977/pakistan",
-      "published_date": "2026-08-09T09:08:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Punjab police called to AJK for 'specific purposes', alleges PPP AJK chief",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2622954/punjab-police-called-to-ajk-for-specific-purposes-alleges-ppp-ajk-chief",
-      "published_date": "2026-08-09T08:36:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Punjab says nearly 2.7 million Afghans returned from Pakistan since deportation drive began",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2653966/pakistan",
-      "published_date": "2026-08-09T08:08:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French police arrest four Spaniards over $300,000 watch theft",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2654033/world",
-      "published_date": "2026-08-09T08:08:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "On-duty cop martyred, another injured in Lakki Marwat attack",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021694/on-duty-cop-martyred-another-injured-in-lakki-marwat-attack",
-      "published_date": "2026-08-09T07:54:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan's Muhammad Zubair becomes Tekken 8 champion at Esports World Cup in Paris",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021692/pakistans-muhammad-zubair-becomes-tekken-8-champion-at-esports-world-cup-in-paris",
-      "published_date": "2026-08-09T07:24:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan’s Peshawar bans aerial firing, firecrackers ahead of Independence Day",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2654028/pakistan",
-      "published_date": "2026-08-09T07:08:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Infantino denies allegations of affair, favouritism while at UEFA",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021559/infantino-denies-allegations-of-affair-favouritism-while-at-uefa",
-      "published_date": "2026-08-09T05:38:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Karachi's Red Line suffers another blow as decision to cancel Mosamiyat-to-Numaish contract declared ‘invalid’",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021591/karachis-red-line-suffers-another-blow-as-decision-to-cancel-mosamiyat-to-numaish-contract-declared-invalid",
-      "published_date": "2026-08-09T05:30:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ban: to what end?",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021613/ban-to-what-end",
-      "published_date": "2026-08-09T04:54:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Counterterrorism paradox",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021616/counterterrorism-paradox",
-      "published_date": "2026-08-09T04:38:30+00:00",
+      "url": "https://www.arabnews.pk/node/2654090/middle-east",
+      "published_date": "2026-08-09T22:08:57+00:00",
       "category": "Local Events"
     }
   ]
