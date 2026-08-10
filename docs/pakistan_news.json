@@ -1,6 +1,6 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-08-10T11:53:35.585008+00:00",
+  "last_updated": "2026-08-10T23:24:00.715144+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -15,6 +15,13 @@
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2623091/dar-reiterates-makkah-defence-pact-is-defensive-in-nature-not-directed-against-any-country",
       "published_date": "2026-08-10T05:25:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan reverses move to terminate 45-year-old investment treaty with Sweden",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654136/pakistan",
+      "published_date": "2026-08-10T05:08:48+00:00",
       "category": "Diplomacy"
     },
     {
@@ -137,11 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "PSX extends rally despite geopolitical jitters",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2622499/psx-extends-rally-despite-geopolitical-jitters",
-      "published_date": "2026-08-06T16:40:56+00:00",
-      "category": "Diplomacy"
+      "title": "Pak-Saudi-Turkiye defence pact ‘entirely for defensive purposes’, not aggression: PM Shehbaz",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021923/pak-saudi-turkiye-defence-pact-entirely-for-defensive-purposes-not-aggression-pm-shehbaz",
+      "published_date": "2026-08-10T15:36:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iranian national security shake-up signals tougher peace process",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021930/iranian-national-security-shake-up-signals-tougher-peace-process",
+      "published_date": "2026-08-10T14:12:14+00:00",
+      "category": "Military"
     },
     {
       "title": "Late night terrorist attack on Upper Swat police post foiled: DPO",
@@ -158,6 +172,13 @@
       "category": "Military"
     },
     {
+      "title": "Can Al-Burhan’s Sudanese national dialogue turn military gains into a political settlement?",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654150/middle-east",
+      "published_date": "2026-08-10T08:08:33+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Iran says Saudi-Pakistan-Türkiye deal shows ‘change in perception’ toward US",
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2654083/pakistan",
@@ -165,10 +186,45 @@
       "category": "Military"
     },
     {
+      "title": "Fire breaks out at Libya’s Zawiya refinery",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654151/middle-east",
+      "published_date": "2026-08-10T08:08:10+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Security forces kill 5 terrorists in intelligence-based operation in Balochistan's Panjgur",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2021890/security-forces-kill-5-terrorists-in-intelligence-based-operation-in-balochistans-panjgur",
       "published_date": "2026-08-10T06:51:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gaza Board of Peace official says plan is still operative",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654137/middle-east",
+      "published_date": "2026-08-10T06:08:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran supreme leader names Guards general Abdollahi military chief",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654129/middle-east",
+      "published_date": "2026-08-10T04:08:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukrainian drone attack on Russian oil hub kills 13",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654125/world",
+      "published_date": "2026-08-10T03:08:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Oman moves to contain oil spill from explosion-hit tanker",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654121/middle-east",
+      "published_date": "2026-08-10T02:08:09+00:00",
       "category": "Military"
     },
     {
@@ -228,60 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Security forces kill 15 terrorists in Balochistan IBOs: state media",
+      "title": "Govt leaves petrol, diesel prices unchanged for Aug 11",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021695/security-forces-kill-15-terrorists-in-balochistan-ibos-state-media",
-      "published_date": "2026-08-09T08:44:58+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/2021950/govt-leaves-petrol-diesel-prices-unchanged-for-aug-11",
+      "published_date": "2026-08-10T18:38:39+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Russia says air defenses intercepted 285 Ukrainian drones over 12-hour period",
+      "title": "Pakistan brickmakers scorched by sun above and fire below",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2654032/world",
-      "published_date": "2026-08-09T08:08:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How Makkah Defense Agreement could redraw regional security architecture",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2654035/middle-east",
-      "published_date": "2026-08-09T08:08:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tehran says won’t reopen Hormuz until US accepts Iran’s conditions",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2653972/middle-east",
-      "published_date": "2026-08-09T08:08:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gaza plan rejected by Netanyahu ‘only way forward’: Trump board head",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2654027/middle-east",
-      "published_date": "2026-08-09T07:08:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia says it hit fuel storage facilities in Ukrainian ports overnight",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2653965/world",
-      "published_date": "2026-08-09T07:08:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says US ‘low-keying it’ with Iran",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2654019/middle-east",
-      "published_date": "2026-08-09T07:08:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "SMOKERS’ CORNER: THE OUTRAGE MACHINE",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021603/smokers-corner-the-outrage-machine",
-      "published_date": "2026-08-09T05:44:44+00:00",
-      "category": "Military"
+      "url": "https://www.arabnews.pk/node/2654138/pakistan",
+      "published_date": "2026-08-10T07:08:17+00:00",
+      "category": "Energy"
     },
     {
       "title": "Pakistan expects $5 billion refinery deals from September, plans offshore exploration",
@@ -410,24 +424,24 @@
       "category": "Energy"
     },
     {
-      "title": "Gulf shipping traffic steady amid uncertainty of US-Iran peace talks",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2653462/middle-east",
-      "published_date": "2026-08-05T08:08:28+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Oil prices rebound after Houthis say they attacked Saudi tanker",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2622205/oil-prices-rebound-after-houthis-say-they-attacked-saudi-tanker",
-      "published_date": "2026-08-05T04:46:00+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Three football confederations rebuke Infantino, say sport ‘belongs to no individual’",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2021918/three-football-confederations-rebuke-infantino-say-sport-belongs-to-no-individual",
       "published_date": "2026-08-10T11:45:54+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "FinMin notes 'considerable progress' on Pak–US trade framework in meeting with Cd'A Baker",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2623121/finmin-notes-considerable-progress-on-pakus-trade-framework-in-meeting-with-cda-baker",
+      "published_date": "2026-08-10T09:26:33+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pakistan, Russia explore expanded trade in farm machinery, fertilizers, livestock vaccines",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654139/pakistan",
+      "published_date": "2026-08-10T07:08:20+00:00",
       "category": "Economy"
     },
     {
@@ -550,18 +564,46 @@
       "category": "Economy"
     },
     {
-      "title": "'Enough is enough': Jamaat-i-Islami announces 510 nationwide sit-ins against the petroleum levy",
+      "title": "3rd phase of AJK elections: PML-N poised for gains in Poonch amid rigging allegations",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021043/enough-is-enough-jamaat-i-islami-announces-510-nationwide-sit-ins-against-the-petroleum-levy",
-      "published_date": "2026-08-06T18:32:38+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2021864/3rd-phase-of-ajk-elections-pml-n-poised-for-gains-in-poonch-amid-rigging-allegations",
+      "published_date": "2026-08-10T19:56:36+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Ministers agree to tackle marine pollution",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2622500/ministers-agree-to-tackle-marine-pollution",
-      "published_date": "2026-08-06T16:40:56+00:00",
-      "category": "Economy"
+      "title": "At least 100 killed after powerful earthquake hits western Colombia",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021933/at-least-100-killed-after-powerful-earthquake-hits-western-colombia",
+      "published_date": "2026-08-10T18:48:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New investigation team initiates formal proceedings into Mir Raza Ali murder",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021913/new-investigation-team-initiates-formal-proceedings-into-mir-raza-ali-murder",
+      "published_date": "2026-08-10T17:20:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PTI leadership, TTAP on board for September 27 long march to Islamabad: Sohail Afridi",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021943/pti-leadership-ttap-on-board-for-september-27-long-march-to-islamabad-sohail-afridi",
+      "published_date": "2026-08-10T16:49:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Peshawar High Court grants transit bail to Noreen Niazi in Peca case",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021934/peshawar-high-court-grants-transit-bail-to-noreen-niazi-in-peca-case",
+      "published_date": "2026-08-10T16:05:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police in India's Jharkhand fire tear gas, use batons to disperse youth protesters",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2021895/police-in-indias-jharkhand-fire-tear-gas-use-batons-to-disperse-youth-protesters",
+      "published_date": "2026-08-10T16:01:16+00:00",
+      "category": "Local Events"
     },
     {
       "title": "In letter to PM, Achakzai urges 'immediate' appointment of new chief election commissioner",
@@ -582,6 +624,20 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2021864/3rd-phase-of-ajk-polls-ppp-continues-to-allege-rigging-as-voting-under-way-in-poonch-divisions-bagh-haveli",
       "published_date": "2026-08-10T11:49:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PTI, TTAP leadership fully behind Sept 27 long march to Islamabad: K-P CM Afridi",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2623127/pti-ttap-leadership-fully-behind-sept-27-long-march-to-islamabad-k-p-cm-afridi",
+      "published_date": "2026-08-10T10:42:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AJK polls peaceful, PML-N poised to form govt: Rana Sanaullah",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2623123/ajk-polls-peaceful-pml-n-poised-to-form-govt-rana-sanaullah",
+      "published_date": "2026-08-10T09:57:00+00:00",
       "category": "Local Events"
     },
     {
@@ -645,62 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2021764/judicial-probe-launched-into-death-of-2-girls-in-lahore-police-custody",
       "published_date": "2026-08-10T04:15:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "High court judge to investigate Mir Raza murder case, says home minister",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021856/high-court-judge-to-investigate-mir-raza-murder-case-says-home-minister",
-      "published_date": "2026-08-10T03:27:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ten more placed  on Fourth Schedule  in Azad Kashmir",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021813/ten-more-placed-on-fourth-schedule-in-azad-kashmir",
-      "published_date": "2026-08-10T03:14:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AJK govt appoints Public Service Commission members amid questions over timing",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021823/ajk-govt-appoints-public-service-commission-members-amid-questions-over-timing",
-      "published_date": "2026-08-10T02:41:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tarbela Dam attains maximum storage level",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021826/tarbela-dam-attains-maximum-storage-level",
-      "published_date": "2026-08-10T02:35:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rs115bn WB-funded rehabilitation project restructured quietly",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2021814/rs115bn-wb-funded-rehabilitation-project-restructured-quietly",
-      "published_date": "2026-08-10T02:20:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IHC seeks govt, law ministry reports on long-pending judges' appointment summary",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2623071/ihc-seeks-govt-law-ministry-reports-on-long-pending-judges-appointment-summary",
-      "published_date": "2026-08-10T02:02:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Polling begins in Poonch Division's Bagh, Haveli in third phase of AJK elections",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2623064/polling-begins-in-poonch-divisionss-bagh-haveli-in-third-phase-of-ajk-elections",
-      "published_date": "2026-08-10T00:16:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds of Syria Kurds head back to border town after years of displacement",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2654090/middle-east",
-      "published_date": "2026-08-09T22:08:57+00:00",
       "category": "Local Events"
     }
   ]
