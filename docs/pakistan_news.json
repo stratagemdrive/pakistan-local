@@ -1,8 +1,15 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-08-15T11:26:42.094996+00:00",
+  "last_updated": "2026-08-15T23:10:20.720439+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Hamas chief heads to Cairo for talks ahead of Kushner visit",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654814/middle-east",
+      "published_date": "2026-08-15T08:08:31+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ambassador Asim spotlights Pakistan's global mediation efforts at I-Day event in New York",
       "source": "The Express Tribune",
@@ -137,17 +144,24 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pakistan says working to bring US, Iran back to negotiating table",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2654358/pakistan",
-      "published_date": "2026-08-11T22:08:04+00:00",
-      "category": "Diplomacy"
+      "title": "UN report flags BLA’s tactical collaboration with Afghan-based groups",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624077/un-report-flags-blas-tactical-collaboration-with-afghan-based-groups",
+      "published_date": "2026-08-15T14:27:15+00:00",
+      "category": "Military"
     },
     {
       "title": "The strategic imperative: Why Europe cannot afford to sideline Pakistan",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2023032/the-strategic-imperative-why-europe-cannot-afford-to-sideline-pakistan",
       "published_date": "2026-08-15T11:12:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Qatar ‘categorically denies’ detaining downed Iranian pilots",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654812/middle-east",
+      "published_date": "2026-08-15T08:08:44+00:00",
       "category": "Military"
     },
     {
@@ -270,18 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "A nation between adversaries",
+      "title": "Who ultimately bears the cost of higher petroleum dealer margins?",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2022739/a-nation-between-adversaries",
-      "published_date": "2026-08-14T07:36:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Explained: The Mecca Pact, a safety net with no strings attached",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2022768/explained-the-mecca-pact-a-safety-net-with-no-strings-attached",
-      "published_date": "2026-08-14T07:34:36+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/2023043/who-ultimately-bears-the-cost-of-higher-petroleum-dealer-margins",
+      "published_date": "2026-08-15T13:58:37+00:00",
+      "category": "Energy"
     },
     {
       "title": "'Made in Pakistan' clean energy push begins",
@@ -417,11 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Oil refineries urged to swiftly upgrade plants",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2623383/oil-refineries-urged-to-swiftly-upgrade-plants",
-      "published_date": "2026-08-11T16:07:15+00:00",
-      "category": "Energy"
+      "title": "India's Modi woos youth with free coaching, AI training",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2023037/indias-modi-woos-youth-with-free-coaching-ai-training",
+      "published_date": "2026-08-15T13:09:09+00:00",
+      "category": "Economy"
     },
     {
       "title": "Govt raises petroleum dealers’ margin to Rs9.98 per litre",
@@ -557,11 +564,109 @@
       "category": "Economy"
     },
     {
-      "title": "Aurangzeb calls for framework to expand digital finance, electronic transactions",
+      "title": "Morocco arrests 111 migrants headed for Spain's Ceuta in security crackdown",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2023063/morocco-arrests-111-migrants-headed-for-spains-ceuta-in-security-crackdown",
+      "published_date": "2026-08-15T18:34:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AJK Election Commission rejects two pleas against Rathore’s LA-17 victory",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2023061/ajk-election-commission-rejects-two-pleas-against-rathores-la-17-victory",
+      "published_date": "2026-08-15T18:13:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AJK elections: PPP, PML-N candidates retain lead in Bagh after repolling",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2023001/ajk-elections-ppp-pml-n-candidates-retain-lead-in-bagh-after-repolling",
+      "published_date": "2026-08-15T16:49:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Women exercising lawful rights should not be subjected to violence with impunity: SC",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2023058/women-exercising-lawful-rights-should-not-be-subjected-to-violence-with-impunity-sc",
+      "published_date": "2026-08-15T16:37:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Aleem Khan expresses support for Hazara province, calls for new administrative units",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2023044/aleem-khan-expresses-support-for-hazara-province-calls-for-new-administrative-units",
+      "published_date": "2026-08-15T15:46:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Political rivals should not let differences turn into animosity, says Nawaz",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2023039/political-rivals-should-not-let-differences-turn-into-animosity-says-nawaz",
+      "published_date": "2026-08-15T15:07:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "JI announces countrywide protest against petroleum levy on Sunday",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2023049/ji-announces-countrywide-protest-against-petroleum-levy-on-sunday",
+      "published_date": "2026-08-15T15:00:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rescuers search for survivors as Indonesian 7.7 quake death toll rises to 47",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2023007/rescuers-search-for-survivors-as-indonesian-77-quake-death-toll-rises-to-47",
+      "published_date": "2026-08-15T14:35:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "KP rejects Centre’s proposal to deduct Rs6.4bn from federal transfers",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2023050/kp-rejects-centres-proposal-to-deduct-rs64bn-from-federal-transfers",
+      "published_date": "2026-08-15T14:32:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PHC orders probe into disappearance, alleged killing of Nowshera man in police encounter",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2623675/aurangzeb-calls-for-framework-to-expand-digital-finance-electronic-transactions",
-      "published_date": "2026-08-13T04:06:57+00:00",
-      "category": "Economy"
+      "url": "https://tribune.com.pk/story/2624076/phc-orders-probe-into-disappearance-alleged-killing-of-nowshera-man-in-police-encounter",
+      "published_date": "2026-08-15T14:14:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armed men kill female TikToker with 1.3m followers outside home in Taxila",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624075/armed-men-kill-female-tiktoker-with-13m-followers-outside-home-in-taxila",
+      "published_date": "2026-08-15T13:50:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Naqvi defends Islamabad officials over buggy use at Independence Day parade",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624071/naqvi-defends-islamabad-officials-over-buggy-use-at-independence-day-parade",
+      "published_date": "2026-08-15T13:05:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "18 girls’ schools in Upper Dir border areas recommended for week-long closure over security concerns",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2023038/18-girls-schools-in-upper-dir-border-areas-recommended-for-week-long-closure-over-security-concerns",
+      "published_date": "2026-08-15T12:58:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "10 terrorists killed in IBO in Balochistan's Khuzdar: state media",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624069/10-terrorists-killed-in-ibo-in-balochistans-khuzdar-state-medi",
+      "published_date": "2026-08-15T12:39:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PML-N secures 25 seats in AJK assembly as election process concludes",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624068/pml-n-secures-25-seats-in-ajk-assembly-as-election-process-concludes",
+      "published_date": "2026-08-15T11:47:38+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Indonesian rescuers search for survivors as 7.7 quake death toll rises to 38",
@@ -596,111 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2023021/mir-raza-alis-murder-interim-bail-of-deceaseds-business-partner-extended-till-aug-24",
       "published_date": "2026-08-15T09:02:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan PM directs authorities mobilize all resources to ensure relief in flood-hit areas",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2654756/pakistan",
-      "published_date": "2026-08-15T08:08:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan allows over 700 trucks carrying humanitarian cargo to cross into Afghanistan",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2654749/pakistan",
-      "published_date": "2026-08-15T07:08:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PM Shehbaz directs NDMA to ensure relief for citizens in flood-hit areas",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2023012/pm-shehbaz-directs-ndma-to-ensure-relief-for-citizens-in-flood-hit-areas",
-      "published_date": "2026-08-15T07:02:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan’s date workers toil through rising heat",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2654742/pakistan",
-      "published_date": "2026-08-15T06:08:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ex-Cambridge professor at centre of plagiarism scandal found dead",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2023009/ex-cambridge-professor-at-centre-of-plagiarism-scandal-found-dead",
-      "published_date": "2026-08-15T05:49:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lebanon state media says Israeli strike on south kills 7",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2654740/middle-east",
-      "published_date": "2026-08-15T05:08:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Date workers toil through rising heat in Sindh",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2022879/date-workers-toil-through-rising-heat-in-sindh",
-      "published_date": "2026-08-15T04:09:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A snapshot of pre-Partition Rawalpindi, where Muslims, Hindus and Sikhs lived side by side",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2654736/pakistan",
-      "published_date": "2026-08-15T04:08:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Riyadh Air commences Pakistan operations with inaugural flight to Islamabad",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2654738/pakistan",
-      "published_date": "2026-08-15T04:08:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Islamabad bar concerned about Imaan Mazari’s health",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2022843/islamabad-bar-concerned-about-imaan-mazaris-health",
-      "published_date": "2026-08-15T04:01:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Governance test",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2022987/governance-test",
-      "published_date": "2026-08-15T03:57:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Death in Karachi",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2022981/death-in-karachi",
-      "published_date": "2026-08-15T03:54:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Presidency announces 355 civil awards on Independence Day",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2022933/presidency-announces-355-civil-awards-on-independence-day",
-      "published_date": "2026-08-15T03:03:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gas supply disruption persists in Balochistan as repair work awaits security clearance",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2022935/gas-supply-disruption-persists-in-balochistan-as-repair-work-awaits-security-clearance",
-      "published_date": "2026-08-15T02:52:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chenab, Ravi nullahs may enter high flood category",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2022937/chenab-ravi-nullahs-may-enter-high-flood-category",
-      "published_date": "2026-08-15T02:49:46+00:00",
       "category": "Local Events"
     }
   ]
