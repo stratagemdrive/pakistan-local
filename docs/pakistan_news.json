@@ -1,6 +1,6 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-08-15T23:10:20.720439+00:00",
+  "last_updated": "2026-08-16T11:26:33.116117+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -144,6 +144,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Yemenis haunted by fears of a return to all-out war",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654833/middle-east",
+      "published_date": "2026-08-16T03:08:55+00:00",
+      "category": "Military"
+    },
+    {
       "title": "UN report flags BLA’s tactical collaboration with Afghan-based groups",
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2624077/un-report-flags-blas-tactical-collaboration-with-afghan-based-groups",
@@ -277,11 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Cop martyred, another injured in terrorist attack on police post in Bajaur",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2022779/cop-martyred-another-injured-in-terrorist-attack-on-police-post-in-bajaur",
-      "published_date": "2026-08-14T08:44:53+00:00",
-      "category": "Military"
+      "title": "Circular debt jumps by Rs364b",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624098/circular-debt-jumps-by-rs364b",
+      "published_date": "2026-08-15T15:20:53+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Germany may continue to run some coal plants",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624104/germany-may-continue-to-run-some-coal-plants",
+      "published_date": "2026-08-15T15:20:53+00:00",
+      "category": "Energy"
     },
     {
       "title": "Who ultimately bears the cost of higher petroleum dealer margins?",
@@ -410,18 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Govt cuts petrol price by Rs1.70, raises high-speed diesel by Rs1.39",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2022180/govt-cuts-petrol-price-by-rs170-raises-high-speed-diesel-by-rs139",
-      "published_date": "2026-08-11T18:38:50+00:00",
-      "category": "Energy"
+      "title": "Turkiye eyes stronger trade, new JVs",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624103/turkiye-eyes-stronger-trade-new-jvs",
+      "published_date": "2026-08-15T15:20:53+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Why the Middle East war still convulses the oil market",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2022179/why-the-middle-east-war-still-convulses-the-oil-market",
-      "published_date": "2026-08-11T18:07:58+00:00",
-      "category": "Energy"
+      "title": "Spain explores trade, investment avenues",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624100/spain-explores-trade-investment-avenues",
+      "published_date": "2026-08-15T15:20:53+00:00",
+      "category": "Economy"
     },
     {
       "title": "India's Modi woos youth with free coaching, AI training",
@@ -550,18 +564,60 @@
       "category": "Economy"
     },
     {
-      "title": "PSX closes nearly flat above 180,100 points",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2623712/psx-closes-nearly-flat-above-180100-points",
-      "published_date": "2026-08-13T07:33:26+00:00",
-      "category": "Economy"
+      "title": "Firefighters battle second day of blaze on Greek island",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654847/world",
+      "published_date": "2026-08-16T08:08:54+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The geopolitics behind Pakistan’s $10 billion US request",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2022541/the-geopolitics-behind-pakistans-10-billion-us-request",
-      "published_date": "2026-08-13T05:39:27+00:00",
-      "category": "Economy"
+      "title": "Pakistani TikTok star killed in motorcycle shooting near Islamabad",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654842/pakistan",
+      "published_date": "2026-08-16T07:08:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands evacuate after Indonesia quake kills 51, cuts roads",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654836/world",
+      "published_date": "2026-08-16T04:08:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saudi king praises strong ties with Pakistan, highlights shared commitment to increase cooperation",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654840/pakistan",
+      "published_date": "2026-08-16T04:08:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "’Powerful memories’: Lahore’s museum reconnects generations via 1947 partition letters",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654835/pakistan",
+      "published_date": "2026-08-16T03:08:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan says 17 militants killed in southwest during last 24 hours",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654834/pakistan",
+      "published_date": "2026-08-16T03:08:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan name 15-member women’s cricket squad for Asia Cup in Dubai",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654852/pakistan",
+      "published_date": "2026-08-15T22:08:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistani transporters hold talks with government as strike enters ninth day",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654850/pakistan",
+      "published_date": "2026-08-15T22:08:09+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Morocco arrests 111 migrants headed for Spain's Ceuta in security crackdown",
@@ -589,6 +645,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2023058/women-exercising-lawful-rights-should-not-be-subjected-to-violence-with-impunity-sc",
       "published_date": "2026-08-15T16:37:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lack of funding delays flood plan",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624117/lack-of-funding-delays-flood-plan",
+      "published_date": "2026-08-15T16:35:09+00:00",
       "category": "Local Events"
     },
     {
@@ -638,69 +701,6 @@
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2624075/armed-men-kill-female-tiktoker-with-13m-followers-outside-home-in-taxila",
       "published_date": "2026-08-15T13:50:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Naqvi defends Islamabad officials over buggy use at Independence Day parade",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2624071/naqvi-defends-islamabad-officials-over-buggy-use-at-independence-day-parade",
-      "published_date": "2026-08-15T13:05:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "18 girls’ schools in Upper Dir border areas recommended for week-long closure over security concerns",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2023038/18-girls-schools-in-upper-dir-border-areas-recommended-for-week-long-closure-over-security-concerns",
-      "published_date": "2026-08-15T12:58:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "10 terrorists killed in IBO in Balochistan's Khuzdar: state media",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2624069/10-terrorists-killed-in-ibo-in-balochistans-khuzdar-state-medi",
-      "published_date": "2026-08-15T12:39:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PML-N secures 25 seats in AJK assembly as election process concludes",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2624068/pml-n-secures-25-seats-in-ajk-assembly-as-election-process-concludes",
-      "published_date": "2026-08-15T11:47:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indonesian rescuers search for survivors as 7.7 quake death toll rises to 38",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2023007/indonesian-rescuers-search-for-survivors-as-77-quake-death-toll-rises-to-38",
-      "published_date": "2026-08-15T11:19:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Balloting underway at 23 polling stations in 2 constituencies of AJK's Bagh district",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2023001/balloting-underway-at-23-polling-stations-in-2-constituencies-of-ajks-bagh-district",
-      "published_date": "2026-08-15T10:02:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Islamabad police get 30 new vehicles ending 14-year wait",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2023018/islamabad-police-get-30-new-vehicles-ending-14-year-wait",
-      "published_date": "2026-08-15T09:59:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Taliban mark 5 years in power as aid groups warn of crisis",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2023028/taliban-mark-5-years-in-power-as-aid-groups-warn-of-crisis",
-      "published_date": "2026-08-15T09:34:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mir Raza Ali's murder: Interim bail of deceased's business partner extended till Aug 24",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2023021/mir-raza-alis-murder-interim-bail-of-deceaseds-business-partner-extended-till-aug-24",
-      "published_date": "2026-08-15T09:02:17+00:00",
       "category": "Local Events"
     }
   ]
