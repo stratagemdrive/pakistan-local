@@ -1,8 +1,22 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-08-16T11:26:33.116117+00:00",
+  "last_updated": "2026-08-16T23:09:23.890134+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Trump’s envoy Kushner meets Gaza mediators in Cairo",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654887/middle-east",
+      "published_date": "2026-08-16T05:08:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia joins Arab, Islamic nations in condemning Israel’s rejection of Gaza plan",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654883/middle-east",
+      "published_date": "2026-08-16T04:08:33+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Hamas chief heads to Cairo for talks ahead of Kushner visit",
       "source": "Arab News Pakistan",
@@ -130,24 +144,31 @@
       "category": "Diplomacy"
     },
     {
-      "title": "PSX gains 465 points as buying returns across key sectors",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2623504/psx-gains-465-points-as-buying-returns-across-key-sectors",
-      "published_date": "2026-08-12T07:44:50+00:00",
-      "category": "Diplomacy"
+      "title": "How Israel is trying to shape what AI tells users about Gaza",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654910/middle-east",
+      "published_date": "2026-08-17T09:08:21+00:00",
+      "category": "Military"
     },
     {
-      "title": "DPM Dar condemns Houthi attack, orders repatriation of three Pakistanis’ remains",
+      "title": "Pakistan, seven others condemn Israel’s rejection of Gaza roadmap",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2623448/dpm-dar-condemns-houthi-attack-orders-repatriation-of-three-pakistanis-remains",
-      "published_date": "2026-08-12T01:48:51+00:00",
-      "category": "Diplomacy"
+      "url": "https://tribune.com.pk/story/2624228/pakistan-seven-others-condemn-israels-rejection-of-gaza-roadmap",
+      "published_date": "2026-08-16T11:23:14+00:00",
+      "category": "Military"
     },
     {
       "title": "Yemenis haunted by fears of a return to all-out war",
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2654833/middle-east",
       "published_date": "2026-08-16T03:08:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran offers $30,000 bounty for killing, capturing US soldiers",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654881/middle-east",
+      "published_date": "2026-08-16T03:08:15+00:00",
       "category": "Military"
     },
     {
@@ -260,27 +281,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2022742/pakistans-leadership-stresses-need-for-unity-reforms-as-nation-celebrates-independence-day",
       "published_date": "2026-08-14T09:21:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Afghanistan marks 5 years under the Taliban: safer streets but pleas for jobs and education",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2654632/world",
-      "published_date": "2026-08-14T09:08:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi crown prince, Centcom head discuss regional de-escalation",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2654594/saudi-arabia",
-      "published_date": "2026-08-14T09:08:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "PM Shehbaz briefs President Zardari on Makkah defence agreement",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2623884/pm-shehbaz-briefs-president-zardari-on-makkah-defence-agreement",
-      "published_date": "2026-08-14T08:59:28+00:00",
       "category": "Military"
     },
     {
@@ -564,6 +564,20 @@
       "category": "Economy"
     },
     {
+      "title": "Goods transporters defer strike for 40 days as talks succeed",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624240/goods-transporters-defer-strike-for-40-days-as-talks-succeed",
+      "published_date": "2026-08-16T13:53:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "JI begins sit-ins outside governors' houses over inflation, fuel prices",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624219/ji-begins-sit-ins-outside-governors-houses-over-inflation-fuel-prices",
+      "published_date": "2026-08-16T09:13:11+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Firefighters battle second day of blaze on Greek island",
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2654847/world",
@@ -571,10 +585,45 @@
       "category": "Local Events"
     },
     {
+      "title": "Syria detains seven after man dies following beating in custody",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654908/middle-east",
+      "published_date": "2026-08-16T08:08:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why Houthi attacks on Mokha raise the stakes for Red Sea shipping",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654907/middle-east",
+      "published_date": "2026-08-16T08:08:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PMD forecasts rain, wind, thundershowers across upper, central parts from Aug 17-21",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624213/pmd-forecasts-rain-wind-thundershowers-across-upper-central-parts-from-aug-17-21",
+      "published_date": "2026-08-16T08:07:51+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Pakistani TikTok star killed in motorcycle shooting near Islamabad",
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2654842/pakistan",
       "published_date": "2026-08-16T07:08:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan, seven other Muslim countries condemn Israel’s rejection of Trump’s Gaza peace plan",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654896/pakistan",
+      "published_date": "2026-08-16T06:08:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan political party stages nationwide sit-ins to protest high petroleum levy",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654892/pakistan",
+      "published_date": "2026-08-16T06:08:17+00:00",
       "category": "Local Events"
     },
     {
@@ -652,55 +701,6 @@
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2624117/lack-of-funding-delays-flood-plan",
       "published_date": "2026-08-15T16:35:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Aleem Khan expresses support for Hazara province, calls for new administrative units",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2023044/aleem-khan-expresses-support-for-hazara-province-calls-for-new-administrative-units",
-      "published_date": "2026-08-15T15:46:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Political rivals should not let differences turn into animosity, says Nawaz",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2023039/political-rivals-should-not-let-differences-turn-into-animosity-says-nawaz",
-      "published_date": "2026-08-15T15:07:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "JI announces countrywide protest against petroleum levy on Sunday",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2023049/ji-announces-countrywide-protest-against-petroleum-levy-on-sunday",
-      "published_date": "2026-08-15T15:00:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rescuers search for survivors as Indonesian 7.7 quake death toll rises to 47",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2023007/rescuers-search-for-survivors-as-indonesian-77-quake-death-toll-rises-to-47",
-      "published_date": "2026-08-15T14:35:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KP rejects Centre’s proposal to deduct Rs6.4bn from federal transfers",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2023050/kp-rejects-centres-proposal-to-deduct-rs64bn-from-federal-transfers",
-      "published_date": "2026-08-15T14:32:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PHC orders probe into disappearance, alleged killing of Nowshera man in police encounter",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2624076/phc-orders-probe-into-disappearance-alleged-killing-of-nowshera-man-in-police-encounter",
-      "published_date": "2026-08-15T14:14:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armed men kill female TikToker with 1.3m followers outside home in Taxila",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2624075/armed-men-kill-female-tiktoker-with-13m-followers-outside-home-in-taxila",
-      "published_date": "2026-08-15T13:50:32+00:00",
       "category": "Local Events"
     }
   ]
