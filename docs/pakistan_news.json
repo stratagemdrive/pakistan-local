@@ -1,6 +1,6 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-08-17T11:32:29.364425+00:00",
+  "last_updated": "2026-08-17T23:11:43.600830+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -8,6 +8,13 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2654957/middle-east",
       "published_date": "2026-08-17T09:08:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan assumes presidency of UN conference to prevent nuclear wars, space weaponization",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655004/pakistan",
+      "published_date": "2026-08-17T05:08:22+00:00",
       "category": "Diplomacy"
     },
     {
@@ -137,11 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Norwegian FM to visit Pakistan on Aug 13-14, first such visit in a decade",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2022374/norwegian-fm-to-visit-pakistan-on-aug-13-14-first-such-visit-in-a-decade",
-      "published_date": "2026-08-12T13:28:01+00:00",
-      "category": "Diplomacy"
+      "title": "ISPR rejects 'highly dramatised,  factually inaccurate' Indian documentary on Operation Sindoor",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624429/ispr-rejects-highly-dramatised-factually-inaccurate-indian-documentary-on-operation-sindoor",
+      "published_date": "2026-08-17T14:35:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "FO rubbishes India's 'baseless assertions' linking Pakistan to arrests of terror suspects",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624412/fo-rubbishes-indias-baseless-assertions-linking-pakistan-to-arrests-of-terror-suspects",
+      "published_date": "2026-08-17T13:09:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan assumes presidency of UN Conference on Disarmament",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624407/pakistan-assumes-presidency-of-un-conference-on-disarmament",
+      "published_date": "2026-08-17T12:10:19+00:00",
+      "category": "Military"
     },
     {
       "title": "Jordan’s King Abdullah II to visit China from August 18",
@@ -176,6 +197,27 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2654953/middle-east",
       "published_date": "2026-08-17T08:08:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iraq to probe drone attack on Kurdistan PM’s office",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655012/middle-east",
+      "published_date": "2026-08-17T07:08:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian court sentences anti-war politician Shlosberg to 11 years in jail",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654993/world",
+      "published_date": "2026-08-17T02:08:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan rejects New Delhi’s allegation of backing militants plotting attacks in India — official",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654994/pakistan",
+      "published_date": "2026-08-17T02:08:47+00:00",
       "category": "Military"
     },
     {
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "The Middle East’s Nato?",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2022984/the-middle-easts-nato",
-      "published_date": "2026-08-15T03:44:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "PM Shehbaz directs NDMA to provide maximum relief to flood-affected people",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2624012/pm-shehbaz-directs-ndma-to-provide-maximum-relief-to-flood-affected-people",
-      "published_date": "2026-08-15T03:06:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump signals plan to claim Hormuz ‘soon’",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2022956/trump-signals-plan-to-claim-hormuz-soon",
-      "published_date": "2026-08-15T02:18:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "CDF Munir hosts Independence Day reception for Pakistan Army veterans: ISPR",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2624002/cdf-munir-hosts-independence-day-reception-for-pakistan-army-veterans-ispr",
-      "published_date": "2026-08-15T01:47:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "9 months at sea: Reports about condition of USS Abraham Lincoln crew spark congressional alarm",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2022815/9-months-at-sea-reports-about-condition-of-uss-abraham-lincoln-crew-spark-congressional-alarm",
-      "published_date": "2026-08-14T17:00:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan, Hong Kong Customs forge partnership",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2623977/pakistan-hong-kong-customs-forge-partnership",
-      "published_date": "2026-08-14T16:18:43+00:00",
-      "category": "Military"
+      "title": "Pakistan raises petrol, diesel prices by as much as Rs6 per liter for next 24 hours",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655017/pakistan",
+      "published_date": "2026-08-17T08:08:24+00:00",
+      "category": "Energy"
     },
     {
       "title": "Pakistan says digitizing oil supply chain to improve petroleum stock monitoring",
@@ -417,11 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Norwegian foreign minister to visit Pakistan tomorrow after a decade",
+      "title": "Pakistan refiner Cnergyico expands US crude imports amid Hormuz disruption",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2623511/norwegian-foreign-minister-to-visit-pakistan-tomorrow-after-a-decade",
-      "published_date": "2026-08-12T08:47:40+00:00",
-      "category": "Energy"
+      "url": "https://tribune.com.pk/story/2624396/pakistan-refiner-cnergyico-expands-us-crude-imports-amid-hormuz-disruption",
+      "published_date": "2026-08-17T08:31:44+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Somali pirates seize cargo ship",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655015/world",
+      "published_date": "2026-08-17T07:08:37+00:00",
+      "category": "Economy"
     },
     {
       "title": "Pakistan plans Karachi apparel hub targeting $2.2 billion in annual exports",
@@ -550,18 +564,18 @@
       "category": "Economy"
     },
     {
-      "title": "National question",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2022713/national-question",
-      "published_date": "2026-08-14T12:12:31+00:00",
-      "category": "Economy"
+      "title": "GSR, CCTV offer new clues in Wafflix owner Mir Raza’s murder",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624409/gsr-cctv-offer-new-clues-in-wafflix-owner-mir-razas-murder",
+      "published_date": "2026-08-17T12:39:59+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Transporters’ issues almost resolved: Sindh CM",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2022659/transporters-issues-almost-resolved-sindh-cm",
-      "published_date": "2026-08-14T02:40:34+00:00",
-      "category": "Economy"
+      "title": "PTI demands Imran's immediate hospital transfer after jail report flags BP issues",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624399/pti-demands-imrans-immediate-hospital-transfer-after-jail-report-flags-bp-issues",
+      "published_date": "2026-08-17T09:20:37+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Australia’s mushroom murderer appeals conviction",
@@ -575,6 +589,13 @@
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2624364/independent-ajk-lawmaker-sajid-iqbal-joins-pml-n-after-election-upset",
       "published_date": "2026-08-17T04:09:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Buddhist monks protest Israeli presence, illegal activity in Sri Lankan surfing spot",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654991/world",
+      "published_date": "2026-08-17T02:08:48+00:00",
       "category": "Local Events"
     },
     {
@@ -680,27 +701,6 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2654852/pakistan",
       "published_date": "2026-08-15T22:08:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistani transporters hold talks with government as strike enters ninth day",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2654850/pakistan",
-      "published_date": "2026-08-15T22:08:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Morocco arrests 111 migrants headed for Spain's Ceuta in security crackdown",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2023063/morocco-arrests-111-migrants-headed-for-spains-ceuta-in-security-crackdown",
-      "published_date": "2026-08-15T18:34:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AJK Election Commission rejects two pleas against Rathore’s LA-17 victory",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2023061/ajk-election-commission-rejects-two-pleas-against-rathores-la-17-victory",
-      "published_date": "2026-08-15T18:13:38+00:00",
       "category": "Local Events"
     }
   ]
