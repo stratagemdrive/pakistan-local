@@ -1,8 +1,22 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-08-16T23:09:23.890134+00:00",
+  "last_updated": "2026-08-17T11:32:29.364425+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Iran says two French embassy employees barred from returning",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654957/middle-east",
+      "published_date": "2026-08-17T09:08:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "FM Dar, Turkish counterpart discuss regional developments in phone call",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624368/fm-dar-turkish-counterpart-discuss-regional-developments-in-phone-call",
+      "published_date": "2026-08-17T04:23:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump’s envoy Kushner meets Gaza mediators in Cairo",
       "source": "Arab News Pakistan",
@@ -130,24 +144,52 @@
       "category": "Diplomacy"
     },
     {
-      "title": "FO says Naqvi's visit to Iran aimed at discussing bilateral relations, regional peace and stability",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2022344/fo-says-naqvis-visit-to-iran-aimed-at-discussing-bilateral-relations-regional-peace-and-stability",
-      "published_date": "2026-08-12T08:33:49+00:00",
-      "category": "Diplomacy"
+      "title": "Jordan’s King Abdullah II to visit China from August 18",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654955/middle-east",
+      "published_date": "2026-08-17T09:08:52+00:00",
+      "category": "Military"
     },
     {
-      "title": "Analysis: Saudi Arabia’s new maritime coalition put to the test",
+      "title": "Iran blames US presence for Gulf waters pollution after oil spills",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2654449/middle-east",
-      "published_date": "2026-08-12T08:08:40+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.arabnews.pk/node/2654954/middle-east",
+      "published_date": "2026-08-17T09:08:35+00:00",
+      "category": "Military"
     },
     {
       "title": "How Israel is trying to shape what AI tells users about Gaza",
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2654910/middle-east",
       "published_date": "2026-08-17T09:08:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Drones attack the Kurdistan Regional Government prime minister’s office in Iraq",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654952/middle-east",
+      "published_date": "2026-08-17T08:08:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran considers missing pilots to be prisoners in Qatar",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654953/middle-east",
+      "published_date": "2026-08-17T08:08:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "PM Shehbaz appreciates Trump’s support for Makkah defence pact",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624340/pm-shehbaz-appreciates-trumps-support-for-makkah-defence-pact",
+      "published_date": "2026-08-17T01:04:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "With 60-day deadline for an Iran peace deal expiring, things remain deadlocked",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654958/middle-east",
+      "published_date": "2026-08-16T22:08:08+00:00",
       "category": "Military"
     },
     {
@@ -242,46 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Indian firm to make fighter jet engines with Rolls-Royce",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2022814/indian-firm-to-make-fighter-jet-engines-with-rolls-royce",
-      "published_date": "2026-08-14T15:08:43+00:00",
-      "category": "Military"
+      "title": "Pakistan says digitizing oil supply chain to improve petroleum stock monitoring",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654960/pakistan",
+      "published_date": "2026-08-16T22:08:49+00:00",
+      "category": "Energy"
     },
     {
-      "title": "PM Shehbaz briefs President Zardari on Pak-Saudi-Turkiye defence pact",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2022808/pm-shehbaz-briefs-president-zardari-on-pak-saudi-turkiye-defence-pact",
-      "published_date": "2026-08-14T14:42:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "China's Z.ai says new model nears Anthropic's Mythos 5 in cyber-defence tests",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2022805/chinas-zai-says-new-model-nears-anthropics-mythos-5-in-cyber-defence-tests",
-      "published_date": "2026-08-14T13:28:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump's envoy Jared Kushner to visit Israel to bridge gaps on Gaza plan",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2022801/trumps-envoy-jared-kushner-to-visit-israel-to-bridge-gaps-on-gaza-plan",
-      "published_date": "2026-08-14T13:01:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war hits Americans at gas pumps as conflict drives up energy costs",
+      "title": "The gas that built Pakistan but left Balochistan behind",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2623888/iran-war-hits-americans-at-gas-pumps-as-conflict-drives-up-energy-costs",
-      "published_date": "2026-08-14T09:42:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan's leadership stresses need for unity, reforms as nation celebrates Independence Day",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2022742/pakistans-leadership-stresses-need-for-unity-reforms-as-nation-celebrates-independence-day",
-      "published_date": "2026-08-14T09:21:39+00:00",
-      "category": "Military"
+      "url": "https://tribune.com.pk/story/2624267/the-gas-that-built-pakistan-but-left-balochistan-behind",
+      "published_date": "2026-08-16T15:46:11+00:00",
+      "category": "Energy"
     },
     {
       "title": "Circular debt jumps by Rs364b",
@@ -410,18 +424,46 @@
       "category": "Energy"
     },
     {
-      "title": "Petroleum dealers issue 72-hour ultimatum",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2022267/petroleum-dealers-issue-72-hour-ultimatum",
-      "published_date": "2026-08-12T01:23:11+00:00",
-      "category": "Energy"
+      "title": "Pakistan plans Karachi apparel hub targeting $2.2 billion in annual exports",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654948/pakistan",
+      "published_date": "2026-08-17T07:08:31+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Oil rises as doubts over US-Iran deal heighten supply concerns",
+      "title": "Pakistan refiner Cnergyico expands US crude imports amid Hormuz disruption",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654959/pakistan",
+      "published_date": "2026-08-16T22:08:21+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Earning S&P, Moody's next upgrade",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2623439/oil-rises-as-doubts-over-us-iran-deal-heighten-supply-concerns",
-      "published_date": "2026-08-12T00:20:23+00:00",
-      "category": "Energy"
+      "url": "https://tribune.com.pk/story/2624262/earning-sp-moodys-next-upgrade",
+      "published_date": "2026-08-16T15:46:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pakistan's 79th: time to live, not just survive",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624263/pakistans-79th-time-to-live-not-just-survive",
+      "published_date": "2026-08-16T15:46:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Child stunting is Pakistan's hidden economic crisis",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624266/child-stunting-is-pakistans-hidden-economic-crisis",
+      "published_date": "2026-08-16T15:46:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Is US drifting towards 'silent default'?",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624265/is-us-drifting-towards-silent-default",
+      "published_date": "2026-08-16T15:46:11+00:00",
+      "category": "Economy"
     },
     {
       "title": "Turkiye eyes stronger trade, new JVs",
@@ -522,46 +564,25 @@
       "category": "Economy"
     },
     {
-      "title": "Petroleum levy collection hits record Rs1.57tr",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2022699/petroleum-levy-collection-hits-record-rs157tr",
-      "published_date": "2026-08-14T02:23:46+00:00",
-      "category": "Economy"
+      "title": "Australia’s mushroom murderer appeals conviction",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2654942/world",
+      "published_date": "2026-08-17T06:08:51+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Pakistan marks 79th Independence Day as leaders call for national unity, economic progress",
+      "title": "Independent AJK lawmaker Sajid Iqbal joins PML-N after election upset",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2623834/pakistan-marks-79th-independence-day-as-leaders-call-for-national-unity-economic-progress",
-      "published_date": "2026-08-14T00:32:58+00:00",
-      "category": "Economy"
+      "url": "https://tribune.com.pk/story/2624364/independent-ajk-lawmaker-sajid-iqbal-joins-pml-n-after-election-upset",
+      "published_date": "2026-08-17T04:09:28+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Govt exceeds IMF surplus target",
+      "title": "Six terrorists killed in separate IBOs in Balochistan",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2623772/govt-exceeds-imf-surplus-target",
-      "published_date": "2026-08-13T15:35:49+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "FX reserves edge up to $22.5b",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2623774/fx-reserves-edge-up-to-225b",
-      "published_date": "2026-08-13T15:35:49+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "PSX ends with mild losses, lacks triggers",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2623780/psx-ends-with-mild-losses-lacks-triggers",
-      "published_date": "2026-08-13T15:35:49+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Govt mulls tokenisation of real estate, other assets",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2623779/govt-mulls-tokenisation-of-real-estate-other-assets",
-      "published_date": "2026-08-13T15:35:49+00:00",
-      "category": "Economy"
+      "url": "https://tribune.com.pk/story/2624337/two-terrorists-killed-three-injured-in-balochistans-kili-zaik-operation-security-sources",
+      "published_date": "2026-08-17T00:32:07+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Goods transporters defer strike for 40 days as talks succeed",
@@ -680,27 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2023061/ajk-election-commission-rejects-two-pleas-against-rathores-la-17-victory",
       "published_date": "2026-08-15T18:13:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AJK elections: PPP, PML-N candidates retain lead in Bagh after repolling",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2023001/ajk-elections-ppp-pml-n-candidates-retain-lead-in-bagh-after-repolling",
-      "published_date": "2026-08-15T16:49:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Women exercising lawful rights should not be subjected to violence with impunity: SC",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2023058/women-exercising-lawful-rights-should-not-be-subjected-to-violence-with-impunity-sc",
-      "published_date": "2026-08-15T16:37:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lack of funding delays flood plan",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2624117/lack-of-funding-delays-flood-plan",
-      "published_date": "2026-08-15T16:35:09+00:00",
       "category": "Local Events"
     }
   ]
