@@ -1,8 +1,29 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-08-17T23:11:43.600830+00:00",
+  "last_updated": "2026-08-18T11:31:51.348637+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Hormuz will not open until US meets demands, Iran negotiator Qalibaf says",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655068/middle-east",
+      "published_date": "2026-08-18T09:08:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "FM Dar welcomes 'positive momentum' in Islamabad-Moscow relations",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624558/fm-dar-welcomes-positive-momentum-in-islamabad-moscow-relations",
+      "published_date": "2026-08-18T05:01:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "PSX tumbles 1,806 points amid geopolitical tensions",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624555/psx-tumbles-1806-points-amid-geopolitical-tensions",
+      "published_date": "2026-08-18T04:15:39+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran says two French embassy employees barred from returning",
       "source": "Arab News Pakistan",
@@ -123,25 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Japan summons Russian envoy after Putin visits disputed islands",
+      "title": "Syria sentences detained Assad cousin to death",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2654505",
-      "published_date": "2026-08-12T22:08:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.arabnews.pk/node/2655065/middle-east",
+      "published_date": "2026-08-18T09:08:23+00:00",
+      "category": "Military"
     },
     {
-      "title": "California Senate hails Pak-US ties",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2623586/california-senate-hails-pak-us-ties",
-      "published_date": "2026-08-12T17:41:01+00:00",
-      "category": "Diplomacy"
+      "title": "At a Gaza zoo, war takes its toll on the animals",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655053/middle-east",
+      "published_date": "2026-08-18T07:08:08+00:00",
+      "category": "Military"
     },
     {
-      "title": "After death of 3 Pakistani sailors, FO says Islamabad will implement maritime coalition 'in full earnest'",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2022344/after-death-of-3-pakistani-sailors-fo-says-islamabad-will-implement-maritime-coalition-in-full-earnest",
-      "published_date": "2026-08-12T14:10:31+00:00",
-      "category": "Diplomacy"
+      "title": "Israel strikes Syrian military airfield after Turkish delegation visit",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655049/middle-east",
+      "published_date": "2026-08-18T06:08:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump crypto firm backs venture offering AI from restricted Chinese companies",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655043/world",
+      "published_date": "2026-08-18T05:08:34+00:00",
+      "category": "Military"
     },
     {
       "title": "ISPR rejects 'highly dramatised,  factually inaccurate' Indian documentary on Operation Sindoor",
@@ -256,32 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "UN report flags BLA’s tactical collaboration with Afghan-based groups",
+      "title": "Oil climbs as fading US-Iran peace hopes raise supply risks",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2624077/un-report-flags-blas-tactical-collaboration-with-afghan-based-groups",
-      "published_date": "2026-08-15T14:27:15+00:00",
-      "category": "Military"
+      "url": "https://tribune.com.pk/story/2624529/oil-climbs-as-fading-us-iran-peace-hopes-raise-supply-risks",
+      "published_date": "2026-08-18T01:03:36+00:00",
+      "category": "Energy"
     },
     {
-      "title": "The strategic imperative: Why Europe cannot afford to sideline Pakistan",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2023032/the-strategic-imperative-why-europe-cannot-afford-to-sideline-pakistan",
-      "published_date": "2026-08-15T11:12:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Qatar ‘categorically denies’ detaining downed Iranian pilots",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2654812/middle-east",
-      "published_date": "2026-08-15T08:08:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Spain boosts security in Ceuta as calls appear online for another mass border rush",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2654746/world",
-      "published_date": "2026-08-15T07:08:09+00:00",
-      "category": "Military"
+      "title": "Refinery stocks take PSX up by 398 points",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624449/refinery-stocks-take-psx-up-by-398-points",
+      "published_date": "2026-08-17T16:41:51+00:00",
+      "category": "Energy"
     },
     {
       "title": "Pakistan raises petrol, diesel prices by as much as Rs6 per liter for next 24 hours",
@@ -410,18 +424,39 @@
       "category": "Energy"
     },
     {
-      "title": "OPEC, IEA diverge on oil demand",
+      "title": "PM Shehbaz calls for effective measures to create jobs for youth",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2623569/opec-iea-diverge-on-oil-demand",
-      "published_date": "2026-08-12T16:07:49+00:00",
-      "category": "Energy"
+      "url": "https://tribune.com.pk/story/2624549/pm-shehbaz-calls-for-effective-measures-to-create-jobs-for-youth",
+      "published_date": "2026-08-18T03:28:58+00:00",
+      "category": "Economy"
     },
     {
-      "title": "DISCOs buyers eye dollar returns",
+      "title": "SBP injects Rs11.6tr into banking system",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2623565/discos-buyers-eye-dollar-returns",
-      "published_date": "2026-08-12T16:07:48+00:00",
-      "category": "Energy"
+      "url": "https://tribune.com.pk/story/2624447/sbp-injects-rs116tr-into-banking-system",
+      "published_date": "2026-08-17T16:41:51+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "'Stabilisation policies driving poverty'",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624442/stabilisation-policies-driving-poverty",
+      "published_date": "2026-08-17T16:41:51+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Govt seeks Egypt's help to boost cotton yield",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624448/govt-seeks-egypts-help-to-boost-cotton-yield",
+      "published_date": "2026-08-17T16:41:51+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Garment city gets $18m investment",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624446/garment-city-gets-18m-investment",
+      "published_date": "2026-08-17T16:41:51+00:00",
+      "category": "Economy"
     },
     {
       "title": "Pakistan refiner Cnergyico expands US crude imports amid Hormuz disruption",
@@ -529,39 +564,39 @@
       "category": "Economy"
     },
     {
-      "title": "Strike halts trade at ports",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2623972/strike-halts-trade-at-ports",
-      "published_date": "2026-08-14T16:18:43+00:00",
-      "category": "Economy"
+      "title": "From Instagram collages to immersive worlds, Pakistan’s Sara Shakeel brings her art home",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655067/pakistan",
+      "published_date": "2026-08-18T09:08:46+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Economists warn 3.7% growth not enough",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2623978/economists-warn-37-growth-not-enough",
-      "published_date": "2026-08-14T16:18:43+00:00",
-      "category": "Economy"
+      "title": "Pakistan top court orders jailed ex-PM Imran Khan moved to private hospital",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655064/pakistan",
+      "published_date": "2026-08-18T09:08:28+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Pharma roadmap envisages $10b exports",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2623976/pharma-roadmap-envisages-10b-exports",
-      "published_date": "2026-08-14T16:18:43+00:00",
-      "category": "Economy"
+      "title": "Pakistan Supreme Court orders ex-PM Khan moved from jail to hospital",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655063/world",
+      "published_date": "2026-08-18T08:08:05+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "PSX ends lower amid lingering ME uncertainty",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2623973/psx-ends-lower-amid-lingering-me-uncertainty",
-      "published_date": "2026-08-14T16:18:43+00:00",
-      "category": "Economy"
+      "title": "Pakistan PM orders timely completion of Hajj 2027 preparations",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655044/pakistan",
+      "published_date": "2026-08-18T05:08:17+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "'Investment, exports, jobs on agenda'",
+      "title": "SC orders Imran Khan’s transfer to Shifa International Hospital for treatment",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2623974/investment-exports-jobs-on-agenda",
-      "published_date": "2026-08-14T16:18:43+00:00",
-      "category": "Economy"
+      "url": "https://tribune.com.pk/story/2624531/sc-seeks-details-of-imrans-meetings-with-sisters-orders-release-of-full-medical-record",
+      "published_date": "2026-08-18T01:13:22+00:00",
+      "category": "Local Events"
     },
     {
       "title": "GSR, CCTV offer new clues in Wafflix owner Mir Raza’s murder",
@@ -666,41 +701,6 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2654892/pakistan",
       "published_date": "2026-08-16T06:08:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands evacuate after Indonesia quake kills 51, cuts roads",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2654836/world",
-      "published_date": "2026-08-16T04:08:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi king praises strong ties with Pakistan, highlights shared commitment to increase cooperation",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2654840/pakistan",
-      "published_date": "2026-08-16T04:08:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "’Powerful memories’: Lahore’s museum reconnects generations via 1947 partition letters",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2654835/pakistan",
-      "published_date": "2026-08-16T03:08:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan says 17 militants killed in southwest during last 24 hours",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2654834/pakistan",
-      "published_date": "2026-08-16T03:08:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan name 15-member women’s cricket squad for Asia Cup in Dubai",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2654852/pakistan",
-      "published_date": "2026-08-15T22:08:23+00:00",
       "category": "Local Events"
     }
   ]
