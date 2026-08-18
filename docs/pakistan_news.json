@@ -1,6 +1,6 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-08-18T11:31:51.348637+00:00",
+  "last_updated": "2026-08-18T23:11:32.594756+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -8,6 +8,27 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2655068/middle-east",
       "published_date": "2026-08-18T09:08:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US working on deconfliction mechanism among Turkiye, Israel and Syria, US envoy says",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655138/middle-east",
+      "published_date": "2026-08-18T07:08:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Syria FM due to arrive in Pakistan today — official",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655136/pakistan",
+      "published_date": "2026-08-18T07:08:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France to expel two Iranian diplomats: foreign minister",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655128/world",
+      "published_date": "2026-08-18T06:08:02+00:00",
       "category": "Diplomacy"
     },
     {
@@ -123,31 +144,24 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Norwegian FM backs Pakistan mediation in Iran conflict, urges ‘open sea lanes’ for global trade",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2654498/pakistan",
-      "published_date": "2026-08-13T09:08:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Dominican Republic expels nine staff at Cuban embassy",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2654581/world",
-      "published_date": "2026-08-13T08:08:42+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "HRW says UN must keep peacekeepers in Lebanon",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2654588/middle-east",
-      "published_date": "2026-08-13T08:08:27+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Syria sentences detained Assad cousin to death",
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2655065/middle-east",
       "published_date": "2026-08-18T09:08:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel says it recovered remains of soldier killed in Lebanon in 1982",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655135/middle-east",
+      "published_date": "2026-08-18T07:08:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Blast at Afghan school injures at least 42 children: UN",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655140/world",
+      "published_date": "2026-08-18T07:08:29+00:00",
       "category": "Military"
     },
     {
@@ -162,6 +176,20 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2655049/middle-east",
       "published_date": "2026-08-18T06:08:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel army says ‘lessons learned’ after troops marked Palestinians",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655126/middle-east",
+      "published_date": "2026-08-18T06:08:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan begins receiving online payments as part of Hajj digitization push",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655127/pakistan",
+      "published_date": "2026-08-18T06:08:04+00:00",
       "category": "Military"
     },
     {
@@ -253,34 +281,6 @@
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2624340/pm-shehbaz-appreciates-trumps-support-for-makkah-defence-pact",
       "published_date": "2026-08-17T01:04:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "With 60-day deadline for an Iran peace deal expiring, things remain deadlocked",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2654958/middle-east",
-      "published_date": "2026-08-16T22:08:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan, seven others condemn Israel’s rejection of Gaza roadmap",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2624228/pakistan-seven-others-condemn-israels-rejection-of-gaza-roadmap",
-      "published_date": "2026-08-16T11:23:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemenis haunted by fears of a return to all-out war",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2654833/middle-east",
-      "published_date": "2026-08-16T03:08:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran offers $30,000 bounty for killing, capturing US soldiers",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2654881/middle-east",
-      "published_date": "2026-08-16T03:08:15+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "US rates likely to stay higher for longer, squeezing consumers",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624601/us-rates-likely-to-stay-higher-for-longer-squeezing-consumers",
+      "published_date": "2026-08-18T11:38:19+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "PM Shehbaz calls for effective measures to create jobs for youth",
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2624549/pm-shehbaz-calls-for-effective-measures-to-create-jobs-for-youth",
@@ -557,11 +564,25 @@
       "category": "Economy"
     },
     {
-      "title": "Tomatoes, onions up over 100% yearly",
+      "title": "5.4-magnitude earthquake jolts Islamabad, parts of K-P",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2623979/tomatoes-onions-up-over-100-yearly",
-      "published_date": "2026-08-14T16:18:43+00:00",
-      "category": "Economy"
+      "url": "https://tribune.com.pk/story/2624632/54-magnitude-earthquake-jolts-islamabad-parts-of-k-p",
+      "published_date": "2026-08-18T15:21:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sindh Police break silence on Mir Raza murder case after 19 days",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624609/sindh-police-break-silence-on-mir-raza-murder-case-after-19-days",
+      "published_date": "2026-08-18T13:17:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Law minister signals review as cabinet colleague vows to honour SC’s Imran hospital order",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624592/sanaullah-calls-sc-order-on-imrans-hospital-transfer-merit-based-ruling",
+      "published_date": "2026-08-18T10:06:30+00:00",
+      "category": "Local Events"
     },
     {
       "title": "From Instagram collages to immersive worlds, Pakistan’s Sara Shakeel brings her art home",
@@ -578,10 +599,45 @@
       "category": "Local Events"
     },
     {
+      "title": "What are the cases against Imran Khan?",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624584/what-are-the-cases-against-imran-khan",
+      "published_date": "2026-08-18T08:13:05+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Pakistan Supreme Court orders ex-PM Khan moved from jail to hospital",
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2655063/world",
       "published_date": "2026-08-18T08:08:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rodri joins La Liga champions Barcelona from Manchester City",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655137/sport",
+      "published_date": "2026-08-18T07:08:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan to mobilize one million youth volunteers to tackle education, malnutrition challenges",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655129/pakistan",
+      "published_date": "2026-08-18T07:08:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nine bodies of migrants recovered off eastern Tripoli, Red Crescent says",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655139/middle-east",
+      "published_date": "2026-08-18T07:08:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sharjeel Memon says new provinces can only be created through constitutional process",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624565/sharjeel-memon-says-new-provinces-can-only-be-created-through-constitutional-process",
+      "published_date": "2026-08-18T05:37:50+00:00",
       "category": "Local Events"
     },
     {
@@ -645,62 +701,6 @@
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2624240/goods-transporters-defer-strike-for-40-days-as-talks-succeed",
       "published_date": "2026-08-16T13:53:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "JI begins sit-ins outside governors' houses over inflation, fuel prices",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2624219/ji-begins-sit-ins-outside-governors-houses-over-inflation-fuel-prices",
-      "published_date": "2026-08-16T09:13:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Firefighters battle second day of blaze on Greek island",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2654847/world",
-      "published_date": "2026-08-16T08:08:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syria detains seven after man dies following beating in custody",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2654908/middle-east",
-      "published_date": "2026-08-16T08:08:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why Houthi attacks on Mokha raise the stakes for Red Sea shipping",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2654907/middle-east",
-      "published_date": "2026-08-16T08:08:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PMD forecasts rain, wind, thundershowers across upper, central parts from Aug 17-21",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2624213/pmd-forecasts-rain-wind-thundershowers-across-upper-central-parts-from-aug-17-21",
-      "published_date": "2026-08-16T08:07:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistani TikTok star killed in motorcycle shooting near Islamabad",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2654842/pakistan",
-      "published_date": "2026-08-16T07:08:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan, seven other Muslim countries condemn Israel’s rejection of Trump’s Gaza peace plan",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2654896/pakistan",
-      "published_date": "2026-08-16T06:08:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan political party stages nationwide sit-ins to protest high petroleum levy",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2654892/pakistan",
-      "published_date": "2026-08-16T06:08:17+00:00",
       "category": "Local Events"
     }
   ]
