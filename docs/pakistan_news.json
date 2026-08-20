@@ -1,8 +1,22 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-08-20T11:33:28.277993+00:00",
+  "last_updated": "2026-08-20T23:15:32.577703+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "PM Shehbaz stresses need to translate friendship with Syria into bilateral cooperation",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024089/pm-shehbaz-stresses-need-to-translate-friendship-with-syria-into-bilateral-cooperation",
+      "published_date": "2026-08-20T13:56:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Dar, Brazilian FM discuss US-Iran mediation, stress importance of dialogue for global peace",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624958/dar-brazilian-fm-discuss-us-iran-mediation-stress-importance-of-dialogue-for-global-peace",
+      "published_date": "2026-08-20T12:00:59+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "DPM Dar reiterates Pakistan's support for Syria's sovereignty, territorial integrity",
       "source": "Dawn",
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran says two French embassy employees barred from returning",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2654957/middle-east",
-      "published_date": "2026-08-17T09:08:10+00:00",
-      "category": "Diplomacy"
+      "title": "Imran Khan will not confront military if freed, Zulfi Bukhari says",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624972/imran-khan-will-not-confront-army-if-freed-zulfi-bukhari-says",
+      "published_date": "2026-08-20T14:03:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "Pakistan assumes presidency of UN conference to prevent nuclear wars, space weaponization",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2655004/pakistan",
-      "published_date": "2026-08-17T05:08:22+00:00",
-      "category": "Diplomacy"
+      "title": "NA passes bills related to military, nuclear command structure as Bilawal objects, opposition walks out",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024124/na-passes-bills-related-to-military-nuclear-command-structure-as-bilawal-objects-opposition-walks-out",
+      "published_date": "2026-08-20T13:53:10+00:00",
+      "category": "Military"
     },
     {
       "title": "Federal cabinet approves drafts of two bills related to military, nuclear command structure",
@@ -179,6 +193,13 @@
       "category": "Military"
     },
     {
+      "title": "Syrian Kurds announce completion of civil, military intergration with Damascus",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655360/middle-east",
+      "published_date": "2026-08-20T08:08:06+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Dar says Pakistanis injured in Houthi attack in Red Sea have returned safely",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2024098/dar-says-pakistanis-injured-in-houthi-attack-in-red-sea-have-returned-safely",
@@ -200,10 +221,24 @@
       "category": "Military"
     },
     {
+      "title": "Pakistan parliament gives chief of defense forces operational command over military",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655352/pakistan",
+      "published_date": "2026-08-20T06:08:23+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Pakistan’s FIH World Cup journey ends after 5-3 loss to India",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2023992/pakistans-fih-world-cup-journey-ends-after-5-3-loss-to-india",
       "published_date": "2026-08-20T04:03:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Following NA, Senate also passes Defence Forces Act 2026, amendments to NCA Act 2010",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624907/cabinet-approves-defence-forces-act-2026-amendments-to-national-command-authority-act-2010",
+      "published_date": "2026-08-20T03:34:13+00:00",
       "category": "Military"
     },
     {
@@ -249,39 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Was Israel’s strike on a Syrian airbase meant as a warning to Turkiye?",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2655251/middle-east",
-      "published_date": "2026-08-19T08:08:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan PM orders refinery talks to cut diesel prices as fuel costs remain high",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2655172/pakistan",
-      "published_date": "2026-08-19T08:08:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US, South Korea cut annual war games short after Trump criticism",
+      "title": "Govt hikes petrol price by Rs0.27, high-speed diesel by Rs1.64",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2023859/us-south-korea-cut-annual-war-games-short-after-trump-criticism",
-      "published_date": "2026-08-19T06:03:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan extends airspace ban on Indian aircraft until Sept 24",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2023856/pakistan-extends-airspace-ban-on-indian-aircraft-until-sept-24",
-      "published_date": "2026-08-19T05:12:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan condemns ‘unprovoked’ Israeli attack on Syrian airbase",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2624704/pakistan-condemns-unprovoked-israeli-attack-on-syrian-airbase",
-      "published_date": "2026-08-19T01:33:35+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/2024165/govt-hikes-petrol-price-by-rs027-high-speed-diesel-by-rs164",
+      "published_date": "2026-08-20T18:07:24+00:00",
+      "category": "Energy"
     },
     {
       "title": "Diesel price nose-dives by Rs32.63, petrol registers Rs2.97 increase",
@@ -417,11 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Germany may continue to run some coal plants",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2624104/germany-may-continue-to-run-some-coal-plants",
-      "published_date": "2026-08-15T15:20:53+00:00",
-      "category": "Energy"
+      "title": "Al-Hilal claim victory over Al-Fayha but questions remain amid apparent lack of cohesion",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655376/sport",
+      "published_date": "2026-08-20T22:08:17+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Trump threatens to isolate Iran. Who are its trading partners?",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024153/trump-threatens-to-isolate-iran-who-are-its-trading-partners",
+      "published_date": "2026-08-20T15:40:42+00:00",
+      "category": "Economy"
     },
     {
       "title": "Pakistan PM invites opposition for ‘constructive dialogue’ to ease political tensions",
@@ -550,24 +564,101 @@
       "category": "Economy"
     },
     {
-      "title": "PM Shehbaz calls for effective measures to create jobs for youth",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2624549/pm-shehbaz-calls-for-effective-measures-to-create-jobs-for-youth",
-      "published_date": "2026-08-18T03:28:58+00:00",
-      "category": "Economy"
+      "title": "As Israel restricts goods, a booming black market drains Gaza’s wallets",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655373/middle-east",
+      "published_date": "2026-08-21T09:08:22+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "SBP injects Rs11.6tr into banking system",
+      "title": "PTI founder Imran Khan shifted to Shifa International Hospital in Islamabad under tight security",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024149/pti-founder-imran-khan-shifted-to-shifa-international-hospital-in-islamabad-under-tight-security",
+      "published_date": "2026-08-20T22:09:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heavy cross-border shelling reported in KP's Mohmand",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024162/heavy-cross-border-shelling-reported-in-kps-mohmand",
+      "published_date": "2026-08-20T18:41:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Noor Mukadam case: Crimes against women betrayal of divine and national values, SC says",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024151/noor-mukadam-case-crimes-against-women-betrayal-of-divine-and-national-values-sc-says",
+      "published_date": "2026-08-20T18:34:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Roads blocked, traffic congested in Karachi’s PIDC area due to lawyers' protest",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024131/roads-blocked-traffic-congested-in-karachis-pidc-area-due-to-lawyers-protest",
+      "published_date": "2026-08-20T17:33:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Govt says Imran Khan can be sent abroad for treatment ‘if need arises’, but procedure must be followed first",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024154/govt-says-imran-khan-can-be-sent-abroad-for-treatment-if-need-arises-but-procedure-must-be-followed-first",
+      "published_date": "2026-08-20T17:32:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "JI warns it will expand ongoing sit-ins into wheel-jam, shutter-down strike",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024146/ji-warns-it-will-expand-ongoing-sit-ins-into-wheel-jam-shutter-down-strike",
+      "published_date": "2026-08-20T15:28:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "JUI-F chief, opposition leaders agree to form ‘united opposition’",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024144/jui-f-chief-opposition-leaders-agree-to-form-united-opposition",
+      "published_date": "2026-08-20T14:49:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ECP agrees to Punjab’s proposal to hold local body polls between Dec 15, 2026, and Jan 15, 2027",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024139/ecp-agrees-to-punjabs-proposal-to-hold-local-body-polls-between-dec-15-2026-and-jan-15-2027",
+      "published_date": "2026-08-20T14:06:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'The law is clear': Legal experts weigh in on delay in shifting Imran to hospital",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024122/the-law-is-clear-legal-experts-weigh-in-on-delay-in-shifting-imran-to-hospital",
+      "published_date": "2026-08-20T12:36:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ICC rescinds demerit point imposed on Lahore’s Gaddafi Stadium after PCB appeal",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024125/icc-rescinds-demerit-point-imposed-on-lahores-gaddafi-stadium-after-pcb-appeal",
+      "published_date": "2026-08-20T12:35:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "IHC fixes hearing for Imaan, Chattha's sentence suspension pleas on Sept 8",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2624447/sbp-injects-rs116tr-into-banking-system",
-      "published_date": "2026-08-17T16:41:51+00:00",
-      "category": "Economy"
+      "url": "https://tribune.com.pk/story/2624947/ihc-fixes-hearing-for-imaan-chatthas-sentence-suspension-pleas-on-sept-8",
+      "published_date": "2026-08-20T10:14:08+00:00",
+      "category": "Local Events"
     },
     {
       "title": "2 killed in roof collapse amid torrential rainfall in KP's Swabi",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2024094/2-killed-in-roof-collapse-amid-torrential-rainfall-in-kps-swabi",
       "published_date": "2026-08-20T09:46:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opposition parties agree in principle to form joint front, Fazl says after TTAP meeting",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624945/opposition-parties-agree-in-principle-to-form-joint-fron-fazl-says-after-meeting-achakzai",
+      "published_date": "2026-08-20T09:33:46+00:00",
       "category": "Local Events"
     },
     {
@@ -592,6 +683,13 @@
       "category": "Local Events"
     },
     {
+      "title": "What are the cases against former Pakistan PM Imran Khan?",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655359/pakistan",
+      "published_date": "2026-08-20T08:08:47+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Deadly overnight storms batter Germany, killing a woman and injuring at least 2",
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2655302/world",
@@ -599,108 +697,10 @@
       "category": "Local Events"
     },
     {
-      "title": "SHC throws out petition against Dr Nighat Shah’s reappointment",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2023977/shc-throws-out-petition-against-dr-nighat-shahs-reappointment",
-      "published_date": "2026-08-20T03:34:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "HIV screening made mandatory before surgeries",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2023995/hiv-screening-made-mandatory-before-surgeries",
-      "published_date": "2026-08-20T03:19:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Govt saves face after ‘low-quorum start’ in National Assembly",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024002/govt-saves-face-after-low-quorum-start-in-national-assembly",
-      "published_date": "2026-08-20T02:42:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistani forces kill five militants in restive southwest amid surge in attacks",
+      "title": "Former PM Imran Khan would not confront Pakistan army chief if freed, close aide says",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2655311/pakistan",
-      "published_date": "2026-08-19T22:08:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Which other political figures have been granted private medical treatment in prison?",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2023912/which-other-political-figures-have-been-granted-private-medical-treatment-in-prison",
-      "published_date": "2026-08-19T18:14:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mir Raza's parents request Sindh CM for 'direct supervision' of investigation",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2023920/mir-razas-parents-request-sindh-cm-for-direct-supervision-of-investigation",
-      "published_date": "2026-08-19T16:50:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PML-N announces tickets for 7 reserved AJK seats",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2023900/pml-n-announces-tickets-for-7-reserved-ajk-seats",
-      "published_date": "2026-08-19T16:34:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sindh enterprises offered Rs35m grant",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2624828/sindh-enterprises-offered-rs35m-grant",
-      "published_date": "2026-08-19T16:18:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Govt files review plea against SC ruling to move Imran to Shifa International Hospital, terms it 'discriminatory'",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2023885/govt-files-review-plea-against-sc-ruling-to-move-imran-to-shifa-international-hospital-terms-it-discriminatory",
-      "published_date": "2026-08-19T15:46:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nawaz steps up political outreach, meets PML-N lawmakers from Muzaffargarh",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2023905/nawaz-steps-up-political-outreach-meets-pml-n-lawmakers-from-muzaffargarh",
-      "published_date": "2026-08-19T14:40:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'A good start': PPP, opposition agree to maintain contact, cooperate on legislative matters in parliament",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2023904/a-good-start-ppp-opposition-agree-to-maintain-contact-cooperate-on-legislative-matters-in-parliament",
-      "published_date": "2026-08-19T13:30:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Robinson double rocks Pakistan in first Test before rain stops play",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2023886/robinson-double-rocks-pakistan-in-first-test-before-rain-stops-play",
-      "published_date": "2026-08-19T11:50:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Foul smell leads to discovery of two bodies in Karachi's Clifton",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2624786/foul-smell-leads-to-discovery-of-two-bodies-in-karachis-clifton",
-      "published_date": "2026-08-19T11:46:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PML-N issues tickets to seven candidates for reserved seats in AJK assembly",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2624781/pml-n-issues-tickets-to-seven-candidates-for-reserved-seats-in-ajk-assembly",
-      "published_date": "2026-08-19T10:34:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PMD issues flood alert for Leh Nullah as heavy rains continue to batter Rawalpindi and Islamabad",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2023858/pmd-issues-flood-alert-for-leh-nullah-as-heavy-rains-continue-to-batter-rawalpindi-and-islamabad",
-      "published_date": "2026-08-19T09:43:18+00:00",
+      "url": "https://www.arabnews.pk/node/2655363/pakistan",
+      "published_date": "2026-08-20T08:08:22+00:00",
       "category": "Local Events"
     }
   ]
