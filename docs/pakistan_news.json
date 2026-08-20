@@ -1,13 +1,48 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-08-19T23:12:44.931196+00:00",
+  "last_updated": "2026-08-20T11:33:28.277993+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "DPM Dar reiterates Pakistan's support for Syria's sovereignty, territorial integrity",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024089/dpm-dar-reiterates-pakistans-support-for-syrias-sovereignty-territorial-integrity",
+      "published_date": "2026-08-20T10:49:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Portugal bans full-face veils",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024012/portugal-bans-full-face-veils",
+      "published_date": "2026-08-20T02:53:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Dar, Syrian foreign minister hold talks on bilateral ties, regional developments",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624882/syrian-foreign-minister-arrives-in-islamabad-for-two-day-official-visit",
+      "published_date": "2026-08-20T00:20:58+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump the builder carves his legacy in stone as pressures mount",
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2655260/world",
       "published_date": "2026-08-19T22:08:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Oman says lasting security in Strait of Hormuz requires regional peace",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655312/middle-east",
+      "published_date": "2026-08-19T22:08:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan protests US envoy's Kashmir remarks",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624848/pakistan-protests-us-envoys-kashmir-remarks",
+      "published_date": "2026-08-19T19:15:33+00:00",
       "category": "Diplomacy"
     },
     {
@@ -109,45 +144,80 @@
       "category": "Diplomacy"
     },
     {
-      "title": "FM Dar, Turkish counterpart discuss regional developments in phone call",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2624368/fm-dar-turkish-counterpart-discuss-regional-developments-in-phone-call",
-      "published_date": "2026-08-17T04:23:00+00:00",
-      "category": "Diplomacy"
+      "title": "Federal cabinet approves drafts of two bills related to military, nuclear command structure",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024107/federal-cabinet-approves-drafts-of-two-bills-related-to-military-nuclear-command-structure",
+      "published_date": "2026-08-20T09:43:01+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump’s envoy Kushner meets Gaza mediators in Cairo",
+      "title": "Pakistan cabinet approves law to operationalize new unified military command",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2654887/middle-east",
-      "published_date": "2026-08-16T05:08:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia joins Arab, Islamic nations in condemning Israel’s rejection of Gaza plan",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2654883/middle-east",
-      "published_date": "2026-08-16T04:08:33+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Hamas chief heads to Cairo for talks ahead of Kushner visit",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2654814/middle-east",
-      "published_date": "2026-08-15T08:08:31+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ambassador Asim spotlights Pakistan's global mediation efforts at I-Day event in New York",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2624020/ambassador-asim-spotlights-pakistans-global-mediation-efforts-at-i-day-event-in-new-york",
-      "published_date": "2026-08-15T04:32:56+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.arabnews.pk/node/2655307/pakistan",
+      "published_date": "2026-08-20T09:08:21+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukrainian capital Kyiv under attack by Russian ballistic missiles, mayor says",
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2655256/world",
       "published_date": "2026-08-20T09:08:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Turkiye says it will keep supporting Syrian military capacity development after Israeli strikes",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655308/middle-east",
+      "published_date": "2026-08-20T09:08:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Thailand, Myanmar military chiefs meet as post-coup thaw progresses",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655301/world",
+      "published_date": "2026-08-20T08:08:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Dar says Pakistanis injured in Houthi attack in Red Sea have returned safely",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024098/dar-says-pakistanis-injured-in-houthi-attack-in-red-sea-have-returned-safely",
+      "published_date": "2026-08-20T07:39:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "5 terrorists killed in intelligence-based operation in Balochistan's Panjgur",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024105/5-terrorists-killed-in-intelligence-based-operation-in-balochistans-panjgur",
+      "published_date": "2026-08-20T07:27:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Tremendous consequences': Trump threatens economic punishment on 'any country' helping Iran",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024083/tremendous-consequences-trump-threatens-economic-punishment-on-any-country-helping-iran",
+      "published_date": "2026-08-20T06:14:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan’s FIH World Cup journey ends after 5-3 loss to India",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2023992/pakistans-fih-world-cup-journey-ends-after-5-3-loss-to-india",
+      "published_date": "2026-08-20T04:03:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Dar says six Pakistani sailors return safely after Houthi attack, two bodies repatriated",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624891/dar-says-six-pakistani-sailors-return-safely-after-houthi-attack-two-bodies-repatriated",
+      "published_date": "2026-08-20T01:57:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Oil hits 3-week high on Middle East supply concerns amid war impasse",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624884/oil-gains-on-middle-east-supply-concerns-amid-impasse-in-us-iran-war",
+      "published_date": "2026-08-20T00:50:29+00:00",
       "category": "Military"
     },
     {
@@ -214,76 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Oil inches up as Trump threatens to bomb Oman",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2624677/oil-inches-up-as-trump-threatens-to-bomb-oman",
-      "published_date": "2026-08-18T19:34:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US war tensions weigh on Gulf stocks",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2624674/us-war-tensions-weigh-on-gulf-stocks",
-      "published_date": "2026-08-18T19:34:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syria sentences detained Assad cousin to death",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2655065/middle-east",
-      "published_date": "2026-08-18T09:08:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel says it recovered remains of soldier killed in Lebanon in 1982",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2655135/middle-east",
-      "published_date": "2026-08-18T07:08:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Blast at Afghan school injures at least 42 children: UN",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2655140/world",
-      "published_date": "2026-08-18T07:08:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At a Gaza zoo, war takes its toll on the animals",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2655053/middle-east",
-      "published_date": "2026-08-18T07:08:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel strikes Syrian military airfield after Turkish delegation visit",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2655049/middle-east",
-      "published_date": "2026-08-18T06:08:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel army says ‘lessons learned’ after troops marked Palestinians",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2655126/middle-east",
-      "published_date": "2026-08-18T06:08:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan begins receiving online payments as part of Hajj digitization push",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2655127/pakistan",
-      "published_date": "2026-08-18T06:08:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump crypto firm backs venture offering AI from restricted Chinese companies",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2655043/world",
-      "published_date": "2026-08-18T05:08:34+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Diesel price nose-dives by Rs32.63, petrol registers Rs2.97 increase",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2023932/diesel-price-nose-dives-by-rs3263-petrol-registers-rs297-increase",
@@ -295,6 +295,34 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2023916/govt-announces-significant-decrease-of-rs30-32-in-diesel-price-after-talks-with-refineries",
       "published_date": "2026-08-19T18:25:31+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Oil-sector digitisation goal pushed to March 2027",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624822/oil-sector-digitisation-goal-pushed-to-march-2027",
+      "published_date": "2026-08-19T16:18:15+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "'Energy affordability key for export growth'",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624821/energy-affordability-key-for-export-growth",
+      "published_date": "2026-08-19T16:18:15+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Oil prices up 1% to near 3-week high",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624823/oil-prices-up-1-to-near-3-week-high",
+      "published_date": "2026-08-19T16:18:15+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "PSX dips 1,109 points over fuel price concerns",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624827/psx-dips-1109-points-over-fuel-price-concerns",
+      "published_date": "2026-08-19T16:18:15+00:00",
       "category": "Energy"
     },
     {
@@ -396,38 +424,66 @@
       "category": "Energy"
     },
     {
-      "title": "Who ultimately bears the cost of higher petroleum dealer margins?",
+      "title": "Pakistan PM invites opposition for ‘constructive dialogue’ to ease political tensions",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655303/pakistan",
+      "published_date": "2026-08-20T08:08:29+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "No restrictions: The gap Pakistani founders saw in AI",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2023043/who-ultimately-bears-the-cost-of-higher-petroleum-dealer-margins",
-      "published_date": "2026-08-15T13:58:37+00:00",
-      "category": "Energy"
+      "url": "https://www.dawn.com/news/2024092/no-restrictions-the-gap-pakistani-founders-saw-in-ai",
+      "published_date": "2026-08-20T05:37:08+00:00",
+      "category": "Economy"
     },
     {
-      "title": "'Made in Pakistan' clean energy push begins",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2623971/made-in-pakistan-clean-energy-push-begins",
-      "published_date": "2026-08-14T16:18:43+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Govt approves revision in margin of dealers on petroleum products",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2623869/petrol-dealers-postpone-nationwide-strike-after-govt-assures-margin-increase",
-      "published_date": "2026-08-14T06:32:08+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Govt raises petrol price by Rs0.45, high-speed diesel by Rs1.16",
+      "title": "Used car imports thru ‘personal baggage’ abolished",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2022604/govt-raises-petrol-price-by-rs045-high-speed-diesel-by-rs116",
-      "published_date": "2026-08-13T18:46:55+00:00",
-      "category": "Energy"
+      "url": "https://www.dawn.com/news/2024014/used-car-imports-thru-personal-baggage-abolished",
+      "published_date": "2026-08-20T02:47:13+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "PM Shehbaz once again extends olive branch to opposition for economic, democratic stability",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624897/pm-shehbaz-once-again-extends-olive-branch-to-opposition-for-economic-democratic-stability",
+      "published_date": "2026-08-20T02:36:43+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Aurangzeb says ‘no logic’ behind complicated salaried tax return form",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024052/aurangzeb-says-no-logic-behind-complicated-salaried-tax-return-form",
+      "published_date": "2026-08-20T02:16:54+00:00",
+      "category": "Economy"
     },
     {
       "title": "US debt crosses $40 trillion threshold after doubling under Trump and Biden",
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2655257/world",
       "published_date": "2026-08-19T22:08:35+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Tanker approached by unauthorized vessel off Yemen, UKMTO says",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655310/middle-east",
+      "published_date": "2026-08-19T22:08:05+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pakistan starts assembling Google Chromebooks",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624820/pakistan-starts-assembling-google-chromebooks",
+      "published_date": "2026-08-19T16:18:15+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Govt allows 108,000MT sugar export",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624824/govt-allows-108000mt-sugar-export",
+      "published_date": "2026-08-19T16:18:15+00:00",
       "category": "Economy"
     },
     {
@@ -508,60 +564,67 @@
       "category": "Economy"
     },
     {
-      "title": "'Stabilisation policies driving poverty'",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2624442/stabilisation-policies-driving-poverty",
-      "published_date": "2026-08-17T16:41:51+00:00",
-      "category": "Economy"
+      "title": "2 killed in roof collapse amid torrential rainfall in KP's Swabi",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024094/2-killed-in-roof-collapse-amid-torrential-rainfall-in-kps-swabi",
+      "published_date": "2026-08-20T09:46:22+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Govt seeks Egypt's help to boost cotton yield",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2624448/govt-seeks-egypts-help-to-boost-cotton-yield",
-      "published_date": "2026-08-17T16:41:51+00:00",
-      "category": "Economy"
+      "title": "SC returns govt's review plea against Imran’s transfer to Shifa Hospital",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024115/sc-returns-govts-review-plea-against-imrans-transfer-to-shifa-hospital",
+      "published_date": "2026-08-20T09:25:58+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Garment city gets $18m investment",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2624446/garment-city-gets-18m-investment",
-      "published_date": "2026-08-17T16:41:51+00:00",
-      "category": "Economy"
+      "title": "PTA, Google to collaborate on strengthening children's online safety",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024114/pta-google-to-collaborate-on-strengthening-childrens-online-safety",
+      "published_date": "2026-08-20T09:16:01+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Pakistan refiner Cnergyico expands US crude imports amid Hormuz disruption",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2624396/pakistan-refiner-cnergyico-expands-us-crude-imports-amid-hormuz-disruption",
-      "published_date": "2026-08-17T08:31:44+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Somali pirates seize cargo ship",
+      "title": "Pakistan government withdraws petition challenging Imran Khan’s transfer from jail to hospital",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2655015/world",
-      "published_date": "2026-08-17T07:08:37+00:00",
-      "category": "Economy"
+      "url": "https://www.arabnews.pk/node/2655305/pakistan",
+      "published_date": "2026-08-20T09:08:04+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Pakistan plans Karachi apparel hub targeting $2.2 billion in annual exports",
+      "title": "Deadly overnight storms batter Germany, killing a woman and injuring at least 2",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2654948/pakistan",
-      "published_date": "2026-08-17T07:08:31+00:00",
-      "category": "Economy"
+      "url": "https://www.arabnews.pk/node/2655302/world",
+      "published_date": "2026-08-20T08:08:30+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Pakistan refiner Cnergyico expands US crude imports amid Hormuz disruption",
+      "title": "SHC throws out petition against Dr Nighat Shah’s reappointment",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2023977/shc-throws-out-petition-against-dr-nighat-shahs-reappointment",
+      "published_date": "2026-08-20T03:34:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "HIV screening made mandatory before surgeries",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2023995/hiv-screening-made-mandatory-before-surgeries",
+      "published_date": "2026-08-20T03:19:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Govt saves face after ‘low-quorum start’ in National Assembly",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024002/govt-saves-face-after-low-quorum-start-in-national-assembly",
+      "published_date": "2026-08-20T02:42:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistani forces kill five militants in restive southwest amid surge in attacks",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2654959/pakistan",
-      "published_date": "2026-08-16T22:08:21+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Earning S&P, Moody's next upgrade",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2624262/earning-sp-moodys-next-upgrade",
-      "published_date": "2026-08-16T15:46:11+00:00",
-      "category": "Economy"
+      "url": "https://www.arabnews.pk/node/2655311/pakistan",
+      "published_date": "2026-08-19T22:08:09+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Which other political figures have been granted private medical treatment in prison?",
@@ -582,6 +645,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2023900/pml-n-announces-tickets-for-7-reserved-ajk-seats",
       "published_date": "2026-08-19T16:34:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sindh enterprises offered Rs35m grant",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2624828/sindh-enterprises-offered-rs35m-grant",
+      "published_date": "2026-08-19T16:18:15+00:00",
       "category": "Local Events"
     },
     {
@@ -631,76 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2023858/pmd-issues-flood-alert-for-leh-nullah-as-heavy-rains-continue-to-batter-rawalpindi-and-islamabad",
       "published_date": "2026-08-19T09:43:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "3 'SRA terrorists' arrested for firing at Independence Day stall in Karachi, killing owner: CTD",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2023870/3-sra-terrorists-arrested-for-firing-at-independence-day-stall-in-karachi-killing-owner-ctd",
-      "published_date": "2026-08-19T09:13:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Over 13,000 Pakistanis pay $31 million toward Hajj 2027 — ministry",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2655176/pakistan",
-      "published_date": "2026-08-19T09:08:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mobile gold miners in eastern Congo complicate health workers’ efforts to contain Ebola",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2655179/world",
-      "published_date": "2026-08-19T09:08:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Aid system endures in Gaza, Lebanon despite ‘shocks’ of recent years, UN humanitarian chief says",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2655248/middle-east",
-      "published_date": "2026-08-19T07:08:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Terrorist attempts to impede Balochistan's development will be foiled 'at all costs', Zardari tells CM Bugti",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2023863/terrorist-attempts-to-impede-balochistans-development-will-be-foiled-at-all-costs-zardari-tells-cm-bugti",
-      "published_date": "2026-08-19T06:54:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PTI slams govt move to review Imran Khan's hospital transfer order",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2624763/pti-slams-govt-move-to-review-imran-khans-hospital-transfer-order",
-      "published_date": "2026-08-19T06:54:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Govt challenges SC order to shift Imran Khan to private hospital",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2624734/govt-to-pursue-legal-options-over-imrans-private-hospital-transfer-tarar",
-      "published_date": "2026-08-19T04:29:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Terrorists seeking to hinder Balochistan’s development will be defeated at all costs: President Zardari",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2624711/terrorists-seeking-to-hinder-balochistans-development-will-be-defeated-at-all-costs-zardari",
-      "published_date": "2026-08-19T02:19:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan urges Google to proactively monitor social media over militant propaganda",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2655186/pakistan",
-      "published_date": "2026-08-18T22:08:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi envoy makes farewell calls as nearly nine-year tenure in Pakistan ends",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2655190/pakistan",
-      "published_date": "2026-08-18T22:08:11+00:00",
       "category": "Local Events"
     }
   ]
