@@ -1,6 +1,6 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-08-22T11:26:39.630789+00:00",
+  "last_updated": "2026-08-22T23:10:08.505383+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -8,6 +8,20 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2655491/world",
       "published_date": "2026-08-22T05:08:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Egypt and Iran foreign ministers discuss reviving US negotiations",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655540/middle-east",
+      "published_date": "2026-08-22T05:08:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran condemns US plans to announce new sanctions",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655526/middle-east",
+      "published_date": "2026-08-22T03:08:34+00:00",
       "category": "Diplomacy"
     },
     {
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Syrian FM Shaibani due to visit Pakistan today: FO",
+      "title": "Trump heads into midterms short on foreign policy wins",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2023910/syrian-fm-shaibani-due-to-visit-pakistan-today-fo",
-      "published_date": "2026-08-19T14:04:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2024586/trump-heads-into-midterms-short-on-foreign-policy-wins",
+      "published_date": "2026-08-22T14:25:43+00:00",
+      "category": "Military"
     },
     {
-      "title": "Syrian foreign minister to visit Pakistan on Aug 19-20 amid regional tensions",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2624783/syrian-foreign-minister-to-visit-pakistan-on-aug-19-20-amid-regional-tensions",
-      "published_date": "2026-08-19T11:03:42+00:00",
-      "category": "Diplomacy"
+      "title": "US says intelligence behind Israeli strike on Syria air base was wrong",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024580/us-says-intelligence-behind-israeli-strike-on-syria-air-base-was-wrong",
+      "published_date": "2026-08-22T14:03:40+00:00",
+      "category": "Military"
     },
     {
       "title": "Iranian official urges Qatar to move detained pilots to hospital on land, Tasnim says",
@@ -169,6 +183,13 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2655493/world",
       "published_date": "2026-08-22T06:08:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Blast targets security forces’ bus near Damascus",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655536/middle-east",
+      "published_date": "2026-08-22T05:08:05+00:00",
       "category": "Military"
     },
     {
@@ -260,27 +281,6 @@
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2625120/pakistan-drc-agree-to-deepen-defence-security-cooperation-ispr",
       "published_date": "2026-08-21T09:59:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Aisha Wahab makes history as first Afghan American elected to US Congress",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024327/aisha-wahab-makes-history-as-first-afghan-american-elected-to-us-congress",
-      "published_date": "2026-08-21T08:35:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli forces shoot dead Palestinian man in West Bank raid",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2655407/middle-east",
-      "published_date": "2026-08-21T08:08:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Body of US climber who died in Broad Peak avalanche found",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024322/body-of-us-climber-who-died-in-broad-peak-avalanche-found",
-      "published_date": "2026-08-21T08:07:31+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Canada-US rift deepens as Carney vows retaliatory tariffs after trade talks fail",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024597/canada-us-rift-deepens-as-carney-vows-retaliatory-tariffs-after-trade-talks-fail",
+      "published_date": "2026-08-22T18:38:56+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "US hits Canadian goods with 50pc tariffs after trade talks fail",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2024554/us-hits-canadian-goods-with-50pc-tariffs-after-trade-talks-fail",
@@ -557,11 +564,74 @@
       "category": "Economy"
     },
     {
-      "title": "Trump threatens to isolate Iran. Who are its trading partners?",
+      "title": "AJK PM Rathore urges dialogue to resolve crisis, calls for end to ‘base camp’ mindset",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024153/trump-threatens-to-isolate-iran-who-are-its-trading-partners",
-      "published_date": "2026-08-20T15:40:42+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2024593/ajk-pm-rathore-urges-dialogue-to-resolve-crisis-calls-for-end-to-base-camp-mindset",
+      "published_date": "2026-08-22T19:16:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Govt blames PTI for 'violating' SC order, says family committed contempt by issuing statements",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024583/govt-blames-pti-for-violating-sc-order-says-family-committed-contempt-by-issuing-statements",
+      "published_date": "2026-08-22T18:41:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Completely choreographed drama': PTI's Salman Akram Raja slams govt over failure to follow SC order",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024559/completely-choreographed-drama-ptis-salman-akram-raja-slams-govt-over-failure-to-follow-sc-order",
+      "published_date": "2026-08-22T16:33:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Islamabad chief commissioner seeks early hearing of review petition against order to shift Imran to private hospital",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024588/islamabad-chief-commissioner-seeks-early-hearing-of-review-petition-against-order-to-shift-imran-to-private-hospital",
+      "published_date": "2026-08-22T16:00:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "12 dead in UK, Ireland 'wrong-side' crashes",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024589/12-dead-in-uk-ireland-wrong-side-crashes",
+      "published_date": "2026-08-22T15:16:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Husband, servant detained after woman found dead with hands bound in Rawalpindi apartment",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024566/husband-servant-detained-after-woman-found-dead-with-hands-bound-in-rawalpindi-apartment",
+      "published_date": "2026-08-22T14:51:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PM Shehbaz takes notice of non-functional CTA machine at PIMS cardiology dept; Imran's related test not performed",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024571/pm-shehbaz-takes-notice-of-non-functional-cta-machine-at-pims-cardiology-dept-imrans-related-test-not-performed",
+      "published_date": "2026-08-22T14:29:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Blind murder’ theory falls apart as TikToker killing probe uncovers family plot",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2625285/blind-murder-theory-falls-apart-as-tiktoker-killing-probe-uncovers-family-plot",
+      "published_date": "2026-08-22T13:58:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "K-P CM Afridi vows to lead Sept 27 long march to Islamabad",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2625284/k-p-cm-afridi-vows-to-lead-sept-27-long-march-to-islamabad",
+      "published_date": "2026-08-22T13:10:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AJK premier alleges PPP denied level playing field in recent elections",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2625276/ajk-premier-alleges-ppp-denied-level-playing-field-in-recent-elections",
+      "published_date": "2026-08-22T11:18:49+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Case registered after woman found dead, bound in Rawalpindi",
@@ -571,10 +641,24 @@
       "category": "Local Events"
     },
     {
+      "title": "Govt fully implemented SC order on Imran’s medical check-up, says Tarar",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2625272/govt-fully-implemented-sc-order-on-imrans-medical-check-up-says-tarar",
+      "published_date": "2026-08-22T10:24:06+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "8 Pakistan Bar Council members condemn govt's 'wilful disregard' of SC order on Imran's hospital transfer",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2024567/8-pakistan-bar-council-members-condemn-govts-wilful-disregard-of-sc-order-on-imrans-hospital-transfer",
       "published_date": "2026-08-22T10:08:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "8 Pakistan Bar Council members condemn ‘defiance’ of SC order amid Imran Khan’s treatment fiasco",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2625267/8-pakistan-bar-council-members-condemn-defiance-of-sc-order-amid-imran-khans-treatment-fiasco",
+      "published_date": "2026-08-22T09:22:09+00:00",
       "category": "Local Events"
     },
     {
@@ -599,6 +683,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Pakistan, Malaysia agree to boost intelligence sharing against militants, drug traffickers",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655549/pakistan",
+      "published_date": "2026-08-22T07:08:27+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "PM Shehbaz directs authorities to provide financial assistance to flood-hit families",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2024556/pm-shehbaz-directs-authorities-to-provide-financial-assistance-to-flood-hit-families",
@@ -610,97 +701,6 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2655492/pakistan",
       "published_date": "2026-08-22T06:08:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US judge strikes down policy suspending immigrant visa processing for 75 nations, including Pakistan",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024551/us-judge-strikes-down-policy-suspending-immigrant-visa-processing-for-75-nations-including-pakistan",
-      "published_date": "2026-08-22T05:36:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mustafa Kamal calls for creation of new administrative units, says existing system paralysed",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2625253/mustafa-kamal-calls-for-creation-of-new-administrative-units-says-existing-system-paralysed",
-      "published_date": "2026-08-22T04:24:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Maryam fires a fresh salvo at PPP, PTI",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024478/maryam-fires-a-fresh-salvo-at-ppp-pti",
-      "published_date": "2026-08-22T04:15:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dynamics of reorganisation",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024438/dynamics-of-reorganisation",
-      "published_date": "2026-08-22T03:58:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hospital visit",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024434/hospital-visit",
-      "published_date": "2026-08-22T03:38:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Crime Control Department constable held responsible for death of Australian girl in Chakwal",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024397/crime-control-department-constable-held-responsible-for-death-of-australian-girl-in-chakwal",
-      "published_date": "2026-08-22T03:19:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PM admonishes commissioner, IGP over display of ‘pomp and show’",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024406/pm-admonishes-commissioner-igp-over-display-of-pomp-and-show",
-      "published_date": "2026-08-22T03:09:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PTI lawmaker not allowed to speak on ‘SC order violation’",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024465/pti-lawmaker-not-allowed-to-speak-on-sc-order-violation",
-      "published_date": "2026-08-22T02:54:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Imran wants movement for his release expedited’",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024469/imran-wants-movement-for-his-release-expedited",
-      "published_date": "2026-08-22T02:51:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Punjab, KP, GB, AJK brace for more rain",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024467/punjab-kp-gb-ajk-brace-for-more-rain",
-      "published_date": "2026-08-22T02:37:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "JUI-F looks to join opposition ranks",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024524/jui-f-looks-to-join-opposition-ranks",
-      "published_date": "2026-08-22T02:22:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PTI files contempt petition in SC over alleged violation of order on Imran's hospital transfer",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2625234/pti-files-contempt-petition-in-sc-over-alleged-violation-of-order-on-imrans-hospital-transfer",
-      "published_date": "2026-08-22T01:07:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Govt eyes AI trade ecosystem",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024459/govt-eyes-ai-trade-ecosystem",
-      "published_date": "2026-08-21T23:12:01+00:00",
       "category": "Local Events"
     }
   ]
