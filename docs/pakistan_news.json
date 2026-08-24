@@ -1,6 +1,6 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-08-24T11:35:53.373276+00:00",
+  "last_updated": "2026-08-24T23:13:02.588573+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -15,6 +15,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2024960/info-ministry-says-video-of-asif-comparing-pakistans-progress-with-indias-is-fake",
       "published_date": "2026-08-24T06:50:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US proposes expanding UN Sudan arms embargo to entire country",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655728/middle-east",
+      "published_date": "2026-08-24T06:08:40+00:00",
       "category": "Diplomacy"
     },
     {
@@ -137,17 +144,52 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran condemns US plans to announce new sanctions",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2655526/middle-east",
-      "published_date": "2026-08-22T03:08:34+00:00",
-      "category": "Diplomacy"
+      "title": "CDF Munir vows continued efforts to stabilise region in meeting with Iran’s Ghalibaf",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024976/cdf-munir-vows-continued-efforts-to-stabilise-region-in-meeting-with-irans-ghalibaf",
+      "published_date": "2026-08-24T18:49:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Five labourers killed as gunmen attack road construction site in Balochistan's Pishin",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2625613/five-labourers-killed-as-gunmen-attack-road-construction-site-in-pishin",
+      "published_date": "2026-08-24T10:04:56+00:00",
+      "category": "Military"
     },
     {
       "title": "CDF Munir, Naqvi in Iran as part of Pakistan's efforts for regional peace",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2024976/cdf-munir-naqvi-in-iran-as-part-of-pakistans-efforts-for-regional-peace",
       "published_date": "2026-08-24T09:32:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "FM Dar urges IMO chief to help secure release of Pakistani crew held by Somali pirates",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2625578/fm-dar-urges-imo-chief-to-help-secure-release-of-pakistani-crew-held-by-somali-pirates",
+      "published_date": "2026-08-24T05:42:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Tehran pursuing Islamabad MoU implementation, Iran’s lead negotiator tells Pakistan army chief",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655724/pakistan",
+      "published_date": "2026-08-24T05:08:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel’s Netanyahu says Iran ‘tried to kill’ one of his sons",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655723/middle-east",
+      "published_date": "2026-08-24T05:08:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bangladesh says ‘discussion ongoing’ on potential entry into Makkah pact",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655720/world",
+      "published_date": "2026-08-24T04:08:02+00:00",
       "category": "Military"
     },
     {
@@ -242,46 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Pakistan Army deployed in Rawalpindi for 6 months for 'sensitive security duties'",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024562/pakistan-army-deployed-in-rawalpindi-for-6-months-for-sensitive-security-duties",
-      "published_date": "2026-08-22T07:59:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sudan farms lie barren as El Nino leaves Nile banks dry",
+      "title": "Oil tanker struck by unidentified projectile off Oman, UKMTO says",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2655497/middle-east",
-      "published_date": "2026-08-22T07:08:54+00:00",
-      "category": "Military"
+      "url": "https://www.arabnews.pk/node/2655749/middle-east",
+      "published_date": "2026-08-24T22:08:08+00:00",
+      "category": "Energy"
     },
     {
-      "title": "European wildfires reveal a hidden danger: buried bombs and mines from WWI and WWII",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2655493/world",
-      "published_date": "2026-08-22T06:08:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Blast targets security forces’ bus near Damascus",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2655536/middle-east",
-      "published_date": "2026-08-22T05:08:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Reading Thucydides in the wolf world",
+      "title": "Govt increases petrol price by Rs0.39, high-speed diesel by Rs2.40",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024544/reading-thucydides-in-the-wolf-world",
-      "published_date": "2026-08-22T05:07:48+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/2025039/govt-increases-petrol-price-by-rs039-high-speed-diesel-by-rs240",
+      "published_date": "2026-08-24T18:53:18+00:00",
+      "category": "Energy"
     },
     {
-      "title": "The beneficiaries of war",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024437/the-beneficiaries-of-war",
-      "published_date": "2026-08-22T03:51:56+00:00",
-      "category": "Military"
+      "title": "Govt raises petrol price by 39 paisas, HSD by Rs2.40 per litre for Aug 25",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2625634/govt-raises-petrol-price-by-39-paisas-hsd-by-rs240-per-litre-for-aug-25",
+      "published_date": "2026-08-24T13:54:41+00:00",
+      "category": "Energy"
     },
     {
       "title": "Pakistani, Kuwaiti firms explore expanded partnership in fuels, refining and logistics — official",
@@ -403,31 +424,59 @@
       "category": "Energy"
     },
     {
-      "title": "Oil prices up 1% to near 3-week high",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2624823/oil-prices-up-1-to-near-3-week-high",
-      "published_date": "2026-08-19T16:18:15+00:00",
-      "category": "Energy"
+      "title": "Trump administration moves to impose more than $100,000 fee for H-1B worker visas",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2025003/trump-administration-moves-to-impose-more-than-100000-fee-for-h-1b-worker-visas",
+      "published_date": "2026-08-24T17:32:25+00:00",
+      "category": "Economy"
     },
     {
-      "title": "PSX dips 1,109 points over fuel price concerns",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2624827/psx-dips-1109-points-over-fuel-price-concerns",
-      "published_date": "2026-08-19T16:18:15+00:00",
-      "category": "Energy"
+      "title": "ECC approves bonded storage of imported petroleum products",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2025018/ecc-approves-bonded-storage-of-imported-petroleum-products",
+      "published_date": "2026-08-24T17:25:58+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Govt cuts diesel price by Rs32.63, raises petrol by Rs2.97 for Aug 20",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2624778/govt-to-announce-over-rs32-per-litre-diesel-price-cut-after-successful-talks-with-refineries",
-      "published_date": "2026-08-19T09:16:05+00:00",
-      "category": "Energy"
+      "title": "Moody's lifts Pakistan sovereign rating to B3 from Caa1, cites improved governance and easing of external risk",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024988/moodys-lifts-pakistan-sovereign-rating-to-b3-from-caa1-cites-improved-governance-and-easing-of-external-risk",
+      "published_date": "2026-08-24T14:04:07+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Looming US sanctions on Iran put China oil buying in spotlight",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2025004/looming-us-sanctions-on-iran-put-china-oil-buying-in-spotlight",
+      "published_date": "2026-08-24T14:01:35+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "In meeting with IMO chief, Dar calls for 'urgent intervention' for return of Pakistani sailors held by Somali pirates",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024989/in-meeting-with-imo-chief-dar-calls-for-urgent-intervention-for-return-of-pakistani-sailors-held-by-somali-pirates",
+      "published_date": "2026-08-24T12:29:43+00:00",
+      "category": "Economy"
     },
     {
       "title": "Moody's lifts Pakistan sovereign rating to B3 from Caa1, cites governance improvement and easing of external risk",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2024988/moodys-lifts-pakistan-sovereign-rating-to-b3-from-caa1-cites-governance-improvement-and-easing-of-external-risk",
       "published_date": "2026-08-24T11:27:39+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "PSX slips 200 points in volatile session",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2625603/psx-slips-200-points-in-volatile-session",
+      "published_date": "2026-08-24T09:07:13+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "French companies see Saudi Arabia as gateway to wider regional growth",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655741/business-economy",
+      "published_date": "2026-08-24T08:08:38+00:00",
       "category": "Economy"
     },
     {
@@ -515,59 +564,73 @@
       "category": "Economy"
     },
     {
-      "title": "M-10 motorway to cost $400m, govt tells NA",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2625189/m-10-motorway-to-cost-400m-govt-tells-na",
-      "published_date": "2026-08-21T16:27:48+00:00",
-      "category": "Economy"
+      "title": "How Saudi-French ties are turning an ancient oasis into a new canvas",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655752/saudi-arabia",
+      "published_date": "2026-08-24T22:08:01+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "GEPCO sale draws two new bidders",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2625165/gepco-sale-draws-two-new-bidders",
-      "published_date": "2026-08-21T15:08:36+00:00",
-      "category": "Economy"
+      "title": "Joint opposition announces strategy against economic crisis, political repression",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2025034/joint-opposition-announces-strategy-against-economic-crisis-political-repression",
+      "published_date": "2026-08-24T18:47:46+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "'Google move must shift focus to jobs'",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2625168/google-move-must-shift-focus-to-jobs",
-      "published_date": "2026-08-21T15:08:36+00:00",
-      "category": "Economy"
+      "title": "Family, legal team of Imaan and Hadi voice concerns over medical facilities at Adiala jail",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2025022/family-legal-team-of-imaan-and-hadi-voice-concerns-over-medical-facilities-at-adiala-jail",
+      "published_date": "2026-08-24T17:54:19+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "August inflation seen jumping to 11%",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2625171/august-inflation-seen-jumping-to-11",
-      "published_date": "2026-08-21T15:08:36+00:00",
-      "category": "Economy"
+      "title": "PTI says ‘Form 47’ govt lacks mandate to reshape country's governance structure",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2025016/pti-says-form-47-govt-lacks-mandate-to-reshape-countrys-governance-structure",
+      "published_date": "2026-08-24T16:36:10+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Banks urged to focus on private credit",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2625167/banks-urged-to-focus-on-private-credit",
-      "published_date": "2026-08-21T15:08:36+00:00",
-      "category": "Economy"
+      "title": "World Cup winners, FIFA legends say Infantino blinded by power",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2025010/world-cup-winners-fifa-legends-say-infantino-blinded-by-power",
+      "published_date": "2026-08-24T15:06:53+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Rs3.4b NIETE project to build human capital",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2625174/rs34b-niete-project-to-build-human-capital",
-      "published_date": "2026-08-21T15:08:36+00:00",
-      "category": "Economy"
+      "title": "Four labourers killed by unknown assailants in Balochistan's Pishin district",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2025006/four-labourers-killed-by-unknown-assailants-in-balochistans-pishin-district",
+      "published_date": "2026-08-24T14:37:05+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "PSX rebounds as KSE-100 gains 575 points on value buying",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2625123/psx-rebounds-as-kse-100-gains-575-points-on-value-buying",
-      "published_date": "2026-08-21T10:32:03+00:00",
-      "category": "Economy"
+      "title": "Protest at Islamabad varsity turns ugly after clash between uniformed individual, students",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024984/protest-at-islamabad-varsity-turns-ugly-after-clash-between-uniformed-individual-students",
+      "published_date": "2026-08-24T13:48:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Newly elected members of AJK Legislative Assembly take oath of office",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024952/newly-elected-members-of-ajk-legislative-assembly-take-oath-of-office",
+      "published_date": "2026-08-24T11:58:38+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Mir Raza murder case: Victim's family moves SHC against judicial commission formation, seeks JIT for probe",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2024980/mir-raza-murder-case-victims-family-moves-shc-against-judicial-commission-formation-seeks-jit-for-probe",
       "published_date": "2026-08-24T11:26:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sindh CM meets PM Shehbaz, agrees on 'political harmony, consultation'",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2625612/sindh-cm-meets-pm-shehbaz-agrees-on-political-harmony-consultation",
+      "published_date": "2026-08-24T10:02:03+00:00",
       "category": "Local Events"
     },
     {
@@ -613,6 +676,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Gunmen kill five workers from Punjab at construction site in Pakistan’s Balochistan",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655729/pakistan",
+      "published_date": "2026-08-24T06:08:39+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Polling ends for eight reserved seats in Azad Jammu and Kashmir Assembly",
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2655684/pakistan",
@@ -631,76 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2024956/amnesty-international-says-police-in-india-used-excessive-force-during-youth-led-protests",
       "published_date": "2026-08-24T05:20:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "At Karachi eatery, robot waiters serve up pizzas, burgers and a unique experience",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2655679/pakistan",
-      "published_date": "2026-08-24T05:08:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Imran Khan would not have spent three years in jail if he wanted a deal,' says Barrister Gohar",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2625574/imran-khan-would-not-have-spent-three-years-in-jail-if-he-wanted-a-deal-says-barrister-gohar",
-      "published_date": "2026-08-24T04:42:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lahore traffic police going beyond the road for recovery of e-challan dues",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024799/lahore-traffic-police-going-beyond-the-road-for-recovery-of-e-challan-dues",
-      "published_date": "2026-08-24T03:59:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "3 weeks on, nightly protests over Mir Raza’s murder continue in Karachi",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024873/3-weeks-on-nightly-protests-over-mir-razas-murder-continue-in-karachi",
-      "published_date": "2026-08-24T03:48:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jamaat threatens march on Islamabad over petroleum levy",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024806/jamaat-threatens-march-on-islamabad-over-petroleum-levy",
-      "published_date": "2026-08-24T03:05:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Comstech chief remains defiant in face of ‘damning inquiry’",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024822/comstech-chief-remains-defiant-in-face-of-damning-inquiry",
-      "published_date": "2026-08-24T02:37:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Curfew re-imposed in Balochistan’s restive Mastung tehsil",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024829/curfew-re-imposed-in-balochistans-restive-mastung-tehsil",
-      "published_date": "2026-08-24T02:25:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chinese company meets President Zardari, proposes $522m for first phase of Keti Bunder port",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2625541/chinese-company-meets-president-zardari-proposes-522m-for-first-phase-of-keti-bunder-port",
-      "published_date": "2026-08-24T01:06:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cricket greats appeal to PM Shehbaz for Imran's medical treatment in line with SC directives",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024773/cricket-greats-appeal-to-pm-shehbaz-for-imrans-medical-treatment-in-line-with-sc-directives",
-      "published_date": "2026-08-23T19:48:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sindh govt to seek judicial commission to review Mir Raza murder probe; family to move SHC against decision",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024762/sindh-govt-to-seek-judicial-commission-to-review-mir-raza-murder-probe-family-to-move-shc-against-decision",
-      "published_date": "2026-08-23T18:30:52+00:00",
       "category": "Local Events"
     }
   ]
