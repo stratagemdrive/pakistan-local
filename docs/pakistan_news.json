@@ -1,6 +1,6 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-08-23T23:10:12.325982+00:00",
+  "last_updated": "2026-08-24T11:35:53.373276+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -8,6 +8,48 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2655648",
       "published_date": "2026-08-24T09:08:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Info ministry says video of Asif comparing Pakistan's progress with India's is fake",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024960/info-ministry-says-video-of-asif-comparing-pakistans-progress-with-indias-is-fake",
+      "published_date": "2026-08-24T06:50:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan to host South Asian Games in April next year",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024912/pakistan-to-host-south-asian-games-in-april-next-year",
+      "published_date": "2026-08-24T04:59:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Syria, Israel hold US-mediated talks to ease tensions, Syria news agency says",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655673/middle-east",
+      "published_date": "2026-08-24T04:08:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Oman top diplomat to visit Iran to discuss Hormuz Strait",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655675/middle-east",
+      "published_date": "2026-08-24T04:08:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Oil falls as US prepares to unveil new Iran sanctions",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2625568/oil-falls-as-us-prepares-to-unveil-new-iran-sanctions",
+      "published_date": "2026-08-24T04:05:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Outgoing Saudi envoy meets president",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024808/outgoing-saudi-envoy-meets-president",
+      "published_date": "2026-08-24T03:11:49+00:00",
       "category": "Diplomacy"
     },
     {
@@ -102,46 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pakistan, seven other Muslim states condemn Israel’s illegal settlement policies in occupied Palestinian territory",
+      "title": "CDF Munir, Naqvi in Iran as part of Pakistan's efforts for regional peace",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024377/pakistan-seven-other-muslim-states-condemn-israels-illegal-settlement-policies-in-occupied-palestinian-territory",
-      "published_date": "2026-08-21T15:48:29+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2024976/cdf-munir-naqvi-in-iran-as-part-of-pakistans-efforts-for-regional-peace",
+      "published_date": "2026-08-24T09:32:49+00:00",
+      "category": "Military"
     },
     {
-      "title": "Food crisis fears rise as speculation stokes market jitters",
+      "title": "CDF Munir, Naqvi meet Iranian interior minister upon arrival in Tehran",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2625144/food-crisis-fears-rise-as-speculation-stokes-market-jitters",
-      "published_date": "2026-08-21T13:52:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://tribune.com.pk/story/2625555/cdf-munir-mohsin-naqvi-depart-for-iran-amid-efforts-to-promote-regional-peace-ispr",
+      "published_date": "2026-08-24T03:07:48+00:00",
+      "category": "Military"
     },
     {
-      "title": "PM Shehbaz, Malaysian counterpart express satisfaction over bilateral cooperation",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2625124/pm-shehbaz-malaysian-counterpart-express-satisfaction-over-bilateral-cooperation",
-      "published_date": "2026-08-21T10:38:41+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "First person: How the Israeli government blocks Palestinians from their land",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2655470/middle-east",
-      "published_date": "2026-08-21T08:08:28+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran says Tehran must overcome ‘unjust sanctions’ as US ramps up economic pressure",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2655405/middle-east",
-      "published_date": "2026-08-21T07:08:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "AJK president, rights body deplore US envoy’s Kashmir remarks",
+      "title": "Fazl blames lack of joint opposition for unchecked legislation",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024216/ajk-president-rights-body-deplore-us-envoys-kashmir-remarks",
-      "published_date": "2026-08-21T02:29:15+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2024826/fazl-blames-lack-of-joint-opposition-for-unchecked-legislation",
+      "published_date": "2026-08-24T02:43:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Khawaja Asif's video comparing Pakistan, India's progress is AI-generated: info ministry",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2625544/khawaja-asifs-video-comparing-pakistan-india-is-ai-generated-information-ministry-says",
+      "published_date": "2026-08-24T02:00:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iraq pushes back deadline for factions to disarm",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655697/middle-east",
+      "published_date": "2026-08-23T22:08:20+00:00",
+      "category": "Military"
     },
     {
       "title": "ISI chief meets Bahrain's crown prince, discusses regional and international developments: report",
@@ -249,39 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Govt approves army deployment in Rawalpindi under Article 245 for six months",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2625241/govt-approves-army-deployment-in-rawalpindi-under-article-245-for-six-months",
-      "published_date": "2026-08-22T02:06:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says Tehran not ready for ‘right deal’ as Iran’s military threatens ‘devastating’ response",
+      "title": "Pakistani, Kuwaiti firms explore expanded partnership in fuels, refining and logistics — official",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2655474/middle-east",
-      "published_date": "2026-08-21T22:08:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Commerce ministry to digitise trade data",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2625173/commerce-ministry-to-digitise-trade-data",
-      "published_date": "2026-08-21T15:08:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Turkiye issues 'genocide' warrant for Israel's Netanyahu",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024364/turkiye-issues-genocide-warrant-for-israels-netanyahu",
-      "published_date": "2026-08-21T14:59:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Victims of terrorism",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024268/victims-of-terrorism",
-      "published_date": "2026-08-21T14:41:58+00:00",
-      "category": "Military"
+      "url": "https://www.arabnews.pk/node/2655677/pakistan",
+      "published_date": "2026-08-24T05:08:33+00:00",
+      "category": "Energy"
     },
     {
       "title": "Thousands expected at Sweden climate demo as election looms",
@@ -417,11 +424,39 @@
       "category": "Energy"
     },
     {
-      "title": "PM directs petroleum minister to travel to Karachi, hold talks with oil refineries for reducing diesel prices",
+      "title": "Moody's lifts Pakistan sovereign rating to B3 from Caa1, cites governance improvement and easing of external risk",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2023874/pm-directs-petroleum-minister-to-travel-to-karachi-hold-talks-with-oil-refineries-for-reducing-diesel-prices",
-      "published_date": "2026-08-19T08:47:23+00:00",
-      "category": "Energy"
+      "url": "https://www.dawn.com/news/2024988/moodys-lifts-pakistan-sovereign-rating-to-b3-from-caa1-cites-governance-improvement-and-easing-of-external-risk",
+      "published_date": "2026-08-24T11:27:39+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US vows ‘economic D-Day’ as Iran threatens to halt all oil exports",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655674/middle-east",
+      "published_date": "2026-08-24T04:08:38+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Next crisis is growth, not dollars",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2625468/next-crisis-is-growth-not-dollars",
+      "published_date": "2026-08-23T15:18:37+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Rs100 trillion in debt: should Pakistan be worried?",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2625469/rs100-trillion-in-debt-should-pakistan-be-worried",
+      "published_date": "2026-08-23T15:18:37+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Trade policies: a barrier to prosperity",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2625471/trade-policies-a-barrier-to-prosperity",
+      "published_date": "2026-08-23T15:18:37+00:00",
+      "category": "Economy"
     },
     {
       "title": "How Saudi-French economic ties are entering a new era beyond oil",
@@ -529,39 +564,130 @@
       "category": "Economy"
     },
     {
-      "title": "Students to get free access to Google's AI tools for a year as Pakistan, tech giant ink agreement",
+      "title": "Mir Raza murder case: Victim's family moves SHC against judicial commission formation, seeks JIT for probe",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024318/students-to-get-free-access-to-googles-ai-tools-for-a-year-as-pakistan-tech-giant-ink-agreement",
-      "published_date": "2026-08-21T06:56:45+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2024980/mir-raza-murder-case-victims-family-moves-shc-against-judicial-commission-formation-seeks-jit-for-probe",
+      "published_date": "2026-08-24T11:26:41+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Escaping the past",
+      "title": "'Imran would not have spent 3 years in jail if he wanted to make a deal,' says PTI's Gohar",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024274/escaping-the-past",
-      "published_date": "2026-08-21T03:30:36+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2024975/imran-would-not-have-spent-3-years-in-jail-if-he-wanted-to-make-a-deal-says-ptis-gohar",
+      "published_date": "2026-08-24T09:46:08+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "US national debt surges past  $40 trillion for first time",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024217/us-national-debt-surges-past-40-trillion-for-first-time",
-      "published_date": "2026-08-21T02:46:24+00:00",
-      "category": "Economy"
+      "title": "Pakistan president backs Keti Bunder port development to boost trade, connectivity",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655693/pakistan",
+      "published_date": "2026-08-24T09:08:56+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "International Finance Corporation signs first $100m deal with private bank",
+      "title": "PML-N secures 5 out of 7 reserved seats up for grabs in AJK Legislative Assembly",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024213/international-finance-corporation-signs-first-100m-deal-with-private-bank",
-      "published_date": "2026-08-21T02:37:27+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2024952/pml-n-secures-5-out-of-7-reserved-seats-up-for-grabs-in-ajk-legislative-assembly",
+      "published_date": "2026-08-24T09:05:46+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Syria proposes joint business council with Pakistan",
+      "title": "PM Shehbaz and Sindh CM 'agree to maintain political tolerance, consultation' amid rift in ruling coalition",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024214/syria-proposes-joint-business-council-with-pakistan",
-      "published_date": "2026-08-21T02:28:08+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2024973/pm-shehbaz-and-sindh-cm-agree-to-maintain-political-tolerance-consultation-amid-rift-in-ruling-coalition",
+      "published_date": "2026-08-24T09:03:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "KARACHI’S UNSOLVED HOUSING CRISIS",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024631/karachis-unsolved-housing-crisis",
+      "published_date": "2026-08-24T07:28:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "American varsities urge international students to return to US before new immigration rules come into effect",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024962/american-varsities-urge-international-students-to-return-to-us-before-new-immigration-rules-come-into-effect",
+      "published_date": "2026-08-24T07:02:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Polling ends for eight reserved seats in Azad Jammu and Kashmir Assembly",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655684/pakistan",
+      "published_date": "2026-08-24T06:08:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Amin Mughal taught Pakistan’s Left and media to disagree without falling apart",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024945/amin-mughal-taught-pakistans-left-and-media-to-disagree-without-falling-apart",
+      "published_date": "2026-08-24T05:23:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Amnesty International says police in India used excessive force during youth-led protests",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024956/amnesty-international-says-police-in-india-used-excessive-force-during-youth-led-protests",
+      "published_date": "2026-08-24T05:20:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "At Karachi eatery, robot waiters serve up pizzas, burgers and a unique experience",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655679/pakistan",
+      "published_date": "2026-08-24T05:08:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Imran Khan would not have spent three years in jail if he wanted a deal,' says Barrister Gohar",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2625574/imran-khan-would-not-have-spent-three-years-in-jail-if-he-wanted-a-deal-says-barrister-gohar",
+      "published_date": "2026-08-24T04:42:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lahore traffic police going beyond the road for recovery of e-challan dues",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024799/lahore-traffic-police-going-beyond-the-road-for-recovery-of-e-challan-dues",
+      "published_date": "2026-08-24T03:59:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "3 weeks on, nightly protests over Mir Raza’s murder continue in Karachi",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024873/3-weeks-on-nightly-protests-over-mir-razas-murder-continue-in-karachi",
+      "published_date": "2026-08-24T03:48:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jamaat threatens march on Islamabad over petroleum levy",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024806/jamaat-threatens-march-on-islamabad-over-petroleum-levy",
+      "published_date": "2026-08-24T03:05:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Comstech chief remains defiant in face of ‘damning inquiry’",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024822/comstech-chief-remains-defiant-in-face-of-damning-inquiry",
+      "published_date": "2026-08-24T02:37:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Curfew re-imposed in Balochistan’s restive Mastung tehsil",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2024829/curfew-re-imposed-in-balochistans-restive-mastung-tehsil",
+      "published_date": "2026-08-24T02:25:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chinese company meets President Zardari, proposes $522m for first phase of Keti Bunder port",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2625541/chinese-company-meets-president-zardari-proposes-522m-for-first-phase-of-keti-bunder-port",
+      "published_date": "2026-08-24T01:06:17+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Cricket greats appeal to PM Shehbaz for Imran's medical treatment in line with SC directives",
@@ -575,132 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2024762/sindh-govt-to-seek-judicial-commission-to-review-mir-raza-murder-probe-family-to-move-shc-against-decision",
       "published_date": "2026-08-23T18:30:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nordic nations say they have lost confidence in Infantino and Fifa governance",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024770/nordic-nations-say-they-have-lost-confidence-in-infantino-and-fifa-governance",
-      "published_date": "2026-08-23T16:16:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hina Javed murder case: Rawalpindi court sends husband, servant on 3-day physical remand",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024768/hina-javed-murder-case-rawalpindi-court-sends-husband-servant-on-3-day-physical-remand",
-      "published_date": "2026-08-23T15:31:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PTI demands Imran's CT angiography be conducted at Shifa International Hospital",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024760/pti-demands-imrans-ct-angiography-be-conducted-at-shifa-international-hospital",
-      "published_date": "2026-08-23T14:19:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PTI demands CT coronary angiography for Imran at Shifa International Hospital",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2625443/pti-demands-ct-coronary-angiography-for-imran-at-shifa-international-hospital",
-      "published_date": "2026-08-23T12:30:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spantik Peak mission to retrieve body of Pakistani climber halted amid heavy snowfall",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024747/spantik-peak-mission-to-retrieve-body-of-pakistani-climber-halted-amid-heavy-snowfall",
-      "published_date": "2026-08-23T10:56:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Road in Duki to be named after female doctor who survived acid attack: Balochistan CM Bugti",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024757/road-in-duki-to-be-named-after-female-doctor-who-survived-acid-attack-balochistan-cm-bugti",
-      "published_date": "2026-08-23T10:44:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "First Lady Aseefa calls on Punjab govt to thoroughly investigate Hina Javed murder",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024756/first-lady-aseefa-calls-on-punjab-govt-to-thoroughly-investigate-hina-javed-murder",
-      "published_date": "2026-08-23T10:02:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former aide to Taliban commander Mullah Nazir group killed in Lower South Waziristan",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024750/former-aide-to-taliban-commander-mullah-nazir-group-killed-in-lower-south-waziristan",
-      "published_date": "2026-08-23T08:36:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "First Lady Aseefa urges Punjab govt to ensure thorough probe into Hina Javed murder",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2625419/first-lady-aseefa-urges-punjab-govt-to-ensure-thorough-probe-into-hina-javed-murder",
-      "published_date": "2026-08-23T07:42:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Norwegian King Harald’s health has ‘deteriorated’: palace",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2655644/world",
-      "published_date": "2026-08-23T07:08:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan police arrest father, other relatives over murder of TikTok star, official says",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2655580/pakistan",
-      "published_date": "2026-08-23T07:08:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan says over $208 million collected in Hajj 2027 dues in five days",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2655627/pakistan",
-      "published_date": "2026-08-23T05:08:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Karachi's University Road to be made ‘100pc motorable’ by Sept 15: Sharjeel",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024671/karachis-university-road-to-be-made-100pc-motorable-by-sept-15-sharjeel",
-      "published_date": "2026-08-23T04:15:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ex-cricket captains renew appeal to Pakistan PM for Imran Khan’s medical treatment",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2655622/pakistan",
-      "published_date": "2026-08-23T04:08:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "No court without trust",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024703/no-court-without-trust",
-      "published_date": "2026-08-23T03:52:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Empty overtures",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024699/empty-overtures",
-      "published_date": "2026-08-23T03:36:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan, Malaysia agree on joint working group, security cooperation",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024683/pakistan-malaysia-agree-on-joint-working-group-security-cooperation",
-      "published_date": "2026-08-23T03:08:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Troops in Rawalpindi okayed for six months",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024660/troops-in-rawalpindi-okayed-for-six-months",
-      "published_date": "2026-08-23T02:47:05+00:00",
       "category": "Local Events"
     }
   ]
