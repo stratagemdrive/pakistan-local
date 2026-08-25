@@ -1,6 +1,6 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-08-25T11:34:38.152742+00:00",
+  "last_updated": "2026-08-25T23:15:34.362473+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -8,6 +8,20 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2025203/the-matter-is-being-viewed-positively-official-says-bangladesh-interested-in-joining-makkah-defence-pact",
       "published_date": "2026-08-25T08:29:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France and Saudi Arabia showcase deepening strategic alignment, from Iran to Gaza",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655850/saudi-arabia",
+      "published_date": "2026-08-25T08:08:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Britain backs US efforts for diplomatic solution on Iran",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655841/world",
+      "published_date": "2026-08-25T07:08:20+00:00",
       "category": "Diplomacy"
     },
     {
@@ -130,20 +144,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran says Pakistan army chief to visit Tehran on Monday for talks on regional peace",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2655591/pakistan",
-      "published_date": "2026-08-23T09:08:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pakistan FM to visit UK on Aug. 24-28, discuss issue of sailors held hostage by Somali pirates",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2655583/pakistan",
-      "published_date": "2026-08-23T08:08:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Israeli lawmaker under army escort smashes Palestinian memorial",
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2655794/middle-east",
@@ -162,6 +162,27 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2025196/trump-veers-from-boredom-to-denial-after-6-months-of-war-on-iran",
       "published_date": "2026-08-25T07:27:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran FM, Pakistan army chief discuss ‘latest’ regional developments day after Tehran meeting",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655842/pakistan",
+      "published_date": "2026-08-25T07:08:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Head of Kurdish forces in Syria announces their dissolution after merging with army",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655836/middle-east",
+      "published_date": "2026-08-25T06:08:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran, Oman say discussed Hormuz temporary corridor, mine-clearing",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655830/middle-east",
+      "published_date": "2026-08-25T04:08:23+00:00",
       "category": "Military"
     },
     {
@@ -263,25 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "ISI chief meets Bahrain's crown prince, discusses regional and international developments: report",
+      "title": "Govt increases petrol price by Rs1.12, high-speed diesel by Rs1.11",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024778/isi-chief-meets-bahrains-crown-prince-discusses-regional-and-international-developments-report",
-      "published_date": "2026-08-23T18:14:05+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/2025238/govt-increases-petrol-price-by-rs112-high-speed-diesel-by-rs111",
+      "published_date": "2026-08-25T18:17:19+00:00",
+      "category": "Energy"
     },
     {
-      "title": "CDF Munir to visit Tehran on Monday, says Iranian foreign ministry",
+      "title": "Govt forms high-powered body to break deadlock over Iran-Pakistan gas pipeline amid penalty threats",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024771/cdf-munir-to-visit-tehran-on-monday-says-iranian-foreign-ministry",
-      "published_date": "2026-08-23T17:28:06+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/2025241/govt-forms-high-powered-body-to-break-deadlock-over-iran-pakistan-gas-pipeline-amid-penalty-threats",
+      "published_date": "2026-08-25T17:37:18+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Search continues for 22 after bulk carrier sinks off India",
+      "title": "Petroleum division kicks off feasibility study on strategic reserves",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024735/search-continues-for-22-after-bulk-carrier-sinks-off-india",
-      "published_date": "2026-08-23T08:46:33+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/2025226/petroleum-division-kicks-off-feasibility-study-on-strategic-reserves",
+      "published_date": "2026-08-25T13:42:11+00:00",
+      "category": "Energy"
     },
     {
       "title": "Trees ‘giving up’: climate change hammers historic English gardens",
@@ -403,25 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Tarbela full, Rabi water outlook strengthens",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2625008/tarbela-full-rabi-water-outlook-strengthens",
-      "published_date": "2026-08-21T00:50:30+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Govt hikes petrol price by Rs0.27, high-speed diesel by Rs1.64",
+      "title": "Iraq may show how US can squeeze Iran's trade partners",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024165/govt-hikes-petrol-price-by-rs027-high-speed-diesel-by-rs164",
-      "published_date": "2026-08-20T18:07:24+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Diesel price nose-dives by Rs32.63, petrol registers Rs2.97 increase",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2023932/diesel-price-nose-dives-by-rs3263-petrol-registers-rs297-increase",
-      "published_date": "2026-08-19T19:02:10+00:00",
-      "category": "Energy"
+      "url": "https://www.dawn.com/news/2025247/iraq-may-show-how-us-can-squeeze-irans-trade-partners",
+      "published_date": "2026-08-25T18:23:21+00:00",
+      "category": "Economy"
     },
     {
       "title": "Pakistan orders country-specific plans to diversify exports, tackle trade barriers",
@@ -435,6 +442,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2025184/bitcoin-rises-above-80000-as-soft-dollar-debasement-fears-boost-momentum",
       "published_date": "2026-08-25T05:45:49+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pakistan PM meets Saudi business delegation, discusses ways to elevate bilateral economic ties",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2655829/pakistan",
+      "published_date": "2026-08-25T04:08:00+00:00",
       "category": "Economy"
     },
     {
@@ -550,18 +564,74 @@
       "category": "Economy"
     },
     {
-      "title": "How Saudi-French economic ties are entering a new era beyond oil",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2655642/saudi-arabia",
-      "published_date": "2026-08-23T07:08:49+00:00",
-      "category": "Economy"
+      "title": "Imran Khan’s sister Noreen Niazi meets him in Adiala jail for second consecutive week",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2025232/imran-khans-sister-noreen-niazi-meets-him-in-adiala-jail-for-second-consecutive-week",
+      "published_date": "2026-08-25T16:42:16+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Trump hits back at Canada after retaliatory tariffs announcement",
+      "title": "Imran's hospital transfer: SC to take up Dr Uzma's contempt plea on Sept 16",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2024745/trump-hits-back-at-canada-after-retaliatory-tariffs-announcement",
-      "published_date": "2026-08-23T06:48:22+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2025198/imrans-hospital-transfer-sc-to-take-up-dr-uzmas-contempt-plea-on-sept-16",
+      "published_date": "2026-08-25T16:12:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Speaker, deputy speaker take oath after election to AJK Assembly",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2025235/speaker-deputy-speaker-take-oath-after-election-to-ajk-assembly",
+      "published_date": "2026-08-25T15:55:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Patience has run out’: JI warns of shutdown, Islamabad march if petroleum levy not abolished",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2025229/patience-has-run-out-ji-warns-of-shutdown-islamabad-march-if-petroleum-levy-not-abolished",
+      "published_date": "2026-08-25T14:51:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opposition, govt spar in Senate over Imran Khan’s medical treatment",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2025224/opposition-govt-spar-in-senate-over-imran-khans-medical-treatment",
+      "published_date": "2026-08-25T13:07:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PM Shehbaz launches National Olive Value Chain Policy to cut import bill",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2625830/pm-shehbaz-launches-national-olive-value-chain-policy-to-cut-import-bill",
+      "published_date": "2026-08-25T12:52:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "4 suspects arrested over alleged murder, sexual assault of 5-year-old girl in K-P's Haripur",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2625827/4-suspects-arrested-over-alleged-murder-sexual-assault-of-5-year-old-girl-in-k-ps-haripur",
+      "published_date": "2026-08-25T12:37:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Body of missing five-year-old girl recovered in KP’s Haripur: police",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2025215/body-of-missing-five-year-old-girl-recovered-in-kps-haripur-police",
+      "published_date": "2026-08-25T12:20:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sindh High Court seeks answers on JIT probe into Mir Raza case",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2625823/sindh-high-court-seeks-answers-on-jit-probe-into-mir-raza-case",
+      "published_date": "2026-08-25T12:08:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Death toll in Pishin gun attack on labourers rises to six",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2625821/death-toll-in-pishin-gun-attack-on-labourers-rises-to-six",
+      "published_date": "2026-08-25T12:00:33+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Ayaz Sadiq says there is 'realisation' in govt about NA's lack of quorum, hopeful situation will improve",
@@ -627,80 +697,10 @@
       "category": "Local Events"
     },
     {
-      "title": "4 women from GB successfully summit Spantik",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2025118/4-women-from-gb-successfully-summit-spantik",
-      "published_date": "2026-08-25T07:07:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tornado tears through French village, dozens injured",
+      "title": "Pakistan completes online booking of all seats under government Hajj scheme",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2655775/world",
-      "published_date": "2026-08-25T05:08:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Imaan and Hadi's family, legal team voice concerns over medical facilities at Adiala jail",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2025022/imaan-and-hadis-family-legal-team-voice-concerns-over-medical-facilities-at-adiala-jail",
-      "published_date": "2026-08-25T04:08:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "3 more Adiala inmates seek private care",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2025143/3-more-adiala-inmates-seek-private-care",
-      "published_date": "2026-08-25T03:10:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rawalpindi police chief rules out suicide in Hina Javaid’s death",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2025071/rawalpindi-police-chief-rules-out-suicide-in-hina-javaids-death",
-      "published_date": "2026-08-25T03:08:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Govt fails to maintain quorum as PPP stays away from National Assembly",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2025121/govt-fails-to-maintain-quorum-as-ppp-stays-away-from-national-assembly",
-      "published_date": "2026-08-25T02:39:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PTI resubmits contempt plea over Imran's hospital transfer after removing SC objections",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2625746/supreme-court-returns-contempt-plea-filed-by-imrans-sister-over-hospital-transfer",
-      "published_date": "2026-08-25T02:08:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Saudi-French ties are turning an ancient oasis into a new canvas",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2655752/saudi-arabia",
-      "published_date": "2026-08-24T22:08:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Joint opposition announces strategy against economic crisis, political repression",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2025034/joint-opposition-announces-strategy-against-economic-crisis-political-repression",
-      "published_date": "2026-08-24T18:47:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Family, legal team of Imaan and Hadi voice concerns over medical facilities at Adiala jail",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2025022/family-legal-team-of-imaan-and-hadi-voice-concerns-over-medical-facilities-at-adiala-jail",
-      "published_date": "2026-08-24T17:54:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Keti Bunder: Zardari urges integrated plan",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2625676/keti-bunder-zardari-urges-integrated-plan",
-      "published_date": "2026-08-24T17:41:23+00:00",
+      "url": "https://www.arabnews.pk/node/2655840/pakistan",
+      "published_date": "2026-08-25T07:08:22+00:00",
       "category": "Local Events"
     }
   ]
