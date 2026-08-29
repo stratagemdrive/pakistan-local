@@ -1,8 +1,15 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-08-28T21:20:42.704719+00:00",
+  "last_updated": "2026-08-29T03:56:56.968940+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Seneca Nation calls for reversal of Trump’s ‘Lake America’ executive order",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2656201/world",
+      "published_date": "2026-08-29T02:08:32+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "'Profound consequences': Indus Water Treaty must not be weaponised, FM Dar warns India",
       "source": "Dawn",
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "'The matter is being viewed positively': Official says Bangladesh interested in joining Makkah defence pact",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2025203/the-matter-is-being-viewed-positively-official-says-bangladesh-interested-in-joining-makkah-defence-pact",
-      "published_date": "2026-08-25T08:29:33+00:00",
-      "category": "Diplomacy"
+      "title": "Gunfire, blasts heard in several areas of Niger capital Niamey, witnesses say",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2656200/world",
+      "published_date": "2026-08-29T02:08:54+00:00",
+      "category": "Military"
     },
     {
       "title": "Four-wicket Robinson stars as Pakistan collapse in second Test",
@@ -162,6 +169,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2025756/new-israeli-strikes-kill-3-in-gaza-authorities-say",
       "published_date": "2026-08-28T11:22:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How one highway could determine Sudan’s war — and the future of its fractured regions",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2656186/middle-east",
+      "published_date": "2026-08-28T08:08:26+00:00",
       "category": "Military"
     },
     {
@@ -267,20 +281,6 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2656054/world",
       "published_date": "2026-08-27T05:08:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Qatar PM to visit Tehran to pursue US-Iran mediation efforts",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2025478/qatar-pm-to-visit-tehran-to-pursue-us-iran-mediation-efforts",
-      "published_date": "2026-08-27T04:44:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US Patriot missile stocks in Europe are ‘beyond critical’ due to Iran war, officials say",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2656053/world",
-      "published_date": "2026-08-27T04:08:20+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,27 @@
       "category": "Energy"
     },
     {
+      "title": "CBAM trade barriers",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2025860/cbam-trade-barriers",
+      "published_date": "2026-08-29T03:44:46+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Restructuring CSS",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2025858/restructuring-css",
+      "published_date": "2026-08-29T03:38:45+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Mineral treasure",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2025864/mineral-treasure",
+      "published_date": "2026-08-29T03:28:04+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "SECP introduces unified framework for 'faster and easier' entry into Pakistan's capital market",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2025777/secp-introduces-unified-framework-for-faster-and-easier-entry-into-pakistans-capital-market",
@@ -543,25 +564,60 @@
       "category": "Economy"
     },
     {
-      "title": "Saudi Arabia backs Infantino amid fallout from failed FIFA investment plan",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2656046/sport",
-      "published_date": "2026-08-27T03:08:02+00:00",
-      "category": "Economy"
+      "title": "Islamabad High Court judge questions legal status of Afghan students",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2025817/islamabad-high-court-judge-questions-legal-status-of-afghan-students",
+      "published_date": "2026-08-29T03:46:25+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Little to celebrate",
+      "title": "More rain expected from today",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2025372/little-to-celebrate",
-      "published_date": "2026-08-27T02:42:58+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2025820/more-rain-expected-from-today",
+      "published_date": "2026-08-29T03:22:39+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "SBP mulls ending Rs10 note on rising costs",
+      "title": "Sindh govt lifts ban on commercial use of residential plots",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2025322/sbp-mulls-ending-rs10-note-on-rising-costs",
-      "published_date": "2026-08-27T02:31:07+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2025836/sindh-govt-lifts-ban-on-commercial-use-of-residential-plots",
+      "published_date": "2026-08-29T03:19:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Punjab governor directs Aitchison College to frame merit-based selection rules",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2025854/punjab-governor-directs-aitchison-college-to-frame-merit-based-selection-rules",
+      "published_date": "2026-08-29T03:13:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leading the charge on two wheels",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2025870/leading-the-charge-on-two-wheels",
+      "published_date": "2026-08-29T03:09:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PCB complains after interview with Imran’s sons telecast during Test",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2025874/pcb-complains-after-interview-with-imrans-sons-telecast-during-test",
+      "published_date": "2026-08-29T02:47:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Owners to be liable if terrorists use their land: Bugti",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2025901/owners-to-be-liable-if-terrorists-use-their-land-bugti",
+      "published_date": "2026-08-29T02:33:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Govt seeks fresh financing plan for ML-1 section",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2025879/govt-seeks-fresh-financing-plan-for-ml-1-section",
+      "published_date": "2026-08-28T23:54:56+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Nepal flood death toll rises to 579, nearly 2,000 still missing: disaster authority",
@@ -645,62 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2025715/two-days-on-rescuers-scour-debris-in-nepal-as-risk-of-fresh-flooding-grows",
       "published_date": "2026-08-28T06:20:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Barrister Iftikhar Gillani takes oath as 17th AJK prime minister",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2626236/barrister-iftikhar-gilani-elected-17th-ajk-prime-minister",
-      "published_date": "2026-08-28T06:14:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "They told me to remove my uterus. I refused.",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2025495/they-told-me-to-remove-my-uterus-i-refused",
-      "published_date": "2026-08-28T05:37:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "China halts rescue at Tibet disaster epicenter over flood risk",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2656106/world",
-      "published_date": "2026-08-28T05:08:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan ruling party lawmaker sworn in as Azad Kashmir PM, pledges jobs, reforms",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2656161/pakistan",
-      "published_date": "2026-08-28T05:08:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Infant deaths at Pims prompt Sindh govt to renew fire safety directives",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2025658/infant-deaths-at-pims-prompt-sindh-govt-to-renew-fire-safety-directives",
-      "published_date": "2026-08-28T03:50:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hamza takes on ‘new role’ in Islamabad",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2025622/hamza-takes-on-new-role-in-islamabad",
-      "published_date": "2026-08-28T03:31:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IHC reserves verdict on pleas for Imran-style facilities",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2025617/ihc-reserves-verdict-on-pleas-for-imran-style-facilities",
-      "published_date": "2026-08-28T03:19:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A polity or petri dish?",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2025677/a-polity-or-petri-dish",
-      "published_date": "2026-08-28T03:13:08+00:00",
       "category": "Local Events"
     }
   ]
