@@ -1,6 +1,6 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-08-29T15:33:54.734608+00:00",
+  "last_updated": "2026-08-30T00:52:43.787981+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -165,10 +165,24 @@
       "category": "Military"
     },
     {
+      "title": "Turkiye navy helps free hijacked vessel in deadly battle with Somali pirates",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2656251/world",
+      "published_date": "2026-08-29T06:08:35+00:00",
+      "category": "Military"
+    },
+    {
       "title": "CDF Munir visits Pakistan Ordnance Factory, reviews production capabilities: ISPR",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2025927/cdf-munir-visits-pakistan-ordnance-factory-reviews-production-capabilities-ispr",
       "published_date": "2026-08-29T05:22:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel army says struck Hamas commander in Gaza hospital compound",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2656245/middle-east",
+      "published_date": "2026-08-29T04:08:08+00:00",
       "category": "Military"
     },
     {
@@ -267,20 +281,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2025537/ratko-mladic-serb-leader-dubbed-epitome-of-evil",
       "published_date": "2026-08-27T15:40:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Butcher of Bosnia' Ratko Mladic dead: Serbian state media",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2025536/butcher-of-bosnia-ratko-mladic-dead-serbian-state-media",
-      "published_date": "2026-08-27T15:17:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Claims that CDF Munir visited Iran as envoy for US 'incorrect, misleading': FO",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2025489/claims-that-cdf-munir-visited-iran-as-envoy-for-us-incorrect-misleading-fo",
-      "published_date": "2026-08-27T14:45:22+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Damascus International Fair business sessions yield major economic agreements",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2656273/business-economy",
+      "published_date": "2026-08-30T09:08:28+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "War weighs on Iran's economy as US intensifies sanctions",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2025973/war-weighs-on-irans-economy-as-us-intensifies-sanctions",
@@ -435,6 +442,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2025970/40pc-of-pakistans-children-are-stunted-what-does-it-cost-the-countrys-economy",
       "published_date": "2026-08-29T12:32:27+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Mega ship honoring Türkiye docks in Karachi as port handles 171,000 tons of cargo",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2656253/pakistan",
+      "published_date": "2026-08-29T06:08:28+00:00",
       "category": "Economy"
     },
     {
@@ -550,18 +564,25 @@
       "category": "Economy"
     },
     {
-      "title": "Pro-Israel lobby spends big on US midterms as backlash grows",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2656099/world",
-      "published_date": "2026-08-28T03:08:31+00:00",
-      "category": "Economy"
+      "title": "Info ministry rejects ‘misleading’ foreign media reports on ‘convicted prisoner’",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2025992/info-ministry-rejects-misleading-foreign-media-reports-on-convicted-prisoner",
+      "published_date": "2026-08-29T18:39:59+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Clearing the air",
+      "title": "Pims fire: PM Shehbaz orders suspension, criminal action against 8 officials as inquiry panel submits interim report",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2025678/clearing-the-air",
-      "published_date": "2026-08-28T02:53:20+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2025962/pims-fire-pm-shehbaz-orders-suspension-criminal-action-against-8-officials-as-inquiry-panel-submits-interim-report",
+      "published_date": "2026-08-29T18:23:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "25 Pakistanis return home after release from Indian jails via Wagah border",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2025987/25-pakistanis-return-home-after-release-from-indian-jails-via-wagah-border",
+      "published_date": "2026-08-29T16:23:33+00:00",
+      "category": "Local Events"
     },
     {
       "title": "PM Shehbaz orders suspension of Pims executive director, 7 others as inquiry panel submits interim report on fire",
@@ -585,10 +606,24 @@
       "category": "Local Events"
     },
     {
+      "title": "The PIMS fire and the failures behind it: What the interim inquiry report says",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2626413/the-pims-fire-and-the-failures-behind-it-what-the-inquiry-report-says",
+      "published_date": "2026-08-29T11:55:02+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Naqvi visits passport office at Karachi's Awami Markaz, says facility to be expanded",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2025959/naqvi-visits-passport-office-at-karachis-awami-markaz-says-facility-to-be-expanded",
       "published_date": "2026-08-29T11:54:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Info ministry urges foreign media to reflect 'documented facts' in reporting on Imran Khan",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2626411/info-ministry-urges-foreign-media-to-reflect-documented-facts-in-reporting-on-imran-khan",
+      "published_date": "2026-08-29T11:30:18+00:00",
       "category": "Local Events"
     },
     {
@@ -610,6 +645,20 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2025951/christians-in-india-fear-that-tighter-laws-target-them",
       "published_date": "2026-08-29T10:10:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "K-P CM Afridi pledges ‘exemplary punishment’ in Ayat Noor case, renames Child Protection Bill after victim",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2626404/k-p-cm-afridipledges-exemplary-punishment-in-ayat-noor-case",
+      "published_date": "2026-08-29T09:58:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PIMS executive director, 7 others suspended as PM orders criminal proceedings over neonatal ward fire",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2626403/pims-executive-director-7-others-suspended-as-pm-orders-criminal-proceedings-over-neonatal-ward-fire",
+      "published_date": "2026-08-29T09:48:55+00:00",
       "category": "Local Events"
     },
     {
@@ -652,55 +701,6 @@
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2626391/gold-price-falls-rs15100-per-tola-in-local-market",
       "published_date": "2026-08-29T06:20:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Islamabad High Court judge questions legal status of Afghan students",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2025817/islamabad-high-court-judge-questions-legal-status-of-afghan-students",
-      "published_date": "2026-08-29T03:46:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "More rain expected from today",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2025820/more-rain-expected-from-today",
-      "published_date": "2026-08-29T03:22:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sindh govt lifts ban on commercial use of residential plots",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2025836/sindh-govt-lifts-ban-on-commercial-use-of-residential-plots",
-      "published_date": "2026-08-29T03:19:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Punjab governor directs Aitchison College to frame merit-based selection rules",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2025854/punjab-governor-directs-aitchison-college-to-frame-merit-based-selection-rules",
-      "published_date": "2026-08-29T03:13:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Leading the charge on two wheels",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2025870/leading-the-charge-on-two-wheels",
-      "published_date": "2026-08-29T03:09:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "DSP, SHO among six police personnel injured in DI Khan attack",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2626375/dsp-sho-among-six-police-personnel-injured-in-di-khan-attack",
-      "published_date": "2026-08-29T03:08:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PCB complains after interview with Imran’s sons telecast during Test",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2025874/pcb-complains-after-interview-with-imrans-sons-telecast-during-test",
-      "published_date": "2026-08-29T02:47:18+00:00",
       "category": "Local Events"
     }
   ]
