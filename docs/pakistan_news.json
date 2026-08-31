@@ -1,8 +1,15 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-08-30T15:17:46.888075+00:00",
+  "last_updated": "2026-08-31T00:58:34.868939+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Pakistan, Saudi Arabia, Turkiye to hold first meeting under Makkah pact in Istanbul on Monday",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2026140/pakistan-saudi-arabia-turkiye-to-hold-first-meeting-under-makkah-pact-in-istanbul-on-monday",
+      "published_date": "2026-08-30T18:31:22+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "CDF Munir, Dar arrive in Turkiye ahead of first Makkah defence pact meeting",
       "source": "Dawn",
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "'Misleading and factually incorrect': FO rejects reports claiming CDF Munir visited Iran as US envoy",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2626018/misleading-and-factually-incorrect-fo-rejects-reports-claiming-cdf-munir-visited-iran-as-us-envoy",
-      "published_date": "2026-08-27T03:13:23+00:00",
-      "category": "Diplomacy"
+      "title": "'Why would anyone shoot an infant?': Killing of Palestinian children, teens by Israel surges in West Bank",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2026182/why-would-anyone-shoot-an-infant-killing-of-palestinian-children-teens-by-israel-surges-in-west-bank",
+      "published_date": "2026-08-30T17:56:54+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran's supreme leader urges Gulf rulers in written message to unite against, confront 'real enemy'",
@@ -155,6 +162,34 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2026155/3-brothers-killed-relative-injured-in-ied-blast-in-balochistans-duki-police",
       "published_date": "2026-08-30T10:43:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Syrian family searching for cardiologist missing since 2012",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2656370/middle-east",
+      "published_date": "2026-08-30T08:08:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "England trounce Pakistan by 194 runs to wrap up series",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2656359/pakistan",
+      "published_date": "2026-08-30T07:08:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran strikes US forces in Jordan after US attack on Larak Island",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2656366/middle-east",
+      "published_date": "2026-08-30T07:08:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan deputy PM, military chief in Türkiye for Makkah defense pact committee meeting",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2656346/pakistan",
+      "published_date": "2026-08-30T05:08:34+00:00",
       "category": "Military"
     },
     {
@@ -246,41 +281,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2025763/four-wicket-robinson-stars-as-pakistan-collapse-in-second-test",
       "published_date": "2026-08-28T18:41:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "India signs deal with US to buy Javelin anti-tank missile systems",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2025768/india-signs-deal-with-us-to-buy-javelin-anti-tank-missile-systems",
-      "published_date": "2026-08-28T13:46:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "New Israeli strikes kill 3 in Gaza, authorities say",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2025756/new-israeli-strikes-kill-3-in-gaza-authorities-say",
-      "published_date": "2026-08-28T11:22:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How one highway could determine Sudan’s war — and the future of its fractured regions",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2656186/middle-east",
-      "published_date": "2026-08-28T08:08:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump announces new US ‘Space Academy’",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2656164/world",
-      "published_date": "2026-08-28T06:08:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan says Makkah defense pact sent message of unity, peace throughout region",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2656105/pakistan",
-      "published_date": "2026-08-28T05:08:00+00:00",
       "category": "Military"
     },
     {
@@ -452,6 +452,13 @@
       "category": "Economy"
     },
     {
+      "title": "UAE, Egyptian central banks say they are coordinating on Banque Misr after US Treasury notice",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2656344/middle-east",
+      "published_date": "2026-08-30T05:08:46+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Islamabad, Riyadh commit to raising Pakistan’s agricultural, food exports to $3 billion",
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/node/2656325/pakistan",
@@ -557,11 +564,53 @@
       "category": "Economy"
     },
     {
-      "title": "Mineral treasure",
+      "title": "15 feared missing in Grand Canyon flashflood: US parks agency",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2656374/world",
+      "published_date": "2026-08-31T09:08:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump says NBC journalist should face 'punishment' from broadcast regulator",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2025864/mineral-treasure",
-      "published_date": "2026-08-29T03:28:04+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2026187/trump-says-nbc-journalist-should-face-punishment-from-broadcast-regulator",
+      "published_date": "2026-08-30T19:19:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "At least 8 die, more missing, as ferry capsizes off Northern Cyprus",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2026171/at-least-8-die-more-missing-as-ferry-capsizes-off-northern-cyprus",
+      "published_date": "2026-08-30T19:00:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armed clash between two clans claims 8 lives in Sindh's Dadu",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2026180/armed-clash-between-two-clans-claims-8-lives-in-sindhs-dadu",
+      "published_date": "2026-08-30T18:36:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bannu police peace committee submits 11-point assurance as talks conclude",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2026181/bannu-police-peace-committee-submits-11-point-assurance-as-talks-conclude",
+      "published_date": "2026-08-30T17:45:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'They can come to Pakistan today': Khawaja Asif disputes claim by Imran's sons of expired Nicops",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2026174/they-can-come-to-pakistan-today-khawaja-asif-disputes-claim-by-imrans-sons-of-expired-nicops",
+      "published_date": "2026-08-30T17:04:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sindh lifts seven-year ban on commercialisation of residential plots",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2626594/sindh-lifts-seven-year-ban-on-commercialisation-of-residential-plots",
+      "published_date": "2026-08-30T14:39:20+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Nepal-China flood death toll rises to nearly 800, with over 3,000 missing",
@@ -582,6 +631,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2026156/in-meeting-with-gillani-pml-n-leadership-stresses-immediate-resolution-of-ajk-issues",
       "published_date": "2026-08-30T11:14:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Khawaja Asif says Imran's sons can visit Pakistan on NICOPs, rejects reports of visa denial",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2626547/khawaja-asif-says-imrans-sons-can-visit-pakistan-on-nicops-rejects-reports-of-visa-denial",
+      "published_date": "2026-08-30T09:05:07+00:00",
       "category": "Local Events"
     },
     {
@@ -645,62 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2026092/distinction-for-pakistani-hospital",
       "published_date": "2026-08-30T02:01:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Six suspects held in Khuzdar murder case",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2026052/six-suspects-held-in-khuzdar-murder-case",
-      "published_date": "2026-08-30T02:00:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nepal warns of possible fresh flooding as communities grapple with devastation",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2656330/world",
-      "published_date": "2026-08-30T01:08:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistani charity says buried abandoned baby killed in hospital fire as ‘unclaimed body’",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2656317/pakistan",
-      "published_date": "2026-08-30T00:08:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Boat with around 270 people on board capsizes off North Cyprus; one dead",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2656324/world",
-      "published_date": "2026-08-30T00:08:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan to award nurse for saving sole newborn survivor of hospital nursery fire",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2656310/pakistan",
-      "published_date": "2026-08-29T22:08:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gul Plaza fire probe leaves blame unresolved",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2626470/gul-plaza-fire-probe-leaves-blame-unresolved",
-      "published_date": "2026-08-29T18:40:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Info ministry rejects ‘misleading’ foreign media reports on ‘convicted prisoner’",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2025992/info-ministry-rejects-misleading-foreign-media-reports-on-convicted-prisoner",
-      "published_date": "2026-08-29T18:39:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pims fire: PM Shehbaz orders suspension, criminal action against 8 officials as inquiry panel submits interim report",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2025962/pims-fire-pm-shehbaz-orders-suspension-criminal-action-against-8-officials-as-inquiry-panel-submits-interim-report",
-      "published_date": "2026-08-29T18:23:06+00:00",
       "category": "Local Events"
     }
   ]
