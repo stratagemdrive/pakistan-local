@@ -1,6 +1,6 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-08-31T17:58:11.625006+00:00",
+  "last_updated": "2026-09-01T01:30:03.611897+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -22,6 +22,20 @@
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2626738/bilawal-denies-engagement-marriage-rumours-says-he-does-not-know-any-princess-gloria",
       "published_date": "2026-08-31T09:35:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russian finance minister makes unexpected appearance at G20",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2656477/world",
+      "published_date": "2026-08-31T08:08:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Denmark reopens Syria embassy after years long closure: state media",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2656468/world",
+      "published_date": "2026-08-31T07:08:46+00:00",
       "category": "Diplomacy"
     },
     {
@@ -130,24 +144,17 @@
       "category": "Diplomacy"
     },
     {
-      "title": "'Shared waters must not be weaponised,' Dar warns India of consequences over IWT violations",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2626280/shared-waters-must-not-be-weaponised-dar-warns-india-of-consequences-over-iwt-violations",
-      "published_date": "2026-08-28T13:54:36+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pakistan calls for restored Indus treaty engagement, warns against water weaponization",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2656163/pakistan",
-      "published_date": "2026-08-28T06:08:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Makkah Defence Alliance to be institutionalised, Pakistan to head secretariat for 3 years: FO",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2026391/makkah-defence-alliance-to-be-institutionalised-pakistan-to-head-secretariat-for-3-years-fo",
       "published_date": "2026-08-31T17:56:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Punjab Assembly passes controversial anti-terror law",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2626782/punjab-pa-passes-controversial-anti-terror-law",
+      "published_date": "2026-08-31T14:39:43+00:00",
       "category": "Military"
     },
     {
@@ -277,11 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Two minor girls being prepared for suicide attacks rescued in Balochistan, home minister claims",
+      "title": "Govt increases petrol price by Rs0.77, cuts high-speed diesel price by Rs1.03",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2025976/two-minor-girls-being-prepared-for-suicide-attacks-rescued-in-balochistan-home-minister-claims",
-      "published_date": "2026-08-29T15:05:50+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/2026440/govt-increases-petrol-price-by-rs077-cuts-high-speed-diesel-price-by-rs103",
+      "published_date": "2026-08-31T18:51:40+00:00",
+      "category": "Energy"
     },
     {
       "title": "Depleted US Strategic Petroleum Reserve loses potency as Iran war grinds on",
@@ -414,13 +421,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2025549/govt-reduces-petrol-price-by-rs050-diesel-by-rs019",
       "published_date": "2026-08-27T18:35:15+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Nepra weighs Rs2.52 per unit surcharge",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2626126/nepra-weighs-rs252-per-unit-surcharge",
-      "published_date": "2026-08-27T16:21:52+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,27 @@
       "category": "Economy"
     },
     {
+      "title": "Opposition walks out as Punjab Assembly passes controversial Anti-Terrorism (Amendment) Bill 2026",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2026430/opposition-walks-out-as-punjab-assembly-passes-controversial-anti-terrorism-amendment-bill-2026",
+      "published_date": "2026-08-31T19:18:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Technical fault': Driverless car crashes into police van in Islamabad",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2026439/technical-fault-driverless-car-crashes-into-police-van-in-islamabad",
+      "published_date": "2026-08-31T19:16:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Peace march in AJK's Sudhnoti demands early elections, end to blockades",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2026441/peace-march-in-ajks-sudhnoti-demands-early-elections-end-to-blockades",
+      "published_date": "2026-08-31T19:00:11+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "NA, Senate committees question probe into deadly Pims fire",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2026416/na-senate-committees-question-probe-into-deadly-pims-fire",
@@ -634,6 +655,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Jewish ex-police official joins Arab-Israeli party ahead of election",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2656475/middle-east",
+      "published_date": "2026-08-31T08:08:31+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Nepal teams seek hundreds trapped in hydropower tunnels after deadly floods",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2026368/nepal-teams-seek-hundreds-trapped-in-hydropower-tunnels-after-deadly-floods",
@@ -641,10 +669,24 @@
       "category": "Local Events"
     },
     {
+      "title": "French court orders Gaza photo put back into festival",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2656469/middle-east",
+      "published_date": "2026-08-31T07:08:56+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Sindh will not be divided, decision rests with assembly: Murad Ali Shah",
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2626720/sindh-will-not-be-divided-decision-rests-with-assembly-murad-ali-shah",
       "published_date": "2026-08-31T06:38:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan says rescue team finalizing arrangements to recover climber’s body from Spantik",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/node/2656461/pakistan",
+      "published_date": "2026-08-31T06:08:45+00:00",
       "category": "Local Events"
     },
     {
@@ -659,48 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2026217/chinese-firm-interested-in-punjabs-it-sector",
       "published_date": "2026-08-31T03:43:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gul Plaza fire commission blames no single entity or person directly",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2026275/gul-plaza-fire-commission-blames-no-single-entity-or-person-directly",
-      "published_date": "2026-08-31T03:12:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan health minister proposes ending permanent jobs in public hospitals after deadly fire",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2656445/pakistan",
-      "published_date": "2026-08-31T03:08:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Central Development Working Party clears five projects worth over Rs60 billion",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2026262/central-development-working-party-clears-five-projects-worth-over-rs60-billion",
-      "published_date": "2026-08-31T02:32:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Health minister opposes ‘permanent’ staff in public sector hospitals",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2026266/health-minister-opposes-permanent-staff-in-public-sector-hospitals",
-      "published_date": "2026-08-31T02:30:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump says NBC journalist should face 'punishment' from broadcast regulator",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2026187/trump-says-nbc-journalist-should-face-punishment-from-broadcast-regulator",
-      "published_date": "2026-08-30T19:19:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "At least 8 die, more missing, as ferry capsizes off Northern Cyprus",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2026171/at-least-8-die-more-missing-as-ferry-capsizes-off-northern-cyprus",
-      "published_date": "2026-08-30T19:00:40+00:00",
       "category": "Local Events"
     }
   ]
