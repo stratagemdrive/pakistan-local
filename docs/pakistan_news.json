@@ -1,8 +1,22 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-09-01T15:26:42.255516+00:00",
+  "last_updated": "2026-09-02T00:38:54.184394+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "UK vows anti-settler measures as Israel warns of retaliation",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2026680/uk-vows-anti-settler-measures-as-israel-warns-of-retaliation",
+      "published_date": "2026-09-01T18:33:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany blames Russia for airport drone incident, hits back with sanctions",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2026672/germany-blames-russia-for-airport-drone-incident-hits-back-with-sanctions",
+      "published_date": "2026-09-01T17:41:16+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "PM Shehbaz says water ‘lifeblood’ of region, must never be weaponised",
       "source": "Dawn",
@@ -127,20 +141,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2026171/at-least-7-die-in-ferry-capsize-off-northern-cyprus",
       "published_date": "2026-08-30T14:27:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "PTA tells telcos to enforce uniform SIM policy",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2026073/pta-tells-telcos-to-enforce-uniform-sim-policy",
-      "published_date": "2026-08-30T04:08:46+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Putin, Xi, Pezeshkian to attend Kyrgyzstan summit",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2026041/putin-xi-pezeshkian-to-attend-kyrgyzstan-summit",
-      "published_date": "2026-08-30T02:54:18+00:00",
       "category": "Diplomacy"
     },
     {
@@ -284,6 +284,20 @@
       "category": "Military"
     },
     {
+      "title": "Govt raises petrol price by Rs1.08, high-speed diesel by Rs0.51",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2026676/govt-raises-petrol-price-by-rs108-high-speed-diesel-by-rs051",
+      "published_date": "2026-09-01T18:19:23+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Govt approaches JI for talks over petroleum prices, levy as party demands ‘complete package’",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2626931/govt-approaches-ji-for-talks-over-petroleum-prices-levy-as-party-demands-complete-package",
+      "published_date": "2026-09-01T11:35:07+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "PSX tumbles 509 points as selling pressure grips market",
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2626906/psx-tumbles-509-points-as-selling-pressure-grips-market",
@@ -407,20 +421,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2025716/trump-administration-seeks-to-restrict-internships-for-international-students",
       "published_date": "2026-08-28T06:00:08+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Forecast of wetter Saudi autumn and torrential rain in October",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2656096/saudi-arabia",
-      "published_date": "2026-08-28T03:08:46+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Pakistan steps up fuel security push amid Gulf shipping disruptions",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2656152/pakistan",
-      "published_date": "2026-08-28T03:08:05+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,34 @@
       "category": "Economy"
     },
     {
+      "title": "Afghan-origin doctor, policeman among eight held; meth worth Rs900m seized",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2026679/afghan-origin-doctor-policeman-among-eight-held-meth-worth-rs900m-seized",
+      "published_date": "2026-09-01T19:07:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bank of America VP among two killed in stabbing in New York's Times Square; suspect shot dead",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2026577/bank-of-america-vp-among-two-killed-in-stabbing-in-new-yorks-times-square-suspect-shot-dead",
+      "published_date": "2026-09-01T18:05:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mir Raza murder case: Judicial commission records statements, MLO says he was ‘under no pressure’ during autopsy",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2026610/mir-raza-murder-case-judicial-commission-records-statements-mlo-says-he-was-under-no-pressure-during-autopsy",
+      "published_date": "2026-09-01T17:20:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Punjab Assembly passes resolution seeking ban on social media for under-16s",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2026657/punjab-assembly-passes-resolution-seeking-ban-on-social-media-for-under-16s",
+      "published_date": "2026-09-01T15:51:46+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Karachi court issues notices to SSP, SHO on plea seeking FIR over DHA scuffle case",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2026618/karachi-court-issues-notices-to-ssp-sho-on-plea-seeking-fir-over-dha-scuffle-case",
@@ -589,6 +617,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2026639/ousted-uk-pm-keir-starmer-quits-parliament-to-focus-on-international-affairs",
       "published_date": "2026-09-01T13:08:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fact check: Viral video doesn't show recent 'Free Imran Khan' billboard in US; it's old from Oct 2025",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2626941/fact-check-viral-video-doesnt-show-recent-free-imran-khan-billboard-in-us-its-old-from-oct-2025",
+      "published_date": "2026-09-01T12:57:36+00:00",
       "category": "Local Events"
     },
     {
@@ -666,41 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2026477/husband-cannot-reclaim-dower-gold-as-khula-compensation-lhc-rules",
       "published_date": "2026-09-01T02:54:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IHC directs Adiala jail authorities to keep Imran, Bushra Bibi out of solitary confinement",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2626870/ihc-directs-adiala-jail-authorities-to-keep-imran-bushra-bibi-out-of-solitary-confinement",
-      "published_date": "2026-09-01T02:47:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "12 assailants killed after Reko Diq convoy comes under attack in Chagai",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2026528/12-assailants-killed-after-reko-diq-convoy-comes-under-attack-in-chagai",
-      "published_date": "2026-09-01T02:46:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opposition walks out as Punjab Assembly passes controversial Anti-Terrorism (Amendment) Bill 2026",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2026430/opposition-walks-out-as-punjab-assembly-passes-controversial-anti-terrorism-amendment-bill-2026",
-      "published_date": "2026-08-31T19:18:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Technical fault': Driverless car crashes into police van in Islamabad",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2026439/technical-fault-driverless-car-crashes-into-police-van-in-islamabad",
-      "published_date": "2026-08-31T19:16:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Peace march in AJK's Sudhnoti demands early elections, end to blockades",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2026441/peace-march-in-ajks-sudhnoti-demands-early-elections-end-to-blockades",
-      "published_date": "2026-08-31T19:00:11+00:00",
       "category": "Local Events"
     }
   ]
