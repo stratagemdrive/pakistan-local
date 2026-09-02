@@ -1,8 +1,50 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-09-02T00:38:54.184394+00:00",
+  "last_updated": "2026-09-02T15:02:09.118687+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Pakistan, Kyrgyzstan sign agreement to boost bilateral trade to $200m in two years",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2026839/pakistan-kyrgyzstan-sign-agreement-to-boost-bilateral-trade-to-200m-in-two-years",
+      "published_date": "2026-09-02T14:25:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan 'hopeful' despite US-Iran escalation, will continue to strive for dialogue and diplomacy: FO",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2026852/pakistan-hopeful-despite-us-iran-escalation-will-continue-to-strive-for-dialogue-and-diplomacy-fo",
+      "published_date": "2026-09-02T13:15:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Apple Maps changes name of Lake Ontario to 'Lake America' for US users",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2026843/apple-maps-changes-name-of-lake-ontario-to-lake-america-for-us-users",
+      "published_date": "2026-09-02T07:03:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan launches dual-tranche Eurobond offering",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2026805/pakistan-launches-dual-tranche-eurobond-offering",
+      "published_date": "2026-09-02T02:18:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kyrgyz FM underscores close ties with Pakistan, seeks expanded cooperation",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2627047/kyrgyz-fm-underscores-close-ties-with-pakistan-seeks-expanded-cooperation",
+      "published_date": "2026-09-02T01:32:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan, Kyrgyzstan to raise bilateral trade to $200m",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2627044/pm-shehbaz-kyrgyz-president-hold-talks-sign-multiple-mous",
+      "published_date": "2026-09-02T00:57:24+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UK vows anti-settler measures as Israel warns of retaliation",
       "source": "Dawn",
@@ -102,46 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Islamabad MoU offers ‘only viable pathway’ to lasting regional peace: PM Shehbaz in meeting with Iran's Pezeshkian",
+      "title": "A disaster foretold",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2026731/a-disaster-foretold",
+      "published_date": "2026-09-02T14:54:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel ready to remove Gaza population if US gives approval: defence minister",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2026913/israel-ready-to-remove-gaza-population-if-us-gives-approval-defence-minister",
+      "published_date": "2026-09-02T14:25:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "China's Xi urges new Middle East security framework during Egypt visit",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2026916/chinas-xi-urges-new-middle-east-security-framework-during-egypt-visit",
+      "published_date": "2026-09-02T13:43:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "IHC sets aside 2022 verdict declaring Pakistan Naval Farms, sailing club in Islamabad illegal",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2026912/ihc-sets-aside-2022-verdict-declaring-pakistan-naval-farms-sailing-club-in-islamabad-illegal",
+      "published_date": "2026-09-02T13:23:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sri Lankan, US anti-narcotics agents bust Pakistani drug network in Colombo",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2026898/sri-lankan-us-anti-narcotics-agents-bust-pakistani-drug-network-in-colombo",
+      "published_date": "2026-09-02T12:33:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan Navy commences SEASPARK-2026 exercise to test combat readiness",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2026890/pakistan-navy-commences-seaspark-2026-exercise-to-test-combat-readiness",
+      "published_date": "2026-09-02T11:31:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "John Ternus takes over as Apple enters era of AI, foldable phones",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2026872/john-ternus-takes-over-as-apple-enters-era-of-ai-foldable-phones",
+      "published_date": "2026-09-02T08:51:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran targets American assets in Middle East after vowing 'severe' consequences for fresh wave of US strikes",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2026830/iran-targets-american-assets-in-middle-east-after-vowing-severe-consequences-for-fresh-wave-of-us-strikes",
+      "published_date": "2026-09-02T04:14:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Aaqib Javed defends Pakistan’s mid-series shake-up, says team failed to compete in England",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2026783/aaqib-javed-defends-pakistans-mid-series-shake-up-says-team-failed-to-compete-in-england",
+      "published_date": "2026-09-02T03:02:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Xi visits Egypt as US sanctions threat looms over Iran links",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2026790/xi-visits-egypt-as-us-sanctions-threat-looms-over-iran-links",
+      "published_date": "2026-09-02T02:55:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan Navy begins major maritime exercise SEASPARK-2026 in Karachi",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2626682/pm-shehbaz-to-depart-for-three-day-visit-to-kyrgyz-republic",
-      "published_date": "2026-08-31T01:30:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Arbitration court says India must uphold water-sharing treaty with Pakistan",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2656428/pakistan",
-      "published_date": "2026-08-31T00:08:57+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Leaders of China, Russia and India are among heads of state meeting to counter US influence",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2656430/world",
-      "published_date": "2026-08-31T00:08:16+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pakistan, Saudi Arabia, Turkiye to hold first meeting under Makkah pact in Istanbul on Monday",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2026140/pakistan-saudi-arabia-turkiye-to-hold-first-meeting-under-makkah-pact-in-istanbul-on-monday",
-      "published_date": "2026-08-30T18:31:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "CDF Munir, Dar arrive in Turkiye ahead of first Makkah defence pact meeting",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2026140/cdf-munir-dar-arrive-in-turkiye-ahead-of-first-makkah-defence-pact-meeting",
-      "published_date": "2026-08-30T15:14:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "At least 7 die in ferry capsize off Northern Cyprus",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2026171/at-least-7-die-in-ferry-capsize-off-northern-cyprus",
-      "published_date": "2026-08-30T14:27:37+00:00",
-      "category": "Diplomacy"
+      "url": "https://tribune.com.pk/story/2627051/pakistan-navy-begins-major-maritime-exercise-seaspark-2026-in-karachi",
+      "published_date": "2026-09-02T02:08:04+00:00",
+      "category": "Military"
     },
     {
       "title": "5 security personnel among 6 martyred in Balochistan Customs House attack, 21 terrorists killed across province: ISPR",
@@ -207,87 +284,38 @@
       "category": "Military"
     },
     {
-      "title": "DIG South summons assaulted family, attackers in viral video case of Karachi's Defence",
+      "title": "'We had to do this to set his soul free': Families hold symbolic funerals in Nepal for missing flood victims",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2026883/we-had-to-do-this-to-set-his-soul-free-families-hold-symbolic-funerals-in-nepal-for-missing-flood-victims",
+      "published_date": "2026-09-02T10:23:55+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Oil prices extend gains as US and Iran trade fresh strikes",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2626743/dig-south-summons-assaulted-family-attackers-in-viral-video-case-of-karachis-defence",
-      "published_date": "2026-08-31T10:03:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran targets US military in Jordan after American attack on Larak Island in latest flare-up",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2026311/iran-targets-us-military-in-jordan-after-american-attack-on-larak-island-in-latest-flare-up",
-      "published_date": "2026-08-31T07:10:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "2 terrorists killed during intelligence-based operation in Balochistan’s Washuk: state media",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2026353/2-terrorists-killed-during-intelligence-based-operation-in-balochistans-washuk-state-media",
-      "published_date": "2026-08-31T05:22:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan to head Makkah defense pact secretariat for first three years",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2656449/pakistan",
-      "published_date": "2026-08-31T04:08:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump was sending message to Iran with Kharg Island post, says Vance",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2656446/middle-east",
-      "published_date": "2026-08-31T03:08:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Oil rises over 3% as US, Iran resumes military attacks",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2626680/oil-jumps-more-than-2-after-us-attack-on-irans-larak-island",
-      "published_date": "2026-08-31T01:20:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran’s president says US war not in Tehran’s interest after fighting flares",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2656423/middle-east",
-      "published_date": "2026-08-30T23:08:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Why would anyone shoot an infant?': Killing of Palestinian children, teens by Israel surges in West Bank",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2026182/why-would-anyone-shoot-an-infant-killing-of-palestinian-children-teens-by-israel-surges-in-west-bank",
-      "published_date": "2026-08-30T17:56:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran's supreme leader urges Gulf rulers in written message to unite against, confront 'real enemy'",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2026154/irans-supreme-leader-urges-gulf-rulers-in-written-message-to-unite-against-confront-real-enemy",
-      "published_date": "2026-08-30T10:51:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "3 brothers killed, relative injured in IED blast in Balochistan's Duki: police",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2026155/3-brothers-killed-relative-injured-in-ied-blast-in-balochistans-duki-police",
-      "published_date": "2026-08-30T10:43:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syrian family searching for cardiologist missing since 2012",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/node/2656370/middle-east",
-      "published_date": "2026-08-30T08:08:51+00:00",
-      "category": "Military"
+      "url": "https://tribune.com.pk/story/2627050/oil-prices-extend-gains-as-us-and-iran-trade-fresh-strikes",
+      "published_date": "2026-09-02T02:02:15+00:00",
+      "category": "Energy"
     },
     {
       "title": "Govt raises petrol price by Rs1.08, high-speed diesel by Rs0.51",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2026676/govt-raises-petrol-price-by-rs108-high-speed-diesel-by-rs051",
       "published_date": "2026-09-01T18:19:23+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Refineries to ink plant upgrade deals in 45 days",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2626982/refineries-to-ink-plant-upgrade-deals-in-45-days",
+      "published_date": "2026-09-01T16:51:48+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "PSX dips 509 points amid cautious trading",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2626988/psx-dips-509-points-amid-cautious-trading",
+      "published_date": "2026-09-01T16:51:48+00:00",
       "category": "Energy"
     },
     {
@@ -396,32 +424,53 @@
       "category": "Energy"
     },
     {
-      "title": "Sindh seeks Hidan Block rights",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2626326/sindh-seeks-hidan-block-rights",
-      "published_date": "2026-08-28T15:49:24+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Govt pledges energy sector modernisation",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2626333/govt-pledges-energy-sector-modernisation",
-      "published_date": "2026-08-28T15:49:24+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Govt decreases petrol price by 58 paisas, HSD by 17 paisas till August 31",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2626269/govt-decreases-petrol-price-by-58-paisas-hsd-by-17-paisas-till-august-31",
-      "published_date": "2026-08-28T12:16:58+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Trump administration seeks to restrict internships for international students",
+      "title": "Act for Nutrition conference: Experts call for multisectoral approach, community-led intervention in addressing malnutrition crisis",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2025716/trump-administration-seeks-to-restrict-internships-for-international-students",
-      "published_date": "2026-08-28T06:00:08+00:00",
-      "category": "Energy"
+      "url": "https://www.dawn.com/news/2026823/act-for-nutrition-conference-experts-call-for-multisectoral-approach-community-led-intervention-in-addressing-malnutrition-crisis",
+      "published_date": "2026-09-02T13:41:18+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "AN ENORMOUS CHALLENGE",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2026604/an-enormous-challenge",
+      "published_date": "2026-09-02T09:26:38+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "ADB praises Pakistan's economic progress, backs shift towards private-sector-led growth",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2627082/adb-praises-pakistans-economic-progress-backs-shift-towards-private-sector-led-growth",
+      "published_date": "2026-09-02T06:52:21+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Govt told to renegotiate IMF terms",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2026750/govt-told-to-renegotiate-imf-terms",
+      "published_date": "2026-09-02T02:27:32+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Fuel, wheat push inflation to 11.2%",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2626979/fuel-wheat-push-inflation-to-112",
+      "published_date": "2026-09-01T16:51:48+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Gold falls; liquidity model eyes $5,025",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2626980/gold-falls-liquidity-model-eyes-5025",
+      "published_date": "2026-09-01T16:51:48+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Govt taps HK expertise for virtual assets",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2626989/govt-taps-hk-expertise-for-virtual-assets",
+      "published_date": "2026-09-01T16:51:48+00:00",
+      "category": "Economy"
     },
     {
       "title": "US secures 100-year concessions in Venezuela oil deal: White House",
@@ -515,53 +564,60 @@
       "category": "Economy"
     },
     {
-      "title": "Meeting reviews Asaan Tax Scheme application",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2626443/meeting-reviews-asaan-tax-scheme-application",
-      "published_date": "2026-08-29T15:25:22+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "'Seafood exports could reach $2b'",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2626441/seafood-exports-could-reach-2b",
-      "published_date": "2026-08-29T15:25:22+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "PSX registers modest growth",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2626442/psx-registers-modest-growth",
-      "published_date": "2026-08-29T15:25:22+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Uganda invites Pakistani investors with 10-year tax holiday",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2626444/uganda-invites-pakistani-investors-with-10-year-tax-holiday",
-      "published_date": "2026-08-29T15:25:22+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "SCCI sends third trade mission in one month",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2626446/scci-sends-third-trade-mission-in-one-month",
-      "published_date": "2026-08-29T15:25:22+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "War weighs on Iran's economy as US intensifies sanctions",
+      "title": "PMD predicts more rain in upper regions over the weekend, including Islamabad",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2025973/war-weighs-on-irans-economy-as-us-intensifies-sanctions",
-      "published_date": "2026-08-29T13:56:55+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2026909/pmd-predicts-more-rain-in-upper-regions-over-the-weekend-including-islamabad",
+      "published_date": "2026-09-02T13:44:02+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "40pc of Pakistan's children are stunted. What does it cost the country's economy?",
+      "title": "SHC dismisses Mir Raza’s family’s plea for JIT to probe his murder",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2025970/40pc-of-pakistans-children-are-stunted-what-does-it-cost-the-countrys-economy",
-      "published_date": "2026-08-29T12:32:27+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2026903/shc-dismisses-mir-razas-familys-plea-for-jit-to-probe-his-murder",
+      "published_date": "2026-09-02T13:30:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Uzma files another contempt plea in SC, this time over 'failure' to facilitate meetings between Imran and his family",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2026885/uzma-files-another-contempt-plea-in-sc-this-time-over-failure-to-facilitate-meetings-between-imran-and-his-family",
+      "published_date": "2026-09-02T13:07:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India’s rights watchdog steps in over gang rape of 16-year-old on moving bus in Delhi’s satellite city",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2026895/indias-rights-watchdog-steps-in-over-gang-rape-of-16-year-old-on-moving-bus-in-delhis-satellite-city",
+      "published_date": "2026-09-02T12:09:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PIA to increase weekly flights to London from four to seven from Oct 27",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2026866/pia-to-increase-weekly-flights-to-london-from-four-to-seven-from-oct-27",
+      "published_date": "2026-09-02T12:08:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "E-challans for littering in Lahore markets",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2026764/e-challans-for-littering-in-lahore-markets",
+      "published_date": "2026-09-02T03:43:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Shanghai Cooperation Organisation names Lahore as its ‘Tourism and Cultural capital’",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2026806/shanghai-cooperation-organisation-names-lahore-as-its-tourism-and-cultural-capital",
+      "published_date": "2026-09-02T02:28:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fire exposes Babar Plaza safety lapses",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2627021/fire-exposes-babar-plaza-safety-lapses",
+      "published_date": "2026-09-01T21:11:14+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Afghan-origin doctor, policeman among eight held; meth worth Rs900m seized",
@@ -645,62 +701,6 @@
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2626920/punjab-passes-resolution-to-restrict-social-media-access-for-children-under-16",
       "published_date": "2026-09-01T10:08:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In pictures: Widespread destruction in Nepal after deadly flash floods",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2026601/in-pictures-widespread-destruction-in-nepal-after-deadly-flash-floods",
-      "published_date": "2026-09-01T08:40:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ECP reserves verdict on maintainability of Awaam Pakistan’s appeal against its delisting",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2026606/ecp-reserves-verdict-on-maintainability-of-awaam-pakistans-appeal-against-its-delisting",
-      "published_date": "2026-09-01T08:32:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "6 personnel martyred in Balochistan Customs House attack, 21 terrorists killed across province: ISPR",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2626907/6-personnel-martyred-in-balochistan-customs-house-attack-21-terrorists-killed-across-province-ispr",
-      "published_date": "2026-09-01T08:00:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IHC tells Adiala jail authorities to ensure Imran, Bushra Bibi are not kept in solitary confinement",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2026581/ihc-tells-adiala-jail-authorities-to-ensure-imran-bushra-bibi-are-not-kept-in-solitary-confinement",
-      "published_date": "2026-09-01T07:41:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nepal-China flood death toll exceeds 1,000; Nepal PM demands climate action",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2026585/nepal-china-flood-death-toll-exceeds-1000-nepal-pm-demands-climate-action",
-      "published_date": "2026-09-01T06:54:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "China gifts Islamabad 21 fire, rescue vehicles worth Rs3 billion",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2626902/china-gifts-islamabad-21-fire-rescue-vehicles-worth-rs3-billion",
-      "published_date": "2026-09-01T06:27:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protest in New York against RSS chief’s visit",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2026532/protest-in-new-york-against-rss-chiefs-visit",
-      "published_date": "2026-09-01T03:27:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Husband cannot reclaim dower gold as Khula compensation, LHC rules",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2026477/husband-cannot-reclaim-dower-gold-as-khula-compensation-lhc-rules",
-      "published_date": "2026-09-01T02:54:41+00:00",
       "category": "Local Events"
     }
   ]
