@@ -1,6 +1,6 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-09-02T15:02:09.118687+00:00",
+  "last_updated": "2026-09-03T00:49:17.113543+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -144,6 +144,20 @@
       "category": "Diplomacy"
     },
     {
+      "title": "US President Trump suggests renaming Strait of Hormuz as ‘Trump Strait’",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2026967/us-president-trump-suggests-renaming-strait-of-hormuz-as-trump-strait",
+      "published_date": "2026-09-02T17:38:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Majority of Americans oppose US military action against Iran: poll",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2026942/majority-of-americans-oppose-us-military-action-against-iran-poll",
+      "published_date": "2026-09-02T17:11:35+00:00",
+      "category": "Military"
+    },
+    {
       "title": "A disaster foretold",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2026731/a-disaster-foretold",
@@ -214,6 +228,13 @@
       "category": "Military"
     },
     {
+      "title": "Makkah defence pact aims to 'end prospects of war in region': FO",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2627053/pakistan-remains-hopeful-committed-to-dialogue-amid-us-iran-tensions-fo",
+      "published_date": "2026-09-02T02:19:38+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Pakistan Navy begins major maritime exercise SEASPARK-2026 in Karachi",
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2627051/pakistan-navy-begins-major-maritime-exercise-seaspark-2026-in-karachi",
@@ -263,25 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Punjab Assembly passes controversial anti-terror law",
+      "title": "Govt increases petrol price by Rs2.29, high-speed diesel by Rs1.11",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2026975/govt-increases-petrol-price-by-rs229-high-speed-diesel-by-rs111",
+      "published_date": "2026-09-02T18:32:25+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Govt increases petrol price by Rs2.29, HSD by Rs1.11 per litre for Sept 3",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2626782/punjab-pa-passes-controversial-anti-terror-law",
-      "published_date": "2026-08-31T14:39:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hague court orders India to uphold Indus Waters Treaty, suspend work on its hydropower project",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2026398/hague-court-orders-india-to-uphold-indus-waters-treaty-suspend-work-on-its-hydropower-project",
-      "published_date": "2026-08-31T14:30:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistani climber Asma Mushtaq's body recovered on GB's Spantik Peak nearly 10 days after her death",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2026395/pakistani-climber-asma-mushtaqs-body-recovered-on-gbs-spantik-peak-nearly-10-days-after-her-death",
-      "published_date": "2026-08-31T11:34:41+00:00",
-      "category": "Military"
+      "url": "https://tribune.com.pk/story/2627111/govt-increases-petrol-price-by-rs229-hsd-by-rs111-per-litre-for-sept-3",
+      "published_date": "2026-09-02T12:19:53+00:00",
+      "category": "Energy"
     },
     {
       "title": "'We had to do this to set his soul free': Families hold symbolic funerals in Nepal for missing flood victims",
@@ -407,20 +421,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2025942/govt-rebuts-claims-of-cancelling-power-generation-component-of-diamer-bhasha-dam",
       "published_date": "2026-08-29T08:59:45+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Govt cuts petrol price by Rs0.58, HSD by Rs0.17",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2025780/govt-cuts-petrol-price-by-rs058-hsd-by-rs017",
-      "published_date": "2026-08-28T18:56:13+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "10 of 12 parties prequalified for Fesco privatisation, K-Electric withdraws",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2025776/10-of-12-parties-prequalified-for-fesco-privatisation-k-electric-withdraws",
-      "published_date": "2026-08-28T16:44:18+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,34 @@
       "category": "Economy"
     },
     {
+      "title": "Member of Ahmadi community killed in suspected targeted attack in Mandi Bahauddin: police",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2026977/member-of-ahmadi-community-killed-in-suspected-targeted-attack-in-mandi-bahauddin-police",
+      "published_date": "2026-09-02T18:55:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pims fire: PM Shehbaz reiterates no leniency for officials found negligent in their duties",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2026968/pims-fire-pm-shehbaz-reiterates-no-leniency-for-officials-found-negligent-in-their-duties",
+      "published_date": "2026-09-02T17:59:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Body of missing Irish mountaineer recovered from Siran Valley in KP",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2026943/body-of-missing-irish-mountaineer-recovered-from-siran-valley-in-kp",
+      "published_date": "2026-09-02T16:27:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The GTA VI extended look has me wanting to play the game right this minute",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2025778/the-gta-vi-extended-look-has-me-wanting-to-play-the-game-right-this-minute",
+      "published_date": "2026-09-02T15:40:56+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "PMD predicts more rain in upper regions over the weekend, including Islamabad",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2026909/pmd-predicts-more-rain-in-upper-regions-over-the-weekend-including-islamabad",
@@ -582,6 +610,20 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2026885/uzma-files-another-contempt-plea-in-sc-this-time-over-failure-to-facilitate-meetings-between-imran-and-his-family",
       "published_date": "2026-09-02T13:07:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PM vows no leniency for officials held responsible for PIMS fire",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2627114/pm-vows-no-leniency-for-officials-held-responsible-for-pims-fire",
+      "published_date": "2026-09-02T12:32:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "K-P police learn Chinese to secure foreign projects",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2627112/k-p-police-learn-chinese-to-secure-foreign-projects",
+      "published_date": "2026-09-02T12:31:26+00:00",
       "category": "Local Events"
     },
     {
@@ -659,48 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2026645/terrorist-attacks-increase-but-fatalities-decline-during-august-picss",
       "published_date": "2026-09-01T14:07:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Boat builders keep Karachi's fishing heritage afloat",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2026641/boat-builders-keep-karachis-fishing-heritage-afloat",
-      "published_date": "2026-09-01T13:32:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ousted UK PM Keir Starmer quits parliament to focus on international affairs",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2026639/ousted-uk-pm-keir-starmer-quits-parliament-to-focus-on-international-affairs",
-      "published_date": "2026-09-01T13:08:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fact check: Viral video doesn't show recent 'Free Imran Khan' billboard in US; it's old from Oct 2025",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2626941/fact-check-viral-video-doesnt-show-recent-free-imran-khan-billboard-in-us-its-old-from-oct-2025",
-      "published_date": "2026-09-01T12:57:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why first 1,000 days of a child’s life are critical for long-term health",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2026628/why-first-1000-days-of-a-childs-life-are-critical-for-long-term-health",
-      "published_date": "2026-09-01T12:36:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heavy rain lashes twin cities, inundates low-lying areas",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2026565/heavy-rain-lashes-twin-cities-inundates-low-lying-areas",
-      "published_date": "2026-09-01T12:23:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Punjab Assembly passes resolution to restrict social media access for children under 16",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2626920/punjab-passes-resolution-to-restrict-social-media-access-for-children-under-16",
-      "published_date": "2026-09-01T10:08:48+00:00",
       "category": "Local Events"
     }
   ]
