@@ -1,8 +1,15 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-09-04T14:53:20.390922+00:00",
+  "last_updated": "2026-09-05T00:27:40.242443+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "UN adopts major map reform to show true scale of continents",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027504/un-adopts-major-map-reform-to-show-true-scale-of-continents",
+      "published_date": "2026-09-04T18:30:31+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US House of Representatives passes bill to crack down on university boycotts of Israel",
       "source": "Dawn",
@@ -137,11 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "PM Shehbaz meets Iranian President Pezeshkian on sidelines of SCO summit in Kyrgyzstan",
+      "title": "Govt transfers ISI’s internal wing chief Maj Gen Faisal Naseer to Nacta",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2026350/pm-shehbaz-meets-iranian-president-pezeshkian-on-sidelines-of-sco-summit-in-kyrgyzstan",
-      "published_date": "2026-08-31T16:11:29+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2027499/govt-transfers-isis-internal-wing-chief-maj-gen-faisal-naseer-to-nacta",
+      "published_date": "2026-09-04T18:49:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hesson says Pakistan players used to 'chaos' after shake-up",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027497/hesson-says-pakistan-players-used-to-chaos-after-shake-up",
+      "published_date": "2026-09-04T17:19:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Air India flight lost hydraulics, pilot fired after drug test",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027488/air-india-flight-lost-hydraulics-pilot-fired-after-drug-test",
+      "published_date": "2026-09-04T15:18:24+00:00",
+      "category": "Military"
     },
     {
       "title": "Netanyahu partners renew calls for removal of Palestinians from Gaza as Israeli election nears",
@@ -176,6 +197,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2027458/81-dead-in-yemen-clashes-as-houthis-push-towards-key-strait-sources",
       "published_date": "2026-09-04T10:45:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Major General Faisal Naseer appointed as NACTA national coordinator",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2627463/major-general-faisal-naseer-appointed-as-nacta-national-coordinator",
+      "published_date": "2026-09-04T09:37:23+00:00",
       "category": "Military"
     },
     {
@@ -256,32 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "A disaster foretold",
+      "title": "Govt reduces petrol price by Rs3.13, increases HSD by Rs3.74",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2026731/a-disaster-foretold",
-      "published_date": "2026-09-02T14:54:41+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/2027505/govt-reduces-petrol-price-by-rs313-increases-hsd-by-rs374",
+      "published_date": "2026-09-04T18:28:45+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Israel ready to remove Gaza population if US gives approval: defence minister",
+      "title": "Nepra allows govt to mandate Battery Energy Storage Systems for wind, solar IPPs in upcoming power auction",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2026913/israel-ready-to-remove-gaza-population-if-us-gives-approval-defence-minister",
-      "published_date": "2026-09-02T14:25:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "China's Xi urges new Middle East security framework during Egypt visit",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2026916/chinas-xi-urges-new-middle-east-security-framework-during-egypt-visit",
-      "published_date": "2026-09-02T13:43:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "IHC sets aside 2022 verdict declaring Pakistan Naval Farms, sailing club in Islamabad illegal",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2026912/ihc-sets-aside-2022-verdict-declaring-pakistan-naval-farms-sailing-club-in-islamabad-illegal",
-      "published_date": "2026-09-02T13:23:25+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/2027489/nepra-allows-govt-to-mandate-battery-energy-storage-systems-for-wind-solar-ipps-in-upcoming-power-auction",
+      "published_date": "2026-09-04T16:40:54+00:00",
+      "category": "Energy"
     },
     {
       "title": "PSX closes with modest gains of 400 points",
@@ -410,18 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "PSX tumbles 509 points as selling pressure grips market",
+      "title": "SBP rejects 'misleading headline' linking Raast to money laundering in wake of FATF report",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2626906/psx-tumbles-509-points-as-selling-pressure-grips-market",
-      "published_date": "2026-09-01T07:24:41+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Oil up around 2% as renewed US-Iran strikes stoke supply fears",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2626859/oil-prices-rise-as-latest-fighting-revives-mideast-supply-disruption-risks",
-      "published_date": "2026-09-01T01:12:16+00:00",
-      "category": "Energy"
+      "url": "https://tribune.com.pk/story/2627467/sbp-rejects-reports-linking-raast-to-money-laundering-in-wake-of-fatf-report",
+      "published_date": "2026-09-04T10:10:08+00:00",
+      "category": "Economy"
     },
     {
       "title": "Global investors trim US exposure amid debt fears",
@@ -557,11 +564,18 @@
       "category": "Economy"
     },
     {
-      "title": "Govt taps HK expertise for virtual assets",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2626989/govt-taps-hk-expertise-for-virtual-assets",
-      "published_date": "2026-09-01T16:51:48+00:00",
-      "category": "Economy"
+      "title": "Police register case against woman’s husband, cousin after she is found dead in Rawalpindi home",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027482/police-register-case-against-womans-husband-cousin-after-she-is-found-dead-in-rawalpindi-home",
+      "published_date": "2026-09-04T18:46:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AJK PM Iftikhar Gillani constitutes 8-member cabinet",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027490/ajk-pm-iftikhar-gillani-constitutes-8-member-cabinet",
+      "published_date": "2026-09-04T16:00:51+00:00",
+      "category": "Local Events"
     },
     {
       "title": "'No land left at all': Nepal flood survivors detail a transformed landscape",
@@ -687,20 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2027094/rights-in-jail",
       "published_date": "2026-09-03T14:29:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nepal must rebuild thousands of homes, no letup in search for missing",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027232/nepal-must-rebuild-thousands-of-homes-no-letup-in-search-for-missing",
-      "published_date": "2026-09-03T14:00:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Act for Nutrition conference: Experts call for food, nutritional security to be recognised as fundamental rights amid malnutrition crisis",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027116/act-for-nutrition-conference-experts-call-for-food-nutritional-security-to-be-recognised-as-fundamental-rights-amid-malnutrition-crisis",
-      "published_date": "2026-09-03T13:27:30+00:00",
       "category": "Local Events"
     }
   ]
