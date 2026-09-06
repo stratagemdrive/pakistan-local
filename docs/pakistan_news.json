@@ -1,13 +1,34 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-09-06T00:21:25.825917+00:00",
+  "last_updated": "2026-09-06T14:04:59.001758+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Dar, Saudi and Turkish FMs follow up on understandings reached in first Makkah Defence Alliance meeting: FO",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027899/dar-saudi-and-turkish-fms-follow-up-on-understandings-reached-in-first-makkah-defence-alliance-meeting-fo",
+      "published_date": "2026-09-06T12:03:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Searching for past glory",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027848/searching-for-past-glory",
+      "published_date": "2026-09-06T05:28:22+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UN agrees text on lethal autonomous weapons",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2027728/un-agrees-text-on-lethal-autonomous-weapons",
       "published_date": "2026-09-05T18:32:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Geopolitical tensions drag stocks down",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2627659/geopolitical-tensions-drag-stocks-down",
+      "published_date": "2026-09-05T14:56:36+00:00",
       "category": "Diplomacy"
     },
     {
@@ -123,25 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "PM Shehbaz says water ‘lifeblood’ of region, must never be weaponised",
+      "title": "Pakistan, 7 other Muslim nations condemn Israeli ministers' statements regarding Palestinians' mass removal from Gaza",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2026583/pm-shehbaz-says-water-lifeblood-of-region-must-never-be-weaponised",
-      "published_date": "2026-09-01T15:14:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2027907/pakistan-7-other-muslim-nations-condemn-israeli-ministers-statements-regarding-palestinians-mass-removal-from-gaza",
+      "published_date": "2026-09-06T10:40:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "Pezeshkian offers US olive branch. says Tehran will reciprocate if Washington honours interim deal commitments",
+      "title": "PM, president highlight Pakistan's growing role in regional security as nation observes Defence Day",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2026612/pezeshkian-offers-us-olive-branch-says-tehran-will-reciprocate-if-washington-honours-interim-deal-commitments",
-      "published_date": "2026-09-01T09:10:29+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2027870/pm-president-highlight-pakistans-growing-role-in-regional-security-as-nation-observes-defence-day",
+      "published_date": "2026-09-06T08:50:09+00:00",
+      "category": "Military"
     },
     {
-      "title": "Water is 'lifeblood of our region', must never be weaponised: PM Shehbaz at SCO summit",
+      "title": "Security forces kill over 20 terrorists during multiple engagements in KP: ISPR",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027892/security-forces-kill-over-20-terrorists-during-multiple-engagements-in-kp-ispr",
+      "published_date": "2026-09-06T08:34:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Meltdown in PCB",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027847/meltdown-in-pcb",
+      "published_date": "2026-09-06T05:40:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Top US military officials face lie detectors in leak hunt",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027827/top-us-military-officials-face-lie-detectors-in-leak-hunt",
+      "published_date": "2026-09-06T05:13:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "OPEC+ set to keep oil output policy unchanged on Sunday, sources say",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2626876/water-is-lifeblood-of-region-must-never-be-weaponised-says-pm-shehbaz-at-sco-summit",
-      "published_date": "2026-09-01T03:42:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://tribune.com.pk/story/2627729/opec-set-to-keep-oil-output-policy-unchanged-on-sunday-sources-say",
+      "published_date": "2026-09-06T03:19:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "FM Dar follows up on Makkah Defence commitments with Saudi, Turkish FMs",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2627722/fm-dar-offers-condolences-over-death-of-norways-king-harald-v-mofa",
+      "published_date": "2026-09-06T01:18:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "President Zardari, PM Shehbaz honour martyrs, reaffirm national resolve on Defence Day",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2627720/president-zardari-pm-shehbaz-honour-martyrs-reaffirm-national-resolve-on-defence-day",
+      "published_date": "2026-09-06T00:05:57+00:00",
+      "category": "Military"
     },
     {
       "title": "Putin meets US envoys for Ukraine war talks",
@@ -225,62 +281,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2027669/bolivian-army-base-blasts-kill-2-wound-dozens",
       "published_date": "2026-09-05T06:34:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "War has made Tehran more confident, say US intelligence agencies",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027601/war-has-made-tehran-more-confident-say-us-intelligence-agencies",
-      "published_date": "2026-09-05T02:54:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Emptying West Bank refugee camps may be a war crime: UN",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027624/emptying-west-bank-refugee-camps-may-be-a-war-crime-un",
-      "published_date": "2026-09-05T02:36:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Maj Gen Faisal Naseer to head Nacta",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027629/maj-gen-faisal-naseer-to-head-nacta",
-      "published_date": "2026-09-04T23:01:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Govt transfers ISI’s internal wing chief Maj Gen Faisal Naseer to Nacta",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027499/govt-transfers-isis-internal-wing-chief-maj-gen-faisal-naseer-to-nacta",
-      "published_date": "2026-09-04T18:49:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hesson says Pakistan players used to 'chaos' after shake-up",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027497/hesson-says-pakistan-players-used-to-chaos-after-shake-up",
-      "published_date": "2026-09-04T17:19:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Air India flight lost hydraulics, pilot fired after drug test",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027488/air-india-flight-lost-hydraulics-pilot-fired-after-drug-test",
-      "published_date": "2026-09-04T15:18:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Netanyahu partners renew calls for removal of Palestinians from Gaza as Israeli election nears",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027481/netanyahu-partners-renew-calls-for-removal-of-palestinians-from-gaza-as-israeli-election-nears",
-      "published_date": "2026-09-04T14:36:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Security forces kill 48 terrorists in 'high-tempo' Balochistan operations over 72 hours: ISPR",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027449/security-forces-kill-48-terrorists-in-high-tempo-balochistan-operations-over-72-hours-ispr",
-      "published_date": "2026-09-04T13:53:07+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,62 @@
       "category": "Energy"
     },
     {
+      "title": "Only 2pc ever-married women own land in Pakistan: study",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027778/only-2pc-ever-married-women-own-land-in-pakistan-study",
+      "published_date": "2026-09-06T09:10:59+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Climate test",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027850/climate-test",
+      "published_date": "2026-09-06T04:54:34+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Digital model for pesticide regulation unveiled",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027832/digital-model-for-pesticide-regulation-unveiled",
+      "published_date": "2026-09-06T02:38:31+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "IHC seeks govt reply in PIA privatisation case",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2627670/ihc-seeks-govt-reply-in-pia-privatisation-case",
+      "published_date": "2026-09-05T16:26:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Rising costs revive repair economy",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2627656/rising-costs-revive-repair-economy",
+      "published_date": "2026-09-05T14:56:36+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Investment in youth urged for prosperity",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2627657/investment-in-youth-urged-for-prosperity",
+      "published_date": "2026-09-05T14:56:36+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Small traders get simplified tax scheme",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2627654/small-traders-get-simplified-tax-scheme",
+      "published_date": "2026-09-05T14:56:36+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "One-window port service on the cards",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2627653/one-window-port-service-on-the-cards",
+      "published_date": "2026-09-05T14:56:36+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Trust in economic strength drops",
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2627504/trust-in-economic-strength-drops",
@@ -508,60 +564,102 @@
       "category": "Economy"
     },
     {
-      "title": "ADB to help transform tax collection system",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2627342/adb-to-help-transform-tax-collection-system",
-      "published_date": "2026-09-03T17:25:54+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "SBP reserves rise $19m; gold jumps Rs11,200",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2627339/sbp-reserves-rise-19m-gold-jumps-rs11200",
-      "published_date": "2026-09-03T17:25:54+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Hawala networks increasingly use virtual assets, fintech to conceal illicit wealth: FATF, OECD",
+      "title": "KP CM determined to hold Karachi rally as PTI convoy reaches Hyderabad",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027228/hawala-networks-increasingly-use-virtual-assets-fintech-to-conceal-illicit-wealth-fatf-oecd",
-      "published_date": "2026-09-03T14:40:18+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2027902/kp-cm-determined-to-hold-karachi-rally-as-pti-convoy-reaches-hyderabad",
+      "published_date": "2026-09-06T14:04:22+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Judicial commission questions Mir Raza Ali's business partner over irregularities",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2627276/judicial-ommission-questions-mir-raza-alis-business-partner-over-irregularities",
-      "published_date": "2026-09-03T10:52:25+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "PM Shehbaz approves establishment of Trade Facilitation Board to streamline cross-border trade",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2627227/pm-shehbaz-approves-establishment-of-trade-facilitation-board-to-streamline-cross-border-trade",
-      "published_date": "2026-09-03T04:27:13+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Pakistan raises $3bn through dual-tranche Eurobond sale",
+      "title": "Scuffle in Karachi's DHA: Fresh case registered after inquiry report finds first FIR unsubstantiated",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027082/pakistan-raises-3bn-through-dual-tranche-eurobond-sale",
-      "published_date": "2026-09-03T02:36:03+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2027901/scuffle-in-karachis-dha-fresh-case-registered-after-inquiry-report-finds-first-fir-unsubstantiated",
+      "published_date": "2026-09-06T13:28:56+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "PRA collects Rs54.8b in first two months",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2627151/pra-collects-rs548b-in-first-two-months",
-      "published_date": "2026-09-02T17:10:52+00:00",
-      "category": "Economy"
+      "title": "'The flood is coming': How a Nepal principal saved 900 students",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027915/the-flood-is-coming-how-a-nepal-principal-saved-900-students",
+      "published_date": "2026-09-06T12:48:24+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Lenders back private-sector growth",
+      "title": "PPP's Akhtar Abbas Nashad wins by-election in Skardu's GBA-09",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027910/ppps-akhtar-abbas-nashad-wins-by-election-in-skardus-gba-09",
+      "published_date": "2026-09-06T12:12:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police in India's Gujarat publicly beat man accused of killing partner",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027912/police-in-indias-gujarat-publicly-beat-man-accused-of-killing-partner",
+      "published_date": "2026-09-06T11:52:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indonesia's Mount Anak Krakatau eruption halts flights, schools, fishing",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027905/indonesias-mount-anak-krakatau-eruption-halts-flights-schools-fishing",
+      "published_date": "2026-09-06T10:02:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SMOKERS’ CORNER: A SEPARATE PROVINCE?",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027355/smokers-corner-a-separate-province",
+      "published_date": "2026-09-06T07:12:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Forecast for flooding of low-lying areas in seven Punjab cities",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027792/forecast-for-flooding-of-low-lying-areas-in-seven-punjab-cities",
+      "published_date": "2026-09-06T06:31:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "$150m BYD plant launch in Sindh delayed again",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027775/150m-byd-plant-launch-in-sindh-delayed-again",
+      "published_date": "2026-09-06T04:50:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cloudburst-induced floods disrupt life in Gilgit-Baltistan's Ghizer, Hunza",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027786/cloudburst-induced-floods-disrupt-life-in-gilgit-baltistans-ghizer-hunza",
+      "published_date": "2026-09-06T04:10:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "JI, govt set to hold talks tomorrow amid protests",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027789/ji-govt-set-to-hold-talks-tomorrow-amid-protests",
+      "published_date": "2026-09-06T03:34:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fire safety drills become mandatory for house officers",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027798/fire-safety-drills-become-mandatory-for-house-officers",
+      "published_date": "2026-09-06T03:01:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Naqvi doubles down on demand for new provinces",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027835/naqvi-doubles-down-on-demand-for-new-provinces",
+      "published_date": "2026-09-06T02:35:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Asif slams PPP's 'dual policy'",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2627152/lenders-back-private-sector-growth",
-      "published_date": "2026-09-02T17:10:52+00:00",
-      "category": "Economy"
+      "url": "https://tribune.com.pk/story/2627679/asif-slams-ppps-dual-policy",
+      "published_date": "2026-09-05T18:23:53+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Skardu by-election: PPP candidate wins GBA-09, according to unofficial results",
@@ -603,104 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2027689/us-ambassador-says-israel-not-planning-forced-displacement-from-gaza",
       "published_date": "2026-09-05T15:11:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘This isn’t politics’: Brian Lara calls for dignified medical care for Imran Khan",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2627650/this-isnt-politics-brian-lara-calls-for-dignified-medical-care-for-imran-khan",
-      "published_date": "2026-09-05T14:45:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "JI warns of nationwide wheel-jam strike unless govt provides economic relief",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027710/ji-warns-of-nationwide-wheel-jam-strike-unless-govt-provides-economic-relief",
-      "published_date": "2026-09-05T14:37:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Karachi police arrest two over alleged abduction of young man in DHA",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027704/karachi-police-arrest-two-over-alleged-abduction-of-young-man-in-dha",
-      "published_date": "2026-09-05T14:24:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Karachi police book 3 over alleged abduction of young man in DHA",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027704/karachi-police-book-3-over-alleged-abduction-of-young-man-in-dha",
-      "published_date": "2026-09-05T13:44:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Field Marshal Munir reaffirms peace, prosperity of Balochistan central to state’s efforts amid uptick in attacks",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2627635/field-marshal-munir-reaffirms-peace-prosperity-of-balochistan-central-to-states-efforts",
-      "published_date": "2026-09-05T13:32:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Skardu by-election: Polling concludes at 61 stations amid tight security",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027668/skardu-by-election-polling-concludes-at-61-stations-amid-tight-security",
-      "published_date": "2026-09-05T13:30:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US ambassador says Israel 'has responsibility' to ensure safety of West Bank Palestinians",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027689/us-ambassador-says-israel-has-responsibility-to-ensure-safety-of-west-bank-palestinians",
-      "published_date": "2026-09-05T11:53:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Naqvi says new administrative units to be formed only with people's consent",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027688/naqvi-says-new-administrative-units-to-be-formed-only-with-peoples-consent",
-      "published_date": "2026-09-05T11:50:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Punjab at greater threat from other provinces than neighbouring countries: CM Maryam",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2627620/punjab-faces-greater-threat-from-neighbouring-provinces-than-countries-cm-maryam",
-      "published_date": "2026-09-05T10:48:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police charge sheet says building management at fault for Gul Plaza inferno",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027682/police-charge-sheet-says-building-management-at-fault-for-gul-plaza-inferno",
-      "published_date": "2026-09-05T09:51:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chinese national rescued from tunnel in Nepal 10 days after catastrophic flooding",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027685/chinese-national-rescued-from-tunnel-in-nepal-10-days-after-catastrophic-flooding",
-      "published_date": "2026-09-05T09:31:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Seattle Times, Newsday sue OpenAI and Microsoft; allege copyright infringement",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027678/seattle-times-newsday-sue-openai-and-microsoft-allege-copyright-infringement",
-      "published_date": "2026-09-05T08:11:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Asif says devolution of power is 'inevitable', accuses PPP of having contradictory stance on new provinces",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027666/asif-says-devolution-of-power-is-inevitable-accuses-ppp-of-having-contradictory-stance-on-new-provinces",
-      "published_date": "2026-09-05T08:02:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Challan holds Gul Plaza administration responsible for fire, exonerates govt bodies",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2627591/challan-holds-gul-plaza-administration-responsible-for-fire-exonerates-govt-bodies",
-      "published_date": "2026-09-05T04:54:41+00:00",
       "category": "Local Events"
     }
   ]
