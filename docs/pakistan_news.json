@@ -1,8 +1,15 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-09-05T13:48:54.184631+00:00",
+  "last_updated": "2026-09-06T00:21:25.825917+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "UN agrees text on lethal autonomous weapons",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027728/un-agrees-text-on-lethal-autonomous-weapons",
+      "published_date": "2026-09-05T18:32:33+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UN adopts major map reform to show true scale of continents",
       "source": "Dawn",
@@ -137,11 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "FM Dar, Iranian counterpart reaffirm importance of continued engagement",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2626857/fm-dar-iranian-counterpart-reaffirm-importance-of-continued-engagement",
-      "published_date": "2026-09-01T00:59:23+00:00",
-      "category": "Diplomacy"
+      "title": "Putin meets US envoys for Ukraine war talks",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027693/putin-meets-us-envoys-for-ukraine-war-talks",
+      "published_date": "2026-09-05T18:52:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "India upend Pakistan for seven-wicket win in Women’s Asia Cup",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027720/india-upend-pakistan-for-seven-wicket-win-in-womens-asia-cup",
+      "published_date": "2026-09-05T18:45:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "CDF Munir reaffirms Balochistan’s peace, prosperity central to state efforts: ISPR",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027723/cdf-munir-reaffirms-balochistans-peace-prosperity-central-to-state-efforts-ispr",
+      "published_date": "2026-09-05T17:42:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "GB CM constitutes committee to review trekking rules after deadly Broad Peak avalanche",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027712/gb-cm-constitutes-committee-to-review-trekking-rules-after-deadly-broad-peak-avalanche",
+      "published_date": "2026-09-05T15:21:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Cleansing’ Gaza",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027643/cleansing-gaza",
+      "published_date": "2026-09-05T14:45:16+00:00",
+      "category": "Military"
     },
     {
       "title": "Fresh Yemen clashes kill more than 60: military, medical sources",
@@ -162,6 +197,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2027693/trump-envoys-land-in-moscow-for-russia-ukraine-peace-push",
       "published_date": "2026-09-05T11:47:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Uproar as CM Maryam's 'chauvinistic' remarks cause controversy over provincial divide",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2627623/uproar-as-cm-maryams-chauvinistic-remarks-cause-controversy-over-provincial-divide",
+      "published_date": "2026-09-05T11:32:33+00:00",
       "category": "Military"
     },
     {
@@ -239,48 +281,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2027449/security-forces-kill-48-terrorists-in-high-tempo-balochistan-operations-over-72-hours-ispr",
       "published_date": "2026-09-04T13:53:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Erdogan’s tilt",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027399/erdogans-tilt",
-      "published_date": "2026-09-04T12:41:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "OpenAI agents hijacked German website in previously undisclosed AI breakout this spring",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027462/openai-agents-hijacked-german-website-in-previously-undisclosed-ai-breakout-this-spring",
-      "published_date": "2026-09-04T11:45:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "81 dead in Yemen clashes as Houthis push towards key strait: sources",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027458/81-dead-in-yemen-clashes-as-houthis-push-towards-key-strait-sources",
-      "published_date": "2026-09-04T10:45:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Major General Faisal Naseer appointed as NACTA national coordinator",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2627463/major-general-faisal-naseer-appointed-as-nacta-national-coordinator",
-      "published_date": "2026-09-04T09:37:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "2 trapped tunnel workers rescued in Nepal more than a week after catastrophic flash floods",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027422/2-trapped-tunnel-workers-rescued-in-nepal-more-than-a-week-after-catastrophic-flash-floods",
-      "published_date": "2026-09-04T05:25:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "ANF says Afghan drug network disrupted, 671kg of meth seized",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2627420/anf-says-afghan-drug-network-disrupted-671kg-of-meth-seized",
-      "published_date": "2026-09-04T03:58:12+00:00",
       "category": "Military"
     },
     {
@@ -564,10 +564,80 @@
       "category": "Economy"
     },
     {
+      "title": "Skardu by-election: PPP candidate wins GBA-09, according to unofficial results",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027668/skardu-by-election-ppp-candidate-wins-gba-09-according-to-unofficial-results",
+      "published_date": "2026-09-05T17:52:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Punjab faces greater threat from other provinces than 'neighbouring countries': CM Maryam",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027700/punjab-faces-greater-threat-from-other-provinces-than-neighbouring-countries-cm-maryam",
+      "published_date": "2026-09-05T16:46:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brian Lara joins cricket legends in call for proper medical care for Imran Khan",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027721/brian-lara-joins-cricket-legends-in-call-for-proper-medical-care-for-imran-khan",
+      "published_date": "2026-09-05T16:23:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Suspect in Gizri acid attack case arrested in Punjab: police",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027717/suspect-in-gizri-acid-attack-case-arrested-in-punjab-police",
+      "published_date": "2026-09-05T16:17:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inter Board Coordination Commission relaxes equivalence criteria for foreign-board students with two science subjects",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027716/inter-board-coordination-commission-relaxes-equivalence-criteria-for-foreign-board-students-with-two-science-subjects",
+      "published_date": "2026-09-05T15:58:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US ambassador says Israel not planning forced displacement from Gaza",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027689/us-ambassador-says-israel-not-planning-forced-displacement-from-gaza",
+      "published_date": "2026-09-05T15:11:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘This isn’t politics’: Brian Lara calls for dignified medical care for Imran Khan",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2627650/this-isnt-politics-brian-lara-calls-for-dignified-medical-care-for-imran-khan",
+      "published_date": "2026-09-05T14:45:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "JI warns of nationwide wheel-jam strike unless govt provides economic relief",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027710/ji-warns-of-nationwide-wheel-jam-strike-unless-govt-provides-economic-relief",
+      "published_date": "2026-09-05T14:37:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Karachi police arrest two over alleged abduction of young man in DHA",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027704/karachi-police-arrest-two-over-alleged-abduction-of-young-man-in-dha",
+      "published_date": "2026-09-05T14:24:18+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Karachi police book 3 over alleged abduction of young man in DHA",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2027704/karachi-police-book-3-over-alleged-abduction-of-young-man-in-dha",
       "published_date": "2026-09-05T13:44:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Field Marshal Munir reaffirms peace, prosperity of Balochistan central to state’s efforts amid uptick in attacks",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2627635/field-marshal-munir-reaffirms-peace-prosperity-of-balochistan-central-to-states-efforts",
+      "published_date": "2026-09-05T13:32:36+00:00",
       "category": "Local Events"
     },
     {
@@ -589,6 +659,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2027688/naqvi-says-new-administrative-units-to-be-formed-only-with-peoples-consent",
       "published_date": "2026-09-05T11:50:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Punjab at greater threat from other provinces than neighbouring countries: CM Maryam",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2627620/punjab-faces-greater-threat-from-neighbouring-provinces-than-countries-cm-maryam",
+      "published_date": "2026-09-05T10:48:37+00:00",
       "category": "Local Events"
     },
     {
@@ -624,83 +701,6 @@
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2627591/challan-holds-gul-plaza-administration-responsible-for-fire-exonerates-govt-bodies",
       "published_date": "2026-09-05T04:54:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "4 abducted Chinese nationals rescued in Islamabad",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027519/4-abducted-chinese-nationals-rescued-in-islamabad",
-      "published_date": "2026-09-05T03:53:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PPP blocks two gas revenue bills amid rift with govt",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027617/ppp-blocks-two-gas-revenue-bills-amid-rift-with-govt",
-      "published_date": "2026-09-05T02:49:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MQM-P has not backed away from demand for new provinces, says Mustafa Kamal",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2627572/mqm-p-has-not-backed-away-from-demand-for-new-provinces-says-mustafa-kamal",
-      "published_date": "2026-09-05T02:19:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Asif slams PPP over ‘two-faced’ policy on new provinces, calls devolution of powers ‘inevitable’",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2627567/asif-slams-ppp-over-two-faced-policy-on-new-provinces-calls-devolution-of-powers-inevitable",
-      "published_date": "2026-09-05T01:19:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police register case against woman’s husband, cousin after she is found dead in Rawalpindi home",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027482/police-register-case-against-womans-husband-cousin-after-she-is-found-dead-in-rawalpindi-home",
-      "published_date": "2026-09-04T18:46:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AJK PM Iftikhar Gillani constitutes 8-member cabinet",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027490/ajk-pm-iftikhar-gillani-constitutes-8-member-cabinet",
-      "published_date": "2026-09-04T16:00:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PPP freezes govt support amid grievances",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2627561/ppp-freezes-govt-support-amid-grievances",
-      "published_date": "2026-09-04T16:00:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'No land left at all': Nepal flood survivors detail a transformed landscape",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027468/no-land-left-at-all-nepal-flood-survivors-detail-a-transformed-landscape",
-      "published_date": "2026-09-04T14:02:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Close contest expected between PPP, independent candidate in Saturday's Skardu by-election",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027466/close-contest-expected-between-ppp-independent-candidate-in-saturdays-skardu-by-election",
-      "published_date": "2026-09-04T13:06:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Beyond listings",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027396/beyond-listings",
-      "published_date": "2026-09-04T12:19:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Occupied Kashmir's JKLF condemns 'false' linking of its chairman to 1990 murder of Kashmiri Pandit woman",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027463/occupied-kashmirs-jklf-condemns-false-linking-of-its-chairman-to-1990-murder-of-kashmiri-pandit-woman",
-      "published_date": "2026-09-04T12:18:58+00:00",
       "category": "Local Events"
     }
   ]
