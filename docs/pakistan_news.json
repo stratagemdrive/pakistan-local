@@ -1,6 +1,6 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-09-06T14:04:59.001758+00:00",
+  "last_updated": "2026-09-07T00:27:35.364683+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -8,6 +8,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2027899/dar-saudi-and-turkish-fms-follow-up-on-understandings-reached-in-first-makkah-defence-alliance-meeting-fo",
       "published_date": "2026-09-06T12:03:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan condemns demolition of century-old mosque in India's Saharanpur",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2627755/pakistan-condemns-demolition-of-century-old-mosque-in-indias-saharanpur",
+      "published_date": "2026-09-06T10:00:56+00:00",
       "category": "Diplomacy"
     },
     {
@@ -137,11 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Germany blames Russia for airport drone incident, hits back with sanctions",
+      "title": "Iran warns of 'more painful response' if US launches further attacks",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2026672/germany-blames-russia-for-airport-drone-incident-hits-back-with-sanctions",
-      "published_date": "2026-09-01T17:41:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2027938/iran-warns-of-more-painful-response-if-us-launches-further-attacks",
+      "published_date": "2026-09-06T18:32:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany's far-right AfD emerges as landslide winner in eastern state vote",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027934/germanys-far-right-afd-emerges-as-landslide-winner-in-eastern-state-vote",
+      "published_date": "2026-09-06T17:30:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'1,000 Martyrs Cup' — With joy and grief, Palestinian football marks return",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027925/1000-martyrs-cup-with-joy-and-grief-palestinian-football-marks-return",
+      "published_date": "2026-09-06T15:28:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "56 civil defence officials face disciplinary action in Punjab",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2627784/56-civil-defence-officials-face-disciplinary-action-in-punjab",
+      "published_date": "2026-09-06T13:51:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "AJK observes Defence Day with patriotic fervour, national pride",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2627775/ajk-observes-defence-day-with-patriotic-fervour-national-pride",
+      "published_date": "2026-09-06T12:20:16+00:00",
+      "category": "Military"
     },
     {
       "title": "Pakistan, 7 other Muslim nations condemn Israeli ministers' statements regarding Palestinians' mass removal from Gaza",
@@ -246,41 +281,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2027692/eight-pakistan-bar-council-members-reject-proposed-changes-to-council-rules",
       "published_date": "2026-09-05T12:00:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump envoys land in Moscow for Russia-Ukraine peace push",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027693/trump-envoys-land-in-moscow-for-russia-ukraine-peace-push",
-      "published_date": "2026-09-05T11:47:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Uproar as CM Maryam's 'chauvinistic' remarks cause controversy over provincial divide",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2627623/uproar-as-cm-maryams-chauvinistic-remarks-cause-controversy-over-provincial-divide",
-      "published_date": "2026-09-05T11:32:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Passport collection counters to remain open on Saturdays for 2 months",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027679/passport-collection-counters-to-remain-open-on-saturdays-for-2-months",
-      "published_date": "2026-09-05T08:30:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bangladesh hospital wards crowded as measles toll nears grim 1,000-child mark",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027674/bangladesh-hospital-wards-crowded-as-measles-toll-nears-grim-1000-child-mark",
-      "published_date": "2026-09-05T08:06:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bolivian army base blasts kill 2, wound dozens",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027669/bolivian-army-base-blasts-kill-2-wound-dozens",
-      "published_date": "2026-09-05T06:34:18+00:00",
       "category": "Military"
     },
     {
@@ -564,6 +564,48 @@
       "category": "Economy"
     },
     {
+      "title": "KP CM Sohail Afridi says he won't leave Sindh without holding Karachi rally",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027902/kp-cm-sohail-afridi-says-he-wont-leave-sindh-without-holding-karachi-rally",
+      "published_date": "2026-09-06T20:12:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan dispatches humanitarian aid to Nepal after deadly floods, landslides",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027918/pakistan-dispatches-humanitarian-aid-to-nepal-after-deadly-floods-landslides",
+      "published_date": "2026-09-06T18:58:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NA speaker's ruling on employee records cannot restrict citizen's right to information, PIC rules",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027932/na-speakers-ruling-on-employee-records-cannot-restrict-citizens-right-to-information-pic-rules",
+      "published_date": "2026-09-06T18:12:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lamine Yamal hits double as perfect Barcelona thrash Valencia",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027931/lamine-yamal-hits-double-as-perfect-barcelona-thrash-valencia",
+      "published_date": "2026-09-06T17:05:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PTI claims Hammad Azhar arrested in Punjab",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027930/pti-claims-hammad-azhar-arrested-in-punjab",
+      "published_date": "2026-09-06T17:05:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "FO condemns mosque demolition in India's Uttar Pradesh, terms it part of 'drive to erase Islamic heritage'",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2027919/fo-condemns-mosque-demolition-in-indias-uttar-pradesh-terms-it-part-of-drive-to-erase-islamic-heritage",
+      "published_date": "2026-09-06T14:45:51+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "KP CM determined to hold Karachi rally as PTI convoy reaches Hyderabad",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2027902/kp-cm-determined-to-hold-karachi-rally-as-pti-convoy-reaches-hyderabad",
@@ -596,6 +638,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2027912/police-in-indias-gujarat-publicly-beat-man-accused-of-killing-partner",
       "published_date": "2026-09-06T11:52:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Afridi vows not to leave Sindh without launching street movement in Karachi",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2627770/afridi-vows-not-to-leave-sindh-without-launching-street-movement-in-karachi",
+      "published_date": "2026-09-06T11:23:41+00:00",
       "category": "Local Events"
     },
     {
@@ -652,55 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2027835/naqvi-doubles-down-on-demand-for-new-provinces",
       "published_date": "2026-09-06T02:35:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Asif slams PPP's 'dual policy'",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2627679/asif-slams-ppps-dual-policy",
-      "published_date": "2026-09-05T18:23:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Skardu by-election: PPP candidate wins GBA-09, according to unofficial results",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027668/skardu-by-election-ppp-candidate-wins-gba-09-according-to-unofficial-results",
-      "published_date": "2026-09-05T17:52:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Punjab faces greater threat from other provinces than 'neighbouring countries': CM Maryam",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027700/punjab-faces-greater-threat-from-other-provinces-than-neighbouring-countries-cm-maryam",
-      "published_date": "2026-09-05T16:46:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brian Lara joins cricket legends in call for proper medical care for Imran Khan",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027721/brian-lara-joins-cricket-legends-in-call-for-proper-medical-care-for-imran-khan",
-      "published_date": "2026-09-05T16:23:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suspect in Gizri acid attack case arrested in Punjab: police",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027717/suspect-in-gizri-acid-attack-case-arrested-in-punjab-police",
-      "published_date": "2026-09-05T16:17:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inter Board Coordination Commission relaxes equivalence criteria for foreign-board students with two science subjects",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027716/inter-board-coordination-commission-relaxes-equivalence-criteria-for-foreign-board-students-with-two-science-subjects",
-      "published_date": "2026-09-05T15:58:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US ambassador says Israel not planning forced displacement from Gaza",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027689/us-ambassador-says-israel-not-planning-forced-displacement-from-gaza",
-      "published_date": "2026-09-05T15:11:59+00:00",
       "category": "Local Events"
     }
   ]
