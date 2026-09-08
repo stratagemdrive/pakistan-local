@@ -1,6 +1,6 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-09-07T16:22:27.347008+00:00",
+  "last_updated": "2026-09-08T00:47:10.558988+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -144,6 +144,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Pakistan at ‘very start’ of Test rebuilding process, says bowling coach Noffke",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2028171/pakistan-at-very-start-of-test-rebuilding-process-says-bowling-coach-noffke",
+      "published_date": "2026-09-07T17:21:56+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Board of Peace official says Gaza, West Bank escalation makes two-state solution 'impossible'",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2028131/board-of-peace-official-says-gaza-west-bank-escalation-makes-two-state-solution-impossible",
@@ -277,11 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "GB CM constitutes committee to review trekking rules after deadly Broad Peak avalanche",
+      "title": "Govt jacks up petrol price by Rs12.90, HSD by Rs3.72",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027712/gb-cm-constitutes-committee-to-review-trekking-rules-after-deadly-broad-peak-avalanche",
-      "published_date": "2026-09-05T15:21:43+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/2028176/govt-jacks-up-petrol-price-by-rs1290-hsd-by-rs372",
+      "published_date": "2026-09-07T19:14:08+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Nepra increases power cost by 52 paisas per unit",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2627984/nepra-increases-power-cost-by-52-paisas-per-unit",
+      "published_date": "2026-09-07T13:33:10+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "JI submits six proposals to govt for abolishing petroleum levy",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2627982/ji-submits-six-proposals-to-govt-for-abolishisng-petroleum-levy",
+      "published_date": "2026-09-07T13:19:03+00:00",
+      "category": "Energy"
     },
     {
       "title": "Poor connectivity in GB hampers tourism, disaster response",
@@ -403,25 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "'We had to do this to set his soul free': Families hold symbolic funerals in Nepal for missing flood victims",
+      "title": "JI submits six proposals as first round of talks with govt concludes",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2026883/we-had-to-do-this-to-set-his-soul-free-families-hold-symbolic-funerals-in-nepal-for-missing-flood-victims",
-      "published_date": "2026-09-02T10:23:55+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Oil prices extend gains as US and Iran trade fresh strikes",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2627050/oil-prices-extend-gains-as-us-and-iran-trade-fresh-strikes",
-      "published_date": "2026-09-02T02:02:15+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Govt raises petrol price by Rs1.08, high-speed diesel by Rs0.51",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2026676/govt-raises-petrol-price-by-rs108-high-speed-diesel-by-rs051",
-      "published_date": "2026-09-01T18:19:23+00:00",
-      "category": "Energy"
+      "url": "https://www.dawn.com/news/2028177/ji-submits-six-proposals-as-first-round-of-talks-with-govt-concludes",
+      "published_date": "2026-09-07T18:53:54+00:00",
+      "category": "Economy"
     },
     {
       "title": "Warning signs abound for Trump's Republicans as midterm campaign begins final sprint",
@@ -557,11 +564,25 @@
       "category": "Economy"
     },
     {
-      "title": "‘Only 5pc Pakistanis use ride-hailing services’",
+      "title": "Pakistan through to Women’s Asia Cup semi-finals as Nashra leads Hong Kong rout",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027342/only-5pc-pakistanis-use-ride-hailing-services",
-      "published_date": "2026-09-04T02:03:03+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2028178/pakistan-through-to-womens-asia-cup-semi-finals-as-nashra-leads-hong-kong-rout",
+      "published_date": "2026-09-07T18:30:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Interpol Pakistan issues 286 red notices in 7 months, 53 fugitives repatriated",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2028172/interpol-pakistan-issues-286-red-notices-in-7-months-53-fugitives-repatriated",
+      "published_date": "2026-09-07T17:54:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fire rips through factory in Karachi's Landhi Export Processing Zone, 3 suffer minor injuries",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2028141/fire-rips-through-factory-in-karachis-landhi-export-processing-zone-3-suffer-minor-injuries",
+      "published_date": "2026-09-07T17:34:34+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Senate panel passes bill proposing death penalty for perpetrators of acid attacks",
@@ -610,6 +631,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2028123/pti-leader-hammad-azhar-handed-over-to-lahore-police-on-21-day-remand-in-may-9-riots-case",
       "published_date": "2026-09-07T11:42:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Shut Karachi for a week, they will hold your feet': CM Afridi urges people to join September 27 protest",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2627972/shut-karachi-for-a-week-they-will-hold-your-feet-cm-afridi-urges-people-to-join-september-27-protest",
+      "published_date": "2026-09-07T10:21:04+00:00",
       "category": "Local Events"
     },
     {
@@ -673,34 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2028004/defiant-kp-cm-reaches-karachi-on-last-leg-of-sindh-drive",
       "published_date": "2026-09-07T02:39:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "FWO seeks 4-year payback for $432m Azeri-funded pipeline",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027989/fwo-seeks-4-year-payback-for-432m-azeri-funded-pipeline",
-      "published_date": "2026-09-06T23:29:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KP CM Sohail Afridi says he won't leave Sindh without holding Karachi rally",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027902/kp-cm-sohail-afridi-says-he-wont-leave-sindh-without-holding-karachi-rally",
-      "published_date": "2026-09-06T20:12:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan dispatches humanitarian aid to Nepal after deadly floods, landslides",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027918/pakistan-dispatches-humanitarian-aid-to-nepal-after-deadly-floods-landslides",
-      "published_date": "2026-09-06T18:58:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NA speaker's ruling on employee records cannot restrict citizen's right to information, PIC rules",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027932/na-speakers-ruling-on-employee-records-cannot-restrict-citizens-right-to-information-pic-rules",
-      "published_date": "2026-09-06T18:12:38+00:00",
       "category": "Local Events"
     }
   ]
