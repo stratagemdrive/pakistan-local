@@ -1,8 +1,22 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-09-09T15:04:19.642210+00:00",
+  "last_updated": "2026-09-10T00:42:21.722831+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Pakistan’s UN envoy Asim Iftikhar named new foreign secretary",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2028658/pakistans-un-envoy-asim-iftikhar-named-new-foreign-secretary",
+      "published_date": "2026-09-09T17:29:29+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan among Arab, Muslim nations welcoming UK ban on imports from illegal Israeli settlements",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2028644/pakistan-among-arab-muslim-nations-welcoming-uk-ban-on-imports-from-illegal-israeli-settlements",
+      "published_date": "2026-09-09T17:12:09+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pakistan welcomes UK-led sanctions on illegal Israeli settlements in occupied West Bank: FO",
       "source": "Dawn",
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Searching for past glory",
+      "title": "Tongue routs Pakistan as England dominate in third Test",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027848/searching-for-past-glory",
-      "published_date": "2026-09-06T05:28:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2028615/tongue-routs-pakistan-as-england-dominate-in-third-test",
+      "published_date": "2026-09-09T18:11:11+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN agrees text on lethal autonomous weapons",
+      "title": "FATF warns of emerging risks to economies from rising online gaming, gambling operations",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027728/un-agrees-text-on-lethal-autonomous-weapons",
-      "published_date": "2026-09-05T18:32:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2028647/fatf-warns-of-emerging-risks-to-economies-from-rising-online-gaming-gambling-operations",
+      "published_date": "2026-09-09T16:57:17+00:00",
+      "category": "Military"
     },
     {
       "title": "Two navy personnel martyred while patrolling at sea: DGPR",
@@ -162,6 +176,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2028631/yemen-rebels-report-fresh-saudi-strikes-as-conflict-deepens",
       "published_date": "2026-09-09T12:43:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Adidas faces global boycott calls for campaign featuring former Israeli soldier",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2628372/adidas-faces-global-boycott-calls-for-campaign-featuring-former-israeli-soldier",
+      "published_date": "2026-09-09T10:38:47+00:00",
       "category": "Military"
     },
     {
@@ -263,25 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Oil rises as risks of prolonged Mideast conflict fan supply worries",
+      "title": "Govt hikes petrol price by Rs3.40, diesel by Rs6.72",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2028663/govt-hikes-petrol-price-by-rs340-diesel-by-rs672",
+      "published_date": "2026-09-09T18:00:25+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Govt increases petrol price by Rs3.40, HSD by Rs6.72 per litre for Sept 10",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2628079/oil-rises-as-risks-of-prolonged-mideast-conflict-fan-supply-worries",
-      "published_date": "2026-09-08T00:59:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan at ‘very start’ of Test rebuilding process, says bowling coach Noffke",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2028171/pakistan-at-very-start-of-test-rebuilding-process-says-bowling-coach-noffke",
-      "published_date": "2026-09-07T17:21:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Board of Peace official says Gaza, West Bank escalation makes two-state solution 'impossible'",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2028131/board-of-peace-official-says-gaza-west-bank-escalation-makes-two-state-solution-impossible",
-      "published_date": "2026-09-07T10:27:54+00:00",
-      "category": "Military"
+      "url": "https://tribune.com.pk/story/2628389/petrol-price-rises-rs340-diesel-rs672-per-litre-for-sept-10",
+      "published_date": "2026-09-09T12:52:25+00:00",
+      "category": "Energy"
     },
     {
       "title": "Govt hikes petrol price by Rs5.58, HSD by Rs4.18",
@@ -410,24 +424,31 @@
       "category": "Energy"
     },
     {
-      "title": "Oil prices set for weekly gain as US-Iran hostilities intensify",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2627403/oil-set-for-steepest-weekly-gain-since-mid-july-fuelled-by-us-iran-clashes",
-      "published_date": "2026-09-04T02:06:51+00:00",
-      "category": "Energy"
+      "title": "Apple debuts passport-shaped foldable phone, called Duo",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2028667/apple-debuts-passport-shaped-foldable-phone-called-duo",
+      "published_date": "2026-09-09T18:35:29+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Govt raises petrol price by Rs2.84, HSD by Rs2.28 per litre",
+      "title": "Republicans put Trump centre stage in US midterms gamble",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027257/govt-raises-petrol-price-by-rs284-hsd-by-rs228-per-litre",
-      "published_date": "2026-09-03T18:12:51+00:00",
-      "category": "Energy"
+      "url": "https://www.dawn.com/news/2028666/republicans-put-trump-centre-stage-in-us-midterms-gamble",
+      "published_date": "2026-09-09T18:18:37+00:00",
+      "category": "Economy"
     },
     {
       "title": "From Arab Spring to US-Iran war — A history of oil price swings this century",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2028620/from-arab-spring-to-us-iran-war-a-history-of-oil-price-swings-this-century",
       "published_date": "2026-09-09T11:52:45+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pakistan, Muslim nations welcome UK curb on imports from Israeli settlers in occupied Palestine",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2628358/pakistan-welcomes-uks-steps-against-israel-as-clear-rejection-of-illegal-actions-in-palestine",
+      "published_date": "2026-09-09T09:00:39+00:00",
       "category": "Economy"
     },
     {
@@ -543,31 +564,38 @@
       "category": "Economy"
     },
     {
-      "title": "Gold down as US jobs data lifts Fed hike bets",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2628006/gold-down-as-us-jobs-data-lifts-fed-hike-bets",
-      "published_date": "2026-09-07T16:11:13+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Aurangzeb reviews progress on PASSCO, USC closure",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2628001/aurangzeb-reviews-progress-on-passco-usc-closure",
-      "published_date": "2026-09-07T16:11:13+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Warning signs abound for Trump's Republicans as midterm campaign begins final sprint",
+      "title": "Goods transport owners demand release of containers seized by Islamabad police",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2028130/warning-signs-abound-for-trumps-republicans-as-midterm-campaign-begins-final-sprint",
-      "published_date": "2026-09-07T11:30:04+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2028668/goods-transport-owners-demand-release-of-containers-seized-by-islamabad-police",
+      "published_date": "2026-09-09T18:56:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PML-N, ANP senators spar over death of Gujranwala sanitary worker at Senate committee meeting",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2028649/pml-n-anp-senators-spar-over-death-of-gujranwala-sanitary-worker-at-senate-committee-meeting",
+      "published_date": "2026-09-09T16:51:25+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Timings for govt schools, colleges across Sindh reduced by an hour",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2028636/timings-for-govt-schools-colleges-across-sindh-reduced-by-an-hour",
       "published_date": "2026-09-09T14:20:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gul Plaza shop owners give Sindh govt  7-day ultimatum for relief, reconstruction",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2628396/gul-plaza-shop-owners-give-sindh-govt-7-day-ultimatum-for-relief-reconstruction",
+      "published_date": "2026-09-09T13:50:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Islamabad imposes complete ban on shisha cafes following IHC order",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2628395/islamabad-imposes-complete-ban-on-shisha-cafes-following-ihc-order",
+      "published_date": "2026-09-09T13:38:50+00:00",
       "category": "Local Events"
     },
     {
@@ -673,34 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2028386/uks-miliband-announces-sanctions-on-goods-from-west-bank-over-ethnic-cleansing-by-israeli-settlers",
       "published_date": "2026-09-08T14:48:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IHC forms larger bench to hear plea against PTI's Sept 27 protest",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2028349/ihc-forms-larger-bench-to-hear-plea-against-ptis-sept-27-protest",
-      "published_date": "2026-09-08T13:53:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sindh AG interrupts Mir Raza commission proceedings during police surgeon's testimony, objects to family's queries",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2028356/sindh-ag-interrupts-mir-raza-commission-proceedings-during-police-surgeons-testimony-objects-to-familys-queries",
-      "published_date": "2026-09-08T13:47:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "3 Adiala jail inmates move FCC after IHC denies them Imran-like facilities",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2028358/3-adiala-jail-inmates-move-fcc-after-ihc-denies-them-imran-like-facilities",
-      "published_date": "2026-09-08T10:15:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fire erupts at Karachi Mayor Murtaza Wahab's office located in historic KMC building",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2028337/fire-erupts-at-karachi-mayor-murtaza-wahabs-office-located-in-historic-kmc-building",
-      "published_date": "2026-09-08T10:08:11+00:00",
       "category": "Local Events"
     }
   ]
