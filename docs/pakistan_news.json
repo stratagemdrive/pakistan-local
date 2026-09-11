@@ -1,6 +1,6 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-09-10T14:56:32.592752+00:00",
+  "last_updated": "2026-09-11T00:38:58.228352+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -158,6 +158,20 @@
       "category": "Military"
     },
     {
+      "title": "Mastermind of Islamabad imambargah attack, four ISKP terrorists killed in Peshawar IBO",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2628584/mastermind-of-islamabad-imambargah-attack-four-iskp-terrorists-killed-in-ibo",
+      "published_date": "2026-09-10T12:15:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "CM Bugti orders treatment of Mastung acid attack victim",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2628579/cm-bugti-orders-treatment-of-mastung-acid-attack-victim",
+      "published_date": "2026-09-10T11:24:09+00:00",
+      "category": "Military"
+    },
+    {
       "title": "North Korean leader's daughter believed to have younger sibling, Seoul's spy agency says",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2028854/north-korean-leaders-daughter-believed-to-have-younger-sibling-seouls-spy-agency-says",
@@ -270,18 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Security forces kill 11 Indian-sponsored terrorists in Balochistan operations: ISPR",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2628295/security-forces-kill-11-indian-sponsored-terrorists-in-balochistan-operations-ispr",
-      "published_date": "2026-09-09T02:14:34+00:00",
-      "category": "Military"
+      "title": "Govt increases petrol price by Rs3.05, diesel by Rs5.37",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2028913/govt-increases-petrol-price-by-rs305-diesel-by-rs537",
+      "published_date": "2026-09-10T18:01:13+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Brent crude rises above $100 a barrel as Middle East conflict intensifies",
+      "title": "JI defers Islamabad long march, to finalise date on Friday",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2628284/oil-nears-100-as-fresh-middle-east-strikes-raise-supply-risks",
-      "published_date": "2026-09-08T23:51:36+00:00",
-      "category": "Military"
+      "url": "https://tribune.com.pk/story/2628592/ji-defers-islamabad-long-march-to-finalise-date-on-friday",
+      "published_date": "2026-09-10T13:44:29+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Govt increases petrol price by Rs3.05, HSD by Rs5.37 per litre for Sept 11",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2628588/govt-increases-petrol-price-by-rs305-hsd-by-rs537-per-litre-for-sept-11",
+      "published_date": "2026-09-10T12:39:31+00:00",
+      "category": "Energy"
     },
     {
       "title": "PSX plunges over 3,000 points as oil surge sparks panic selling",
@@ -403,25 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Govt reduces petrol price by Rs3.13, increases HSD by Rs3.74",
+      "title": "Trump administration proposes waiving grace period for H-1B holders after job loss",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027505/govt-reduces-petrol-price-by-rs313-increases-hsd-by-rs374",
-      "published_date": "2026-09-04T18:28:45+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Nepra allows govt to mandate Battery Energy Storage Systems for wind, solar IPPs in upcoming power auction",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2027489/nepra-allows-govt-to-mandate-battery-energy-storage-systems-for-wind-solar-ipps-in-upcoming-power-auction",
-      "published_date": "2026-09-04T16:40:54+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "$16b fossil fuel import bill strains reserves",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2627508/16b-fossil-fuel-import-bill-strains-reserves",
-      "published_date": "2026-09-04T15:03:46+00:00",
-      "category": "Energy"
+      "url": "https://www.dawn.com/news/2028903/trump-administration-proposes-waiving-grace-period-for-h-1b-holders-after-job-loss",
+      "published_date": "2026-09-10T15:47:42+00:00",
+      "category": "Economy"
     },
     {
       "title": "IMF mission due on Sept 23 for biannual review of Pakistan’s economic performance",
@@ -557,11 +564,32 @@
       "category": "Economy"
     },
     {
-      "title": "Pakistan-Africa Economic Council to launch to tap 1.59b-people consumer market",
+      "title": "Parliament to debate new provinces next month, says minister",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2028912/parliament-to-debate-new-provinces-next-month-says-minister",
+      "published_date": "2026-09-10T18:11:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PM Shehbaz invites NA opposition leader Achakzai for consultation on new CEC",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2028916/pm-shehbaz-invites-na-opposition-leader-achakzai-for-consultation-on-new-cec",
+      "published_date": "2026-09-10T17:46:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PMDC directs universities to ensure smooth and transparent conduct of MDCAT",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2028898/pmdc-directs-universities-to-ensure-smooth-and-transparent-conduct-of-mdcat",
+      "published_date": "2026-09-10T15:17:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tariq Fazal warns PTI of ‘other options’ if Sept 27 march goes ahead",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2628164/pakistan-africa-economic-council-to-launch-to-tap-159b-people-consumer-market",
-      "published_date": "2026-09-08T11:58:54+00:00",
-      "category": "Economy"
+      "url": "https://tribune.com.pk/story/2628593/tariq-fazal-warns-pti-of-other-options-if-sept-27-march-goes-ahead",
+      "published_date": "2026-09-10T13:53:02+00:00",
+      "category": "Local Events"
     },
     {
       "title": "NA panel irked over poor mobile services, seeks efforts to bring Apple to Pakistan",
@@ -592,6 +620,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Sindh home minister apologises 'unconditionally' to Mir Raza's judicial commission",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2628578/sindh-home-minister-apologises-unconditionally-to-mir-razas-judicial-commission",
+      "published_date": "2026-09-10T11:20:11+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Online and undercover: Saving trafficked wildlife in Thailand",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2028871/online-and-undercover-saving-trafficked-wildlife-in-thailand",
@@ -617,6 +652,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2028859/mir-raza-murder-case-minister-says-sindh-govt-does-not-intend-to-impede-judicial-commissions-proceedings",
       "published_date": "2026-09-10T10:03:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Debate on new provinces to be held in next session of National Assembly, Senate in October: Tariq Fazal",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2628545/debate-on-new-provinces-to-be-held-in-next-session-of-national-assembly-senate-in-october",
+      "published_date": "2026-09-10T08:29:44+00:00",
       "category": "Local Events"
     },
     {
@@ -659,48 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2028649/pml-n-anp-senators-spar-over-death-of-gujranwala-sanitary-worker-at-senate-committee-meeting",
       "published_date": "2026-09-09T16:51:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Timings for govt schools, colleges across Sindh reduced by an hour",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2028636/timings-for-govt-schools-colleges-across-sindh-reduced-by-an-hour",
-      "published_date": "2026-09-09T14:20:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gul Plaza shop owners give Sindh govt  7-day ultimatum for relief, reconstruction",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2628396/gul-plaza-shop-owners-give-sindh-govt-7-day-ultimatum-for-relief-reconstruction",
-      "published_date": "2026-09-09T13:50:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Islamabad imposes complete ban on shisha cafes following IHC order",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2628395/islamabad-imposes-complete-ban-on-shisha-cafes-following-ihc-order",
-      "published_date": "2026-09-09T13:38:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Islamabad admin announces 'complete ban' on sheesha cafes as IHC gives a month to formulate regulations",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2028630/islamabad-admin-announces-complete-ban-on-sheesha-cafes-as-ihc-gives-a-month-to-formulate-regulations",
-      "published_date": "2026-09-09T13:22:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cop martyred, another injured in attack on police team in KP's Karak",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2028578/cop-martyred-another-injured-in-attack-on-police-team-in-kps-karak",
-      "published_date": "2026-09-09T11:53:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Karachi police obtain Mir Raza's crypto trading records for last 4 years: official",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2028618/karachi-police-obtain-mir-razas-crypto-trading-records-for-last-4-years-official",
-      "published_date": "2026-09-09T11:53:25+00:00",
       "category": "Local Events"
     }
   ]
