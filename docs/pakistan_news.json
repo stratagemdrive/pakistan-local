@@ -1,8 +1,29 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-09-12T00:46:03.735128+00:00",
+  "last_updated": "2026-09-12T13:58:44.639079+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "China's Xi urges Brics to oppose sovereignty violations, protectionism",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2029346/chinas-xi-urges-brics-to-oppose-sovereignty-violations-protectionism",
+      "published_date": "2026-09-12T13:57:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Shafqat Ali Khan presents diplomatic credentials as Pakistan’s first envoy to Armenia",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2029337/shafqat-ali-khan-presents-diplomatic-credentials-as-pakistans-first-envoy-to-armenia",
+      "published_date": "2026-09-12T06:23:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan, Tajikistan eye agri, food-sector cooperation",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2628845/pakistan-tajikistan-eye-agri-food-sector-cooperation",
+      "published_date": "2026-09-11T15:54:47+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "9 rights groups, including CPJ and RSF, urge PM to address 'deteriorating press freedom' in Pakistan",
       "source": "Dawn",
@@ -123,25 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "'Mohsin Naqvi should come to parliament,' Bilawal says over new provinces",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2628294/bilawal-urges-naqvi-to-debate-new-provinces-issue-in-parliament",
-      "published_date": "2026-09-09T02:05:41+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "PMDC instructs medical, dental colleges not to admit Afghan students for 'current academic session'",
+      "title": "Trump says Houthis have asked US not to intervene in Yemen",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2028391/pmdc-instructs-medical-dental-colleges-not-to-admit-afghan-students-for-current-academic-session",
-      "published_date": "2026-09-08T18:43:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2029391/trump-says-houthis-have-asked-us-not-to-intervene-in-yemen",
+      "published_date": "2026-09-12T13:26:07+00:00",
+      "category": "Military"
     },
     {
-      "title": "New Pak-China agri-route opens",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2628198/new-pak-china-agri-route-opens",
-      "published_date": "2026-09-08T16:18:41+00:00",
-      "category": "Diplomacy"
+      "title": "Saudi Arabia says Iraqi drones forced temporary closure of crucial oil pipeline",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2029319/saudi-arabia-says-iraqi-drones-forced-temporary-closure-of-crucial-oil-pipeline",
+      "published_date": "2026-09-12T09:29:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "OpenAI agents attacked software service RubyGems before Hugging Face incident, researchers say",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2029344/openai-agents-attacked-software-service-rubygems-before-hugging-face-incident-researchers-say",
+      "published_date": "2026-09-12T07:46:06+00:00",
+      "category": "Military"
     },
     {
       "title": "Fatima Sana's all-round effort in vain as Sri Lanka down Pakistan in Women's Asia Cup semi-final",
@@ -263,25 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Tongue routs Pakistan as England dominate in third Test",
+      "title": "Flawed NEV incentive",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2028615/tongue-routs-pakistan-as-england-dominate-in-third-test",
-      "published_date": "2026-09-09T18:11:11+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/2029306/flawed-nev-incentive",
+      "published_date": "2026-09-12T13:39:04+00:00",
+      "category": "Energy"
     },
     {
-      "title": "FATF warns of emerging risks to economies from rising online gaming, gambling operations",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2028647/fatf-warns-of-emerging-risks-to-economies-from-rising-online-gaming-gambling-operations",
-      "published_date": "2026-09-09T16:57:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "PSX loses 699 points over spreading ME war",
+      "title": "Pakistan condemns attacks on Saudi oil pipeline, reaffirms support for kingdom's sovereignty and security",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2628421/psx-loses-699-points-over-spreading-me-war",
-      "published_date": "2026-09-09T15:19:54+00:00",
-      "category": "Military"
+      "url": "https://tribune.com.pk/story/2628912/pakistan-condemns-drone-attacks-on-saudi-oil-pipeline-reaffirms-support-for-kingdoms-sovereignty",
+      "published_date": "2026-09-12T05:13:49+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Nepra okays $58bn 11-year power plan amid reservations",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2029253/nepra-okays-58bn-11-year-power-plan-amid-reservations",
+      "published_date": "2026-09-12T02:29:21+00:00",
+      "category": "Energy"
     },
     {
       "title": "Under fire Imam, Rizwan barred from playing in President's Trophy",
@@ -302,6 +323,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2029158/pm-shehbaz-orders-no-more-than-two-hours-of-loadshedding-across-country",
       "published_date": "2026-09-11T18:07:24+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "PSX rises back above 170,000 as oil eases",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2628851/psx-rises-back-above-170000-as-oil-eases",
+      "published_date": "2026-09-11T15:54:47+00:00",
       "category": "Energy"
     },
     {
@@ -396,32 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Govt hikes petrol price by Rs3.40, diesel by Rs6.72",
+      "title": "Govt weighs NFC-based financial framework for Gilgit-Baltistan",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2028663/govt-hikes-petrol-price-by-rs340-diesel-by-rs672",
-      "published_date": "2026-09-09T18:00:25+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Govt increases petrol price by Rs3.40, HSD by Rs6.72 per litre for Sept 10",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2628389/petrol-price-rises-rs340-diesel-rs672-per-litre-for-sept-10",
-      "published_date": "2026-09-09T12:52:25+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Govt hikes petrol price by Rs5.58, HSD by Rs4.18",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2028413/govt-hikes-petrol-price-by-rs558-hsd-by-rs418",
-      "published_date": "2026-09-08T17:57:04+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Oil sector rejects new price formula",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2628194/oil-sector-rejects-new-price-formula",
-      "published_date": "2026-09-08T16:18:41+00:00",
-      "category": "Energy"
+      "url": "https://www.dawn.com/news/2029268/govt-weighs-nfc-based-financial-framework-for-gilgit-baltistan",
+      "published_date": "2026-09-12T03:06:32+00:00",
+      "category": "Economy"
     },
     {
       "title": "Razaullah heroics deny England quickfire win in third Test against Pakistan",
@@ -435,6 +442,20 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2029086/indias-modi-stresses-need-to-protect-navigation-seafarers-in-talks-with-irans-pezeshkian",
       "published_date": "2026-09-11T16:50:43+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "$200m more approved for FBR",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2628843/200m-more-approved-for-fbr",
+      "published_date": "2026-09-11T15:54:47+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Gold declines sharply despite global rebound",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2628849/gold-declines-sharply-despite-global-rebound",
+      "published_date": "2026-09-11T15:54:47+00:00",
       "category": "Economy"
     },
     {
@@ -543,25 +564,88 @@
       "category": "Economy"
     },
     {
-      "title": "From Arab Spring to US-Iran war — A history of oil price swings this century",
+      "title": "PML-N's Rana Sanaullah says Parliament to decide on more provinces",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2028620/from-arab-spring-to-us-iran-war-a-history-of-oil-price-swings-this-century",
-      "published_date": "2026-09-09T11:52:45+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2029377/pml-ns-rana-sanaullah-says-parliament-to-decide-on-more-provinces",
+      "published_date": "2026-09-12T12:52:54+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Pakistan, Muslim nations welcome UK curb on imports from Israeli settlers in occupied Palestine",
+      "title": "Govt approves ‘extraordinary security allowance’ for police, civil service officers in 26 KP districts",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2029376/govt-approves-extraordinary-security-allowance-for-police-civil-service-officers-in-26-kp-districts",
+      "published_date": "2026-09-12T12:26:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Worst DR Congo Ebola epidemic ever passes 7,000 cases",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2029375/worst-dr-congo-ebola-epidemic-ever-passes-7000-cases",
+      "published_date": "2026-09-12T11:41:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "IHC prohibits ‘coercive measures’ against legal sheesha cafes",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2029360/ihc-prohibits-coercive-measures-against-legal-sheesha-cafes",
+      "published_date": "2026-09-12T10:23:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "CJP Afridi calls for strengthening district judiciary, terms it 'backbone' of country's justice system",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2029339/cjp-afridi-calls-for-strengthening-district-judiciary-terms-it-backbone-of-countrys-justice-system",
+      "published_date": "2026-09-12T10:23:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'The real issue is her rising popularity': Marriyum defends Maryam amid criticism over jet use, terrorism remarks",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2029353/the-real-issue-is-her-rising-popularity-marriyum-defends-maryam-amid-criticism-over-jet-use-terrorism-remarks",
+      "published_date": "2026-09-12T10:22:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sikh pilgrims in Faisalabad stopped from flying to India over incomplete documents",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2029217/sikh-pilgrims-in-faisalabad-stopped-from-flying-to-india-over-incomplete-documents",
+      "published_date": "2026-09-12T04:12:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sherry Rehman raises alarm over child abuse crisis",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2029254/sherry-rehman-raises-alarm-over-child-abuse-crisis",
+      "published_date": "2026-09-12T02:54:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Judiciary stands united to shield judges from 'external pressure': CJP Afridi",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2628358/pakistan-welcomes-uks-steps-against-israel-as-clear-rejection-of-illegal-actions-in-palestine",
-      "published_date": "2026-09-09T09:00:39+00:00",
-      "category": "Economy"
+      "url": "https://tribune.com.pk/story/2628891/judiciary-stands-united-to-shield-judges-from-external-pressure-cjp-afridi",
+      "published_date": "2026-09-12T02:43:42+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Trump bans Canadian alcohol in new trade war salvo",
+      "title": "JUI-F agrees to join PTI-led multi-party opposition moot",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2028583/trump-bans-canadian-alcohol-in-new-trade-war-salvo",
-      "published_date": "2026-09-09T06:31:43+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2029274/jui-f-agrees-to-join-pti-led-multi-party-opposition-moot",
+      "published_date": "2026-09-12T02:34:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "KP Assembly seeks Article 6 action against Punjab CM",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2029270/kp-assembly-seeks-article-6-action-against-punjab-cm",
+      "published_date": "2026-09-12T02:16:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Action ordered against PIA, ASF staff for misbehaving with lawmakers",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2029266/action-ordered-against-pia-asf-staff-for-misbehaving-with-lawmakers",
+      "published_date": "2026-09-11T23:56:39+00:00",
+      "category": "Local Events"
     },
     {
       "title": "'Decisive phase': JI chief announces Islamabad march on Sept 20 against petroleum levy",
@@ -578,129 +662,45 @@
       "category": "Local Events"
     },
     {
-      "title": "Consultations begin to schedule meeting between NA opposition leader and prime minister",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2029119/consultations-begin-to-schedule-meeting-between-na-opposition-leader-and-prime-minister",
-      "published_date": "2026-09-11T14:03:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PMD forecasts fresh spell of rain across country from Sept 12-17",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2029115/pmd-forecasts-fresh-spell-of-rain-across-country-from-sept-12-17",
-      "published_date": "2026-09-11T13:06:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opposition steps up consultations to hold APC on new provinces, law and order",
+      "title": "Sept 27 protest fuels opposition unity drive",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2628785/opposition-steps-up-consultations-to-hold-apc-on-new-provinces-law-and-order",
-      "published_date": "2026-09-11T10:58:45+00:00",
+      "url": "https://tribune.com.pk/story/2628880/sept-27-protest-fuels-opposition-unity-drive",
+      "published_date": "2026-09-11T16:25:26+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Body of paraglider who went missing after take-off from Chitral's Zaini Pass found",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2029081/body-of-paraglider-who-went-missing-after-take-off-from-chitrals-zaini-pass-found",
-      "published_date": "2026-09-11T10:48:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Dialogue, not bullet', key to peace in Balochistan, says senior security official",
+      "title": "FCC to hear challenge against CM Afridi",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2628782/dialogue-not-bullet-key-to-peace-in-balochistan-says-senior-security-official",
-      "published_date": "2026-09-11T10:35:44+00:00",
+      "url": "https://tribune.com.pk/story/2628879/fcc-to-hear-challenge-against-cm-afridi",
+      "published_date": "2026-09-11T16:25:26+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Mir Raza murder case: Deceased's business partner, employees summoned to record statements",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2029091/mir-raza-murder-case-deceaseds-business-partner-employees-summoned-to-record-statements",
-      "published_date": "2026-09-11T09:15:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KP advocate general questions maintainability of plea against PTI's Sept 27 protest",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2029087/kp-advocate-general-questions-maintainability-of-plea-against-ptis-sept-27-protest",
-      "published_date": "2026-09-11T09:00:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fourth polio case of 2026 reported in KP's Bannu district",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2029096/fourth-polio-case-of-2026-reported-in-kps-bannu-district",
-      "published_date": "2026-09-11T08:39:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IHC seeks assurance against govt machinery use in PTI's Sept 27 march",
+      "title": "Force alone no solution to complex problem in Balochistan, says senior security official",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2628744/ihc-seeks-assurance-against-govt-machinery-use-in-ptis-sept-27-march",
-      "published_date": "2026-09-11T06:11:43+00:00",
+      "url": "https://tribune.com.pk/story/2628876/dialogue-not-bullets-only-path-to-peace-in-balochistan",
+      "published_date": "2026-09-11T16:25:26+00:00",
       "category": "Local Events"
     },
     {
-      "title": "‘Sale of govt jobs’ won’t be allowed, says Balochistan CM Bugti",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2028991/sale-of-govt-jobs-wont-be-allowed-says-balochistan-cm-bugti",
-      "published_date": "2026-09-11T03:18:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Leaders reaffirm commitment to Quaid-i-Azam’s principles",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2028994/leaders-reaffirm-commitment-to-quaid-i-azams-principles",
-      "published_date": "2026-09-11T03:12:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azma Bokhari defends Punjab CM’s use of official jet for London trip",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2028993/azma-bokhari-defends-punjab-cms-use-of-official-jet-for-london-trip",
-      "published_date": "2026-09-11T02:59:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NCCIA quizzes cricketers over ‘dressing room leaks’",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2028985/nccia-quizzes-cricketers-over-dressing-room-leaks",
-      "published_date": "2026-09-11T02:23:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "LHC suspends PMDC directives ordering Afghan medical students to return home",
+      "title": "Supreme Court bars adverse action sans fair hearing",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2628711/lhc-suspends-pmdc-directives-ordering-afghan-medical-students-to-return-home",
-      "published_date": "2026-09-11T01:56:23+00:00",
+      "url": "https://tribune.com.pk/story/2628860/supreme-court-bars-adverse-action-sans-fair-hearing",
+      "published_date": "2026-09-11T16:06:20+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Parliament to debate new provinces next month, says minister",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2028912/parliament-to-debate-new-provinces-next-month-says-minister",
-      "published_date": "2026-09-10T18:11:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PM Shehbaz invites NA opposition leader Achakzai for consultation on new CEC",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2028916/pm-shehbaz-invites-na-opposition-leader-achakzai-for-consultation-on-new-cec",
-      "published_date": "2026-09-10T17:46:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PMDC directs universities to ensure smooth and transparent conduct of MDCAT",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2028898/pmdc-directs-universities-to-ensure-smooth-and-transparent-conduct-of-mdcat",
-      "published_date": "2026-09-10T15:17:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tariq Fazal warns PTI of ‘other options’ if Sept 27 march goes ahead",
+      "title": "PPP signals flexibility on legislation",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2628593/tariq-fazal-warns-pti-of-other-options-if-sept-27-march-goes-ahead",
-      "published_date": "2026-09-10T13:53:02+00:00",
+      "url": "https://tribune.com.pk/story/2628857/ppp-signals-flexibility-on-legislation",
+      "published_date": "2026-09-11T16:06:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chinese firm wins $11.7m SEPCO contract",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2628852/chinese-firm-wins-117m-sepco-contract",
+      "published_date": "2026-09-11T15:54:47+00:00",
       "category": "Local Events"
     }
   ]
