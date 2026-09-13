@@ -1,8 +1,15 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-09-12T13:58:44.639079+00:00",
+  "last_updated": "2026-09-13T00:29:17.110342+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "BRICS nations call for 'maximum restraint' in Middle East war",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2029346/brics-nations-call-for-maximum-restraint-in-middle-east-war",
+      "published_date": "2026-09-12T19:00:54+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "China's Xi urges Brics to oppose sovereignty violations, protectionism",
       "source": "Dawn",
@@ -137,17 +144,31 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UK rejects Israel's 'damaging' retaliation to sanctions by ordering closure of Jerusalem consulate",
+      "title": "Anthropic boss calls for AI slowdown, Altman and Musk agree",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2028586/uk-rejects-israels-damaging-retaliation-to-sanctions-by-ordering-closure-of-jerusalem-consulate",
-      "published_date": "2026-09-09T09:28:40+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2029414/anthropic-boss-calls-for-ai-slowdown-altman-and-musk-agree",
+      "published_date": "2026-09-12T18:04:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan urges UN to close gaps in fight against evolving terror threat",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2029415/pakistan-urges-un-to-close-gaps-in-fight-against-evolving-terror-threat",
+      "published_date": "2026-09-12T17:53:43+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump says Houthis have asked US not to intervene in Yemen",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2029391/trump-says-houthis-have-asked-us-not-to-intervene-in-yemen",
       "published_date": "2026-09-12T13:26:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "250% risk allowance approved for officers for K-P ‘hard areas’",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2628931/250-risk-allowance-approved-for-officers-for-k-p-hard-areas",
+      "published_date": "2026-09-12T12:17:23+00:00",
       "category": "Military"
     },
     {
@@ -260,27 +281,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2028854/north-korean-leaders-daughter-believed-to-have-younger-sibling-seouls-spy-agency-says",
       "published_date": "2026-09-10T08:26:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "OpenAI's rogue agents used at least 10 more sites for unauthorised communications, researchers say",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2028839/openais-rogue-agents-used-at-least-10-more-sites-for-unauthorised-communications-researchers-say",
-      "published_date": "2026-09-10T06:25:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Trump dividend': US president offers $5,000 to every American if Republicans win midterm elections",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2028825/trump-dividend-us-president-offers-5000-to-every-american-if-republicans-win-midterm-elections",
-      "published_date": "2026-09-10T04:44:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "No military response discussed under Makkah defence pact over Houthi attacks on Saudi Arabia: FO",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2628490/pakistan-will-act-in-accordance-with-makkah-defence-agreement-condemns-houthi-attacks-fo",
-      "published_date": "2026-09-10T01:51:05+00:00",
       "category": "Military"
     },
     {
@@ -564,6 +564,55 @@
       "category": "Economy"
     },
     {
+      "title": "Tens of thousands protest against far right in Germany",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2029423/tens-of-thousands-protest-against-far-right-in-germany",
+      "published_date": "2026-09-12T18:50:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Islamabad IG Ali Nasir Rizvi transferred, appointed NCCIA director general",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2029405/islamabad-ig-ali-nasir-rizvi-transferred-appointed-nccia-director-general",
+      "published_date": "2026-09-12T16:51:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Coalition partners PPP, PML-N seek to bridge differences amid strained ties",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2029403/coalition-partners-ppp-pml-n-seek-to-bridge-differences-amid-strained-ties",
+      "published_date": "2026-09-12T15:30:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ECP promotes four officers to BS-20, transfers 54 across country amid reshuffle",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2029397/ecp-promotes-four-officers-to-bs-20-transfers-54-across-country-amid-reshuffle",
+      "published_date": "2026-09-12T14:20:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "CM Bugti says 'no dialogue' with those taking up arms against state",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2029392/cm-bugti-says-no-dialogue-with-those-taking-up-arms-against-state",
+      "published_date": "2026-09-12T14:13:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sindh local govt law hits a roadblock as opposition cries foul",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2628936/sindh-local-govt-law-hits-a-roadblock-as-opposition-cries-foul",
+      "published_date": "2026-09-12T13:54:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "MQM-P turns up the heat for new province, says urban Sindh case ‘strongest’",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2628935/mqm-p-turns-up-the-heat-for-new-province-says-urban-sindh-case-strongest",
+      "published_date": "2026-09-12T13:36:08+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "PML-N's Rana Sanaullah says Parliament to decide on more provinces",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2029377/pml-ns-rana-sanaullah-says-parliament-to-decide-on-more-provinces",
@@ -606,6 +655,13 @@
       "category": "Local Events"
     },
     {
+      "title": "IHC seeks affidavits on non-use of state machinery for PTI Sept 27 protest",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2628927/ihc-seeks-affidavits-on-non-use-of-state-machinery-for-pti-sept-27-protest",
+      "published_date": "2026-09-12T10:21:22+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Sikh pilgrims in Faisalabad stopped from flying to India over incomplete documents",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2029217/sikh-pilgrims-in-faisalabad-stopped-from-flying-to-india-over-incomplete-documents",
@@ -645,62 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2029266/action-ordered-against-pia-asf-staff-for-misbehaving-with-lawmakers",
       "published_date": "2026-09-11T23:56:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Decisive phase': JI chief announces Islamabad march on Sept 20 against petroleum levy",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2029169/decisive-phase-ji-chief-announces-islamabad-march-on-sept-20-against-petroleum-levy",
-      "published_date": "2026-09-11T19:08:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "GB election tribunal suspends IPP's Imam Malik's membership, orders recount of postal ballots in GBA-16 Diamer-II",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2029157/gb-election-tribunal-suspends-ipps-imam-maliks-membership-orders-recount-of-postal-ballots-in-gba-16-diamer-ii",
-      "published_date": "2026-09-11T18:29:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sept 27 protest fuels opposition unity drive",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2628880/sept-27-protest-fuels-opposition-unity-drive",
-      "published_date": "2026-09-11T16:25:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "FCC to hear challenge against CM Afridi",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2628879/fcc-to-hear-challenge-against-cm-afridi",
-      "published_date": "2026-09-11T16:25:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Force alone no solution to complex problem in Balochistan, says senior security official",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2628876/dialogue-not-bullets-only-path-to-peace-in-balochistan",
-      "published_date": "2026-09-11T16:25:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Supreme Court bars adverse action sans fair hearing",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2628860/supreme-court-bars-adverse-action-sans-fair-hearing",
-      "published_date": "2026-09-11T16:06:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PPP signals flexibility on legislation",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2628857/ppp-signals-flexibility-on-legislation",
-      "published_date": "2026-09-11T16:06:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chinese firm wins $11.7m SEPCO contract",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2628852/chinese-firm-wins-117m-sepco-contract",
-      "published_date": "2026-09-11T15:54:47+00:00",
       "category": "Local Events"
     }
   ]
