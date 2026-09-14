@@ -1,6 +1,6 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-09-13T14:53:24.994491+00:00",
+  "last_updated": "2026-09-14T00:31:27.726053+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -144,6 +144,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Winners India refuse to collect Women’s Asia Cup trophy from ACC chief Mohsin Naqvi",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2029664/winners-india-refuse-to-collect-womens-asia-cup-trophy-from-acc-chief-mohsin-naqvi",
+      "published_date": "2026-09-13T21:14:44+00:00",
+      "category": "Military"
+    },
+    {
       "title": "4 miners die in coal mine gas explosion in Balochistan's Harnai: state media",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2029645/4-miners-die-in-coal-mine-gas-explosion-in-balochistans-harnai-state-media",
@@ -274,13 +281,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2029053/terror-forever",
       "published_date": "2026-09-11T14:06:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "New York marks 25th anniversary of 9/11 attacks",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2029128/new-york-marks-25th-anniversary-of-911-attacks",
-      "published_date": "2026-09-11T13:38:32+00:00",
       "category": "Military"
     },
     {
@@ -564,10 +564,59 @@
       "category": "Economy"
     },
     {
+      "title": "Punjab govt bans gatherings until Sept 17 citing threats of 'possible terrorist activities'",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2029659/punjab-govt-bans-gatherings-until-sept-17-citing-threats-of-possible-terrorist-activities",
+      "published_date": "2026-09-13T20:45:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "4 miners die in coal mine gas explosion in Balochistan's Harnai",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2029645/4-miners-die-in-coal-mine-gas-explosion-in-balochistans-harnai",
+      "published_date": "2026-09-13T18:18:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indonesia says 6 killed, 129 missing after ferry capsizes off Java",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2029624/indonesia-says-6-killed-129-missing-after-ferry-capsizes-off-java",
+      "published_date": "2026-09-13T17:08:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Justice Ayesha Malik honoured with 'international leader' award in Vienna",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2029651/justice-ayesha-malik-honoured-with-international-leader-award-in-vienna",
+      "published_date": "2026-09-13T16:32:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cop injured as wall collapses during KP govt project's inaugural ceremony in Peshawar",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2029648/cop-injured-as-wall-collapses-during-kp-govt-projects-inaugural-ceremony-in-peshawar",
+      "published_date": "2026-09-13T15:42:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Young girl abducted at gunpoint recovered from Hangu, three arrested",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2629109/young-girl-abducted-at-gunpoint-recovered-from-hangu-three-arrested",
+      "published_date": "2026-09-13T14:04:39+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Next round of JI-govt talks on petroleum levy rescheduled for Tuesday",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2029632/next-round-of-ji-govt-talks-on-petroleum-levy-rescheduled-for-tuesday",
       "published_date": "2026-09-13T14:01:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two children die, parents critical after eating leftover food in Lahore",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2629106/two-children-die-parents-critical-after-eating-leftover-food-in-lahore",
+      "published_date": "2026-09-13T13:40:09+00:00",
       "category": "Local Events"
     },
     {
@@ -652,55 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2029423/tens-of-thousands-protest-against-far-right-in-germany",
       "published_date": "2026-09-12T18:50:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PPP, PML-N talks make little headway",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2628981/ppp-pml-n-talks-make-little-headway",
-      "published_date": "2026-09-12T18:19:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Islamabad IG Ali Nasir Rizvi transferred, appointed NCCIA director general",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2029405/islamabad-ig-ali-nasir-rizvi-transferred-appointed-nccia-director-general",
-      "published_date": "2026-09-12T16:51:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Coalition partners PPP, PML-N seek to bridge differences amid strained ties",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2029403/coalition-partners-ppp-pml-n-seek-to-bridge-differences-amid-strained-ties",
-      "published_date": "2026-09-12T15:30:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ECP promotes four officers to BS-20, transfers 54 across country amid reshuffle",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2029397/ecp-promotes-four-officers-to-bs-20-transfers-54-across-country-amid-reshuffle",
-      "published_date": "2026-09-12T14:20:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "CM Bugti says 'no dialogue' with those taking up arms against state",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2029392/cm-bugti-says-no-dialogue-with-those-taking-up-arms-against-state",
-      "published_date": "2026-09-12T14:13:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sindh local govt law hits a roadblock as opposition cries foul",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2628936/sindh-local-govt-law-hits-a-roadblock-as-opposition-cries-foul",
-      "published_date": "2026-09-12T13:54:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MQM-P turns up the heat for new province, says urban Sindh case ‘strongest’",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2628935/mqm-p-turns-up-the-heat-for-new-province-says-urban-sindh-case-strongest",
-      "published_date": "2026-09-12T13:36:08+00:00",
       "category": "Local Events"
     }
   ]
