@@ -1,6 +1,6 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-09-14T16:55:00.001274+00:00",
+  "last_updated": "2026-09-15T01:03:05.111571+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -284,6 +284,27 @@
       "category": "Military"
     },
     {
+      "title": "Babar Azam set to return to domestic red-ball cricket after nearly seven years",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2029908/babar-azam-set-to-return-to-domestic-red-ball-cricket-after-nearly-seven-years",
+      "published_date": "2026-09-14T20:06:34+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Govt increases petrol by Rs4.42 per litre, HSD by Rs6.10 per litre amid rising global oil prices",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2029913/govt-increases-petrol-by-rs442-per-litre-hsd-by-rs610-per-litre-amid-rising-global-oil-prices",
+      "published_date": "2026-09-14T18:12:46+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Govt increases petrol price by Rs4.42, HSD by Rs6.10 per litre for Sept 15",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2629284/govt-increases-petrol-price-by-rs442-hsd-by-rs610-per-litre-for-sept-15",
+      "published_date": "2026-09-14T12:53:52+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "PSX tumbles 2,541 points as oil shock rattles sentiment",
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2629236/psx-opens-week-with-dropping-over-1500-points-at-midday",
@@ -403,27 +424,6 @@
       "category": "Energy"
     },
     {
-      "title": "Draft refinery upgrade agreement finalised",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2628621/draft-refinery-upgrade-agreement-finalised-1",
-      "published_date": "2026-09-10T15:18:01+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Stocks dumped as PSX dives over 3,000 points",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2628616/stocks-dumped-as-psx-dives-over-3000-points",
-      "published_date": "2026-09-10T15:17:12+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "UK fund eyes expansion of investment footprint",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2628617/uk-fund-eyes-expansion-of-investment-footprint",
-      "published_date": "2026-09-10T15:17:12+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Govt mulling revival of austerity measures, decision to be taken soon: Tarar",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2029872/govt-mulling-revival-of-austerity-measures-decision-to-be-taken-soon-tarar",
@@ -445,10 +445,24 @@
       "category": "Economy"
     },
     {
+      "title": "Cost of living, national debt, drug abuse emerge top concerns among Pakistanis: National Citizen Survey 2026",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2629278/cost-of-living--emerge-top-concerns-among-pakistanis-2026",
+      "published_date": "2026-09-14T11:21:11+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Millions of livelihoods at stake as Himalayas approach tipping point, study finds",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2029845/millions-of-livelihoods-at-stake-as-himalayas-approach-tipping-point-study-finds",
       "published_date": "2026-09-14T10:49:39+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Global AI stocks fall as industry chiefs call for slowing development",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2629274/global-ai-stocks-fall-as-industry-chiefs-call-for-slowing-development",
+      "published_date": "2026-09-14T10:43:40+00:00",
       "category": "Economy"
     },
     {
@@ -550,18 +564,25 @@
       "category": "Economy"
     },
     {
-      "title": "Pakistan greenlights $200m ADB loan despite questions over digitalisation project",
+      "title": "KP CM claims he was 'abducted' by authorities in Lahore; Punjab minister denies allegations",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2029139/pakistan-greenlights-200m-adb-loan-despite-questions-over-digitalisation-project",
-      "published_date": "2026-09-11T14:57:08+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2029911/kp-cm-claims-he-was-abducted-by-authorities-in-lahore-punjab-minister-denies-allegations",
+      "published_date": "2026-09-14T18:49:18+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Opposition holding consultations to call all-parties moot on creation of new provinces, other issues: Gohar",
+      "title": "New US rules change how international students can stay in America",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2029125/opposition-holding-consultations-to-call-all-parties-moot-on-creation-of-new-provinces-other-issues-gohar",
-      "published_date": "2026-09-11T14:22:33+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2029909/new-us-rules-change-how-international-students-can-stay-in-america",
+      "published_date": "2026-09-14T17:57:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lost in numbers",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2029800/lost-in-numbers",
+      "published_date": "2026-09-14T17:08:03+00:00",
+      "category": "Local Events"
     },
     {
       "title": "SC stresses need for gender-sensitive investigations, court proceedings in domestic violence cases",
@@ -620,6 +641,20 @@
       "category": "Local Events"
     },
     {
+      "title": "CM Afridi accuses Punjab govt of political victimisation and manhandling at worker's residence in Lahore",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2629281/cm-afridi-accuses-punjab-govt-of-political-victimisation-and-manhandling-at-workers-residence",
+      "published_date": "2026-09-14T11:32:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sindh Assembly passes local govt law amendment amid opposition protest, sloganeering",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2629272/sindh-assembly-passes-local-govt-law-amendment-amid-opposition-protest-sloganeering",
+      "published_date": "2026-09-14T10:14:37+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "FCC issues notices to KP CM Afridi on estranged PTI leader Marwat's plea against his appointment",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2029857/fcc-issues-notices-to-kp-cm-afridi-on-estranged-pti-leader-marwats-plea-against-his-appointment",
@@ -666,41 +701,6 @@
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2629220/fcc-seeks-agp-assistance-in-adiala-inmates-private-treatment-pleas",
       "published_date": "2026-09-14T03:53:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fitna al-Hindustan commander among three killed in Balochistan's Mastung: state media",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2629200/fitna-al-hindustan-commander-among-three-killed-in-balochistans-mastung-state-media",
-      "published_date": "2026-09-14T01:07:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Punjab govt bans gatherings until Sept 17 citing threats of 'possible terrorist activities'",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2029659/punjab-govt-bans-gatherings-until-sept-17-citing-threats-of-possible-terrorist-activities",
-      "published_date": "2026-09-13T20:45:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "4 miners die in coal mine gas explosion in Balochistan's Harnai",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2029645/4-miners-die-in-coal-mine-gas-explosion-in-balochistans-harnai",
-      "published_date": "2026-09-13T18:18:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indonesia says 6 killed, 129 missing after ferry capsizes off Java",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2029624/indonesia-says-6-killed-129-missing-after-ferry-capsizes-off-java",
-      "published_date": "2026-09-13T17:08:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Justice Ayesha Malik honoured with 'international leader' award in Vienna",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2029651/justice-ayesha-malik-honoured-with-international-leader-award-in-vienna",
-      "published_date": "2026-09-13T16:32:20+00:00",
       "category": "Local Events"
     }
   ]
