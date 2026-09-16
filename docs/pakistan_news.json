@@ -1,6 +1,6 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-09-15T15:30:52.292429+00:00",
+  "last_updated": "2026-09-16T00:52:45.953958+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -144,6 +144,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Makkah defence pact has no regional aspirations, aimed at collective deterrence: DG ISPR",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2629518/makkah-defence-pact-has-no-regional-aspirations-aimed-at-collective-deterrence-dg-ispr",
+      "published_date": "2026-09-15T16:46:03+00:00",
+      "category": "Military"
+    },
+    {
       "title": "How AI leaders and world governments react to 'AI doom' fears",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2030146/how-ai-leaders-and-world-governments-react-to-ai-doom-fears",
@@ -277,11 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Posting of seventh health secretary in 18 months raises concerns",
+      "title": "Govt raises petrol price by Rs4.10 per litre, HSD by Rs6.41 per litre",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2029472/posting-of-seventh-health-secretary-in-18-months-raises-concerns",
-      "published_date": "2026-09-13T02:57:17+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/2030163/govt-raises-petrol-price-by-rs410-per-litre-hsd-by-rs641-per-litre",
+      "published_date": "2026-09-15T18:19:01+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "US energy chief says Saudi Arabia oil pipeline should be back within days",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2629480/us-energy-chief-says-saudi-arabia-oil-pipeline-should-be-back-within-days",
+      "published_date": "2026-09-15T12:06:53+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Govt increases petrol price by Rs4.1, HSD by Rs6.41 per litre for Sept 16",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2629474/govt-increases-petrol-price-by-rs410-hsd-by-rs641-per-litre-for-sept-16",
+      "published_date": "2026-09-15T11:20:44+00:00",
+      "category": "Energy"
     },
     {
       "title": "Sindh Assembly unanimously passes resolution seeking reduction in petroleum prices",
@@ -403,25 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "PSX rises back above 170,000 as oil eases",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2628851/psx-rises-back-above-170000-as-oil-eases",
-      "published_date": "2026-09-11T15:54:47+00:00",
-      "category": "Energy"
+      "title": "OpenAI, Anthropic and Google are working to create an AI standards body",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2030165/openai-anthropic-and-google-are-working-to-create-an-ai-standards-body",
+      "published_date": "2026-09-15T18:29:49+00:00",
+      "category": "Economy"
     },
     {
-      "title": "JI announces Sept 20 long march to Islamabad over petroleum levy",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2628799/ji-announces-sept-20-long-march-to-islamabad-over-petroleum-levy",
-      "published_date": "2026-09-11T13:26:09+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Govt increases petrol price by Rs5.02, HSD by Rs5.28 per litre",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2628795/govt-increases-petrol-price-by-rs502-hsd-by-rs528-per-litre-till-sept-14",
-      "published_date": "2026-09-11T12:52:06+00:00",
-      "category": "Energy"
+      "title": "Prime Minister’s Fuel Relief Scheme to launch nationwide Wednesday night",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2030152/prime-ministers-fuel-relief-scheme-to-launch-nationwide-wednesday-night",
+      "published_date": "2026-09-15T16:00:01+00:00",
+      "category": "Economy"
     },
     {
       "title": "PM Shehbaz orders measures for bringing Pakistani exports up to global standards",
@@ -550,24 +564,38 @@
       "category": "Economy"
     },
     {
-      "title": "State Bank in tight spot as inflation rises",
+      "title": "JI rejects PM Shehbaz’s fuel relief scheme, says it cannot substitute for abolition of petroleum levy",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2029577/state-bank-in-tight-spot-as-inflation-rises",
-      "published_date": "2026-09-13T03:43:20+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2030158/ji-rejects-pm-shehbazs-fuel-relief-scheme-says-it-cannot-substitute-for-abolition-of-petroleum-levy",
+      "published_date": "2026-09-15T17:31:31+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Pakistan, African countries eye $15bn trade by 2030",
+      "title": "PTA orders PTML to suspend new ONIC SIM, eSIM issuance and subscriptions",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2029433/pakistan-african-countries-eye-15bn-trade-by-2030",
-      "published_date": "2026-09-13T01:59:04+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2030159/pta-orders-ptml-to-suspend-new-onic-sim-esim-issuance-and-subscriptions",
+      "published_date": "2026-09-15T17:14:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "KP CM alleges police abuse in Lahore as Punjab govt questions his visit",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2030149/kp-cm-alleges-police-abuse-in-lahore-as-punjab-govt-questions-his-visit",
+      "published_date": "2026-09-15T15:31:47+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Pims fire: Inquiry committee finds 'systemic, institutional failure' behind tragedy",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2030125/pims-fire-inquiry-committee-finds-systemic-institutional-failure-behind-tragedy",
       "published_date": "2026-09-15T14:40:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lahore police to begin using body-worn cameras after training",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2629511/lahore-police-to-begin-using-body-worn-cameras-after-training",
+      "published_date": "2026-09-15T14:22:32+00:00",
       "category": "Local Events"
     },
     {
@@ -596,6 +624,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2030084/these-baloch-fishermen-dont-want-fast-food",
       "published_date": "2026-09-15T11:57:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "CM Afridi leads second day of Lahore street movement amid heavy police deployment",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2629473/cm-afridileads-second-day-of-lahore-street-movement-amid-heavy-police-deployment",
+      "published_date": "2026-09-15T11:18:16+00:00",
       "category": "Local Events"
     },
     {
@@ -666,41 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2030042/civil-society-decries-delay-in-hearing-imaan-hadis-pleas",
       "published_date": "2026-09-15T02:39:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dar, IAEA chief Grossi agree Islamabad MoU remains best course to defuse tensions: MoFA",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2629392/dar-iaea-chief-grossi-agree-islamabad-mou-remains-best-course-to-defuse-tensions-mofa",
-      "published_date": "2026-09-15T01:13:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IHC virtually puts brakes on PTI's capital march",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2629335/ihc-virtually-puts-brakes-on-ptis-capital-march",
-      "published_date": "2026-09-14T19:44:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KP CM claims he was 'abducted' by authorities in Lahore; Punjab minister denies allegations",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2029911/kp-cm-claims-he-was-abducted-by-authorities-in-lahore-punjab-minister-denies-allegations",
-      "published_date": "2026-09-14T18:49:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New US rules change how international students can stay in America",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2029909/new-us-rules-change-how-international-students-can-stay-in-america",
-      "published_date": "2026-09-14T17:57:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lost in numbers",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2029800/lost-in-numbers",
-      "published_date": "2026-09-14T17:08:03+00:00",
       "category": "Local Events"
     }
   ]
