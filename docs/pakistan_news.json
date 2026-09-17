@@ -1,8 +1,29 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-09-16T15:22:45.373047+00:00",
+  "last_updated": "2026-09-17T00:57:04.246342+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Indian delegates attempt to interrupt Ayaz Sadiq’s address at Commonwealth conference",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2030399/indian-delegates-attempt-to-interrupt-ayaz-sadiqs-address-at-commonwealth-conference",
+      "published_date": "2026-09-16T16:51:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "South Africa pushes back on US visa curbs",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2030396/south-africa-pushes-back-on-us-visa-curbs",
+      "published_date": "2026-09-16T15:35:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan summons Indian Cd'A to protest INS Kolkata warship’s ‘provocative’ manoeuvres in EEZ",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2629695/pakistan-protests-indian-warships-provocative-manoeuvres-in-exclusive-economic-zone",
+      "published_date": "2026-09-16T11:28:43+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Bangladesh govt committee says national team should have participated in T20 World Cup",
       "source": "Dawn",
@@ -123,25 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Cheema orders overseas investment mechanism",
+      "title": "‘Belligerent action’: Pakistan protests Indian Navy vessel’s 'provocative' manoeuvre near PN vessel",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2030413/belligerent-action-pakistan-protests-indian-navy-vessels-provocative-manoeuvre-near-pn-vessel",
+      "published_date": "2026-09-16T19:19:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan to stand by Saudi Arabia 'practically and diplomatically' if Yemen conflict escalates: Asif",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2030407/pakistan-to-stand-by-saudi-arabia-practically-and-diplomatically-if-yemen-conflict-escalates-asif",
+      "published_date": "2026-09-16T18:46:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yemeni forces clash with Houthis near Saudi border",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2030410/yemeni-forces-clash-with-houthis-near-saudi-border",
+      "published_date": "2026-09-16T17:42:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Khuhro regrets ‘unintentional’ remarks about Field Marshal Asim Munir",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2628610/cheema-orders-overseas-investment-mechanism",
-      "published_date": "2026-09-10T15:17:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Algeria severs diplomatic ties with UAE over ‘provocative, hostile’ actions",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2028887/algeria-severs-diplomatic-ties-with-uae-over-provocative-hostile-actions",
-      "published_date": "2026-09-10T13:00:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "FO says Makkah defence pact 'defensive' in nature, expansion currently 'not on the cards'",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2028847/fo-says-makkah-defence-pact-defensive-in-nature-expansion-currently-not-on-the-cards",
-      "published_date": "2026-09-10T08:51:08+00:00",
-      "category": "Diplomacy"
+      "url": "https://tribune.com.pk/story/2629724/khuhro-regrets-unintentional-remarks-about-field-marshal-asim-munir",
+      "published_date": "2026-09-16T15:28:26+00:00",
+      "category": "Military"
     },
     {
       "title": "CDF Munir, US-based POWERUS discuss defence technology, cooperation",
@@ -155,6 +183,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2030388/openais-rogue-agents-probed-hugging-face-for-weaknesses-2-months-before-major-hack",
       "published_date": "2026-09-16T13:44:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Makkah defence pact has reached point of implementation: Defence Minister Khawaja Asif",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2629708/pakistan-will-defend-holy-cities-with-or-without-agreement-khawaja-asif",
+      "published_date": "2026-09-16T13:36:26+00:00",
       "category": "Military"
     },
     {
@@ -249,39 +284,32 @@
       "category": "Military"
     },
     {
-      "title": "China imposes travel curbs to protect 'national security'",
+      "title": "Petroleum dealers demand govt devise mechanism for fuel subsidy reimbursement",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030095/china-imposes-travel-curbs-to-protect-national-security",
-      "published_date": "2026-09-15T07:20:55+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/2030414/petroleum-dealers-demand-govt-devise-mechanism-for-fuel-subsidy-reimbursement",
+      "published_date": "2026-09-16T18:57:58+00:00",
+      "category": "Energy"
     },
     {
-      "title": "War on Iran resulted in munitions shortfall for US, confirms Pentagon report",
+      "title": "Govt increases petrol price by Rs6.88 per litre, HSD by Rs5.62 per litre",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030086/war-on-iran-resulted-in-munitions-shortfall-for-us-confirms-pentagon-report",
-      "published_date": "2026-09-15T06:44:08+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/2030412/govt-increases-petrol-price-by-rs688-per-litre-hsd-by-rs562-per-litre",
+      "published_date": "2026-09-16T18:16:33+00:00",
+      "category": "Energy"
     },
     {
-      "title": "CDF Munir reaffirms commitment to bolstering defence ties in meeting with Indonesian naval chief",
+      "title": "Govt working to introduce virtual grid system, says power minister",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2029894/cdf-munir-reaffirms-commitment-to-bolstering-defence-ties-in-meeting-with-indonesian-naval-chief",
-      "published_date": "2026-09-14T14:56:18+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/2030404/govt-working-to-introduce-virtual-grid-system-says-power-minister",
+      "published_date": "2026-09-16T16:46:54+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Trump claims 'sick conspiracy' against AI companies amid calls for slowed development",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2029897/trump-claims-sick-conspiracy-against-ai-companies-amid-calls-for-slowed-development",
-      "published_date": "2026-09-14T14:44:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Brent crude at $107 per barrel following new strikes on Saudi Arabia, Strait of Hormuz",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2029863/brent-crude-at-107-per-barrel-following-new-strikes-on-saudi-arabia-strait-of-hormuz",
-      "published_date": "2026-09-14T09:13:57+00:00",
-      "category": "Military"
+      "title": "Government raises petrol price by Rs6.88, HSD by Rs5.62 for Sep 17",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2629706/government-raises-petrol-price-by-rs688-hsd-by-rs562-for-sep-17",
+      "published_date": "2026-09-16T13:10:48+00:00",
+      "category": "Energy"
     },
     {
       "title": "PM Shehbaz holds review meeting for fuel subsidy scheme amid escalation in Gulf tensions, rising oil prices",
@@ -393,34 +421,6 @@
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2629201/oil-prices-up-over-3-following-new-strikes-on-saudi-strait-of-hormuz",
       "published_date": "2026-09-14T01:20:15+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "PM Shehbaz announces 'relief scheme' for bikes, autos, 800cc vehicles amid rising fuel prices",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2029634/pm-shehbaz-announces-relief-scheme-for-bikes-autos-800cc-vehicles-amid-rising-fuel-prices",
-      "published_date": "2026-09-13T14:17:57+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "ECC's decision sought on petroleum rights",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2628957/eccs-decision-sought-on-petroleum-rights",
-      "published_date": "2026-09-12T16:00:59+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Flawed NEV incentive",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2029306/flawed-nev-incentive",
-      "published_date": "2026-09-12T13:39:04+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Pakistan condemns attacks on Saudi oil pipeline, reaffirms support for kingdom's sovereignty and security",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2628912/pakistan-condemns-drone-attacks-on-saudi-oil-pipeline-reaffirms-support-for-kingdoms-sovereignty",
-      "published_date": "2026-09-12T05:13:49+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,13 @@
       "category": "Economy"
     },
     {
+      "title": "PHF requests AHF to shift Asian Champions Trophy out of India or relocate Pakistan matches",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2030401/phf-requests-ahf-to-shift-asian-champions-trophy-out-of-india-or-relocate-pakistan-matches",
+      "published_date": "2026-09-16T15:35:56+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "PM orders implementation of Pims inquiry recommendations within 3 months",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2030361/pm-orders-implementation-of-pims-inquiry-recommendations-within-3-months",
@@ -589,6 +596,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2030375/cop-among-5-killed-in-armed-attack-on-shafiq-mengals-khuzdar-camp",
       "published_date": "2026-09-16T13:04:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Karachi wakes to sea-born stench",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2629701/what-caused-the-foul-smell-that-swept-across-karachi",
+      "published_date": "2026-09-16T11:56:29+00:00",
       "category": "Local Events"
     },
     {
@@ -687,20 +701,6 @@
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2629506/new-index-reorders-provincial-race",
       "published_date": "2026-09-15T14:21:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Punjab rolls out body cameras for police officials to 'strengthen accountability, modernise policing'",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030143/punjab-rolls-out-body-cameras-for-police-officials-to-strengthen-accountability-modernise-policing",
-      "published_date": "2026-09-15T14:09:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Divide and rule?",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030057/divide-and-rule",
-      "published_date": "2026-09-15T13:57:43+00:00",
       "category": "Local Events"
     }
   ]
