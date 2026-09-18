@@ -1,8 +1,29 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-09-17T15:29:51.776616+00:00",
+  "last_updated": "2026-09-18T00:53:04.050294+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "PM Shehbaz reaches London before heading to New York for UNGA session",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2030656/pm-shehbaz-reaches-london-before-heading-to-new-york-for-unga-session",
+      "published_date": "2026-09-17T18:50:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan, China reaffirm consensus at inaugural Boundary Joint Commission meeting",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2030650/pakistan-china-reaffirm-consensus-at-inaugural-boundary-joint-commission-meeting",
+      "published_date": "2026-09-17T18:33:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan abstains in UN vote on Iran sanctions panel",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2030647/pakistan-abstains-in-un-vote-on-iran-sanctions-panel",
+      "published_date": "2026-09-17T16:46:48+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pakistan committed to implementing Saudi defence pact, Makkah agreement: FO",
       "source": "Dawn",
@@ -123,25 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Shafqat Ali Khan presents diplomatic credentials as Pakistan’s first envoy to Armenia",
+      "title": "Imaan Mazari, husband sent on judicial remand in another case after SC suspends sentences",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2029337/shafqat-ali-khan-presents-diplomatic-credentials-as-pakistans-first-envoy-to-armenia",
-      "published_date": "2026-09-12T06:23:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2030611/imaan-mazari-husband-sent-on-judicial-remand-in-another-case-after-sc-suspends-sentences",
+      "published_date": "2026-09-17T18:25:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "Pakistan, Tajikistan eye agri, food-sector cooperation",
+      "title": "Pakistan 'will go to any extent' to defend Saudi Arabia: DG ISPR",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2628845/pakistan-tajikistan-eye-agri-food-sector-cooperation",
-      "published_date": "2026-09-11T15:54:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://tribune.com.pk/story/2629939/pakistan-will-go-to-any-extent-to-defend-saudi-arabia-dg-ispr",
+      "published_date": "2026-09-17T16:19:10+00:00",
+      "category": "Military"
     },
     {
-      "title": "9 rights groups, including CPJ and RSF, urge PM to address 'deteriorating press freedom' in Pakistan",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2029090/9-rights-groups-including-cpj-and-rsf-urge-pm-to-address-deteriorating-press-freedom-in-pakistan",
-      "published_date": "2026-09-11T08:48:21+00:00",
-      "category": "Diplomacy"
+      "title": "Six soldiers martyred, 10 terrorists killed in K-P IBOs: ISPR",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2629925/six-soldiers-martyred-10-terrorists-killed-in-k-p-ibos-ispr",
+      "published_date": "2026-09-17T15:07:09+00:00",
+      "category": "Military"
     },
     {
       "title": "SC suspends Imaan, Hadi's sentences in controversial social media posts case, orders their release",
@@ -263,31 +284,38 @@
       "category": "Military"
     },
     {
-      "title": "Ban on Indian aircraft using Pakistani airspace extended until Oct 24",
+      "title": "Govt lowers petrol price by Rs0.43 per litre, raises HSD by Rs3.47 per litre",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030359/ban-on-indian-aircraft-using-pakistani-airspace-extended-until-oct-24",
-      "published_date": "2026-09-16T09:31:15+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/2030655/govt-lowers-petrol-price-by-rs043-per-litre-raises-hsd-by-rs347-per-litre",
+      "published_date": "2026-09-17T19:02:33+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Saudi-led coalition says Houthis targeted Makkah with drone, warns of 'red line'",
+      "title": "PM’s fuel subsidy scheme faces first-day hurdles at petrol pumps",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030333/saudi-led-coalition-says-houthis-targeted-makkah-with-drone-warns-of-red-line",
-      "published_date": "2026-09-16T07:54:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "DG ISPR says Makkah defence pact has 'no regional aspirations', intended for collective deterrence",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030336/dg-ispr-says-makkah-defence-pact-has-no-regional-aspirations-intended-for-collective-deterrence",
-      "published_date": "2026-09-16T07:37:35+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/2030654/pms-fuel-subsidy-scheme-faces-first-day-hurdles-at-petrol-pumps",
+      "published_date": "2026-09-17T18:43:25+00:00",
+      "category": "Energy"
     },
     {
       "title": "Energy disruption hits Pakistan and Bangladesh as Gulf crisis worsens",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2030642/energy-disruption-hits-pakistan-and-bangladesh-as-gulf-crisis-worsens",
       "published_date": "2026-09-17T15:02:56+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Govt raises diesel by Rs3.47, cuts petrol by 43 paisas for Sep 18",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2629906/govt-raises-diesel-price-by-rs347-cuts-petrol-price-by-43-paisas-for-sep-18",
+      "published_date": "2026-09-17T13:04:38+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Energy disruption hits Bangladesh and Pakistan as Gulf crisis worsens",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2629886/energy-disruption-hits-bangladesh-and-pakistan-as-gulf-crisis-worsens",
+      "published_date": "2026-09-17T10:35:29+00:00",
       "category": "Energy"
     },
     {
@@ -396,32 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Oil climbs as Saudi pipeline outage, fresh attacks heighten supply concerns",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2629387/oil-climbs-as-saudi-pipeline-outage-fresh-attacks-heighten-supply-concerns",
-      "published_date": "2026-09-15T00:56:52+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Babar Azam set to return to domestic red-ball cricket after nearly seven years",
+      "title": "Pakistan Bar Council urges govt to contain fuel price inflation, provide relief to citizens",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2029908/babar-azam-set-to-return-to-domestic-red-ball-cricket-after-nearly-seven-years",
-      "published_date": "2026-09-14T20:06:34+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Govt increases petrol by Rs4.42 per litre, HSD by Rs6.10 per litre amid rising global oil prices",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2029913/govt-increases-petrol-by-rs442-per-litre-hsd-by-rs610-per-litre-amid-rising-global-oil-prices",
-      "published_date": "2026-09-14T18:12:46+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Day-to-day oil, gas matters do not require CCI nod",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2629310/day-to-day-oil-gas-matters-do-not-require-cci-nod",
-      "published_date": "2026-09-14T17:06:07+00:00",
-      "category": "Energy"
+      "url": "https://www.dawn.com/news/2030643/pakistan-bar-council-urges-govt-to-contain-fuel-price-inflation-provide-relief-to-citizens",
+      "published_date": "2026-09-17T15:57:02+00:00",
+      "category": "Economy"
     },
     {
       "title": "Bab al-Mandab chokepoint: What complete closure would mean for Pakistan",
@@ -557,11 +564,11 @@
       "category": "Economy"
     },
     {
-      "title": "Policy rate status quo triggers PSX rebound",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2629509/policy-rate-status-quo-triggers-psx-rebound",
-      "published_date": "2026-09-15T14:21:53+00:00",
-      "category": "Economy"
+      "title": "Punjab Assembly begins evaluation of AI use in public services",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2030652/punjab-assembly-begins-evaluation-of-ai-use-in-public-services",
+      "published_date": "2026-09-17T18:34:17+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Two siblings’ bodies recovered in Mirpur canal, search for third child called off",
@@ -610,6 +617,13 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2030433/capital-development-authority-cancels-2999-kanal-bahria-town-layout-plan",
       "published_date": "2026-09-17T04:36:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Islamabad ATC sends Imaan, Hadi on judicial remand after SC orders release on bail",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2629825/sc-grants-bail-to-imaan-mazari-hadi-ali-chattha-pending-ihc-decision",
+      "published_date": "2026-09-17T03:06:07+00:00",
       "category": "Local Events"
     },
     {
@@ -687,20 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2030318/in-the-event-of-a-loss-of-air-quality-secure-your-own-cm-first",
       "published_date": "2026-09-16T06:07:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "President approves Tamgha-i-Shujaat for Pims nurse who saved newborn during deadly fire",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030337/president-approves-tamgha-i-shujaat-for-pims-nurse-who-saved-newborn-during-deadly-fire",
-      "published_date": "2026-09-16T05:50:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IHC allows Afghan doctor to continue post-grad training",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030258/ihc-allows-afghan-doctor-to-continue-post-grad-training",
-      "published_date": "2026-09-16T02:50:34+00:00",
       "category": "Local Events"
     }
   ]
