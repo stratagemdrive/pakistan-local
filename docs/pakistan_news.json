@@ -1,6 +1,6 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-09-18T14:53:34.168355+00:00",
+  "last_updated": "2026-09-19T00:44:57.684415+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -144,6 +144,20 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Researchers used Claude to breach OpenAI's internal systems",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2030904/researchers-used-claude-to-breach-openais-internal-systems",
+      "published_date": "2026-09-18T14:54:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Aramco halts October crude deliveries to some European refiners after pipeline attack: report",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2630078/aramco-halts-october-crude-deliveries-to-some-european-refiners-after-pipeline-attack-report",
+      "published_date": "2026-09-18T11:01:53+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Anthropic says AI systems moving towards building themselves",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2030869/anthropic-says-ai-systems-moving-towards-building-themselves",
@@ -270,18 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "India to take 'all necessary measures' to protect economic interests after US passes Russia sanctions bill",
+      "title": "Govt reduces petrol price by Rs1.65 per litre, HSD by Rs0.88 per litre",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030596/india-to-take-all-necessary-measures-to-protect-economic-interests-after-us-passes-russia-sanctions-bill",
-      "published_date": "2026-09-17T06:37:16+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/2030920/govt-reduces-petrol-price-by-rs165-per-litre-hsd-by-rs088-per-litre",
+      "published_date": "2026-09-18T17:45:37+00:00",
+      "category": "Energy"
     },
     {
-      "title": "‘Belligerent action’: Pakistan protests Indian Navy vessel’s 'provocative' manoeuvre near PN vessel",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030413/belligerent-action-pakistan-protests-indian-navy-vessels-provocative-manoeuvre-near-pn-vessel",
-      "published_date": "2026-09-16T19:19:24+00:00",
-      "category": "Military"
+      "title": "Govt decreases petrol price by Rs1.65, HSD by 88 paisas till Sept 21",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2630086/govt-decreases-petrol-price-by-rs165-hsd-by-88-paisas-till-sept-21",
+      "published_date": "2026-09-18T12:32:03+00:00",
+      "category": "Energy"
     },
     {
       "title": "PM Shehbaz directs inclusion of 20-year-old bikes, rickshaws in fuel relief scheme",
@@ -410,18 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "PSX sheds over 1,300 points as selling pressure persists",
+      "title": "New US sanctions bill on Russia puts India's Modi in a bind",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2629620/psx-slips-60751-points-as-oil-retreats-sector-sell-off-weigh-on-sentiment",
-      "published_date": "2026-09-16T03:00:33+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Ministers sound alarm as energy crunch looms",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030288/ministers-sound-alarm-as-energy-crunch-looms",
-      "published_date": "2026-09-16T02:36:32+00:00",
-      "category": "Energy"
+      "url": "https://tribune.com.pk/story/2630079/new-us-sanctions-bill-on-russia-puts-indias-modi-in-a-bind",
+      "published_date": "2026-09-18T11:02:10+00:00",
+      "category": "Economy"
     },
     {
       "title": "PSX up nearly 1,850 points on interest in bank, cement stocks",
@@ -557,11 +564,39 @@
       "category": "Economy"
     },
     {
-      "title": "Millers seek to export 1m tonnes of sugar",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2629733/millers-seek-to-export-1m-tonnes-of-sugar",
-      "published_date": "2026-09-16T15:47:25+00:00",
-      "category": "Economy"
+      "title": "Trump bans media outlets CNN, MS NOW, Politico from White House",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2030930/trump-bans-media-outlets-cnn-ms-now-politico-from-white-house",
+      "published_date": "2026-09-18T19:50:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Govt reaches out to JI, invites party to another round of talks to break deadlock",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2030918/govt-reaches-out-to-ji-invites-party-to-another-round-of-talks-to-break-deadlock",
+      "published_date": "2026-09-18T18:52:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Supreme Court admonishes Sindh police over delays in filing FIRs",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2030908/supreme-court-admonishes-sindh-police-over-delays-in-filing-firs",
+      "published_date": "2026-09-18T15:57:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Karachi police claim to unearth international meth supply network, arrest two",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2030905/karachi-police-claim-to-unearth-international-meth-supply-network-arrest-two",
+      "published_date": "2026-09-18T15:35:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lawyers’ body to boycott Islamabad court proceedings on Saturday in protest against Imaan, Hadi’s rearrest",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2030882/lawyers-body-to-boycott-islamabad-court-proceedings-on-saturday-in-protest-against-imaan-hadis-rearrest",
+      "published_date": "2026-09-18T15:01:13+00:00",
+      "category": "Local Events"
     },
     {
       "title": "15 cops among 21 martyred in blast at Kohat Police Lines, more than 80 injured",
@@ -599,10 +634,24 @@
       "category": "Local Events"
     },
     {
+      "title": "Archbishop of Canterbury ‘withdraws’ award given to Tahir Ashrafi",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2630087/archbishop-of-canterbury-withdraws-award-given-to-tahir-ashrafi",
+      "published_date": "2026-09-18T12:59:44+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Lahore ATC disposes of petition by PTI leader Hammad Azhar’s mother, wife seeking permission to meet him",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2030880/lahore-atc-disposes-of-petition-by-pti-leader-hammad-azhars-mother-wife-seeking-permission-to-meet-him",
       "published_date": "2026-09-18T12:55:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "IHC says political protests cannot infringe citizens’ fundamental rights ahead of PTI march",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2630075/ihc-says-political-protests-cannot-infringe-citizens-fundamental-rights-ahead-of-pti-march",
+      "published_date": "2026-09-18T10:49:25+00:00",
       "category": "Local Events"
     },
     {
@@ -652,55 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2030629/two-siblings-bodies-recovered-in-mirpur-canal-search-for-third-child-called-off",
       "published_date": "2026-09-17T15:02:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'A chief minister's trips are never personal': Maryam claps back at criticism over use of govt aircraft",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030633/a-chief-ministers-trips-are-never-personal-maryam-claps-back-at-criticism-over-use-of-govt-aircraft",
-      "published_date": "2026-09-17T14:09:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Salman Akram Raja says released after PTI claims detention by Islamabad police",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030635/salman-akram-raja-says-released-after-pti-claims-detention-by-islamabad-police",
-      "published_date": "2026-09-17T13:30:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Al-Qadir Trust case: Bushra Bibi moves FCC for early hearing of sentence suspension plea",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030613/al-qadir-trust-case-bushra-bibi-moves-fcc-for-early-hearing-of-sentence-suspension-plea",
-      "published_date": "2026-09-17T10:02:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ready to quit politics if PML-N can stage bigger power show than PTI: CM Afridi",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2629880/ready-to-quit-politics-if-pml-n-can-stage-bigger-power-show-than-pti-cm-afridi",
-      "published_date": "2026-09-17T09:46:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "LHC CJ refuses to hear Rizwan's plea against NCCIA probe",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030605/lhc-cj-refuses-to-hear-rizwans-plea-against-nccia-probe",
-      "published_date": "2026-09-17T08:39:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Capital Development Authority cancels 2,999-kanal Bahria Town layout plan",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030433/capital-development-authority-cancels-2999-kanal-bahria-town-layout-plan",
-      "published_date": "2026-09-17T04:36:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Islamabad ATC sends Imaan, Hadi on judicial remand after SC orders release on bail",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2629825/sc-grants-bail-to-imaan-mazari-hadi-ali-chattha-pending-ihc-decision",
-      "published_date": "2026-09-17T03:06:07+00:00",
       "category": "Local Events"
     }
   ]
