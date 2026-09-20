@@ -1,13 +1,27 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-09-20T00:29:12.813809+00:00",
+  "last_updated": "2026-09-20T14:38:34.509192+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Packing for a pope: Behind the scenes on foreign trips",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031363/packing-for-a-pope-behind-the-scenes-on-foreign-trips",
+      "published_date": "2026-09-20T14:01:43+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "DPM Dar to arrive ahead of PM Shehbaz’s UNGA visit, hold preliminary consultations",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2031167/dpm-dar-to-arrive-ahead-of-pm-shehbazs-unga-visit-hold-preliminary-consultations",
       "published_date": "2026-09-19T18:18:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "PSX edges up amid ME tensions",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2630249/psx-edges-up-amid-me-tensions",
+      "published_date": "2026-09-19T16:47:46+00:00",
       "category": "Diplomacy"
     },
     {
@@ -130,18 +144,95 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pakistan summons Indian Cd'A to protest INS Kolkata warship’s ‘provocative’ manoeuvres in EEZ",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2629695/pakistan-protests-indian-warships-provocative-manoeuvres-in-exclusive-economic-zone",
-      "published_date": "2026-09-16T11:28:43+00:00",
-      "category": "Diplomacy"
+      "title": "AI 'warning shots' focus Beijing on national security risks",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031366/ai-warning-shots-focus-beijing-on-national-security-risks",
+      "published_date": "2026-09-20T13:56:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "Bangladesh govt committee says national team should have participated in T20 World Cup",
+      "title": "US warns Middle East conflict could 'escalate rapidly', urges citizens to reconsider travel",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030353/bangladesh-govt-committee-says-national-team-should-have-participated-in-t20-world-cup",
-      "published_date": "2026-09-16T07:38:51+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2031365/us-warns-middle-east-conflict-could-escalate-rapidly-urges-citizens-to-reconsider-travel",
+      "published_date": "2026-09-20T13:37:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "North Korea fires ballistic missile into East Sea: Seoul",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031349/north-korea-fires-ballistic-missile-into-east-sea-seoul",
+      "published_date": "2026-09-20T09:41:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan miss out on Asian Games women's cricket final as Athapaththu blitz takes Sri Lanka through",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031314/pakistan-miss-out-on-asian-games-womens-cricket-final-as-athapaththu-blitz-takes-sri-lanka-through",
+      "published_date": "2026-09-20T08:57:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Absolutely fake': Info ministry rubbishes claims of PAF jets getting damaged in Houthi attack on Saudi base",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031345/absolutely-fake-info-ministry-rubbishes-claims-of-paf-jets-getting-damaged-in-houthi-attack-on-saudi-base",
+      "published_date": "2026-09-20T08:26:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Security forces kill 5 terrorists, recover 23 abductees in operation along N-25 highway near Balochistan's Kalat: ISPR",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031253/security-forces-kill-5-terrorists-recover-23-abductees-in-operation-along-n-25-highway-near-balochistans-kalat-ispr",
+      "published_date": "2026-09-20T07:32:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "British pop star Ed Sheeran calls Israel's treatment of Gazans 'unjustifiable,' apologises for Macklemore controversy",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031340/british-pop-star-ed-sheeran-calls-israels-treatment-of-gazans-unjustifiable-apologises-for-macklemore-controversy",
+      "published_date": "2026-09-20T07:05:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Turkiye says it could help meet Saudi Arabia’s military needs",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031285/turkiye-says-it-could-help-meet-saudi-arabias-military-needs",
+      "published_date": "2026-09-20T05:07:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "An eye on Balochistan border",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031271/an-eye-on-balochistan-border",
+      "published_date": "2026-09-20T04:29:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kohat attack",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031266/kohat-attack",
+      "published_date": "2026-09-20T04:12:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Navy chief visits units at sea, Creeks Area to review SEASPARK 2026",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2630348/navy-chief-visits-units-at-sea-creeks-area-to-review-seaspark-2026",
+      "published_date": "2026-09-20T03:10:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan snubs Taliban’s ‘pretence of dialogue’",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031231/pakistan-snubs-talibans-pretence-of-dialogue",
+      "published_date": "2026-09-20T02:47:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "FM Dar departs for New York to attend UN General Assembly",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2630339/fm-dar-departs-for-new-york-to-attend-un-general-assembly",
+      "published_date": "2026-09-20T01:57:59+00:00",
+      "category": "Military"
     },
     {
       "title": "Houthis say targeted 'sensitive sites' in Riyadh, Aramco facilities in Yanbu",
@@ -155,6 +246,20 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2031163/denmark-hails-binding-greenland-deal-with-trump",
       "published_date": "2026-09-19T18:33:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Middle East conflict dents exports",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2630269/middle-east-conflict-dents-exports",
+      "published_date": "2026-09-19T18:20:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "A devoted father: human stories behind Kohat attack",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2630270/a-devoted-father-human-stories-behind-kohat-attack",
+      "published_date": "2026-09-19T18:20:21+00:00",
       "category": "Military"
     },
     {
@@ -179,109 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Kohat Police Lines attack: 8 terrorists killed as overnight clearance operation concludes",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2031100/kohat-police-lines-attack-8-terrorists-killed-as-overnight-clearance-operation-concludes",
-      "published_date": "2026-09-19T14:10:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump lists 25 'top achievements' as midterms loom",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2031142/trump-lists-25-top-achievements-as-midterms-loom",
-      "published_date": "2026-09-19T12:49:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Smoke visible near Riyadh airport after Saudi Arabia issues all-clear",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2031137/smoke-visible-near-riyadh-airport-after-saudi-arabia-issues-all-clear",
-      "published_date": "2026-09-19T12:44:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "10 days that changed the course of AI",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2031131/10-days-that-changed-the-course-of-ai",
-      "published_date": "2026-09-19T12:25:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "A brave cop, a devoted father: Human stories behind Kohat attack",
+      "title": "Govt launches competitive power market for large consumers",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2630225/a-brave-cop-a-devoted-father-human-stories-behind-kohat-attack",
-      "published_date": "2026-09-19T11:54:33+00:00",
-      "category": "Military"
+      "url": "https://tribune.com.pk/story/2630358/govt-launches-competitive-power-market-for-large-consumers",
+      "published_date": "2026-09-20T04:21:17+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Pakistan warns Afghanistan after Kohat attack, says it can eliminate terror threats ‘wherever they are’",
+      "title": "Power consumers may face Rs1.73/unit tariff hike",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031246/power-consumers-may-face-rs173unit-tariff-hike",
+      "published_date": "2026-09-20T02:14:07+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Rs60m penalty slapped on edible oil tanker owners",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2630218/pakistan-warns-afghanistan-after-kohat-attack-says-it-can-eliminate-terror-threats-wherever-they-are",
-      "published_date": "2026-09-19T10:29:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says Denmark to give US 'permanent control' over Greenland security",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2031087/trump-says-denmark-to-give-us-permanent-control-over-greenland-security",
-      "published_date": "2026-09-19T10:19:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "North Korea says nuclear status 'irreversible' after UN atomic agency rebuke",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2031119/north-korea-says-nuclear-status-irreversible-after-un-atomic-agency-rebuke",
-      "published_date": "2026-09-19T09:42:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Security forces kill 11 terrorists during operations in Balochistan's Panjgur, Chagai",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2031095/security-forces-kill-11-terrorists-during-operations-in-balochistans-panjgur-chagai",
-      "published_date": "2026-09-19T07:28:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Dar underscores need for uninterrupted energy supplies, safe passage of ships in call with Iranian FM",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2630197/dar-underscores-need-for-uninterrupted-energy-supplies-safe-passage-of-ships-in-call-with-iranian-fm",
-      "published_date": "2026-09-19T05:35:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Shrinking space for diplomacy raising risks in South Asia’",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2031016/shrinking-space-for-diplomacy-raising-risks-in-south-asia",
-      "published_date": "2026-09-19T03:02:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Guidelines issued for officials to prevent cyberattack",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2031013/guidelines-issued-for-officials-to-prevent-cyberattack",
-      "published_date": "2026-09-19T02:47:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Researchers used Claude to breach OpenAI's internal systems",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030904/researchers-used-claude-to-breach-openais-internal-systems",
-      "published_date": "2026-09-18T14:54:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Aramco halts October crude deliveries to some European refiners after pipeline attack: report",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2630078/aramco-halts-october-crude-deliveries-to-some-european-refiners-after-pipeline-attack-report",
-      "published_date": "2026-09-18T11:01:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Anthropic says AI systems moving towards building themselves",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030869/anthropic-says-ai-systems-moving-towards-building-themselves",
-      "published_date": "2026-09-18T09:45:58+00:00",
-      "category": "Military"
+      "url": "https://tribune.com.pk/story/2630246/rs60m-penalty-slapped-on-edible-oil-tanker-owners",
+      "published_date": "2026-09-19T16:47:46+00:00",
+      "category": "Energy"
     },
     {
       "title": "Govt reduces petrol price by Rs1.65 per litre, HSD by Rs0.88 per litre",
@@ -403,25 +424,32 @@
       "category": "Energy"
     },
     {
-      "title": "Petroleum dealers demand govt devise mechanism for fuel subsidy reimbursement",
+      "title": "TTAP forms committee to consult with political parties, reach consensus on multi-party moot",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030414/petroleum-dealers-demand-govt-devise-mechanism-for-fuel-subsidy-reimbursement",
-      "published_date": "2026-09-16T18:57:58+00:00",
-      "category": "Energy"
+      "url": "https://www.dawn.com/news/2031348/ttap-forms-committee-to-consult-with-political-parties-reach-consensus-on-multi-party-moot",
+      "published_date": "2026-09-20T11:42:49+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Govt increases petrol price by Rs6.88 per litre, HSD by Rs5.62 per litre",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030412/govt-increases-petrol-price-by-rs688-per-litre-hsd-by-rs562-per-litre",
-      "published_date": "2026-09-16T18:16:33+00:00",
-      "category": "Energy"
+      "title": "Long marches, strikes, sit-ins may cost Pakistan’s economy Rs120b a day: Aurangzeb",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2630342/long-marches-strikes-sit-ins-may-cost-pakistans-economy-rs120b-a-day-aurangzeb",
+      "published_date": "2026-09-20T02:16:35+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Govt working to introduce virtual grid system, says power minister",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030404/govt-working-to-introduce-virtual-grid-system-says-power-minister",
-      "published_date": "2026-09-16T16:46:54+00:00",
-      "category": "Energy"
+      "title": "Data gaps linked to governance",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2630244/data-gaps-linked-to-governance",
+      "published_date": "2026-09-19T16:47:46+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pakistan, Rwanda eye wider trade ties",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2630245/pakistan-rwanda-eye-wider-trade-ties",
+      "published_date": "2026-09-19T16:47:46+00:00",
+      "category": "Economy"
     },
     {
       "title": "DPM Dar directs inclusion of all operational fuel stations in PM’s relief scheme",
@@ -536,32 +564,95 @@
       "category": "Economy"
     },
     {
-      "title": "Pakistan eyes bigger China swap line, expects US financing decision soon",
+      "title": "Aleema detained under MPO in Lahore ahead of PTI's Sept 27 protest",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030620/pakistan-eyes-bigger-china-swap-line-expects-us-financing-decision-soon",
-      "published_date": "2026-09-17T09:44:02+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2031350/aleema-detained-under-mpo-in-lahore-ahead-of-ptis-sept-27-protest",
+      "published_date": "2026-09-20T14:15:58+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Impoverished by war in Iran, Afghan migrants return to Taliban rule",
+      "title": "'Self-inflicted pain': Finance minister says protests, sit-ins to cause daily loss of around Rs120bn",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030609/impoverished-by-war-in-iran-afghan-migrants-return-to-taliban-rule",
-      "published_date": "2026-09-17T08:51:36+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2031342/self-inflicted-pain-finance-minister-says-protests-sit-ins-to-cause-daily-loss-of-around-rs120bn",
+      "published_date": "2026-09-20T13:07:54+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Australia bars foreign students from bringing partners, children in immigration crackdown",
+      "title": "Italy to ban veils in schools, limit foreign students per class, Meloni says",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030606/australia-bars-foreign-students-from-bringing-partners-children-in-immigration-crackdown",
-      "published_date": "2026-09-17T07:41:47+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2031364/italy-to-ban-veils-in-schools-limit-foreign-students-per-class-meloni-says",
+      "published_date": "2026-09-20T12:52:12+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Fed hikes rates, gold challenges old rules",
+      "title": "JI launches protest march towards Islamabad against petroleum levy",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031346/ji-launches-protest-march-towards-islamabad-against-petroleum-levy",
+      "published_date": "2026-09-20T12:50:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "MQM-P wants administrative restructuring of Sindh without altering boundaries: Mustafa Kamal",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031214/mqm-p-wants-administrative-restructuring-of-sindh-without-altering-boundaries-mustafa-kamal",
+      "published_date": "2026-09-20T06:26:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "KP CM Afridi blames deteriorating security situation on ‘failed’ foreign policy",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031201/kp-cm-afridi-blames-deteriorating-security-situation-on-failed-foreign-policy",
+      "published_date": "2026-09-20T06:05:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tarar warns no violent group will be allowed to enter Islamabad",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2629866/fed-hikes-rates-gold-challenges-old-rules",
-      "published_date": "2026-09-17T07:33:43+00:00",
-      "category": "Economy"
+      "url": "https://tribune.com.pk/story/2630368/tarar-warns-no-violent-group-will-be-allowed-to-enter-islamabad",
+      "published_date": "2026-09-20T05:40:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Capital police move into action against PTI",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031187/capital-police-move-into-action-against-pti",
+      "published_date": "2026-09-20T05:28:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A small republic in every classroom",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031270/a-small-republic-in-every-classroom",
+      "published_date": "2026-09-20T04:44:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fuel relief scheme revised; SMS charges scrapped",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031242/fuel-relief-scheme-revised-sms-charges-scrapped",
+      "published_date": "2026-09-20T03:16:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SMOKERS’ CORNER: WHY THE PPP DOMINATES SINDH",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2030720/smokers-corner-why-the-ppp-dominates-sindh",
+      "published_date": "2026-09-20T00:48:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Govt finalises sweeping  civil service reforms",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031243/govt-finalises-sweeping-civil-service-reforms",
+      "published_date": "2026-09-19T23:50:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Govt opens talks with opposition",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2630290/govt-opens-talks-with-opposition-1",
+      "published_date": "2026-09-19T19:39:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Govt, JI talks end inconclusively as Islamabad seeks delay in long march over security threats",
@@ -610,97 +701,6 @@
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2630216/cm-afridi-meets-opposition-leaders-as-pti-readies-for-sept-27-protest",
       "published_date": "2026-09-19T10:12:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PM widens fuel subsidy, eases weekly limits",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2031027/pm-widens-fuel-subsidy-eases-weekly-limits",
-      "published_date": "2026-09-19T07:40:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why Pakistan needs administrative restructuring",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2031101/why-pakistan-needs-administrative-restructuring",
-      "published_date": "2026-09-19T07:33:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sindh’s first Gender Parity Report highlights challenges amid gains",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2031000/sindhs-first-gender-parity-report-highlights-challenges-amid-gains",
-      "published_date": "2026-09-19T04:10:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "An attack on the bar: The re-imprisonment of Imaan Mazari and Hadi Chattha",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2031078/an-attack-on-the-bar-the-re-imprisonment-of-imaan-mazari-and-hadi-chattha",
-      "published_date": "2026-09-19T03:30:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Security forces kill 11 terrorists in Balochistan operations: state media",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2630183/security-forces-kill-11-terrorists-in-balochistan-operations-state-media",
-      "published_date": "2026-09-19T02:42:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Senate panel calls for accountability in allocation of state advertising",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2031022/senate-panel-calls-for-accountability-in-allocation-of-state-advertising",
-      "published_date": "2026-09-18T23:08:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump bans media outlets CNN, MS NOW, Politico from White House",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030930/trump-bans-media-outlets-cnn-ms-now-politico-from-white-house",
-      "published_date": "2026-09-18T19:50:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Govt reaches out to JI, invites party to another round of talks to break deadlock",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030918/govt-reaches-out-to-ji-invites-party-to-another-round-of-talks-to-break-deadlock",
-      "published_date": "2026-09-18T18:52:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Govt cracks whip as PTI, JI gear up for capital marches",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2630170/govt-cracks-whip-as-pti-ji-gear-up-for-capital-marches",
-      "published_date": "2026-09-18T17:24:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IHC sets limits on right to protest",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2630171/ihc-sets-limits-on-right-to-protest",
-      "published_date": "2026-09-18T17:24:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SC warns Sindh police of contempt over FIRs delay",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2630141/sc-warns-sindh-police-of-contempt-over-firs-delay",
-      "published_date": "2026-09-18T16:28:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ECP sets Nov 8 for by-polls at NA-77 Gujranwala",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2630136/ecp-sets-nov-8-for-by-polls-at-na-77-gujranwala",
-      "published_date": "2026-09-18T16:28:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Supreme Court admonishes Sindh police over delays in filing FIRs",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030908/supreme-court-admonishes-sindh-police-over-delays-in-filing-firs",
-      "published_date": "2026-09-18T15:57:26+00:00",
       "category": "Local Events"
     }
   ]
