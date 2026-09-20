@@ -1,8 +1,15 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-09-19T14:17:42.271584+00:00",
+  "last_updated": "2026-09-20T00:29:12.813809+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "DPM Dar to arrive ahead of PM Shehbaz’s UNGA visit, hold preliminary consultations",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031167/dpm-dar-to-arrive-ahead-of-pm-shehbazs-unga-visit-hold-preliminary-consultations",
+      "published_date": "2026-09-19T18:18:56+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "LHC directs foreign ministry to process pleas over detention of 2 PTI-linked Pakistanis in UAE",
       "source": "Dawn",
@@ -137,11 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pakistan, Lebanon to boost security cooperation",
+      "title": "Houthis say targeted 'sensitive sites' in Riyadh, Aramco facilities in Yanbu",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030257/pakistan-lebanon-to-boost-security-cooperation",
-      "published_date": "2026-09-16T02:55:29+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2031137/houthis-say-targeted-sensitive-sites-in-riyadh-aramco-facilities-in-yanbu",
+      "published_date": "2026-09-19T18:35:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Denmark hails 'binding' Greenland deal with Trump",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031163/denmark-hails-binding-greenland-deal-with-trump",
+      "published_date": "2026-09-19T18:33:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "23 abductees rescued, 5 terrorists killed as security forces thwart attempt to set up check post near Kalat",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2630243/23-abductees-rescued-6-terrorists-killed-as-security-forces-thwart-attempt-near-kalat",
+      "published_date": "2026-09-19T16:31:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "337,000 pensioners obtain proof of life certificates in a month",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031154/337000-pensioners-obtain-proof-of-life-certificates-in-a-month",
+      "published_date": "2026-09-19T15:28:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Restrained court",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031059/restrained-court",
+      "published_date": "2026-09-19T14:28:21+00:00",
+      "category": "Military"
     },
     {
       "title": "Kohat Police Lines attack: 8 terrorists killed as overnight clearance operation concludes",
@@ -169,6 +204,20 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2031131/10-days-that-changed-the-course-of-ai",
       "published_date": "2026-09-19T12:25:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "A brave cop, a devoted father: Human stories behind Kohat attack",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2630225/a-brave-cop-a-devoted-father-human-stories-behind-kohat-attack",
+      "published_date": "2026-09-19T11:54:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan warns Afghanistan after Kohat attack, says it can eliminate terror threats ‘wherever they are’",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2630218/pakistan-warns-afghanistan-after-kohat-attack-says-it-can-eliminate-terror-threats-wherever-they-are",
+      "published_date": "2026-09-19T10:29:20+00:00",
       "category": "Military"
     },
     {
@@ -232,55 +281,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2030869/anthropic-says-ai-systems-moving-towards-building-themselves",
       "published_date": "2026-09-18T09:45:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pentagon to proceed with controversial testosterone testing after pause",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030858/pentagon-to-proceed-with-controversial-testosterone-testing-after-pause",
-      "published_date": "2026-09-18T08:39:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Security forces kill 7 terrorists in Balochistan IBOs: state media",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030844/security-forces-kill-7-terrorists-in-balochistan-ibos-state-media",
-      "published_date": "2026-09-18T07:50:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Our commitment is unconditional': Amid Houthi attacks, DG ISPR says Pakistan will 'go to any extent' to defend Saudi Arabia",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030830/our-commitment-is-unconditional-amid-houthi-attacks-dg-ispr-says-pakistan-will-go-to-any-extent-to-defend-saudi-arabia",
-      "published_date": "2026-09-18T06:17:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "South Korea rules out deployment of troops for military intervention in Iran",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030831/south-korea-rules-out-deployment-of-troops-for-military-intervention-in-iran",
-      "published_date": "2026-09-18T06:07:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Imaan, Hadi sent on judicial remand in another case after SC suspends sentences",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030611/imaan-hadi-sent-on-judicial-remand-in-another-case-after-sc-suspends-sentences",
-      "published_date": "2026-09-18T02:24:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US approves sale of 48 F-35 jets  to Saudi Arabia",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030730/us-approves-sale-of-48-f-35-jets-to-saudi-arabia",
-      "published_date": "2026-09-18T02:10:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Imaan Mazari, husband sent on judicial remand in another case after SC suspends sentences",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030611/imaan-mazari-husband-sent-on-judicial-remand-in-another-case-after-sc-suspends-sentences",
-      "published_date": "2026-09-17T18:25:44+00:00",
       "category": "Military"
     },
     {
@@ -564,6 +564,27 @@
       "category": "Economy"
     },
     {
+      "title": "Govt, JI talks end inconclusively as Islamabad seeks delay in long march over security threats",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031146/govt-ji-talks-end-inconclusively-as-islamabad-seeks-delay-in-long-march-over-security-threats",
+      "published_date": "2026-09-19T17:19:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'No one can minus Imran': Senate opp leader says only PTI founder can postpone Sept 27 Islamabad march",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031144/no-one-can-minus-imran-senate-opp-leader-says-only-pti-founder-can-postpone-sept-27-islamabad-march",
+      "published_date": "2026-09-19T15:48:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Candidates from PML-N, PPP file papers for presidential election in AJK",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031149/candidates-from-pml-n-ppp-file-papers-for-presidential-election-in-ajk",
+      "published_date": "2026-09-19T14:19:09+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "'No turning back': Jamaat-i-Islami digs its heels in over Islamabad march",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2031146/no-turning-back-jamaat-i-islami-digs-its-heels-in-over-islamabad-march",
@@ -575,6 +596,20 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2031144/kp-cm-afridi-meets-na-senate-opposition-leaders-to-discuss-sept-27-protest",
       "published_date": "2026-09-19T13:29:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Twin cities admins on toes as four long marches loom",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2630226/twin-cities-admins-on-toes-as-four-long-marches-loom",
+      "published_date": "2026-09-19T12:00:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "CM Afridi meets opposition leaders as PTI readies for Sept 27 protest",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2630216/cm-afridi-meets-opposition-leaders-as-pti-readies-for-sept-27-protest",
+      "published_date": "2026-09-19T10:12:38+00:00",
       "category": "Local Events"
     },
     {
@@ -666,41 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2030908/supreme-court-admonishes-sindh-police-over-delays-in-filing-firs",
       "published_date": "2026-09-18T15:57:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Karachi police claim to unearth international meth supply network, arrest two",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030905/karachi-police-claim-to-unearth-international-meth-supply-network-arrest-two",
-      "published_date": "2026-09-18T15:35:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lawyers’ body to boycott Islamabad court proceedings on Saturday in protest against Imaan, Hadi’s rearrest",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030882/lawyers-body-to-boycott-islamabad-court-proceedings-on-saturday-in-protest-against-imaan-hadis-rearrest",
-      "published_date": "2026-09-18T15:01:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "15 cops among 21 martyred in blast at Kohat Police Lines, more than 80 injured",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030862/15-cops-among-21-martyred-in-blast-at-kohat-police-lines-more-than-80-injured",
-      "published_date": "2026-09-18T14:45:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Govt to stop anyone marching on Islamabad 'in every possible way', says Naqvi",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030889/govt-to-stop-anyone-marching-on-islamabad-in-every-possible-way-says-naqvi",
-      "published_date": "2026-09-18T14:35:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IHC rules infringement of fundamental rights breaches Constitution ahead of PTI’s Sept 27 protest",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030891/ihc-rules-infringement-of-fundamental-rights-breaches-constitution-ahead-of-ptis-sept-27-protest",
-      "published_date": "2026-09-18T14:32:45+00:00",
       "category": "Local Events"
     }
   ]
