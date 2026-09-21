@@ -1,8 +1,43 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-09-21T00:37:14.577613+00:00",
+  "last_updated": "2026-09-21T16:57:05.335756+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Sheikh Ahmed bin Rashid Al Maktoum, brother of Dubai ruler, passes away at 76",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031620/sheikh-ahmed-bin-rashid-al-maktoum-brother-of-dubai-ruler-passes-away-at-76",
+      "published_date": "2026-09-21T15:03:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "DPM Dar arrives in New York ahead of UN General Assembly session",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031579/dpm-dar-arrives-in-new-york-ahead-of-un-general-assembly-session",
+      "published_date": "2026-09-21T09:52:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Oil prices slide on hopes of diplomacy in Iran war",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031581/oil-prices-slide-on-hopes-of-diplomacy-in-iran-war",
+      "published_date": "2026-09-21T08:52:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Oil prices slide on hopes of diplomacy in Iran war",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2630528/oil-prices-slide-on-hopes-of-diplomacy-in-iran-war",
+      "published_date": "2026-09-21T02:11:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "FM Dar arrives in New York for United Nations General Assembly session",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2630523/fm-dar-arrives-in-new-york-for-united-nations-general-assembly-session",
+      "published_date": "2026-09-21T01:42:54+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Packing for a pope: Behind the scenes on foreign trips",
       "source": "Dawn",
@@ -109,39 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pakistan committed to implementing Saudi defence pact, Makkah agreement: FO",
+      "title": "Tehran lauds Pakistan's efforts for regional peace as Naqvi meets Iranian counterpart",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030603/pakistan-committed-to-implementing-saudi-defence-pact-makkah-agreement-fo",
-      "published_date": "2026-09-17T09:04:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2031629/tehran-lauds-pakistans-efforts-for-regional-peace-as-naqvi-meets-iranian-counterpart",
+      "published_date": "2026-09-21T16:06:56+00:00",
+      "category": "Military"
     },
     {
-      "title": "Islamabad, Beijing activate joint border commission",
+      "title": "Pakistan carries out 'calibrated’ airstrikes against terrorist targets in border region with Afghanistan",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030508/islamabad-beijing-activate-joint-border-commission",
-      "published_date": "2026-09-17T02:24:43+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2031589/pakistan-carries-out-calibrated-airstrikes-against-terrorist-targets-in-border-region-with-afghanistan",
+      "published_date": "2026-09-21T12:54:52+00:00",
+      "category": "Military"
     },
     {
-      "title": "Pakistan remains committed to Makkah accord, but operational details cannot be disclosed: FO",
+      "title": "AI safety paradox",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031527/ai-safety-paradox",
+      "published_date": "2026-09-21T11:54:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Chinese President Xi to visit US from Sept 23-25 for talks with Trump",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031585/chinese-president-xi-to-visit-us-from-sept-23-25-for-talks-with-trump",
+      "published_date": "2026-09-21T09:14:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bodies of 2 FC personnel who went missing in Bannu recovered",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031569/bodies-of-2-fc-personnel-who-went-missing-in-bannu-recovered",
+      "published_date": "2026-09-21T07:32:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Tarar visits families of Kohat attack victims, vows to eliminate terrorism",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2629811/pakistan-remains-committed-to-makkah-accord-but-operational-details-cannot-be-disclosed-fo",
-      "published_date": "2026-09-17T02:04:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://tribune.com.pk/story/2630575/tarar-visits-families-of-kohat-attack-victims-vows-to-eliminate-terrorism",
+      "published_date": "2026-09-21T06:52:57+00:00",
+      "category": "Military"
     },
     {
-      "title": "Indian delegates attempt to interrupt Ayaz Sadiq’s address at Commonwealth conference",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030399/indian-delegates-attempt-to-interrupt-ayaz-sadiqs-address-at-commonwealth-conference",
-      "published_date": "2026-09-16T16:51:32+00:00",
-      "category": "Diplomacy"
+      "title": "Pakistan carries out 'calibrated' air strikes against terrorist hideouts near Afghan border after K-P attacks",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2630553/pakistan-carries-out-calibrated-air-strikes-against-terrorist-hideouts-near-afghan-border-after-k-p",
+      "published_date": "2026-09-21T04:30:16+00:00",
+      "category": "Military"
     },
     {
-      "title": "South Africa pushes back on US visa curbs",
+      "title": "Trump mulls next moves on Iran amid ominous warnings",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030396/south-africa-pushes-back-on-us-visa-curbs",
-      "published_date": "2026-09-16T15:35:31+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2031450/trump-mulls-next-moves-on-iran-amid-ominous-warnings",
+      "published_date": "2026-09-21T02:18:14+00:00",
+      "category": "Military"
     },
     {
       "title": "GB police foil terrorist attack on checkpost between Diamer, Ghizer districts",
@@ -228,60 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Turkiye says it could help meet Saudi Arabia’s military needs",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2031285/turkiye-says-it-could-help-meet-saudi-arabias-military-needs",
-      "published_date": "2026-09-20T05:07:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "An eye on Balochistan border",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2031271/an-eye-on-balochistan-border",
-      "published_date": "2026-09-20T04:29:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kohat attack",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2031266/kohat-attack",
-      "published_date": "2026-09-20T04:12:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Navy chief visits units at sea, Creeks Area to review SEASPARK 2026",
+      "title": "KSE-100 gains over 268 points as oil prices ease",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2630348/navy-chief-visits-units-at-sea-creeks-area-to-review-seaspark-2026",
-      "published_date": "2026-09-20T03:10:35+00:00",
-      "category": "Military"
+      "url": "https://tribune.com.pk/story/2630537/stocks-gain-over-218-points-as-oil-prices-ease",
+      "published_date": "2026-09-21T03:18:01+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Pakistan snubs Taliban’s ‘pretence of dialogue’",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2031231/pakistan-snubs-talibans-pretence-of-dialogue",
-      "published_date": "2026-09-20T02:47:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "FM Dar departs for New York to attend UN General Assembly",
+      "title": "Talk climate in rupees, not rainfall",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2630339/fm-dar-departs-for-new-york-to-attend-un-general-assembly",
-      "published_date": "2026-09-20T01:57:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthis say targeted 'sensitive sites' in Riyadh, Aramco facilities in Yanbu",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2031137/houthis-say-targeted-sensitive-sites-in-riyadh-aramco-facilities-in-yanbu",
-      "published_date": "2026-09-19T18:35:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Denmark hails 'binding' Greenland deal with Trump",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2031163/denmark-hails-binding-greenland-deal-with-trump",
-      "published_date": "2026-09-19T18:33:14+00:00",
-      "category": "Military"
+      "url": "https://tribune.com.pk/story/2630426/talk-climate-in-rupees-not-rainfall",
+      "published_date": "2026-09-20T16:22:54+00:00",
+      "category": "Energy"
     },
     {
       "title": "Govt invites bids for first 400MW wheeling auction, says it is exiting power procurement",
@@ -410,18 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Govt raises diesel by Rs3.47, cuts petrol by 43 paisas for Sep 18",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2629906/govt-raises-diesel-price-by-rs347-cuts-petrol-price-by-43-paisas-for-sep-18",
-      "published_date": "2026-09-17T13:04:38+00:00",
-      "category": "Energy"
+      "title": "Why diesel prices are rising more than crude oil",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031617/why-diesel-prices-are-rising-more-than-crude-oil",
+      "published_date": "2026-09-21T14:12:21+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Energy disruption hits Bangladesh and Pakistan as Gulf crisis worsens",
+      "title": "G-B budget and overall economy",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2629886/energy-disruption-hits-bangladesh-and-pakistan-as-gulf-crisis-worsens",
-      "published_date": "2026-09-17T10:35:29+00:00",
-      "category": "Energy"
+      "url": "https://tribune.com.pk/story/2630428/g-b-budget-and-overall-economy",
+      "published_date": "2026-09-20T16:22:55+00:00",
+      "category": "Economy"
     },
     {
       "title": "TTAP forms committee to consult with political parties, reach consensus on multi-party moot",
@@ -550,18 +564,130 @@
       "category": "Economy"
     },
     {
-      "title": "Pakistan ranked among bottom three in WEF's Global Gender Gap Report 2026",
+      "title": "With sisters detained, Imran's other family members to reach Adiala for Tuesday meeting: PTI lawyer",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030632/pakistan-ranked-among-bottom-three-in-wefs-global-gender-gap-report-2026",
-      "published_date": "2026-09-17T14:54:47+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2031627/with-sisters-detained-imrans-other-family-members-to-reach-adiala-for-tuesday-meeting-pti-lawyer",
+      "published_date": "2026-09-21T16:21:20+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Markets to close at 9pm as govt reintroduces austerity measures for fuel conservation",
+      "title": "Asian Games: Pakistan kabaddi team cruise past Malaysia as Asim Khan takes MMA bronze",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030636/markets-to-close-at-9pm-as-govt-reintroduces-austerity-measures-for-fuel-conservation",
-      "published_date": "2026-09-17T14:02:16+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2031628/asian-games-pakistan-kabaddi-team-cruise-past-malaysia-as-asim-khan-takes-mma-bronze",
+      "published_date": "2026-09-21T15:46:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US media outlets to sue Trump administration after White House ban",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031607/us-media-outlets-to-sue-trump-administration-after-white-house-ban",
+      "published_date": "2026-09-21T15:38:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mir Raza murder case: Judicial commission turns down MLO's request to record further statement",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031610/mir-raza-murder-case-judicial-commission-turns-down-mlos-request-to-record-further-statement",
+      "published_date": "2026-09-21T15:22:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "After Aleema, Imran’s sisters Uzma and Noreen also detained in Lahore under MPO for 30 days",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031544/after-aleema-imrans-sisters-uzma-and-noreen-also-detained-in-lahore-under-mpo-for-30-days",
+      "published_date": "2026-09-21T14:56:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Naeem questions train delay as JI caravan departs Sukkur for 'phase 2' of protest march",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031594/naeem-questions-train-delay-as-ji-caravan-departs-sukkur-for-phase-2-of-protest-march",
+      "published_date": "2026-09-21T14:55:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Privatisation Commission gets ‘overwhelming response’ from investors for Iesco privatisation",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031613/privatisation-commission-gets-overwhelming-response-from-investors-for-iesco-privatisation",
+      "published_date": "2026-09-21T14:11:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Interior Minister Naqvi warns PTI against Sept 27 protest call, urges party to change course",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031568/interior-minister-naqvi-warns-pti-against-sept-27-protest-call-urges-party-to-change-course",
+      "published_date": "2026-09-21T13:27:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan, EU sign financing agreements worth €65m",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031609/pakistan-eu-sign-financing-agreements-worth-eur65m",
+      "published_date": "2026-09-21T12:50:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Detention of Imran's sisters under MPO challenged in LHC",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031596/detention-of-imrans-sisters-under-mpo-challenged-in-lhc",
+      "published_date": "2026-09-21T10:43:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rule of law, supremacy of Constitution to prevail during PTI long march to Islamabad: Gohar",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2630587/rule-of-law-supremacy-of-constitution-to-prevail-during-pti-long-march-to-islamabad-gohar",
+      "published_date": "2026-09-21T09:35:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "MQM-P chief calls for new administrative units, says time to end dynastic politics",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2630571/mqm-p-chief-calls-for-new-administrative-units-says-time-to-end-dynastic-politics",
+      "published_date": "2026-09-21T06:37:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PPP wants CM Maryam to show aircraft rent details",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031407/ppp-wants-cm-maryam-to-show-aircraft-rent-details",
+      "published_date": "2026-09-21T04:47:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Doctor, wife and three daughters found dead in Karachi apartment",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031488/doctor-wife-and-three-daughters-found-dead-in-karachi-apartment",
+      "published_date": "2026-09-21T04:37:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Islamabad MoU opened path towards de-escalation, settlement: President Zardari",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2630550/islamabad-mou-opened-path-towards-de-escalation-settlement-president-zardari",
+      "published_date": "2026-09-21T04:20:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Over 22,000 security personnel to be deployed in Islamabad amid protest calls",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031473/over-22000-security-personnel-to-be-deployed-in-islamabad-amid-protest-calls",
+      "published_date": "2026-09-21T03:55:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Govt vows not to allow ‘violent groups’ to reach capital",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031452/govt-vows-not-to-allow-violent-groups-to-reach-capital",
+      "published_date": "2026-09-21T02:10:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Naqvi warns PTI against Islamabad march, says governor's rule among options for K-P amid security concerns",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2630521/naqvi-says-governors-rule-among-options-being-weighed-for-k-p",
+      "published_date": "2026-09-21T01:20:01+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Police, Levies and Khasadar personnel in merged districts announce boycott of polio campaign duties",
@@ -575,132 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2031350/aleema-detained-under-mpo-in-lahore-ahead-of-ptis-sept-27-protest",
       "published_date": "2026-09-20T14:15:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Self-inflicted pain': Finance minister says protests, sit-ins to cause daily loss of around Rs120bn",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2031342/self-inflicted-pain-finance-minister-says-protests-sit-ins-to-cause-daily-loss-of-around-rs120bn",
-      "published_date": "2026-09-20T13:07:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Italy to ban veils in schools, limit foreign students per class, Meloni says",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2031364/italy-to-ban-veils-in-schools-limit-foreign-students-per-class-meloni-says",
-      "published_date": "2026-09-20T12:52:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "JI launches protest march towards Islamabad against petroleum levy",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2031346/ji-launches-protest-march-towards-islamabad-against-petroleum-levy",
-      "published_date": "2026-09-20T12:50:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MQM-P wants administrative restructuring of Sindh without altering boundaries: Mustafa Kamal",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2031214/mqm-p-wants-administrative-restructuring-of-sindh-without-altering-boundaries-mustafa-kamal",
-      "published_date": "2026-09-20T06:26:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KP CM Afridi blames deteriorating security situation on ‘failed’ foreign policy",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2031201/kp-cm-afridi-blames-deteriorating-security-situation-on-failed-foreign-policy",
-      "published_date": "2026-09-20T06:05:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tarar warns no violent group will be allowed to enter Islamabad",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2630368/tarar-warns-no-violent-group-will-be-allowed-to-enter-islamabad",
-      "published_date": "2026-09-20T05:40:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Capital police move into action against PTI",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2031187/capital-police-move-into-action-against-pti",
-      "published_date": "2026-09-20T05:28:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A small republic in every classroom",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2031270/a-small-republic-in-every-classroom",
-      "published_date": "2026-09-20T04:44:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fuel relief scheme revised; SMS charges scrapped",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2031242/fuel-relief-scheme-revised-sms-charges-scrapped",
-      "published_date": "2026-09-20T03:16:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SMOKERS’ CORNER: WHY THE PPP DOMINATES SINDH",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030720/smokers-corner-why-the-ppp-dominates-sindh",
-      "published_date": "2026-09-20T00:48:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Govt finalises sweeping  civil service reforms",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2031243/govt-finalises-sweeping-civil-service-reforms",
-      "published_date": "2026-09-19T23:50:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Govt opens talks with opposition",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2630290/govt-opens-talks-with-opposition-1",
-      "published_date": "2026-09-19T19:39:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Govt, JI talks end inconclusively as Islamabad seeks delay in long march over security threats",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2031146/govt-ji-talks-end-inconclusively-as-islamabad-seeks-delay-in-long-march-over-security-threats",
-      "published_date": "2026-09-19T17:19:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'No one can minus Imran': Senate opp leader says only PTI founder can postpone Sept 27 Islamabad march",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2031144/no-one-can-minus-imran-senate-opp-leader-says-only-pti-founder-can-postpone-sept-27-islamabad-march",
-      "published_date": "2026-09-19T15:48:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Candidates from PML-N, PPP file papers for presidential election in AJK",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2031149/candidates-from-pml-n-ppp-file-papers-for-presidential-election-in-ajk",
-      "published_date": "2026-09-19T14:19:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'No turning back': Jamaat-i-Islami digs its heels in over Islamabad march",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2031146/no-turning-back-jamaat-i-islami-digs-its-heels-in-over-islamabad-march",
-      "published_date": "2026-09-19T14:03:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "KP CM Afridi meets NA, Senate opposition leaders to discuss Sept 27 protest",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2031144/kp-cm-afridi-meets-na-senate-opposition-leaders-to-discuss-sept-27-protest",
-      "published_date": "2026-09-19T13:29:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Twin cities admins on toes as four long marches loom",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2630226/twin-cities-admins-on-toes-as-four-long-marches-loom",
-      "published_date": "2026-09-19T12:00:40+00:00",
       "category": "Local Events"
     }
   ]
