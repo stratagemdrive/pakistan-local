@@ -1,8 +1,22 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-09-21T16:57:05.335756+00:00",
+  "last_updated": "2026-09-22T01:20:42.720117+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Dar meets EU foreign policy chief, stresses importance of GSP+ for Pakistan's trade ties with the bloc",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031647/dar-meets-eu-foreign-policy-chief-stresses-importance-of-gsp-for-pakistans-trade-ties-with-the-bloc",
+      "published_date": "2026-09-21T19:50:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "PM Shehbaz arrives in New York to present Pakistan's position on regional, global security at UNGA",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031579/pm-shehbaz-arrives-in-new-york-to-present-pakistans-position-on-regional-global-security-at-unga",
+      "published_date": "2026-09-21T19:23:12+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Sheikh Ahmed bin Rashid Al Maktoum, brother of Dubai ruler, passes away at 76",
       "source": "Dawn",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Amna Baloch retires as foreign secretary",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2629948/amna-baloch-retires-as-foreign-secretary",
-      "published_date": "2026-09-17T18:17:23+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pakistan abstains in UN vote on Iran sanctions panel",
+      "title": "Naqvi meets Iranian counterpart, president; Tehran lauds Pakistan's efforts for regional peace",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030647/pakistan-abstains-in-un-vote-on-iran-sanctions-panel",
-      "published_date": "2026-09-17T16:46:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2031629/naqvi-meets-iranian-counterpart-president-tehran-lauds-pakistans-efforts-for-regional-peace",
+      "published_date": "2026-09-21T18:15:29+00:00",
+      "category": "Military"
     },
     {
       "title": "Tehran lauds Pakistan's efforts for regional peace as Naqvi meets Iranian counterpart",
@@ -277,11 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "British pop star Ed Sheeran calls Israel's treatment of Gazans 'unjustifiable,' apologises for Macklemore controversy",
+      "title": "Govt raises petrol price by Rs4.61 per litre, reduces HSD rate by Rs1.96",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2031340/british-pop-star-ed-sheeran-calls-israels-treatment-of-gazans-unjustifiable-apologises-for-macklemore-controversy",
-      "published_date": "2026-09-20T07:05:18+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/2031638/govt-raises-petrol-price-by-rs461-per-litre-reduces-hsd-rate-by-rs196",
+      "published_date": "2026-09-21T18:52:57+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Govt increases petrol price by Rs4.61, cuts diesel by Rs1.96 for Sept 22",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2630613/govt-increases-petrol-price-by-rs461-cuts-diesel-by-rs196-for-sept-22",
+      "published_date": "2026-09-21T12:58:36+00:00",
+      "category": "Energy"
     },
     {
       "title": "KSE-100 gains over 268 points as oil prices ease",
@@ -407,20 +421,6 @@
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2629937/psx-rebounds-over-1000-points-on-oil-price-fall",
       "published_date": "2026-09-17T16:01:36+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Centre, K-P review security of E&P activities",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2629936/centre-k-p-review-security-of-ep-activities",
-      "published_date": "2026-09-17T16:01:36+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Energy disruption hits Pakistan and Bangladesh as Gulf crisis worsens",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2030642/energy-disruption-hits-pakistan-and-bangladesh-as-gulf-crisis-worsens",
-      "published_date": "2026-09-17T15:02:56+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,13 @@
       "category": "Economy"
     },
     {
+      "title": "Rizwan vs NCCIA: LHC directs agency not to 'harass' cricketer, orders batsman to cooperate in inquiry",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2031643/rizwan-vs-nccia-lhc-directs-agency-not-to-harass-cricketer-orders-batsman-to-cooperate-in-inquiry",
+      "published_date": "2026-09-21T17:41:01+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "With sisters detained, Imran's other family members to reach Adiala for Tuesday meeting: PTI lawyer",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2031627/with-sisters-detained-imrans-other-family-members-to-reach-adiala-for-tuesday-meeting-pti-lawyer",
@@ -627,6 +634,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Karachi city sizzles past nine-year September heat record",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2630608/karachi-city-sizzles-past-nine-year-september-heat-record",
+      "published_date": "2026-09-21T12:04:05+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Detention of Imran's sisters under MPO challenged in LHC",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2031596/detention-of-imrans-sisters-under-mpo-challenged-in-lhc",
@@ -687,20 +701,6 @@
       "source": "The Express Tribune",
       "url": "https://tribune.com.pk/story/2630521/naqvi-says-governors-rule-among-options-being-weighed-for-k-p",
       "published_date": "2026-09-21T01:20:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police, Levies and Khasadar personnel in merged districts announce boycott of polio campaign duties",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2031379/police-levies-and-khasadar-personnel-in-merged-districts-announce-boycott-of-polio-campaign-duties",
-      "published_date": "2026-09-20T16:53:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Aleema detained under MPO in Lahore ahead of PTI's Sept 27 protest",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2031350/aleema-detained-under-mpo-in-lahore-ahead-of-ptis-sept-27-protest",
-      "published_date": "2026-09-20T14:15:58+00:00",
       "category": "Local Events"
     }
   ]
