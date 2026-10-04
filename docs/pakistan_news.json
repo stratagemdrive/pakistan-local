@@ -1,8 +1,50 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-10-03T15:06:55.712246+00:00",
+  "last_updated": "2026-10-04T02:13:09.462789+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Iranian UN delegation duo ‘kicked out’ of US: State Dept",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/world/iranian-un-delegation-duo-kicked-out-of-us-state-dept-3003113",
+      "published_date": "2026-10-03T22:08:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iranian rial at new low, as central bank sells dollars to support currency",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/iranian-rial-at-new-low-as-central-bank-sells-dollars-to-support-currency-3003110",
+      "published_date": "2026-10-03T20:56:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi ambassador meets Lebanese Presidency's director general in Beirut",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/saudi-arabia/saudi-ambassador-meets-lebanese-presidencys-director-general-in-beirut-3003104",
+      "published_date": "2026-10-03T20:28:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Egypt to host Eritrea, Sudan, Somalia leaders as Ethiopia conflict fuels regional tensions",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/egypt-to-host-eritrea-sudan-somalia-leaders-as-ethiopia-conflict-fuels-regional-tensions-3003100",
+      "published_date": "2026-10-03T19:53:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan, India summon diplomats over border shooting that killed two",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/pakistan/pakistan-india-summon-diplomats-over-border-shooting-that-killed-two-3003098",
+      "published_date": "2026-10-03T19:32:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Efforts underway to repatriate remains of 3 Pakistanis killed while recovering hijacked tanker from Somali pirates: PMO",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2034504/efforts-underway-to-repatriate-remains-of-3-pakistanis-killed-while-recovering-hijacked-tanker-from-somali-pirates-pmo",
+      "published_date": "2026-10-03T15:45:01+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Hasan Nawaz's fighting 96 against India in vain as Pakistan settle for Asian Games cricket silver",
       "source": "Dawn",
@@ -102,46 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iranian airlines reschedule Pakistan flights amid mounting US sanctions pressure",
+      "title": "North Korea’s Kim oversaw launch of missile that uses AI",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/pakistan/iranian-airlines-reschedule-pakistan-flights-amid-mounting-us-sanctions-pressure-3003009",
-      "published_date": "2026-10-02T17:38:19+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.arabnews.pk/world/north-koreas-kim-oversaw-launch-of-missile-that-uses-ai-3003125",
+      "published_date": "2026-10-04T01:49:46+00:00",
+      "category": "Military"
     },
     {
-      "title": "FinMin, British envoy  explore reforms",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2632676/finmin-british-envoy-explore-reforms",
-      "published_date": "2026-10-02T17:24:34+00:00",
-      "category": "Diplomacy"
+      "title": "Myanmar migrants returned to war-torn nation from Malaysia",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/world/myanmar-migrants-returned-to-war-torn-nation-from-malaysia-3003124",
+      "published_date": "2026-10-04T01:44:06+00:00",
+      "category": "Military"
     },
     {
-      "title": "Pakistan, Saudi Arabia, Turkiye to hold defense pact talks next week amid Houthi attacks",
+      "title": "Iraq says it transported 2 million barrels of crude through Strait of Hormuz",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/saudi-arabia/pakistan-saudi-arabia-turkiye-to-hold-defense-pact-talks-next-week-amid-houthi-attacks-3003001",
-      "published_date": "2026-10-02T16:35:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.arabnews.pk/middle-east/iraq-says-it-transported-2-million-barrels-of-crude-through-strait-of-hormuz-3003107",
+      "published_date": "2026-10-03T20:50:20+00:00",
+      "category": "Military"
     },
     {
-      "title": "Jordan king urges US to help secure regional ceasefire in call with Rubio",
+      "title": "Coalition to Asharq Al-Awsat: Houthi claims of targeting Riyadh are misleading",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/jordan-king-urges-us-to-help-secure-regional-ceasefire-in-call-with-rubio-3002998",
-      "published_date": "2026-10-02T16:20:09+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.arabnews.pk/saudi-arabia/coalition-to-asharq-al-awsat-houthi-claims-of-targeting-riyadh-are-misleading-3003103",
+      "published_date": "2026-10-03T20:14:47+00:00",
+      "category": "Military"
     },
     {
-      "title": "Palestinians from Gaza rebuild in Mexico City through food",
+      "title": "Ukraine will hit Russian refineries in response to Moscow’s ‘new doctrine’ of airstrikes",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/palestinians-from-gaza-rebuild-in-mexico-city-through-food-3002996",
-      "published_date": "2026-10-02T15:51:29+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.arabnews.pk/world/ukraine-will-hit-russian-refineries-in-response-to-moscows-new-doctrine-of-airstrikes-3003091",
+      "published_date": "2026-10-03T17:11:49+00:00",
+      "category": "Military"
     },
     {
-      "title": "Pakistan, Saudi Arabia, Türkiye to hold defense pact talks next week amid Houthi attacks",
+      "title": "US weighs action against Israeli military units over West Bank settler violence: report",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/pakistan/pakistan-saudi-arabia-türkiye-to-hold-defense-pact-talks-next-week-amid-houthi-attacks-3002994",
-      "published_date": "2026-10-02T15:39:24+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.arabnews.pk/middle-east/us-weighs-action-against-israeli-military-units-over-west-bank-settler-violence-report-3003089",
+      "published_date": "2026-10-03T17:03:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Inside the study for a remedy to fight Congo’s deadliest Ebola outbreak",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/world/inside-the-study-for-a-remedy-to-fight-congos-deadliest-ebola-outbreak-3003085",
+      "published_date": "2026-10-03T15:36:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Fatima Sana joins Perth Scorchers for Women’s Big Bash League",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2034503/fatima-sana-joins-perth-scorchers-for-womens-big-bash-league",
+      "published_date": "2026-10-03T15:14:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi dataset cuts AI errors in Arabic dialects",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/saudi-arabia/saudi-dataset-cuts-ai-errors-in-arabic-dialects-3003083",
+      "published_date": "2026-10-03T14:52:53+00:00",
+      "category": "Military"
     },
     {
       "title": "Farage ‘not being listened to’ on safety threats, deputy says after terror plot charge",
@@ -218,69 +281,6 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/world/one-person-killed-ten-injured-in-drone-attack-on-russian-controlled-part-of-zaporizhzhia-region-tass-reports-3003060",
       "published_date": "2026-10-03T09:22:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan summons Indian envoy over killing of 2 civilians by border troops",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2034466/pakistan-summons-indian-envoy-over-killing-of-2-civilians-by-border-troops",
-      "published_date": "2026-10-03T09:11:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UAE investigators say flydubai co-pilot was planning 'terrorist act'",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2034442/uae-investigators-say-flydubai-co-pilot-was-planning-terrorist-act",
-      "published_date": "2026-10-03T07:38:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UAE says FlyDubai co-pilot attempted to carry out terrorist attack",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/uae-says-flydubai-co-pilot-attempted-to-carry-out-terrorist-attack-3003051",
-      "published_date": "2026-10-03T06:23:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian attacks kill 6 in Ukraine and damage Kyiv’s Northern Bridge",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/russian-attacks-kill-6-in-ukraine-and-damage-kyivs-northern-bridge-3003048",
-      "published_date": "2026-10-03T05:05:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Several people injured in Australia after car crashes into crowd in northern Sydney",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/several-people-injured-in-australia-after-car-crashes-into-crowd-in-northern-sydney-3003047",
-      "published_date": "2026-10-03T04:56:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "First Israeli repatriation flight lands in Tel Aviv after flydubai attack",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/first-israeli-repatriation-flight-lands-in-tel-aviv-after-flydubai-attack-3003045",
-      "published_date": "2026-10-03T03:32:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "North Korea fires ballistic missile after Seoul’s apology demand",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/north-korea-fires-ballistic-missile-after-seouls-apology-demand-3003043",
-      "published_date": "2026-10-03T03:16:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Shrapnel from intercepted Houthi missile injures resident in Asir",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/saudi-arabia/shrapnel-from-intercepted-houthi-missile-injures-resident-in-asir-3003037",
-      "published_date": "2026-10-02T23:13:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two Iranians charged with planning attack on Manchester Jews",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/two-iranians-charged-with-planning-attack-on-manchester-jews-3003030",
-      "published_date": "2026-10-02T20:34:19+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,27 @@
       "category": "Energy"
     },
     {
+      "title": "A gut punch in Ohio: Nearly 1,400 laid off at truck factory just days before Trump rally",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/world/a-gut-punch-in-ohio-nearly-1400-laid-off-at-truck-factory-just-days-before-trump-rally-3003123",
+      "published_date": "2026-10-04T00:43:45+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Israel had FlyDubai crew details before attempted hijacking: Israeli media",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/israel-had-flydubai-crew-details-before-attempted-hijacking-israeli-media-3003101",
+      "published_date": "2026-10-03T20:02:31+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Local automakers voice concerns as imports of used cars surge in Sept",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2034516/local-automakers-voice-concerns-as-imports-of-used-cars-surge-in-sept",
+      "published_date": "2026-10-03T17:45:41+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Leaders at Egypt summit call for tapping Africa’s capital",
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/middle-east/leaders-at-egypt-summit-call-for-tapping-africas-capital-3003079",
@@ -543,25 +564,123 @@
       "category": "Economy"
     },
     {
-      "title": "Philippines eyes preferential trade pact with Oman as talks for investment deal conclude",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/philippines-eyes-preferential-trade-pact-with-oman-as-talks-for-investment-deal-conclude-3002971",
-      "published_date": "2026-10-02T12:14:54+00:00",
-      "category": "Economy"
+      "title": "After hours of negotiations, second round of govt-opposition talks ends in a 'deadlock'",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2034465/after-hours-of-negotiations-second-round-of-govt-opposition-talks-ends-in-a-deadlock",
+      "published_date": "2026-10-04T01:40:18+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Aurangzeb reviews economic reforms, trade and investment with World Bank, UK envoy",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2632609/aurangzeb-reviews-economic-reforms-trade-and-investment-with-world-bank-uk-envoy",
-      "published_date": "2026-10-02T07:33:11+00:00",
-      "category": "Economy"
+      "title": "Onus on state to protect kids from online harm, IHC told",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2034595/onus-on-state-to-protect-kids-from-online-harm-ihc-told",
+      "published_date": "2026-10-04T01:18:34+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Saudi Arabia’s consumer spending rises 3.5% as hotels, recreation see gains",
+      "title": "Who are the mystery men who stepped in to keep the FlyDubai plane from crashing?",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/business/saudi-arabias-consumer-spending-rises-35-as-hotels-recreation-see-gains-3002949",
-      "published_date": "2026-10-02T06:20:49+00:00",
-      "category": "Economy"
+      "url": "https://www.arabnews.pk/middle-east/who-are-the-mystery-men-who-stepped-in-to-keep-the-flydubai-plane-from-crashing-3003122",
+      "published_date": "2026-10-04T00:36:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ethiopian federal forces retake Mekelle airport from Tigrayan fighters, residents say",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/world/ethiopian-federal-forces-retake-mekelle-airport-from-tigrayan-fighters-residents-say-3003117",
+      "published_date": "2026-10-03T23:25:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Above the clouds, below the sunset: Asir’s evening spectacle",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/saudi-arabia/above-the-clouds-below-the-sunset-asirs-evening-spectacle-3003116",
+      "published_date": "2026-10-03T23:15:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli forces shell southern Syria, raid village and fire at journalists",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/israeli-forces-shell-southern-syria-raid-village-and-fire-at-journalists-3003114",
+      "published_date": "2026-10-03T22:23:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran executes detainee over January protests, judiciary says",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/iran-executes-detainee-over-january-protests-judiciary-says-3003112",
+      "published_date": "2026-10-03T21:40:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brazil’s Lula, Flavio Bolsonaro wrap up campaigns ahead of first-round vote",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/world/brazils-lula-flavio-bolsonaro-wrap-up-campaigns-ahead-of-first-round-vote-3003111",
+      "published_date": "2026-10-03T21:38:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan government, opposition in marathon talks as Imran Khan party march looms",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/pakistan/pakistan-government-opposition-in-marathon-talks-as-imran-khan-party-march-looms-3003102",
+      "published_date": "2026-10-03T20:10:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Netanyahu invites ‘true hero’ Indian FlyDubai captain to Israel",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/netanyahu-invites-true-hero-indian-flydubai-captain-to-israel-3003097",
+      "published_date": "2026-10-03T19:14:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli forces help settlers seize West Bank olive groves: witnesses",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/israeli-forces-help-settlers-seize-west-bank-olive-groves-witnesses-3003096",
+      "published_date": "2026-10-03T19:08:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tennessee prison chief who oversaw botched execution resigns: governor",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2034520/tennessee-prison-chief-who-oversaw-botched-execution-resigns-governor",
+      "published_date": "2026-10-03T19:01:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tennessee’s prisons chief is resigning after failed execution of Christa Pike",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/world/tennessees-prisons-chief-is-resigning-after-failed-execution-of-christa-pike-3003094",
+      "published_date": "2026-10-03T18:50:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Paris police chief says student protest movement out of control, urges peaceful action",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/world/paris-police-chief-says-student-protest-movement-out-of-control-urges-peaceful-action-3003093",
+      "published_date": "2026-10-03T17:41:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump shares Republican senator's phone number in feud over daylight saving bill",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2034513/trump-shares-republican-senators-phone-number-in-feud-over-daylight-saving-bill",
+      "published_date": "2026-10-03T17:31:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Storms, flooding cause chaos on Greek holiday island of Crete",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/world/storms-flooding-cause-chaos-on-greek-holiday-island-of-crete-3003092",
+      "published_date": "2026-10-03T17:23:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indian police detain several people in Gen Z-led protests against voter roll changes",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/world/indian-police-detain-several-people-in-gen-z-led-protests-against-voter-roll-changes-3003084",
+      "published_date": "2026-10-03T15:29:26+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Islamabad seeks to extend Rangers deployment to Oct. 15 as Imran Khan party march looms",
@@ -582,125 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2034483/lahore-magistrate-sends-female-suspect-to-jail-on-judicial-remand-in-azeri-womans-rape-case",
       "published_date": "2026-10-03T14:42:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Second round of talks between govt, opposition underway ahead of PTI's Islamabad march",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2034465/second-round-of-talks-between-govt-opposition-underway-ahead-of-ptis-islamabad-march",
-      "published_date": "2026-10-03T13:33:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan government, opposition begin second round of talks amid tensions",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/pakistan/pakistan-government-opposition-begin-second-round-of-talks-amid-tensions-3003072",
-      "published_date": "2026-10-03T13:06:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indian police detain several people in Gen Z-led protests against voter roll changes",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2034488/indian-police-detain-several-people-in-gen-z-led-protests-against-voter-roll-changes",
-      "published_date": "2026-10-03T12:27:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four Pakistani sailors freed from Somali pirates due home tomorrow",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/pakistan/four-pakistani-sailors-freed-from-somali-pirates-due-home-tomorrow-3003067",
-      "published_date": "2026-10-03T11:37:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli strike kills five, including four women, in Gaza, health officials say",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/israeli-strike-kills-five-including-four-women-in-gaza-health-officials-say-3003064",
-      "published_date": "2026-10-03T10:44:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Islamabad administration seeks 10-day extension of Rangers deployment ahead of PTI’s long march",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2034471/islamabad-administration-seeks-10-day-extension-of-rangers-deployment-ahead-of-ptis-long-march",
-      "published_date": "2026-10-03T10:16:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan summons Indian diplomat, protests killing of two civilians near border",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/pakistan/pakistan-summons-indian-diplomat-protests-killing-of-two-civilians-near-border-3003061",
-      "published_date": "2026-10-03T09:45:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bilawal credits PPP for warding off imposition of emergency in K-P",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2632791/bilawal-credits-ppp-for-warding-off-imposition-of-emergency-in-k-p",
-      "published_date": "2026-10-03T09:01:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan government, opposition to resume talks today ahead of Imran Khan party’s march",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/pakistan/pakistan-government-opposition-to-resume-talks-today-ahead-of-imran-khan-partys-march-3003059",
-      "published_date": "2026-10-03T08:40:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Indescribable feeling’: Local hero Nada conquers decade-long rival El-Seady at PFL MENA 11 in Riyadh",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/sport/indescribable-feeling-local-hero-nada-conquers-decade-long-rival-el-seady-at-pfl-mena-11-in-riyadh-3003058",
-      "published_date": "2026-10-03T08:35:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Umar Nurmagomedov, Urijah Faber join RAF Abu Dhabi card",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/sport/umar-nurmagomedov-urijah-faber-join-raf-abu-dhabi-card-3003057",
-      "published_date": "2026-10-03T08:21:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "High school students in Paris' deprived suburbs spark national protest movement",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2034461/high-school-students-in-paris-deprived-suburbs-spark-national-protest-movement",
-      "published_date": "2026-10-03T08:18:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Latvians vote for a new parliament as fears of Russian hybrid attacks loom",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/latvians-vote-for-a-new-parliament-as-fears-of-russian-hybrid-attacks-loom-3003056",
-      "published_date": "2026-10-03T08:16:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Govt, PTI hold second round of talks ahead of Oct 4 long march",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2632785/govt-pti-kick-off-second-round-of-talks-ahead-of-oct-4-long-march",
-      "published_date": "2026-10-03T07:16:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cargo piles up as Pakistan seizes containers to block capital routes",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/pakistan/cargo-piles-up-as-pakistan-seizes-containers-to-block-capital-routes-3003053",
-      "published_date": "2026-10-03T06:42:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fresh protests to hit Spain after housing measures defeated",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/fresh-protests-to-hit-spain-after-housing-measures-defeated-3003050",
-      "published_date": "2026-10-03T05:32:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Car crashes into crowd in Australia, 10 injured",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2034440/car-crashes-into-crowd-in-australia-10-injured",
-      "published_date": "2026-10-03T05:03:41+00:00",
       "category": "Local Events"
     }
   ]
