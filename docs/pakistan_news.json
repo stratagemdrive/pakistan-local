@@ -1,8 +1,71 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-10-05T01:22:11.445004+00:00",
+  "last_updated": "2026-10-06T02:34:49.688044+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Iran president says talks with US ‘meaningless’: state media",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/iran-president-says-talks-with-us-meaningless-state-media-3003284",
+      "published_date": "2026-10-05T20:33:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Emirati firm plans two mega property development projects in Syria",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/emirati-firm-plans-two-mega-property-development-projects-in-syria-3003282",
+      "published_date": "2026-10-05T20:17:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia condemns continued Houthi attacks, reaffirms right to defend itself",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/saudi-arabia/saudi-arabia-condemns-continued-houthi-attacks-reaffirms-right-to-defend-itself-3003271",
+      "published_date": "2026-10-05T18:05:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN rights council slams Taliban’s ‘oppression’ of women",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/world/un-rights-council-slams-talibans-oppression-of-women-3003265",
+      "published_date": "2026-10-05T15:53:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rubio says US will honor Saudi security commitments amid Yemen fighting",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/rubio-says-us-will-honor-saudi-security-commitments-amid-yemen-fighting-3003259",
+      "published_date": "2026-10-05T15:24:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israel's deepening diplomatic isolation after 3 years of genocide in Gaza",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2034959/israels-deepening-diplomatic-isolation-after-3-years-of-genocide-in-gaza",
+      "published_date": "2026-10-05T15:16:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Afghan Taliban say problems with Pakistan can be resolved through diplomacy",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/pakistan/afghan-taliban-say-problems-with-pakistan-can-be-resolved-through-diplomacy-3003255",
+      "published_date": "2026-10-05T14:20:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kingdom joins global talks on AI, research",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/saudi-arabia/kingdom-joins-global-talks-on-ai-research-3003247",
+      "published_date": "2026-10-05T13:35:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Remaining 3 Pakistanis rescued from hijacked vessel in Somalia expected to fly home on Wednesday",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2034936/remaining-3-pakistanis-rescued-from-hijacked-vessel-in-somalia-expected-to-fly-home-on-wednesday",
+      "published_date": "2026-10-05T12:28:45+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Extreme heat putting pregnant women, newborns at risk: UN climate chief",
       "source": "Arab News Pakistan",
@@ -81,207 +144,186 @@
       "category": "Diplomacy"
     },
     {
-      "title": "G20 divided over excess capacity",
+      "title": "Middle East war sharpens focus on ASEAN energy security plans",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/middle-east-war-sharpens-focus-on-asean-energy-security-plans-3003294",
+      "published_date": "2026-10-06T00:31:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UN chief calls for Gaza ceasefire ahead of Oct 7 anniversary",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/un-chief-calls-for-gaza-ceasefire-ahead-of-oct-7-anniversary-3003293",
+      "published_date": "2026-10-05T23:57:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia says Ukraine hit two facilities at Zaporizhzhia nuclear plant",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/world/russia-says-ukraine-hit-two-facilities-at-zaporizhzhia-nuclear-plant-3003292",
+      "published_date": "2026-10-05T23:46:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "GCC electricity and water integration is a strategic priority, says Secretary-General Albudaiwi",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/saudi-arabia/gcc-electricity-and-water-integration-is-a-strategic-priority-says-secretary-general-albudaiwi-3003289",
+      "published_date": "2026-10-05T21:11:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US envoy holds rare meeting with Sudan’s top general in push to seek end to fighting",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/world/us-envoy-holds-rare-meeting-with-sudans-top-general-in-push-to-seek-end-to-fighting-3003286",
+      "published_date": "2026-10-05T20:42:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli army says seized two suspects in south Syria",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/israeli-army-says-seized-two-suspects-in-south-syria-3003285",
+      "published_date": "2026-10-05T20:40:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UN rights council condemns drone strikes plaguing Sudan",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/un-rights-council-condemns-drone-strikes-plaguing-sudan-3003283",
+      "published_date": "2026-10-05T20:25:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Soldiers seriously wounded in Iranian drone strike tell AP the US military failed them",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/world/soldiers-seriously-wounded-in-iranian-drone-strike-tell-ap-the-us-military-failed-them-3003278",
+      "published_date": "2026-10-05T19:28:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan, Turkiye, Saudi Arabia agree to rapid force deployment in the kingdom under Makkah pact",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2034893/pakistan-turkiye-saudi-arabia-agree-to-rapid-force-deployment-in-the-kingdom-under-makkah-pact",
+      "published_date": "2026-10-05T19:13:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Professor indicted over alleged plans to attack Israeli Arabs, Palestinians",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/professor-indicted-over-alleged-plans-to-attack-israeli-arabs-palestinians-3003277",
+      "published_date": "2026-10-05T19:13:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan, Saudi Arabia, Turkiye agree to provide military forces, capabilities under Makkah pact",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/pakistan/pakistan-saudi-arabia-turkiye-agree-to-provide-military-forces-capabilities-under-makkah-pact-3003275",
+      "published_date": "2026-10-05T18:48:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi Arabia, Pakistan and Turkiye to activate collective defense commitments amid ongoing threats",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/saudi-arabia/saudi-arabia-pakistan-and-turkiye-to-activate-collective-defense-commitments-amid-ongoing-threats-3003272",
+      "published_date": "2026-10-05T18:18:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Another 201 displaced families return from camps in Idlib to their homes in 9 Syrian provinces",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/another-201-displaced-families-return-from-camps-in-idlib-to-their-homes-in-9-syrian-provinces-3003269",
+      "published_date": "2026-10-05T17:39:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At Moscow talks, Pakistan says will continue actions against militant bases in Afghanistan",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/pakistan/at-moscow-talks-pakistan-says-will-continue-actions-against-militant-bases-in-afghanistan-3003264",
+      "published_date": "2026-10-05T15:44:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli forces have damaged 82% of all buildings in Gaza since October 2023: PCBS",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/israeli-forces-have-damaged-82-of-all-buildings-in-gaza-since-october-2023-pcbs-3003263",
+      "published_date": "2026-10-05T15:44:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli soldiers kill Palestinian accused of West Bank ramming",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/israeli-soldiers-kill-palestinian-accused-of-west-bank-ramming-3003262",
+      "published_date": "2026-10-05T15:41:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At Moscow moot, Pakistan says terrorism remains core of Afghanistan's problems",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2034953/at-moscow-moot-pakistan-says-terrorism-remains-core-of-afghanistans-problems",
+      "published_date": "2026-10-05T15:26:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "AI takes center stage at Al-Eqtisadiah’s inaugural annual forum",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/business/ai-takes-center-stage-at-al-eqtisadiahs-inaugural-annual-forum-3003260",
+      "published_date": "2026-10-05T15:24:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Syrian forces seize explosives and weapons tied to deadly ambush in Daraa",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/syrian-forces-seize-explosives-and-weapons-tied-to-deadly-ambush-in-daraa-3003258",
+      "published_date": "2026-10-05T15:10:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nepal ends search and rescue after flood, focuses on rehabilitation",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/world/nepal-ends-search-and-rescue-after-flood-focuses-on-rehabilitation-3003257",
+      "published_date": "2026-10-05T14:45:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Govt raises petrol price by Re0.88 per litre, reduces high-speed diesel rate by Rs1.88",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2034971/govt-raises-petrol-price-by-re088-per-litre-reduces-high-speed-diesel-rate-by-rs188",
+      "published_date": "2026-10-05T17:59:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Saudi solar park becomes breeding ground for threatened gazelles",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/saudi-arabia/saudi-solar-park-becomes-breeding-ground-for-threatened-gazelles-3003253",
+      "published_date": "2026-10-05T14:05:37+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Govt increases petrol by 88 paisas, cuts diesel by Rs1.88 for Oct 6",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2632872/g20-divided-over-excess-capacity",
-      "published_date": "2026-10-03T19:58:29+00:00",
-      "category": "Diplomacy"
+      "url": "https://tribune.com.pk/story/2633134/govt-increases-petrol-by-88-paisas-cuts-diesel-by-rs188-for-oct-6",
+      "published_date": "2026-10-05T12:54:14+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Egypt to host Eritrea, Sudan, Somalia leaders as Ethiopia conflict fuels regional tensions",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/egypt-to-host-eritrea-sudan-somalia-leaders-as-ethiopia-conflict-fuels-regional-tensions-3003100",
-      "published_date": "2026-10-03T19:53:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pakistan, India summon diplomats over border shooting that killed two",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/pakistan/pakistan-india-summon-diplomats-over-border-shooting-that-killed-two-3003098",
-      "published_date": "2026-10-03T19:32:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Efforts underway to repatriate remains of 3 Pakistanis killed while recovering hijacked tanker from Somali pirates: PMO",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2034504/efforts-underway-to-repatriate-remains-of-3-pakistanis-killed-while-recovering-hijacked-tanker-from-somali-pirates-pmo",
-      "published_date": "2026-10-03T15:45:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Hasan Nawaz's fighting 96 against India in vain as Pakistan settle for Asian Games cricket silver",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2034438/hasan-nawazs-fighting-96-against-india-in-vain-as-pakistan-settle-for-asian-games-cricket-silver",
-      "published_date": "2026-10-03T08:18:15+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "India-Pakistan blockbuster brings cricket fever to Japan baseball field",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2034446/india-pakistan-blockbuster-brings-cricket-fever-to-japan-baseball-field",
-      "published_date": "2026-10-03T06:28:36+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Indus Waters Treaty abeyance puts millions at risk, UNHRC event warns",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2034445/indus-waters-treaty-abeyance-puts-millions-at-risk-unhrc-event-warns",
-      "published_date": "2026-10-03T06:18:45+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pakistan summons Indian envoy over killing of two Pakistanis along international border",
+      "title": "PSX plunges 2,288 points amid political tensions",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2632752/pakistan-summons-indian-envoy-over-killing-of-two-pakistanis-along-international-border",
-      "published_date": "2026-10-03T03:23:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://tribune.com.pk/story/2633066/psx-tumbles-nearly-2000-points-amid-political-tensions",
+      "published_date": "2026-10-05T03:00:18+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Pakistan rejects India's 'internal matter' claim on Kashmir at UN",
+      "title": "Oil slips as Middle East crude exports rise, G7 to release stocks",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2632750/pakistan-rejects-indias-internal-matter-claim-on-kashmir-at-un",
-      "published_date": "2026-10-03T03:01:08+00:00",
-      "category": "Diplomacy"
+      "url": "https://tribune.com.pk/story/2633058/oil-slips-as-middle-east-crude-exports-rise-g7-to-release-stocks",
+      "published_date": "2026-10-05T01:44:11+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Israeli army says it killed assailant in southern Syria",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/israeli-army-says-it-killed-assailant-in-southern-syria-3003201",
-      "published_date": "2026-10-04T23:06:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Serb separatist Dodik declares victory in Bosnia vote as ethnic tensions and EU hopes collide",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/serb-separatist-dodik-declares-victory-in-bosnia-vote-as-ethnic-tensions-and-eu-hopes-collide-3003199",
-      "published_date": "2026-10-04T22:29:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran tells US there is no military solution to Middle East war",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/iran-tells-us-there-is-no-military-solution-to-middle-east-war-3003198",
-      "published_date": "2026-10-04T21:57:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Army chief says Israel must draw lessons from Oct 7 ‘failures’",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/army-chief-says-israel-must-draw-lessons-from-oct-7-failures-3003197",
-      "published_date": "2026-10-04T21:48:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US Air Force removes all bombers from British air base targeted by a suspected terror attack",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/us-air-force-removes-all-bombers-from-british-air-base-targeted-by-a-suspected-terror-attack-3003195",
-      "published_date": "2026-10-04T21:36:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestinian man dies while detained at West Bank checkpoint, medics say",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/palestinian-man-dies-while-detained-at-west-bank-checkpoint-medics-say-3003194",
-      "published_date": "2026-10-04T20:03:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syria condemns Israeli ‘Sufa 53’ project in Quneitra countryside",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/syria-condemns-israeli-sufa-53-project-in-quneitra-countryside-3003193",
-      "published_date": "2026-10-04T19:39:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel says killed Turkish NGO director in Gaza strike",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/israel-says-killed-turkish-ngo-director-in-gaza-strike-3003189",
-      "published_date": "2026-10-04T19:17:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Australia probes flydubai co-pilot's links to the country, police say",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2034750/australia-probes-flydubai-co-pilots-links-to-the-country-police-say",
-      "published_date": "2026-10-04T19:07:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Türkiye says Makkah pact committee to meet in Riyadh on Monday",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/pakistan/türkiye-says-makkah-pact-committee-to-meet-in-riyadh-on-monday-3003187",
-      "published_date": "2026-10-04T18:40:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen presidency announces military drive to retake all territory seized by Houthis",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2034695/yemen-presidency-announces-military-drive-to-retake-all-territory-seized-by-houthis",
-      "published_date": "2026-10-04T18:31:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syria urges closer UNDOF coordination amid continued Israeli military operations",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/syria-urges-closer-undof-coordination-amid-continued-israeli-military-operations-3003186",
-      "published_date": "2026-10-04T18:19:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran’s oil minister resigns for personal reasons, state media reports",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/irans-oil-minister-resigns-for-personal-reasons-state-media-reports-3003183",
-      "published_date": "2026-10-04T17:41:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Netanyahu orders security review of flights to Israel after FlyDubai attack",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/netanyahu-orders-security-review-of-flights-to-israel-after-flydubai-attack-3003181",
-      "published_date": "2026-10-04T16:58:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK's Green Party adopts 'Zionism is racism' policy",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2034745/uks-green-party-adopts-zionism-is-racism-policy",
-      "published_date": "2026-10-04T16:37:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "8 Israeli soldiers wounded in southern Lebanon ‘vehicle collision’",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/8-israeli-soldiers-wounded-in-southern-lebanon-vehicle-collision-3003170",
-      "published_date": "2026-10-04T14:42:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen leader announces major military operations against Houthis",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2034695/yemen-leader-announces-major-military-operations-against-houthis",
-      "published_date": "2026-10-04T13:39:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kingdom calls for global cooperation on child safety",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/saudi-arabia/kingdom-calls-for-global-cooperation-on-child-safety-3003165",
-      "published_date": "2026-10-04T13:19:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Al Alimi announces launch of military operations against Houthi militias",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/al-alimi-announces-launch-of-military-operations-against-houthi-militias-3003158",
-      "published_date": "2026-10-04T12:32:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Al-Alimi announces launch of military operations against Houthi militia",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/al-alimi-announces-launch-of-military-operations-against-houthi-militia-3003158",
-      "published_date": "2026-10-04T12:32:35+00:00",
-      "category": "Military"
+      "title": "Climate change threatens Kalash life",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2633031/climate-change-threatens-kalash-life",
+      "published_date": "2026-10-04T18:55:42+00:00",
+      "category": "Energy"
     },
     {
       "title": "Homs neighborhood sees commercial revival as residents return",
@@ -382,46 +424,46 @@
       "category": "Energy"
     },
     {
-      "title": "Petrol subsidy puts govt, IMF at odds",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2632503/petrol-subsidy-puts-govt-imf-at-odds",
-      "published_date": "2026-10-01T16:39:07+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "As Arab cities face rising temperatures, the answer may lie in less concrete and more plants",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/as-arab-cities-face-rising-temperatures-the-answer-may-lie-in-less-concrete-and-more-plants-3002896",
-      "published_date": "2026-10-01T15:29:34+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Pakistan weighs subsidy overhaul as IMF pushes for targeted relief",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/pakistan/pakistan-weighs-subsidy-overhaul-as-imf-pushes-for-targeted-relief-3002884",
-      "published_date": "2026-10-01T14:10:20+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Syria restores electricity in stages after gas blast disrupts 3 power plants",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/syria-restores-electricity-in-stages-after-gas-blast-disrupts-3-power-plants-3002880",
-      "published_date": "2026-10-01T13:54:19+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Govt increases petrol by Rs3.26, cuts diesel by Rs1.01 for Oct 2",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2632477/govt-increases-petrol-by-rs326-cuts-diesel-by-rs101-for-oct-2",
-      "published_date": "2026-10-01T12:47:11+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Rice work: Dutch test new crop to save sinking peatlands",
+      "title": "IMF talks likely to clear way for $1.2bn disbursement",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2033951/rice-work-dutch-test-new-crop-to-save-sinking-peatlands",
-      "published_date": "2026-10-01T12:21:17+00:00",
-      "category": "Energy"
+      "url": "https://www.dawn.com/news/2035070/imf-talks-likely-to-clear-way-for-12bn-disbursement",
+      "published_date": "2026-10-06T02:22:58+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US warns foreign financial institutions not to do business with Iran",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/world/us-warns-foreign-financial-institutions-not-to-do-business-with-iran-3003291",
+      "published_date": "2026-10-05T22:14:02+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Suez Canal recovery is critical to global trade and economic growth: Egyptian minister",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/suez-canal-recovery-is-critical-to-global-trade-and-economic-growth-egyptian-minister-3003281",
+      "published_date": "2026-10-05T20:02:29+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pakistan plans compliance entity to help exporters meet global standards",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/pakistan/pakistan-plans-compliance-entity-to-help-exporters-meet-global-standards-3003268",
+      "published_date": "2026-10-05T17:25:03+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Egypt targets 5.4% growth as Suez Canal revenue rebounds 23%: minister",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/egypt-targets-54-growth-as-suez-canal-revenue-rebounds-23-minister-3003261",
+      "published_date": "2026-10-05T15:34:42+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pakistan's last IMF bailout?",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2632996/pakistans-last-imf-bailout",
+      "published_date": "2026-10-04T15:47:52+00:00",
+      "category": "Economy"
     },
     {
       "title": "GCC tops global remittance outflows at $161bn",
@@ -522,185 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Leaders at Egypt summit call for tapping Africa’s capital",
+      "title": "UAE and Jordan begin construction of railway to transport phosphate to Red Sea port",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/leaders-at-egypt-summit-call-for-tapping-africas-capital-3003079",
-      "published_date": "2026-10-03T14:39:49+00:00",
-      "category": "Economy"
+      "url": "https://www.arabnews.pk/middle-east/uae-and-jordan-begin-construction-of-railway-to-transport-phosphate-to-red-sea-port-3003287",
+      "published_date": "2026-10-05T20:43:10+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Saudi date exports near $534m as Kingdom retains global lead",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/saudi-arabia/saudi-date-exports-near-534m-as-kingdom-retains-global-lead-3003078",
-      "published_date": "2026-10-03T14:32:33+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Riyadh summit focuses on AI, human creativity",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/saudi-arabia/riyadh-summit-focuses-on-ai-human-creativity-3003073",
-      "published_date": "2026-10-03T13:09:15+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Pakistan directs faster work on port facilitation center amid rise in transshipment",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/pakistan/pakistan-directs-faster-work-on-port-facilitation-center-amid-rise-in-transshipment-3003066",
-      "published_date": "2026-10-03T11:04:29+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Inside Pakistan’s National Archives, a painstaking effort to keep history alive",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/pakistan/inside-pakistans-national-archives-a-painstaking-effort-to-keep-history-alive-3003044",
-      "published_date": "2026-10-03T03:21:56+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Some institutions have become hurdles to performance: Naqvi",
+      "title": "‘Abandoned province’: Amir Muqam slams PTI, says not in favour of governor’s rule in KP but security risks persist",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2034347/some-institutions-have-become-hurdles-to-performance-naqvi",
-      "published_date": "2026-10-03T02:11:24+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ethiopia’s regional rivals urge ‘peaceful’ solutions to disputes at Egypt summit",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/ethiopias-regional-rivals-urge-peaceful-solutions-to-disputes-at-egypt-summit-3003202",
-      "published_date": "2026-10-04T23:25:38+00:00",
+      "url": "https://www.dawn.com/news/2034899/abandoned-province-amir-muqam-slams-pti-says-not-in-favour-of-governors-rule-in-kp-but-security-risks-persist",
+      "published_date": "2026-10-05T19:17:40+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Brazil heads to runoff election after Bolsonaro, Lula fail to garner majority vote",
+      "title": "5 civilians, including 2 children,  injured in Israeli attacks in Gaza",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/brazil-heads-to-runoff-election-after-bolsonaro-lula-fail-to-garner-majority-vote-3003200",
-      "published_date": "2026-10-04T22:29:14+00:00",
+      "url": "https://www.arabnews.pk/middle-east/5-civilians-including-2-children-injured-in-israeli-attacks-in-gaza-3003276",
+      "published_date": "2026-10-05T19:05:56+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Pro-Imran Khan march starts in Pakistan's northwest",
+      "title": "Muslim World League chief meets Belgian Muslim community leaders in Brussels",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/pro-imran-khan-march-starts-in-pakistans-northwest-3003196",
-      "published_date": "2026-10-04T21:41:27+00:00",
+      "url": "https://www.arabnews.pk/saudi-arabia/muslim-world-league-chief-meets-belgian-muslim-community-leaders-in-brussels-3003274",
+      "published_date": "2026-10-05T18:40:58+00:00",
       "category": "Local Events"
     },
     {
-      "title": "What is fuelling school protests in France?",
+      "title": "Palestinian families evacuated from West Bank settler violence return home",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/palestinian-families-evacuated-from-west-bank-settler-violence-return-home-3003273",
+      "published_date": "2026-10-05T18:34:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "After breakdown of talks with govt, PTI says reconciliation not possible without including Imran",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2034771/what-is-fuelling-school-protests-in-france",
-      "published_date": "2026-10-04T19:47:05+00:00",
+      "url": "https://www.dawn.com/news/2034919/after-breakdown-of-talks-with-govt-pti-says-reconciliation-not-possible-without-including-imran",
+      "published_date": "2026-10-05T17:52:49+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Four Pakistani sailors return home after over five months in Somali pirate captivity",
+      "title": "Pakistan replace Agha as T20I skipper ahead of Sri Lanka match",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/pakistan/four-pakistani-sailors-return-home-after-over-five-months-in-somali-pirate-captivity-3003192",
-      "published_date": "2026-10-04T19:24:12+00:00",
+      "url": "https://www.arabnews.pk/pakistan/pakistan-replace-agha-as-t20i-skipper-ahead-of-sri-lanka-match-3003270",
+      "published_date": "2026-10-05T17:50:35+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Four quakes rattle southern Turkiye, no injuries",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/four-quakes-rattle-southern-turkiye-no-injuries-3003185",
-      "published_date": "2026-10-04T18:16:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gazan teacher builds free school in  Egypt for children displaced by war",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/gazan-teacher-builds-free-school-in-egypt-for-children-displaced-by-war-3003184",
-      "published_date": "2026-10-04T18:14:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'We are not yes-men': CM Afridi launches PTI long march to Islamabad, convoy enters Karak district",
+      "title": "Pakistan reports this year's sixth polio case",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2034698/we-are-not-yes-men-cm-afridi-launches-pti-long-march-to-islamabad-convoy-enters-karak-district",
-      "published_date": "2026-10-04T18:05:53+00:00",
+      "url": "https://www.dawn.com/news/2034975/pakistan-reports-this-years-sixth-polio-case",
+      "published_date": "2026-10-05T17:45:02+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Pakistan opens second Hajj payment window at midnight tonight",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/pakistan/pakistan-opens-second-hajj-payment-window-at-midnight-tonight-3003182",
-      "published_date": "2026-10-04T17:35:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "4 injured Pakistanis rescued from vessel hijacked in Somalia arrive in Karachi with remains of 3 colleagues",
+      "title": "ICC unseals arrest warrants for Afghan Taliban education ministers accused of gender-based persecution",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2034691/4-injured-pakistanis-rescued-from-vessel-hijacked-in-somalia-arrive-in-karachi-with-remains-of-3-colleagues",
-      "published_date": "2026-10-04T17:15:45+00:00",
+      "url": "https://www.dawn.com/news/2034973/icc-unseals-arrest-warrants-for-afghan-taliban-education-ministers-accused-of-gender-based-persecution",
+      "published_date": "2026-10-05T17:36:08+00:00",
       "category": "Local Events"
     },
     {
-      "title": "PTI terms access to Imran 'principal point of deadlock', claims Centre refused to include it in agreement",
+      "title": "PTI long march: KP CM's convoy halts in Kohat for the night, heads for Peshawar on Tuesday",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2034734/pti-terms-access-to-imran-principal-point-of-deadlock-claims-centre-refused-to-include-it-in-agreement",
-      "published_date": "2026-10-04T16:48:36+00:00",
+      "url": "https://www.dawn.com/news/2034928/pti-long-march-kp-cms-convoy-halts-in-kohat-for-the-night-heads-for-peshawar-on-tuesday",
+      "published_date": "2026-10-05T17:15:44+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Israeli forces blow up school, burn homes in southern Lebanon, Lebanese media says",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/israeli-forces-blow-up-school-burn-homes-in-southern-lebanon-lebanese-media-says-3003180",
-      "published_date": "2026-10-04T16:46:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Court overturns UK decisions blocking Gaza mothers, children from family reunification",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/court-overturns-uk-decisions-blocking-gaza-mothers-children-from-family-reunification-3003177",
-      "published_date": "2026-10-04T15:48:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'We are not yes-men': CM Afridi launches PTI long march to Islamabad from Lakki Marwat",
+      "title": "Students pursuing medical, dental studies abroad no longer required to pass MDCAT",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2034698/we-are-not-yes-men-cm-afridi-launches-pti-long-march-to-islamabad-from-lakki-marwat",
-      "published_date": "2026-10-04T15:41:04+00:00",
+      "url": "https://www.dawn.com/news/2034951/students-pursuing-medical-dental-studies-abroad-no-longer-required-to-pass-mdcat",
+      "published_date": "2026-10-05T16:06:21+00:00",
       "category": "Local Events"
     },
     {
-      "title": "PTI terms access to Imran 'principal point of deadlock', says Centre refused to include it in agreement",
+      "title": "ICC will unseal arrest warrants for 4 Taliban leaders wanted on gender persecution charges",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/world/icc-will-unseal-arrest-warrants-for-4-taliban-leaders-wanted-on-gender-persecution-charges-3003266",
+      "published_date": "2026-10-05T15:56:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sahibzada Farhan to lead Pakistan T20I side against Sri Lanka; Shaheen Afridi retains ODI captaincy",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2034734/pti-terms-access-to-imran-principal-point-of-deadlock-says-centre-refused-to-include-it-in-agreement",
-      "published_date": "2026-10-04T15:38:18+00:00",
+      "url": "https://www.dawn.com/news/2034963/sahibzada-farhan-to-lead-pakistan-t20i-side-against-sri-lanka-shaheen-afridi-retains-odi-captaincy",
+      "published_date": "2026-10-05T15:33:25+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Naqvi says talks with opposition have collapsed, accuses KP CM of 'sabotaging' negotiations",
+      "title": "Upper parts of country likely to see rainy, windy conditions from Oct 6-7",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2034693/naqvi-says-talks-with-opposition-have-collapsed-accuses-kp-cm-of-sabotaging-negotiations",
-      "published_date": "2026-10-04T15:30:24+00:00",
+      "url": "https://www.dawn.com/news/2034958/upper-parts-of-country-likely-to-see-rainy-windy-conditions-from-oct-6-7",
+      "published_date": "2026-10-05T15:08:50+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Pakistan opposition launches march as talks with government collapse, emergency measures loom",
+      "title": "US withdraws all bomber aircraft from UK airbase",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/pakistan/pakistan-opposition-launches-march-as-talks-with-government-collapse-emergency-measures-loom-3003176",
-      "published_date": "2026-10-04T15:28:08+00:00",
+      "url": "https://www.arabnews.pk/world/us-withdraws-all-bomber-aircraft-from-uk-airbase-3003252",
+      "published_date": "2026-10-05T14:00:28+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Frankly Speaking: The brutal history of the Houthis",
+      "title": "In Bangladesh camps, rising online gambling traps Rohingya as opportunities shrink",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/frankly-speaking-the-brutal-history-of-the-houthis-3003173",
-      "published_date": "2026-10-04T15:00:32+00:00",
+      "url": "https://www.arabnews.pk/world/in-bangladesh-camps-rising-online-gambling-traps-rohingya-as-opportunities-shrink-3003250",
+      "published_date": "2026-10-05T13:51:27+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Iran airlines resume flights to Najaf after US exemption",
+      "title": "Young artists explore Jeddah’s stories through Recess showcase",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/iran-airlines-resume-flights-to-najaf-after-us-exemption-3003172",
-      "published_date": "2026-10-04T14:55:10+00:00",
+      "url": "https://www.arabnews.pk/saudi-arabia/young-artists-explore-jeddahs-stories-through-recess-showcase-3003249",
+      "published_date": "2026-10-05T13:38:52+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Israeli forces fire tear gas at Palestinians after settlers reportedly release livestock onto West Bank farmland",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/israeli-forces-fire-tear-gas-at-palestinians-after-settlers-reportedly-release-livestock-onto-west-bank-farmland-3003171",
-      "published_date": "2026-10-04T14:47:55+00:00",
+      "title": "ECP 'ready' for LG polls in Punjab but cites legal and administrative hurdles in KP, Islamabad",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2034940/ecp-ready-for-lg-polls-in-punjab-but-cites-legal-and-administrative-hurdles-in-kp-islamabad",
+      "published_date": "2026-10-05T13:37:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bilawal challenges 'system has failed' narrative, cites Tharparkar’s development",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2034918/bilawal-challenges-system-has-failed-narrative-cites-tharparkars-development",
+      "published_date": "2026-10-05T12:23:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hundreds of French high schools shut as protests persist",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2034917/hundreds-of-french-high-schools-shut-as-protests-persist",
+      "published_date": "2026-10-05T12:09:50+00:00",
       "category": "Local Events"
     }
   ]
