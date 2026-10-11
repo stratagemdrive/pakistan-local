@@ -1,8 +1,22 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-10-10T16:09:52.129025+00:00",
+  "last_updated": "2026-10-11T01:24:04.388040+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "EU says lifting diesel sanctions gives Russia ‘revenues to wage war’",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/world/eu-says-lifting-diesel-sanctions-gives-russia-revenues-to-wage-war-3003804",
+      "published_date": "2026-10-10T21:41:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi ambassador meets Danish foreign ministry official",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/saudi-arabia/saudi-ambassador-meets-danish-foreign-ministry-official-3003797",
+      "published_date": "2026-10-10T19:31:51+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Nobel peace laureate calls US sanctions on International Criminal Court 'unacceptable'",
       "source": "Dawn",
@@ -130,23 +144,72 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US decision to livestream execution would be torture, says UN",
+      "title": "US military says it disabled cargo vessel trying to run Iran blockade",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/us-decision-to-livestream-execution-would-be-torture-says-un-3003660",
-      "published_date": "2026-10-09T09:19:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.arabnews.pk/middle-east/us-military-says-it-disabled-cargo-vessel-trying-to-run-iran-blockade-3003807",
+      "published_date": "2026-10-11T00:45:29+00:00",
+      "category": "Military"
     },
     {
-      "title": "Makkah alliance ground forces will not cross Yemen to attack Houthis, will defend Saudi Arabia: FO",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2633895/fo-says-pakistan-saudi-arabia-turkiye-move-to-implement-makkah-defence-pact",
-      "published_date": "2026-10-09T06:26:39+00:00",
-      "category": "Diplomacy"
+      "title": "International outcry grows after deadly Houthi attack on Riyadh airport",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/saudi-arabia/international-outcry-grows-after-deadly-houthi-attack-on-riyadh-airport-3003806",
+      "published_date": "2026-10-11T00:17:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least 12 dead, over 300 wounded in attack on Riyadh airport",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2036199/at-least-12-dead-over-300-wounded-in-attack-on-riyadh-airport",
+      "published_date": "2026-10-10T22:26:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why returning to Syria is only the first step towards rebuilding lives shattered by war",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/why-returning-to-syria-is-only-the-first-step-towards-rebuilding-lives-shattered-by-war-3003803",
+      "published_date": "2026-10-10T20:50:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "European aviation safety agency  reopens Syrian air corridors",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/european-aviation-safety-agency-reopens-syrian-air-corridors-3003796",
+      "published_date": "2026-10-10T19:19:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘They lie to us’: One year on, Gazans don’t believe in ceasefire",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/they-lie-to-us-one-year-on-gazans-dont-believe-in-ceasefire-3003795",
+      "published_date": "2026-10-10T19:15:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump 'looking at' airstrikes against Houthis after Riyadh airport attacks",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/trump-looking-at-airstrikes-against-houthis-after-riyadh-airport-attacks-3003793",
+      "published_date": "2026-10-10T19:10:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "A third school attack in less than a week shakes Poland",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/world/a-third-school-attack-in-less-than-a-week-shakes-poland-3003787",
+      "published_date": "2026-10-10T16:47:03+00:00",
+      "category": "Military"
     },
     {
       "title": "Passengers told to confirm flight status before heading to Riyadh airport",
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/saudi-arabia/passengers-told-to-confirm-flight-status-before-heading-to-riyadh-airport-3003780",
+      "published_date": "2026-10-10T15:15:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Riyadh airport attack killed 12 people and wounded over 300 more, says Saudi civil aviation agency",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/saudi-arabia/riyadh-airport-attack-killed-12-people-and-wounded-over-300-more-says-saudi-civil-aviation-agency-3003780",
       "published_date": "2026-10-10T15:15:56+00:00",
       "category": "Military"
     },
@@ -221,67 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "A US-brokered ceasefire was supposed to end the war in Gaza. A year later, progress has stalled",
+      "title": "Trump calls for replacing Ukraine’s Zelenskiy in tussle over diesel deal with Russia",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/a-us-brokered-ceasefire-was-supposed-to-end-the-war-in-gaza-a-year-later-progress-has-stalled-3003746",
-      "published_date": "2026-10-10T07:06:10+00:00",
-      "category": "Military"
+      "url": "https://www.arabnews.pk/world/trump-calls-for-replacing-ukraines-zelenskiy-in-tussle-over-diesel-deal-with-russia-3003805",
+      "published_date": "2026-10-10T23:00:34+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Trump sows doubt on plan to livestream US military execution",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2036133/trump-sows-doubt-on-plan-to-livestream-us-military-execution",
-      "published_date": "2026-10-10T06:04:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Taiwan’s leader says increasing defense spending to ‘deter war’",
+      "title": "UAE rescues 22 crew from burning tanker in Arabian Gulf",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/taiwans-leader-says-increasing-defense-spending-to-deter-war-3003740",
-      "published_date": "2026-10-10T04:43:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Major Pakistani meat exporter’s sales decline by over 11 percent due to US-Iran conflict",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/pakistan/major-pakistani-meat-exporters-sales-decline-by-over-11-percent-due-to-us-iran-conflict-3003739",
-      "published_date": "2026-10-10T04:07:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Country’s nuclear safeguards pass first-ever IPPAS security review",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2036072/countrys-nuclear-safeguards-pass-first-ever-ippas-security-review",
-      "published_date": "2026-10-10T02:45:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "PTI terms proposed emergency in 12 K-P districts violation of 18th Amendment",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2634059/pti-terms-proposed-emergency-in-12-k-p-districts-violation-of-18th-amendment-as-long-march-enters-",
-      "published_date": "2026-10-10T01:55:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Democrats accuse Trump of betraying Ukraine, allies in diesel deal with Putin",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/democrats-accuse-trump-of-betraying-ukraine-allies-in-diesel-deal-with-putin-3003735",
-      "published_date": "2026-10-10T01:10:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel’s scorn of Nobel Peace Prize laureate highlights its combative relationship with UN bodies",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/israels-scorn-of-nobel-peace-prize-laureate-highlights-its-combative-relationship-with-un-bodies-3003731",
-      "published_date": "2026-10-09T22:32:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Coalition carries out wide-scale operations against Yemen’s Houthis",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/saudi-arabia/coalition-carries-out-wide-scale-operations-against-yemens-houthis-3003728",
-      "published_date": "2026-10-09T21:21:25+00:00",
-      "category": "Military"
+      "url": "https://www.arabnews.pk/saudi-arabia/uae-rescues-22-crew-from-burning-tanker-in-arabian-gulf-3003786",
+      "published_date": "2026-10-10T16:39:28+00:00",
+      "category": "Energy"
     },
     {
       "title": "Germany’s firewall against the far-right AfD feels the heat",
@@ -410,18 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Govt hikes petrol by Rs2.31, high-speed diesel by 78 paisas for Oct 9",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2633748/govt-hikes-petrol-by-rs231-high-speed-diesel-by-78-paisas-for-oct-9",
-      "published_date": "2026-10-08T12:52:37+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Nepra notifies consumers of Rs1.11 per unit higher fuel costs in Oct billing",
+      "title": "Finance minister heads to Bangkok for IMF, World Bank meetings",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2035673/nepra-notifies-consumers-of-rs111-per-unit-higher-fuel-costs-in-oct-billing",
-      "published_date": "2026-10-08T10:44:07+00:00",
-      "category": "Energy"
+      "url": "https://www.dawn.com/news/2036191/finance-minister-heads-to-bangkok-for-imf-world-bank-meetings",
+      "published_date": "2026-10-10T16:28:01+00:00",
+      "category": "Economy"
     },
     {
       "title": "Brazil’s Lula scraps gasoline tax ahead of runoff election",
@@ -557,11 +564,88 @@
       "category": "Economy"
     },
     {
-      "title": "Central Riyadh flexible office occupancy nears 90% as international firms drive demand: JLL",
+      "title": "CM Afridi says will not accept 'illegal move' of governor's rule or emergency in KP",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2036185/cm-afridi-says-will-not-accept-illegal-move-of-governors-rule-or-emergency-in-kp",
+      "published_date": "2026-10-10T21:03:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India's Cockroach Janta Party says thousands detained during New Delhi protest against CEC",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2036128/indias-cockroach-janta-party-says-thousands-detained-during-new-delhi-protest-against-cec",
+      "published_date": "2026-10-10T19:48:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan president briefed on Khyber Pakhtunkhwa security as government weighs emergency",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/business/central-riyadh-flexible-office-occupancy-nears-90-as-international-firms-drive-demand-jll-3003659",
-      "published_date": "2026-10-09T09:04:06+00:00",
-      "category": "Economy"
+      "url": "https://www.arabnews.pk/pakistan/pakistan-president-briefed-on-khyber-pakhtunkhwa-security-as-government-weighs-emergency-3003801",
+      "published_date": "2026-10-10T19:40:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Scottish father and son return to Jeddah to rediscover family legacy",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/saudi-arabia/scottish-father-and-son-return-to-jeddah-to-rediscover-family-legacy-3003798",
+      "published_date": "2026-10-10T19:32:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Four Palestinians injured in settler attack near Nablus",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/four-palestinians-injured-in-settler-attack-near-nablus-3003794",
+      "published_date": "2026-10-10T19:14:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Section 144 imposed in Rawalpindi district for a month over 'threat to law and order'",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2036197/section-144-imposed-in-rawalpindi-district-for-a-month-over-threat-to-law-and-order",
+      "published_date": "2026-10-10T18:10:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US lethal injection survivor returns to prison",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/world/us-lethal-injection-survivor-returns-to-prison-3003792",
+      "published_date": "2026-10-10T17:43:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chinese court sentenced former mayor of Wuhan city to 14 years in prison for bribery",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/world/chinese-court-sentenced-former-mayor-of-wuhan-city-to-14-years-in-prison-for-bribery-3003791",
+      "published_date": "2026-10-10T17:25:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Test case’: Pakistan vows action over alleged fraud linked to student’s death",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/pakistan/test-case-pakistan-vows-action-over-alleged-fraud-linked-to-students-death-3003790",
+      "published_date": "2026-10-10T17:21:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Riders stage safety protest before start of Giro di Lombardia",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/sport/riders-stage-safety-protest-before-start-of-giro-di-lombardia-3003789",
+      "published_date": "2026-10-10T17:20:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French policing under scrutiny as student protest injuries mount",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/world/french-policing-under-scrutiny-as-student-protest-injuries-mount-3003788",
+      "published_date": "2026-10-10T17:14:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan president, PM discuss security as government weighs emergency in Khyber Pakhtunkhwa",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/pakistan/pakistan-president-pm-discuss-security-as-government-weighs-emergency-in-khyber-pakhtunkhwa-3003785",
+      "published_date": "2026-10-10T16:14:16+00:00",
+      "category": "Local Events"
     },
     {
       "title": "PM Shehbaz meets President Zardari as Centre mulls imposition of emergency in KP",
@@ -581,6 +665,13 @@
       "title": "Eight killed in shooting at Pennsylvania home: local media",
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/world/eight-killed-in-shooting-at-pennsylvania-home-local-media-3003782",
+      "published_date": "2026-10-10T15:32:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Shooting leaves 9 dead including suspect in Erie, Pennsylvania, police say",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/world/shooting-leaves-9-dead-including-suspect-in-erie-pennsylvania-police-say-3003782",
       "published_date": "2026-10-10T15:32:25+00:00",
       "category": "Local Events"
     },
@@ -610,97 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2036165/palestinian-president-postpones-legislative-elections-to-september-2027",
       "published_date": "2026-10-10T12:54:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spanish PM begins vote campaign overshadowed by housing protests",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/spanish-pm-begins-vote-campaign-overshadowed-by-housing-protests-3003766",
-      "published_date": "2026-10-10T12:32:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anthropic AI model sent fake murder tip to US police in Philadelphia",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2036155/anthropic-ai-model-sent-fake-murder-tip-to-us-police-in-philadelphia",
-      "published_date": "2026-10-10T11:21:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Islamabad ATC disposes of plea to drop terrorism charges against Imaan, Hadi in security breach case",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2036142/islamabad-atc-disposes-of-plea-to-drop-terrorism-charges-against-imaan-hadi-in-security-breach-case",
-      "published_date": "2026-10-10T09:14:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan vows ‘all possible measures’ to ensure peace amid opposition protest march",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/pakistan/pakistan-vows-all-possible-measures-to-ensure-peace-amid-opposition-protest-march-3003754",
-      "published_date": "2026-10-10T08:25:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russian attacks kill 12 in Ukraine after Trump strikes diesel deal with Putin",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/russian-attacks-kill-12-in-ukraine-after-trump-strikes-diesel-deal-with-putin-3003753",
-      "published_date": "2026-10-10T08:14:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Major earthquake hits Panama, injures at least 27",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/major-earthquake-hits-panama-injures-at-least-27-3003752",
-      "published_date": "2026-10-10T08:04:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tarar lambasts PTI and K-P govt, says ‘hours meant for governance spent plotting prisoner’s release’",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2634090/tarar-lambasts-pti-says-hours-meant-for-governance-spent-plotting-prisoners-release",
-      "published_date": "2026-10-10T07:43:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Supreme Court releases report documenting judicial, institutional reforms",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2036136/supreme-court-releases-report-documenting-judicial-institutional-reforms",
-      "published_date": "2026-10-10T07:29:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "India's 'cockroach' movement chief detained ahead of major protest",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2036128/indias-cockroach-movement-chief-detained-ahead-of-major-protest",
-      "published_date": "2026-10-10T06:45:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan says flights to Kingdom continuing ‘as usual’ after PIA suspends Riyadh operations",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/pakistan/pakistan-says-flights-to-kingdom-continuing-as-usual-after-pia-suspends-riyadh-operations-3003745",
-      "published_date": "2026-10-10T06:33:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PM Shehbaz, President Zardari discuss overall situation amid intense tensions between Centre, K-P",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2634087/pm-shehbaz-fazlur-rehman-discuss-easing-tensions-between-centre-k-p",
-      "published_date": "2026-10-10T06:27:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "At least 38 people hurt after supermarket ceiling collapses in South Korea’s Daegu city",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/at-least-38-people-hurt-after-supermarket-ceiling-collapses-in-south-koreas-daegu-city-3003741",
-      "published_date": "2026-10-10T04:49:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sri Lankan doctor joins efforts to save elephant Madhubala in Karachi",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2036012/sri-lankan-doctor-joins-efforts-to-save-elephant-madhubala-in-karachi",
-      "published_date": "2026-10-10T04:13:48+00:00",
       "category": "Local Events"
     }
   ]
