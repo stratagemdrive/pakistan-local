@@ -1,13 +1,62 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-10-11T16:36:26.415208+00:00",
+  "last_updated": "2026-10-12T01:54:08.966567+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Trump, Rubio weigh firing US envoy to Greece after mounting reports of improper conduct",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/world/trump-rubio-weigh-firing-us-envoy-to-greece-after-mounting-reports-of-improper-conduct-3003887",
+      "published_date": "2026-10-12T00:30:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Palestine calls for urgent Arab League meeting on Israeli attacks",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/palestine-calls-for-urgent-arab-league-meeting-on-israeli-attacks-3003869",
+      "published_date": "2026-10-11T19:10:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "King Salman invites Oman’s sultan to upcoming EU-GCC summit",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/saudi-arabia/king-salman-invites-omans-sultan-to-upcoming-eu-gcc-summit-3003864",
+      "published_date": "2026-10-11T18:06:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Al-Shaibani meets Libyan officials amid concerns for missing Syrians",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/al-shaibani-meets-libyan-officials-amid-concerns-for-missing-syrians-3003863",
+      "published_date": "2026-10-11T18:05:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Residents in Riyadh’s Diplomatic Quarter remain calm amid uncertainty",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/saudi-arabia/residents-in-riyadhs-diplomatic-quarter-remain-calm-amid-uncertainty-3003859",
+      "published_date": "2026-10-11T17:50:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Foreign envoys condemn Riyadh airport attack, express solidarity with Saudi Arabia",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/saudi-arabia/foreign-envoys-condemn-riyadh-airport-attack-express-solidarity-with-saudi-arabia-3003854",
+      "published_date": "2026-10-11T16:55:41+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Frankly Speaking: We stand in full solidarity with Saudi Arabia, says EU ambassador",
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/world/frankly-speaking-we-stand-in-full-solidarity-with-saudi-arabia-says-eu-ambassador-3003848",
       "published_date": "2026-10-11T15:50:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan’s US envoy highlights Lahore’s cultural and literary legacy at New York festival",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2634285/pakistans-us-envoy-highlights-lahores-cultural-and-literary-legacy-at-new-york-festival",
+      "published_date": "2026-10-11T14:03:55+00:00",
       "category": "Diplomacy"
     },
     {
@@ -95,53 +144,137 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Omani FM condemns attacks on Saudi airports in phone call with Prince Faisal",
+      "title": "Top NATO commander set to issue warning to Russia over any attack",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/saudi-arabia/omani-fm-condemns-attacks-on-saudi-airports-in-phone-call-with-prince-faisal-3003774",
-      "published_date": "2026-10-10T14:01:15+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.arabnews.pk/world/top-nato-commander-set-to-issue-warning-to-russia-over-any-attack-3003889",
+      "published_date": "2026-10-12T01:41:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Pakistan reaffirms commitment to Saudi security at UN Security Council",
+      "title": "Saudi Arabia’s air defenses intercept Houthi missile in Khamis Mushayt",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/saudi-arabia/saudi-arabias-air-defenses-intercept-houthi-missile-in-khamis-mushayt-3003888",
+      "published_date": "2026-10-12T01:28:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK Maritime says tanker struck by drone in vicinity of Oman’s Sohar anchorage",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/uk-maritime-says-tanker-struck-by-drone-in-vicinity-of-omans-sohar-anchorage-3003883",
+      "published_date": "2026-10-11T21:51:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Netanyahu demands probe into sources of award-winning Gaza film",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/netanyahu-demands-probe-into-sources-of-award-winning-gaza-film-3003880",
+      "published_date": "2026-10-11T20:51:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "72 killed in airstrike on gold mine on Sudan-Egypt border: rights group",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/72-killed-in-airstrike-on-gold-mine-on-sudan-egypt-border-rights-group-3003879",
+      "published_date": "2026-10-11T20:43:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Six senators call for Trump administration to ‘immediately reverse course’ on Russian diesel plan",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/world/six-senators-call-for-trump-administration-to-immediately-reverse-course-on-russian-diesel-plan-3003877",
+      "published_date": "2026-10-11T20:13:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yemen’s armed forces carried out 1,700 strikes on Houthis, spokesperson says",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/yemens-armed-forces-carried-out-1700-strikes-on-houthis-spokesperson-says-3003876",
+      "published_date": "2026-10-11T20:09:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Authorities impose Section 144 in Karachi, ban gatherings of more than 5 people till Oct 20",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2036131/pakistan-reaffirms-commitment-to-saudi-security-at-un-security-council",
-      "published_date": "2026-10-10T08:41:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2036426/authorities-impose-section-144-in-karachi-ban-gatherings-of-more-than-5-people-till-oct-20",
+      "published_date": "2026-10-11T19:32:29+00:00",
+      "category": "Military"
     },
     {
-      "title": "Pakistan says ‘reckless’ Houthi attacks against Saudi Arabia endanger regional peace",
+      "title": "Houthi attacks are a heinous crime",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/pakistan/pakistan-says-reckless-houthi-attacks-against-saudi-arabia-endanger-regional-peace-3003742",
-      "published_date": "2026-10-10T04:50:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.arabnews.pk/pakistan/houthi-attacks-are-a-heinous-crime-3003873",
+      "published_date": "2026-10-11T19:27:02+00:00",
+      "category": "Military"
     },
     {
-      "title": "Saudi Arabia will not allow Yemen to become launchpad for attacks on Kingdom: UN envoy",
+      "title": "Russia hits Ukraine power plants despite Trump energy ceasefire claim",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/saudi-arabia/saudi-arabia-will-not-allow-yemen-to-become-launchpad-for-attacks-on-kingdom-un-envoy-3003726",
-      "published_date": "2026-10-09T20:07:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.arabnews.pk/world/russia-hits-ukraine-power-plants-despite-trump-energy-ceasefire-claim-3003868",
+      "published_date": "2026-10-11T19:08:58+00:00",
+      "category": "Military"
     },
     {
-      "title": "DCO chief meets Saudi ambassador to Albania",
+      "title": "2 killed near Israeli-occupied zone in south Lebanon: official media",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/saudi-arabia/dco-chief-meets-saudi-ambassador-to-albania-3003719",
-      "published_date": "2026-10-09T19:35:43+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.arabnews.pk/middle-east/2-killed-near-israeli-occupied-zone-in-south-lebanon-official-media-3003866",
+      "published_date": "2026-10-11T18:52:20+00:00",
+      "category": "Military"
     },
     {
-      "title": "US sanctions on International Criminal Court spark global outcry",
+      "title": "Two Indian sailors missing after vessel attacked off Oman",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/us-sanctions-on-international-criminal-court-spark-global-outcry-3003711",
-      "published_date": "2026-10-09T18:36:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.arabnews.pk/middle-east/two-indian-sailors-missing-after-vessel-attacked-off-oman-3003865",
+      "published_date": "2026-10-11T18:07:31+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN says four million displaced in central Sahel",
+      "title": "Saudi, Iranian foreign ministers discuss regional tensions after airport attack",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/un-says-four-million-displaced-in-central-sahel-3003698",
-      "published_date": "2026-10-09T16:31:34+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.arabnews.pk/saudi-arabia/saudi-iranian-foreign-ministers-discuss-regional-tensions-after-airport-attack-3003861",
+      "published_date": "2026-10-11T17:55:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "R4 Group demands immediate halt to Houthi attacks against Saudi Arabia",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/pakistan/r4-group-demands-immediate-halt-to-houthi-attacks-against-saudi-arabia-3003860",
+      "published_date": "2026-10-11T17:53:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Riyadh airport hit by fresh Houthi strike day after deadly attack",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2036412/riyadh-airport-hit-by-fresh-houthi-strike-day-after-deadly-attack",
+      "published_date": "2026-10-11T17:44:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Maaz Sadaqat, Imran Randhawa star as Pakistan thrash Sri Lanka in second T20I to seal series",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2036391/maaz-sadaqat-imran-randhawa-star-as-pakistan-thrash-sri-lanka-in-second-t20i-to-seal-series",
+      "published_date": "2026-10-11T17:34:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Arab leaders voice solidarity with Saudi Arabia after Houthi attacks",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/arab-leaders-voice-solidarity-with-saudi-arabia-after-houthi-attacks-3003855",
+      "published_date": "2026-10-11T17:25:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Families mourn loved ones killed in Houthi strike on Riyadh airport",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/saudi-arabia/families-mourn-loved-ones-killed-in-houthi-strike-on-riyadh-airport-3003853",
+      "published_date": "2026-10-11T16:50:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistani, Chinese armies to hold joint training exercise in Xinjiang this month",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/pakistan/pakistani-chinese-armies-to-hold-joint-training-exercise-in-xinjiang-this-month-3003852",
+      "published_date": "2026-10-11T16:34:45+00:00",
+      "category": "Military"
     },
     {
       "title": "Family of Jordanian father killed in Riyadh attack left devastated",
@@ -151,137 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "New attack hits Riyadh airport, says Saudi coalition",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2036412/new-attack-hits-riyadh-airport-says-saudi-coalition",
-      "published_date": "2026-10-11T16:19:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Emergency, governor's rule imposed in KP as president approves cabinet decision",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2036352/emergency-governors-rule-imposed-in-kp-as-president-approves-cabinet-decision",
-      "published_date": "2026-10-11T16:09:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "FO reiterates Pakistan's 'firm and unshakeable' commitment to Saudi Arabia's security after Riyadh attack",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2036347/fo-reiterates-pakistans-firm-and-unshakeable-commitment-to-saudi-arabias-security-after-riyadh-attack",
-      "published_date": "2026-10-11T15:52:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least 139 migrants dead, including some children, after boat from Djibouti to Yemen capsizes, UN agency says",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2036408/at-least-139-migrants-dead-including-some-children-after-boat-from-djibouti-to-yemen-capsizes-un-agency-says",
-      "published_date": "2026-10-11T15:36:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan PM says Riyadh attack a ‘red line,’ vows Islamabad will cooperate with Riyadh ‘in every possible way’",
+      "title": "Trump’s ‘energy ceasefire’ sparks confusion as Russia strikes Ukraine",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/saudi-arabia/pakistan-pm-says-riyadh-attack-a-red-line-vows-islamabad-will-cooperate-with-riyadh-in-every-possible-way-3003847",
-      "published_date": "2026-10-11T15:29:37+00:00",
-      "category": "Military"
+      "url": "https://www.arabnews.pk/world/trumps-energy-ceasefire-sparks-confusion-as-russia-strikes-ukraine-3003885",
+      "published_date": "2026-10-11T23:34:56+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Pakistani politicians, scholars condemn Houthi attack on Riyadh airport",
+      "title": "Resilience takes center stage as Riyadh hosts global energy week",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/pakistan/pakistani-politicians-scholars-condemn-houthi-attack-on-riyadh-airport-3003846",
-      "published_date": "2026-10-11T15:14:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kingdom begins status correction for Yemenis",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/saudi-arabia/kingdom-begins-status-correction-for-yemenis-3003845",
-      "published_date": "2026-10-11T15:00:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Coalition reports fire at Riyadh airport passenger terminal after strike",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/saudi-arabia/coalition-reports-fire-at-riyadh-airport-passenger-terminal-after-strike-3003844",
-      "published_date": "2026-10-11T14:59:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Riyadh hospitals treating 309 injured in deadly airport attack",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/saudi-arabia/riyadh-hospitals-treating-309-injured-in-deadly-airport-attack-3003843",
-      "published_date": "2026-10-11T14:56:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bangladesh condemns deadly Houthi attack on Riyadh airport",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/bangladesh-condemns-deadly-houthi-attack-on-riyadh-airport-3003842",
-      "published_date": "2026-10-11T14:54:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "India joins in solidarity with Saudi Arabia after ‘dastardly’ Houthi attack on Riyadh",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/india-joins-in-solidarity-with-saudi-arabia-after-dastardly-houthi-attack-on-riyadh-3003841",
-      "published_date": "2026-10-11T14:51:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli forces enter southern Syrian valley, block farmers",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/israeli-forces-enter-southern-syrian-valley-block-farmers-3003840",
-      "published_date": "2026-10-11T14:46:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Riyadh unites in blood donation drive to help Airport victims",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/saudi-arabia/riyadh-unites-in-blood-donation-drive-to-help-airport-victims-3003838",
-      "published_date": "2026-10-11T14:02:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Soldier martyred, 12 terrorists killed as security forces foil infiltration attempt in Kurram: ISPR",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2036382/soldier-martyred-12-terrorists-killed-as-security-forces-foil-infiltration-attempt-in-kurram-ispr",
-      "published_date": "2026-10-11T11:09:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "S&P affirms Egypt’s ‘B/B’ ratings as policy response cushions regional shocks",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/business/sp-affirms-egypts-bb-ratings-as-policy-response-cushions-regional-shocks-3003827",
-      "published_date": "2026-10-11T09:38:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi business confidence holds at 56.6 in September as industry improves",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/business/saudi-business-confidence-holds-at-566-in-september-as-industry-improves-3003826",
-      "published_date": "2026-10-11T09:16:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi non-oil industrial output gains 1.2% despite broader contraction",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/business/saudi-non-oil-industrial-output-gains-12-despite-broader-contraction-3003822",
-      "published_date": "2026-10-11T08:24:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan says thwarted infiltration attempt, killing 12 militants and Afghan Taliban forces",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/pakistan/pakistan-says-thwarted-infiltration-attempt-killing-12-militants-and-afghan-taliban-forces-3003821",
-      "published_date": "2026-10-11T07:44:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Going bankrupt’: Iran shopkeepers struggle as war dims demand",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/going-bankrupt-iran-shopkeepers-struggle-as-war-dims-demand-3003817",
-      "published_date": "2026-10-11T04:39:49+00:00",
-      "category": "Military"
+      "url": "https://www.arabnews.pk/business/resilience-takes-center-stage-as-riyadh-hosts-global-energy-week-3003857",
+      "published_date": "2026-10-11T17:37:41+00:00",
+      "category": "Energy"
     },
     {
       "title": "Trump says Russia and Ukraine reach ‘energy ceasefire’ but gives no details",
@@ -410,18 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Saudi delegation attends 57th GCC Industrial Cooperation Committee meeting in Bahrain",
+      "title": "Saudi deputy minister represents economy minister at GCC meeting in Bahrain",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/saudi-arabia/saudi-delegation-attends-57th-gcc-industrial-cooperation-committee-meeting-in-bahrain-3003625",
-      "published_date": "2026-10-08T21:55:01+00:00",
-      "category": "Energy"
+      "url": "https://www.arabnews.pk/saudi-arabia/saudi-deputy-minister-represents-economy-minister-at-gcc-meeting-in-bahrain-3003874",
+      "published_date": "2026-10-11T19:46:34+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Saudi Arabia and UAE agree to strengthen power grid and rail connectivity",
+      "title": "Riyadh forum to examine key economic challenges",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/saudi-arabia/saudi-arabia-and-uae-agree-to-strengthen-power-grid-and-rail-connectivity-3003611",
-      "published_date": "2026-10-08T19:34:28+00:00",
-      "category": "Energy"
+      "url": "https://www.arabnews.pk/saudi-arabia/riyadh-forum-to-examine-key-economic-challenges-3003856",
+      "published_date": "2026-10-11T17:26:46+00:00",
+      "category": "Economy"
     },
     {
       "title": "Rising through a regional war, Jordan’s market chief tells Gulf money: Don’t sell, diversify",
@@ -550,18 +564,46 @@
       "category": "Economy"
     },
     {
-      "title": "Auto import duties face criticism",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2633992/auto-import-duties-face-criticism",
-      "published_date": "2026-10-09T16:20:41+00:00",
-      "category": "Economy"
+      "title": "India’s ‘cockroach’ leaders vow to keep up election protests",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/world/indias-cockroach-leaders-vow-to-keep-up-election-protests-3003882",
+      "published_date": "2026-10-11T21:13:34+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Staples, fuel keep SPI near 12% YoY",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2633984/staples-fuel-keep-spi-near-12-yoy",
-      "published_date": "2026-10-09T16:20:41+00:00",
-      "category": "Economy"
+      "title": "Pakistani president suspends provincial government led by Khan’s party ahead of march",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/world/pakistani-president-suspends-provincial-government-led-by-khans-party-ahead-of-march-3003881",
+      "published_date": "2026-10-11T20:51:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Filipino expats in Saudi Arabia turn to art to give back",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/world/filipino-expats-in-saudi-arabia-turn-to-art-to-give-back-3003875",
+      "published_date": "2026-10-11T19:52:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indian court releases 'cockroach' movement leaders from detention",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2036366/indian-court-releases-cockroach-movement-leaders-from-detention",
+      "published_date": "2026-10-11T18:44:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fazl accuses govt of reneging on its commitments after seeking his mediation with PTI",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2036416/fazl-accuses-govt-of-reneging-on-its-commitments-after-seeking-his-mediation-with-pti",
+      "published_date": "2026-10-11T17:50:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan beat Sri Lanka by 82 runs to clinch T20 series 2-0",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/pakistan/pakistan-beat-sri-lanka-by-82-runs-to-clinch-t20-series-2-0-3003858",
+      "published_date": "2026-10-11T17:45:50+00:00",
+      "category": "Local Events"
     },
     {
       "title": "KP Governor's Rule: An emergency in the street and state",
@@ -655,52 +697,10 @@
       "category": "Local Events"
     },
     {
-      "title": "Emergency provisions",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/1728110/emergency-provisions",
-      "published_date": "2026-10-11T10:35:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan imposes emergency in opposition-ruled Khyber Pakhtunkhwa province",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/pakistan/pakistan-imposes-emergency-in-opposition-ruled-khyber-pakhtunkhwa-province-3003824",
-      "published_date": "2026-10-11T08:58:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan imposes emergency rule in northern province after protests: presidency",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/pakistan-imposes-emergency-rule-in-northern-province-after-protests-presidency-3003823",
-      "published_date": "2026-10-11T08:27:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Experiment or stick with the winning XI? Pakistan face selection dilemma ahead of second Sri Lanka T20I",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2036190/experiment-or-stick-with-the-winning-xi-pakistan-face-selection-dilemma-ahead-of-second-sri-lanka-t20i",
-      "published_date": "2026-10-11T07:15:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "State determined to rid K-P of terrorists, says Kundi at first advisory council meeting after governor's rule",
+      "title": "PTI long march fizzles out in Swabi following emergency, governor's rule",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2634248/govt-forms-advisory-council-to-run-k-p-affairs-orders-ads-in-12-districts-to-improve-law-and-order",
-      "published_date": "2026-10-11T06:59:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Broken record: The unfinished business of Partition",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2036235/broken-record-the-unfinished-business-of-partition",
-      "published_date": "2026-10-11T06:52:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan arrests accused in financial fraud linked to student’s death",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/pakistan/pakistan-arrests-accused-in-financial-fraud-linked-to-students-death-3003820",
-      "published_date": "2026-10-11T06:32:47+00:00",
+      "url": "https://tribune.com.pk/story/2634264/pti-long-march-fizzles-out-in-swabi-following-emergency-governors-rule",
+      "published_date": "2026-10-11T11:09:33+00:00",
       "category": "Local Events"
     }
   ]
