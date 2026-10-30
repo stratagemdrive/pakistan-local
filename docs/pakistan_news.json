@@ -1,8 +1,29 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-10-29T17:22:21.288192+00:00",
+  "last_updated": "2026-10-30T02:15:20.466085+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Saudi, Kuwaiti ministers discuss bilateral ties, regional developments",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/saudi-arabia/saudi-kuwaiti-ministers-discuss-bilateral-ties-regional-developments-3005608",
+      "published_date": "2026-10-29T20:54:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi crown prince invited to attend UN Water Conference in Abu Dhabi",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/saudi-arabia/saudi-crown-prince-invited-to-attend-un-water-conference-in-abu-dhabi-3005600",
+      "published_date": "2026-10-29T18:26:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi, Yemeni foreign ministers discuss support for Yemeni government as fighting intensifies",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/saudi-arabia/saudi-yemeni-foreign-ministers-discuss-support-for-yemeni-government-as-fighting-intensifies-3005596",
+      "published_date": "2026-10-29T17:36:32+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU, Canada to bring ties to ‘highest’ possible level at Montreal summit",
       "source": "Arab News Pakistan",
@@ -123,25 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Yemen appeals for help for civilians as Houthis tighten the siege of Taiz",
+      "title": "Saudi defense minister discusses regional security with NATO chief, Western counterparts",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/yemen-appeals-for-help-for-civilians-as-houthis-tighten-the-siege-of-taiz-3005497",
-      "published_date": "2026-10-28T13:37:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.arabnews.pk/saudi-arabia/saudi-defense-minister-discusses-regional-security-with-nato-chief-western-counterparts-3005620",
+      "published_date": "2026-10-30T01:43:51+00:00",
+      "category": "Military"
     },
     {
-      "title": "Displacement in Yemen tops 281,000 since August as fighting chokes aid routes into Taiz",
+      "title": "Netanyahu bloc leads Israel election but falls short of majority as Likud claims vote was ‘stolen’",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/displacement-in-yemen-tops-281000-since-august-as-fighting-chokes-aid-routes-into-taiz-3005497",
-      "published_date": "2026-10-28T13:37:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.arabnews.pk/middle-east/netanyahu-bloc-leads-israel-election-but-falls-short-of-majority-as-likud-claims-vote-was-stolen-3005619",
+      "published_date": "2026-10-30T01:33:27+00:00",
+      "category": "Military"
     },
     {
-      "title": "Hegseth pushes for US-ASEAN defense framework at Philippines summit",
+      "title": "Ukraine pauses refinery strikes after Trump pressure as Russian attacks kill at least 20",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/hegseth-pushes-for-us-asean-defense-framework-at-philippines-summit-3005492",
-      "published_date": "2026-10-28T13:03:27+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.arabnews.pk/world/ukraine-pauses-refinery-strikes-after-trump-pressure-as-russian-attacks-kill-at-least-20-3005618",
+      "published_date": "2026-10-30T00:27:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lebanon bets on diplomacy to avert another war, amid reports of Hezbollah preparing for battle",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/lebanon-bets-on-diplomacy-to-avert-another-war-amid-reports-of-hezbollah-preparing-for-battle-3005613",
+      "published_date": "2026-10-29T22:23:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Houthi detentions mean aid is ‘untenable’ in militia-held Yemen, UN says, with 800,000 cut off in Taiz",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/houthi-detentions-mean-aid-is-untenable-in-militia-held-yemen-un-says-with-800000-cut-off-in-taiz-3005607",
+      "published_date": "2026-10-29T20:51:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yemeni forces launch 982 strikes against Houthi targets in 24 hours",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/yemeni-forces-launch-982-strikes-against-houthi-targets-in-24-hours-3005598",
+      "published_date": "2026-10-29T17:41:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "1 injured in Riyadh after Saudi air defenses shoot down Houthi missiles",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/saudi-arabia/1-injured-in-riyadh-after-saudi-air-defenses-shoot-down-houthi-missiles-3005597",
+      "published_date": "2026-10-29T17:41:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Houthis and Iran hijack new tech to threaten Red Sea and Hormuz shipping, Bahrain warns",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/houthis-and-iran-hijack-new-tech-to-threaten-red-sea-and-hormuz-shipping-bahrain-warns-3005594",
+      "published_date": "2026-10-29T17:28:54+00:00",
+      "category": "Military"
     },
     {
       "title": "Greek PM calls for global maritime truce after Greek ship sunk in drone attack",
@@ -165,6 +221,13 @@
       "category": "Military"
     },
     {
+      "title": "Floods kill 5 in Syria, force hundreds of families from camps",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/floods-kill-5-in-syria-force-hundreds-of-families-from-camps-3005582",
+      "published_date": "2026-10-29T14:34:09+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Turkiye stands with Saudi Arabia in face of Houthi attacks: Ambassador",
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/saudi-arabia/turkiye-stands-with-saudi-arabia-in-face-of-houthi-attacks-ambassador-3005581",
@@ -182,6 +245,13 @@
       "title": "Saudi medical team undertakes complex surgery to separate Tanzanian conjoined twins",
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/saudi-arabia/saudi-medical-team-undertakes-complex-surgery-to-separate-tanzanian-conjoined-twins-3005571",
+      "published_date": "2026-10-29T13:02:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi medical team successfully completes surgery to separate Tanzanian conjoined twins",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/saudi-arabia/saudi-medical-team-successfully-completes-surgery-to-separate-tanzanian-conjoined-twins-3005571",
       "published_date": "2026-10-29T13:02:17+00:00",
       "category": "Military"
     },
@@ -214,74 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "US and Japan, long alarmed by China’s aggression, agree to establish missile-production facility",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/us-and-japan-long-alarmed-by-chinas-aggression-agree-to-establish-missile-production-facility-3005528",
-      "published_date": "2026-10-29T00:31:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Italian PM slams ‘shameful’ release of alleged protest organizer",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/italian-pm-slams-shameful-release-of-alleged-protest-organizer-3005524",
-      "published_date": "2026-10-28T21:25:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump, Obama pound campaign trail in closing week of US midterm election",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/trump-obama-pound-campaign-trail-in-closing-week-of-us-midterm-election-3005523",
-      "published_date": "2026-10-28T21:02:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Houthi attacks on Saudi airports raise question of war crimes, UN rights chief tells Arab News",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/houthi-attacks-on-saudi-airports-raise-question-of-war-crimes-un-rights-chief-tells-arab-news-3005522",
-      "published_date": "2026-10-28T20:54:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Officers graduate from King Abdulaziz Military Academy",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/saudi-arabia/officers-graduate-from-king-abdulaziz-military-academy-3005521",
-      "published_date": "2026-10-28T20:52:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What's at stake for Trump in Israel's deadlocked election?",
+      "title": "High-speed diesel price crosses Rs400 with Re0.85 increase; no change in petrol rate",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2040495/whats-at-stake-for-trump-in-israels-deadlocked-election",
-      "published_date": "2026-10-28T20:00:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gaza health officials say Israeli strikes kill 5",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/gaza-health-officials-say-israeli-strikes-kill-5-3005518",
-      "published_date": "2026-10-28T19:57:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel's unassuming President Herzog holds keys to next government",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2040496/israels-unassuming-president-herzog-holds-keys-to-next-government",
-      "published_date": "2026-10-28T19:06:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "ATC issues Sohail Afridi's arrest warrants",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2637494/atc-issues-sohail-afridis-arrest-warrants",
-      "published_date": "2026-10-28T18:36:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan, Saudi Arabia discuss stronger defense cooperation amid regional tensions",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/pakistan/pakistan-saudi-arabia-discuss-stronger-defense-cooperation-amid-regional-tensions-3005515",
-      "published_date": "2026-10-28T18:35:13+00:00",
-      "category": "Military"
+      "url": "https://www.dawn.com/news/2040759/high-speed-diesel-price-crosses-rs400-with-re085-increase-no-change-in-petrol-rate",
+      "published_date": "2026-10-29T18:46:53+00:00",
+      "category": "Energy"
     },
     {
       "title": "Iraqi court hands down prison terms to 2 politicians and an oil official in graft case",
@@ -417,11 +424,53 @@
       "category": "Energy"
     },
     {
-      "title": "Gold drops despite global gains on oil",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2637259/gold-drops-despite-global-gains-on-oil",
-      "published_date": "2026-10-27T15:42:09+00:00",
-      "category": "Energy"
+      "title": "Vessel catches fire in Strait of Hormuz after incident northeast of Oman, UKMTO says",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/vessel-catches-fire-in-strait-of-hormuz-after-incident-northeast-of-oman-ukmto-says-3005617",
+      "published_date": "2026-10-30T00:10:40+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Carney, top EU official push Canada associate membership, wider alliance against Trump threats",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/world/carney-top-eu-official-push-canada-associate-membership-wider-alliance-against-trump-threats-3005614",
+      "published_date": "2026-10-29T23:01:37+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pakistan 'overperformer' in innovation, climbs 4 ranks globally in 2026: report",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2040752/pakistan-overperformer-in-innovation-climbs-4-ranks-globally-in-2026-report",
+      "published_date": "2026-10-29T21:08:47+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US stocks slide as Google parent's revenue miss revives AI spending jitters",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2040760/us-stocks-slide-as-google-parents-revenue-miss-revives-ai-spending-jitters",
+      "published_date": "2026-10-29T20:23:37+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Afghanistan's Rashid Khan becomes first men's player to claim 200 T20I wickets",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2040763/afghanistans-rashid-khan-becomes-first-mens-player-to-claim-200-t20i-wickets",
+      "published_date": "2026-10-29T19:02:58+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Rising interest payments, uplift spending strained Pakistan's fiscal position in early FY27: ministry",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2040743/rising-interest-payments-uplift-spending-strained-pakistans-fiscal-position-in-early-fy27-ministry",
+      "published_date": "2026-10-29T17:52:26+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pakistan, Saudi Arabia eye increasing cooperation in energy, technology, education",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/pakistan/pakistan-saudi-arabia-eye-increasing-cooperation-in-energy-technology-education-3005599",
+      "published_date": "2026-10-29T17:47:11+00:00",
+      "category": "Economy"
     },
     {
       "title": "Pakistan stock market launches Shariah-compliant trading counter",
@@ -515,53 +564,53 @@
       "category": "Economy"
     },
     {
-      "title": "PSX climbs 1,270 points as policy fears ease",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2637477/psx-climbs-1270-points-as-policy-fears-ease",
-      "published_date": "2026-10-28T16:52:33+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Rs511b approved, Rs91b disbursed under Apna Ghar",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2637471/rs511b-approved-rs91b-disbursed-under-apna-ghar",
-      "published_date": "2026-10-28T16:52:33+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Sri Lanka trade gap at $450m to $90m",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2637473/sri-lanka-trade-gap-at-450m-to-90m",
-      "published_date": "2026-10-28T16:52:33+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Govt considering creation of regulatory authority for construction industry",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2040454/govt-considering-creation-of-regulatory-authority-for-construction-industry",
-      "published_date": "2026-10-28T15:48:58+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Filing your tax return on IRIS: A step-by-step guide for the salaried individual",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2040446/filing-your-tax-return-on-iris-a-step-by-step-guide-for-the-salaried-individual",
-      "published_date": "2026-10-28T15:06:36+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Secret to country's development lies in AI and digitisation, PM Shehbaz stresses",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2040459/secret-to-countrys-development-lies-in-ai-and-digitisation-pm-shehbaz-stresses",
-      "published_date": "2026-10-28T15:04:55+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Closing Bell: Saudi stock market rise gaining 0.37% to close above 10,000",
+      "title": "Australian court orders Erin Patterson never to be released from prison for mushroom poisonings",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/business/closing-bell-saudi-stock-market-rise-gaining-037-to-close-above-10000-3005500",
-      "published_date": "2026-10-28T14:32:09+00:00",
-      "category": "Economy"
+      "url": "https://www.arabnews.pk/world/australian-court-orders-erin-patterson-never-to-be-released-from-prison-for-mushroom-poisonings-3005621",
+      "published_date": "2026-10-30T02:14:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Stolen election rhetoric from Trump isn’t new. His ability to act on those claims is",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/world/stolen-election-rhetoric-from-trump-isnt-new-his-ability-to-act-on-those-claims-is-3005615",
+      "published_date": "2026-10-29T23:28:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anger after Netanyahu claims Arab election success was bought",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/anger-after-netanyahu-claims-arab-election-success-was-bought-3005610",
+      "published_date": "2026-10-29T21:46:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UN political mission ends in Somalia with no agreed replacement to handle election dispute",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/world/un-political-mission-ends-in-somalia-with-no-agreed-replacement-to-handle-election-dispute-3005606",
+      "published_date": "2026-10-29T20:43:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "England record consolation win despite Rathnayake’s ton in Pakistan tri-series",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/pakistan/england-record-consolation-win-despite-rathnayakes-ton-in-pakistan-tri-series-3005602",
+      "published_date": "2026-10-29T18:52:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan, Turkiye shall 'continue to champion dialogue, diplomacy' alongside bolstering defences: PM Shehbaz",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2040754/pakistan-turkiye-shall-continue-to-champion-dialogue-diplomacy-alongside-bolstering-defences-pm-shehbaz",
+      "published_date": "2026-10-29T18:34:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How West Bank school disruptions are eroding Palestinian families’ faith in education",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/how-west-bank-school-disruptions-are-eroding-palestinian-families-faith-in-education-3005595",
+      "published_date": "2026-10-29T17:33:28+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Hesson hoping struggling Pakistan top order shows up on big occasion in tri-series final",
@@ -652,55 +701,6 @@
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2040713/fact-check-viral-video-of-jui-f-chief-asking-for-forgiveness-in-na-is-doctored",
       "published_date": "2026-10-29T12:54:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bilawal urges Achakzai to use ‘authority’ delegated by Imran, asks opposition to play role in Parliament",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2040707/bilawal-urges-achakzai-to-use-authority-delegated-by-imran-asks-opposition-to-play-role-in-parliament",
-      "published_date": "2026-10-29T12:16:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Polluted priorities",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2040628/polluted-priorities",
-      "published_date": "2026-10-29T12:06:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Obama mocks Trump’s government-wide response to Cheesecake Factory remark ahead of US midterms",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2040673/obama-mocks-trumps-government-wide-response-to-cheesecake-factory-remark-ahead-of-us-midterms",
-      "published_date": "2026-10-29T11:59:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Horrific’ Russian drone strike kills 13 at Ukraine train station: Kyiv",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/horrific-russian-drone-strike-kills-13-at-ukraine-train-station-kyiv-3005567",
-      "published_date": "2026-10-29T11:43:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arab list says Netanyahu election accusations show his 'fear' of their power",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/arab-list-says-netanyahu-election-accusations-show-his-fear-of-their-power-3005566",
-      "published_date": "2026-10-29T11:36:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sri Lanka win toss, field against England in Pakistan cricket tri-series",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/pakistan/sri-lanka-win-toss-field-against-england-in-pakistan-cricket-tri-series-3005565",
-      "published_date": "2026-10-29T11:26:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistani journalists face ‘legal siege’ as prosecutions stifle reporting, watchdog says",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/pakistan/pakistani-journalists-face-legal-siege-as-prosecutions-stifle-reporting-watchdog-says-3005562",
-      "published_date": "2026-10-29T10:42:14+00:00",
       "category": "Local Events"
     }
   ]
