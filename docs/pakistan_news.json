@@ -1,8 +1,29 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-11-01T17:03:35.949401+00:00",
+  "last_updated": "2026-11-02T01:57:54.729724+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Somali prime minister leaves after Saudi visit",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/saudi-arabia/somali-prime-minister-leaves-after-saudi-visit-3005831",
+      "published_date": "2026-11-01T20:06:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Palestinian PM, EU envoy discuss Gaza offensive, settler attacks",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/palestinian-pm-eu-envoy-discuss-gaza-offensive-settler-attacks-3005829",
+      "published_date": "2026-11-01T19:32:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan's embassy in Tehran refutes rumours of people 'attacking' its ambassador to Iran",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2041397/pakistans-embassy-in-tehran-refutes-rumours-of-people-attacking-its-ambassador-to-iran",
+      "published_date": "2026-11-01T17:27:52+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Report: Iran’s hidden web of military agencies is slipping hardware past the US blockade",
       "source": "Arab News Pakistan",
@@ -15,6 +36,13 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/pakistan/top-official-of-chinas-communist-party-due-in-pakistan-today-to-strengthen-bilateral-relations-3005805",
       "published_date": "2026-11-01T13:32:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan embassy rejects reports of attack on ambassador in Tehran as ‘baseless’",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2638116/pakistan-embassy-rejects-reports-of-attack-on-ambassador-in-tehran-as-baseless",
+      "published_date": "2026-11-01T11:47:31+00:00",
       "category": "Diplomacy"
     },
     {
@@ -116,32 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pakistan rebukes Afghan Taliban's 'deeply misguided approach' to resolving bilateral tensions",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2637956/pakistan-rebukes-afghan-talibans-deeply-misguided-approach-to-resolving-bilateral-tensions",
-      "published_date": "2026-10-31T13:46:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi Arabia’s security ‘linked to regional stability,’ Manama forum told",
+      "title": "Syria arrests two alleged Daesh terrorists",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/saudi-arabia/saudi-arabias-security-linked-to-regional-stability-manama-forum-told-3005730",
-      "published_date": "2026-10-31T13:02:08+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.arabnews.pk/middle-east/syria-arrests-two-alleged-daesh-terrorists-3005843",
+      "published_date": "2026-11-01T23:44:34+00:00",
+      "category": "Military"
     },
     {
-      "title": "At UN, Pakistan voices concern over prevailing Islamophobia, urges global action",
+      "title": "Ukraine’s leader says will stop hitting Russia refineries if US provides interceptor missiles",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/pakistan/at-un-pakistan-voices-concern-over-prevailing-islamophobia-urges-global-action-3005726",
-      "published_date": "2026-10-31T12:38:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.arabnews.pk/world/ukraines-leader-says-will-stop-hitting-russia-refineries-if-us-provides-interceptor-missiles-3005841",
+      "published_date": "2026-11-01T22:30:12+00:00",
+      "category": "Military"
     },
     {
-      "title": "UK PM 'open' to slavery apology but not reparations",
+      "title": "Cyberattacks trigger false emergency alerts in Ukraine and Russia",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/world/cyberattacks-trigger-false-emergency-alerts-in-ukraine-and-russia-3005840",
+      "published_date": "2026-11-01T22:11:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Syrian defense minister meets Qatar’s defense chief to boost military ties",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/syrian-defense-minister-meets-qatars-defense-chief-to-boost-military-ties-3005839",
+      "published_date": "2026-11-01T21:16:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "More than 130 migrants rescued off Mauritania",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/world/more-than-130-migrants-rescued-off-mauritania-3005832",
+      "published_date": "2026-11-01T20:13:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump holds call with Netanyahu over state of Iran war: report",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/trump-holds-call-with-netanyahu-over-state-of-iran-war-report-3005828",
+      "published_date": "2026-11-01T19:31:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK agency reports vessel strike in Hormuz; Iran’s Guards say tankers hit mines",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/uk-agency-reports-vessel-strike-in-hormuz-irans-guards-say-tankers-hit-mines-3005826",
+      "published_date": "2026-11-01T19:24:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan responds to unprovoked firing from Afghan posts along border in Lower South Waziristan: DC",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2041183/uk-pm-open-to-slavery-apology-but-not-reparations",
-      "published_date": "2026-10-31T11:31:58+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.dawn.com/news/2041405/pakistan-responds-to-unprovoked-firing-from-afghan-posts-along-border-in-lower-south-waziristan-dc",
+      "published_date": "2026-11-01T18:46:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli army building roads to link military posts in southern Lebanon, report says",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/israeli-army-building-roads-to-link-military-posts-in-southern-lebanon-report-says-3005824",
+      "published_date": "2026-11-01T18:31:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘We’re technology-savvy’: DG ISPR says Pakistan ahead of India, Afghan Taliban in operational readiness",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2041391/were-technology-savvy-dg-ispr-says-pakistan-ahead-of-india-afghan-taliban-in-operational-readiness",
+      "published_date": "2026-11-01T17:31:26+00:00",
+      "category": "Military"
     },
     {
       "title": "'We're a tech-savvy army': DG ISPR voices confidence in Pakistan's operational readiness for drone warfare",
@@ -200,87 +270,17 @@
       "category": "Military"
     },
     {
+      "title": "Pakistan capable of intercepting any drones sent from Afghanistan, India: DG ISPR",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2638130/pakistan-capable-of-intercepting-any-drones-sent-from-afghanistan-india-dg-ispr",
+      "published_date": "2026-11-01T13:56:40+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Protecting maritime straits is a ‘shared responsibility’",
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/saudi-arabia/protecting-maritime-straits-is-a-shared-responsibility-3005807",
       "published_date": "2026-11-01T13:52:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Coalition says it targeted Houthi resources used to attack civilians",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/coalition-says-it-targeted-houthi-resources-used-to-attack-civilians-3005806",
-      "published_date": "2026-11-01T13:48:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "France launches ‘attempted murder’ probe after petrol bomb attack on security forces",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/france-launches-attempted-murder-probe-after-petrol-bomb-attack-on-security-forces-3005798",
-      "published_date": "2026-11-01T12:24:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US plans to deport Afghans back to their home country through Pakistan, documents show",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/pakistan/us-plans-to-deport-afghans-back-to-their-home-country-through-pakistan-documents-show-3005797",
-      "published_date": "2026-11-01T12:18:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strikes in Gaza kill eight: civil defense, hospitals",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/israeli-strikes-in-gaza-kill-eight-civil-defense-hospitals-3005795",
-      "published_date": "2026-11-01T11:29:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran army says any new war with US could be ‘longer than previous conflict’",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/iran-army-says-any-new-war-with-us-could-be-longer-than-previous-conflict-3005788",
-      "published_date": "2026-11-01T10:06:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kremlin aide says initial Ukraine talks should include only US, Russia, Ukraine",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/kremlin-aide-says-initial-ukraine-talks-should-include-only-us-russia-ukraine-3005787",
-      "published_date": "2026-11-01T10:03:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Turkiye moves Kurdish militant leader Ocalan to a new part of an island prison under peace push",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/turkiye-moves-kurdish-militant-leader-ocalan-to-a-new-part-of-an-island-prison-under-peace-push-3005783",
-      "published_date": "2026-11-01T08:47:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "North Korea tests cluster-bomb warheads: KCNA",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2041366/north-korea-tests-cluster-bomb-warheads-kcna",
-      "published_date": "2026-11-01T07:06:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "New restrictions kick in as Delhi battles pollution",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/new-restrictions-kick-in-as-delhi-battles-pollution-3005778",
-      "published_date": "2026-11-01T06:42:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia says drone hit ‘industrial enterprise’ near Moscow, Kyiv claims hit major refinery",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/russia-says-drone-hit-industrial-enterprise-near-moscow-kyiv-claims-hit-major-refinery-3005776",
-      "published_date": "2026-11-01T06:17:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US to deport 150 Afghan immigrants back to Kabul",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2041293/us-to-deport-150-afghan-immigrants-back-to-kabul",
-      "published_date": "2026-11-01T02:34:09+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,20 @@
       "category": "Energy"
     },
     {
+      "title": "China’s robot makers have mastered the moves. Now comes the race for brains",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/world/chinas-robot-makers-have-mastered-the-moves-now-comes-the-race-for-brains-3005844",
+      "published_date": "2026-11-02T01:53:02+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Crew from Nasa's simulated Mars mission emerges after 378 days in isolation",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2041410/crew-from-nasas-simulated-mars-mission-emerges-after-378-days-in-isolation",
+      "published_date": "2026-11-01T19:15:05+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Homs exhibition showcases young entrepreneurs’ ideas",
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/middle-east/homs-exhibition-showcases-young-entrepreneurs-ideas-3005817",
@@ -550,18 +564,46 @@
       "category": "Economy"
     },
     {
-      "title": "Gen Z protests reach Germany as over 160,000 expected at Halloween rallies",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2041157/gen-z-protests-reach-germany-as-over-160000-expected-at-halloween-rallies",
-      "published_date": "2026-10-31T05:46:27+00:00",
-      "category": "Economy"
+      "title": "Ukraine evacuates civilians from parts of Kherson region as expiry of Oleshky ceasefire nears",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/world/ukraine-evacuates-civilians-from-parts-of-kherson-region-as-expiry-of-oleshky-ceasefire-nears-3005838",
+      "published_date": "2026-11-01T21:13:30+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Israeli attacks devastate agriculture in Quneitra",
+      "title": "French protest violence eases while scattered riots hit Germany ahead of school return",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/israeli-attacks-devastate-agriculture-in-quneitra-3005685",
-      "published_date": "2026-10-30T19:08:07+00:00",
-      "category": "Economy"
+      "url": "https://www.arabnews.pk/world/french-protest-violence-eases-while-scattered-riots-hit-germany-ahead-of-school-return-3005837",
+      "published_date": "2026-11-01T21:08:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French school blockades to restart from Monday: student group",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/world/french-school-blockades-to-restart-from-monday-student-group-3005835",
+      "published_date": "2026-11-01T20:35:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Abdul El-Sayed’s Democratic rival, Haley Stevens, endorses GOP’s Mike Rogers in Michigan Senate race",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/world/abdul-el-sayeds-democratic-rival-haley-stevens-endorses-gops-mike-rogers-in-michigan-senate-race-3005830",
+      "published_date": "2026-11-01T20:02:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jordan designates Hmoud as City of Culture 2027 after deadly mass shooting",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/jordan-designates-hmoud-as-city-of-culture-2027-after-deadly-mass-shooting-3005827",
+      "published_date": "2026-11-01T19:28:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Polio case from KP's Khyber takes nationwide tally for 2026 to eight",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2041402/polio-case-from-kps-khyber-takes-nationwide-tally-for-2026-to-eight",
+      "published_date": "2026-11-01T17:58:50+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Dozens injured, at least 6 dead in Halloween weekend gun violence at nightlife districts across US",
@@ -659,48 +701,6 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/world/portuguese-police-clash-with-housing-protesters-arrest-13-3005786",
       "published_date": "2026-11-01T10:00:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan welcomes first Boeing 787 Dreamliner as PIA expands fleet",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/pakistan/pakistan-welcomes-first-boeing-787-dreamliner-as-pia-expands-fleet-3005784",
-      "published_date": "2026-11-01T09:25:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Indian opposition parties stage new protest against the elections chief",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/indian-opposition-parties-stage-new-protest-against-the-elections-chief-3005781",
-      "published_date": "2026-11-01T08:13:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Broken record: constitution, commander, curfew.",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2040748/broken-record-constitution-commander-curfew",
-      "published_date": "2026-11-01T08:00:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "One dead, 18 injured during stampede in Sialkot at TikTok star’s wedding event",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/pakistan/one-dead-18-injured-during-stampede-in-sialkot-at-tiktok-stars-wedding-event-3005777",
-      "published_date": "2026-11-01T06:41:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kundi says K-P's people will have 'first right' to province’s natural resources",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2638081/kundi-says-k-ps-people-will-have-first-right-to-provinces-natural-resources",
-      "published_date": "2026-11-01T05:24:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "World Bank okays $150m plan to boost property tax collection in Karachi",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2041285/world-bank-okays-150m-plan-to-boost-property-tax-collection-in-karachi",
-      "published_date": "2026-11-01T04:59:09+00:00",
       "category": "Local Events"
     }
   ]
