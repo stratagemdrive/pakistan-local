@@ -1,13 +1,34 @@
 {
   "country": "Pakistan",
-  "last_updated": "2026-11-12T03:28:55.846286+00:00",
+  "last_updated": "2026-11-12T18:46:27.564689+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "53 countries at UN urge incoming Israeli government to open up Gaza for winter aid",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/53-countries-at-un-urge-incoming-israeli-government-to-open-up-gaza-for-winter-aid-3006867",
+      "published_date": "2026-11-12T17:23:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Indonesia’s vice president quits as cracks deepen in ruling political alliance",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/world/indonesias-vice-president-quits-as-cracks-deepen-in-ruling-political-alliance-3006835",
+      "published_date": "2026-11-12T13:00:47+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "AJK leaders urge restraint, peace after recent unrest",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2043911/ajk-leaders-urge-restraint-peace-after-recent-unrest",
       "published_date": "2026-11-12T01:46:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Oil falls over $1 on easing geopolitical fears and oversupply worries",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2639889/oil-falls-over-1-on-easing-geopolitical-fears-and-oversupply-worries",
+      "published_date": "2026-11-12T00:16:49+00:00",
       "category": "Diplomacy"
     },
     {
@@ -43,6 +64,13 @@
       "source": "Arab News Pakistan",
       "url": "https://www.arabnews.pk/world/south-sudans-elections-next-month-risk-unraveling-a-fragile-peace-envoys-warn-3006780",
       "published_date": "2026-11-11T18:45:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Snowfall blocks road to Babusar Top",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2639843/snowfall-blocks-road-to-babusar-top",
+      "published_date": "2026-11-11T16:59:39+00:00",
       "category": "Diplomacy"
     },
     {
@@ -116,172 +144,193 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Saudi Arabia, Ukraine sign visa waiver deal for holders of diplomatic, special, service passports",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/saudi-arabia/saudi-arabia-ukraine-sign-visa-waiver-deal-for-holders-of-diplomatic-special-service-passports-3006663",
-      "published_date": "2026-11-10T15:14:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi FM takes part in meeting with Qatar and European nations at G7 summit",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/saudi-arabia/saudi-fm-takes-part-in-meeting-with-qatar-and-european-nations-at-g7-summit-3006662",
-      "published_date": "2026-11-10T14:54:27+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US-Iran mediation continues despite reports of imminent strike, says Qatar",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/us-iran-mediation-continues-despite-reports-of-imminent-strike-says-qatar-3006660",
-      "published_date": "2026-11-10T14:37:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "China says ready to deepen cooperation with Pakistan in space, other fields",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/pakistan/china-says-ready-to-deepen-cooperation-with-pakistan-in-space-other-fields-3006659",
-      "published_date": "2026-11-10T14:35:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pakistan suffers $387 million Gulf export shortfall due to US-Iran war",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/pakistan/pakistan-suffers-387-million-gulf-export-shortfall-due-to-us-iran-war-3006807",
-      "published_date": "2026-11-12T03:20:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syrian demining worker killed, another injured as explosive remnants claim 14 lives since Oct. 14",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/syrian-demining-worker-killed-another-injured-as-explosive-remnants-claim-14-lives-since-oct-14-3006801",
-      "published_date": "2026-11-12T00:38:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump defends Iran war in Veterans Day address",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/trump-defends-iran-war-in-veterans-day-address-3006798",
-      "published_date": "2026-11-11T23:43:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syria trials probe military hospitals’ role in detainee deaths",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/syria-trials-probe-military-hospitals-role-in-detainee-deaths-3006796",
-      "published_date": "2026-11-11T23:02:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Suspect faces terrorism charges over deadly police stabbing in Jordan",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/suspect-faces-terrorism-charges-over-deadly-police-stabbing-in-jordan-3006794",
-      "published_date": "2026-11-11T21:29:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hezbollah chief calls Trump’s midterm defeat ‘an opportunity’",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/hezbollah-chief-calls-trumps-midterm-defeat-an-opportunity-3006793",
-      "published_date": "2026-11-11T20:52:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Without shelter, Gaza families face winter of sickness and hardship",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/without-shelter-gaza-families-face-winter-of-sickness-and-hardship-3006789",
-      "published_date": "2026-11-11T20:28:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US envoys to meet Putin, Zelensky after Russia-Ukraine war talks in Abu Dhabi",
+      "title": "3 terrorists killed, 2 civilians dead as attack on Mastung post repulsed: state media",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2043838/us-envoys-to-meet-putin-zelensky-after-russia-ukraine-war-talks-in-abu-dhabi",
-      "published_date": "2026-11-11T20:24:03+00:00",
+      "url": "https://www.dawn.com/news/2044083/3-terrorists-killed-2-civilians-dead-as-attack-on-mastung-post-repulsed-state-media",
+      "published_date": "2026-11-12T18:39:39+00:00",
       "category": "Military"
     },
     {
-      "title": "UK police question Nato-assigned US soldier accused of spying for Russia",
+      "title": "Turkiye helicopter crash in Malatya province kills 4",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/world/turkiye-helicopter-crash-in-malatya-province-kills-4-3006868",
+      "published_date": "2026-11-12T17:32:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi Arabia hands ALECSO conference presidency to Oman",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/saudi-arabia/saudi-arabia-hands-alecso-conference-presidency-to-oman-3006866",
+      "published_date": "2026-11-12T17:17:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "One dead, four wounded in downtown Washington shooting: police chief",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2043844/uk-police-question-nato-assigned-us-soldier-accused-of-spying-for-russia",
-      "published_date": "2026-11-11T19:47:57+00:00",
+      "url": "https://www.dawn.com/news/2044073/one-dead-four-wounded-in-downtown-washington-shooting-police-chief",
+      "published_date": "2026-11-12T17:05:44+00:00",
       "category": "Military"
     },
     {
-      "title": "Will the GCC’s new military command in Kuwait strengthen Gulf defenses against Iran?",
+      "title": "Israeli settlers injure five Palestinians after army dismantles outposts",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/will-the-gccs-new-military-command-in-kuwait-strengthen-gulf-defenses-against-iran-3006782",
-      "published_date": "2026-11-11T19:02:54+00:00",
+      "url": "https://www.arabnews.pk/middle-east/israeli-settlers-injure-five-palestinians-after-army-dismantles-outposts-3006863",
+      "published_date": "2026-11-12T17:01:19+00:00",
       "category": "Military"
     },
     {
-      "title": "Yemeni minister to Asharq Al-Awsat: Houthis lose foreign commanders as military setbacks mount",
+      "title": "This Beirut family has sold falafel for 100 years, through war and crisis, and has no plan to stop",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/yemeni-minister-to-asharq-al-awsat-houthis-lose-foreign-commanders-as-military-setbacks-mount-3006781",
-      "published_date": "2026-11-11T18:53:44+00:00",
+      "url": "https://www.arabnews.pk/middle-east/this-beirut-family-has-sold-falafel-for-100-years-through-war-and-crisis-and-has-no-plan-to-stop-3006861",
+      "published_date": "2026-11-12T16:56:26+00:00",
       "category": "Military"
     },
     {
-      "title": "Romanian intelligence agency says it identified Russian-linked cyberattack",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/romanian-intelligence-agency-says-it-identified-russian-linked-cyberattack-3006778",
-      "published_date": "2026-11-11T18:04:09+00:00",
+      "title": "Jensen Huang steps down as Nvidia CEO after reports of extramarital affairs",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2044060/jensen-huang-steps-down-as-nvidia-ceo-after-reports-of-extramarital-affairs",
+      "published_date": "2026-11-12T15:53:06+00:00",
       "category": "Military"
     },
     {
-      "title": "Zelensky says he has arrived in Dublin to meet European leaders",
+      "title": "France, Syria boost naval ties with historic frigate visit",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/zelensky-says-he-has-arrived-in-dublin-to-meet-european-leaders-3006777",
-      "published_date": "2026-11-11T17:56:47+00:00",
+      "url": "https://www.arabnews.pk/middle-east/france-syria-boost-naval-ties-with-historic-frigate-visit-3006854",
+      "published_date": "2026-11-12T15:09:28+00:00",
       "category": "Military"
     },
     {
-      "title": "US Treasury chief relocates to base after Iran threat",
+      "title": "Israeli forces enter Wadi Al-Raqqad in latest incursion into southern Syria",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/us-treasury-chief-relocates-to-base-after-iran-threat-3006774",
-      "published_date": "2026-11-11T17:29:45+00:00",
+      "url": "https://www.arabnews.pk/middle-east/israeli-forces-enter-wadi-al-raqqad-in-latest-incursion-into-southern-syria-3006851",
+      "published_date": "2026-11-12T14:59:51+00:00",
       "category": "Military"
     },
     {
-      "title": "Russian security services arrest two Poles for alleged spying",
+      "title": "South Sudan, UN failed to heed massacre warnings: Amnesty",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/russian-security-services-arrest-two-poles-for-alleged-spying-3006772",
-      "published_date": "2026-11-11T16:50:16+00:00",
+      "url": "https://www.arabnews.pk/world/south-sudan-un-failed-to-heed-massacre-warnings-amnesty-3006850",
+      "published_date": "2026-11-12T14:58:40+00:00",
       "category": "Military"
     },
     {
-      "title": "Debris falls on Makkah region after Houthi missiles destroyed by Coalition",
+      "title": "Yemen army claims 703 strikes on Houthi targets, about 200 fighters killed or wounded",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/saudi-arabia/debris-falls-on-makkah-region-after-houthi-missiles-destroyed-by-coalition-3006770",
-      "published_date": "2026-11-11T16:40:32+00:00",
+      "url": "https://www.arabnews.pk/middle-east/yemen-army-claims-703-strikes-on-houthi-targets-about-200-fighters-killed-or-wounded-3006849",
+      "published_date": "2026-11-12T14:51:35+00:00",
       "category": "Military"
     },
     {
-      "title": "Israeli settlers launch arson attack on scrapyard in West Bank village",
+      "title": "Syrian defense minister, US commander hold talks on regional security",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/israeli-settlers-launch-arson-attack-on-scrapyard-in-west-bank-village-3006768",
-      "published_date": "2026-11-11T16:27:19+00:00",
+      "url": "https://www.arabnews.pk/middle-east/syrian-defense-minister-us-commander-hold-talks-on-regional-security-3006846",
+      "published_date": "2026-11-12T14:26:42+00:00",
       "category": "Military"
     },
     {
-      "title": "Iran security chief threatens to strike US bases in Europe if used for attacks",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/iran-security-chief-threatens-to-strike-us-bases-in-europe-if-used-for-attacks-3006767",
-      "published_date": "2026-11-11T16:22:13+00:00",
+      "title": "A possible Xi-Trump-Putin summit evokes 1945 Yalta carve-up of world",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2044052/a-possible-xi-trump-putin-summit-evokes-1945-yalta-carve-up-of-world",
+      "published_date": "2026-11-12T13:41:06+00:00",
       "category": "Military"
     },
     {
-      "title": "Yemen army claims 877 strikes on Houthi targets, 138 fighters killed or wounded",
+      "title": "Israeli defense minister says no need for opposition approval to launch strikes",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/yemen-army-claims-877-strikes-on-houthi-targets-138-fighters-killed-or-wounded-3006764",
-      "published_date": "2026-11-11T15:29:15+00:00",
+      "url": "https://www.arabnews.pk/middle-east/israeli-defense-minister-says-no-need-for-opposition-approval-to-launch-strikes-3006840",
+      "published_date": "2026-11-12T13:31:42+00:00",
       "category": "Military"
     },
     {
-      "title": "Iran warns of domestic gas shortages from war this winter",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/iran-warns-of-domestic-gas-shortages-from-war-this-winter-3006759",
-      "published_date": "2026-11-11T15:01:49+00:00",
+      "title": "Who could be next CEO at Nvidia after 'rockstar' Jensen Huang?",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2044050/who-could-be-next-ceo-at-nvidia-after-rockstar-jensen-huang",
+      "published_date": "2026-11-12T12:18:01+00:00",
       "category": "Military"
+    },
+    {
+      "title": "London court finds 2 Iranian men guilty of spying for Tehran",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/world/london-court-finds-2-iranian-men-guilty-of-spying-for-tehran-3006830",
+      "published_date": "2026-11-12T11:54:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi Arabia joins ‘accelerating’ tier in physical AI, AWS report finds",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/saudi-arabia/saudi-arabia-joins-accelerating-tier-in-physical-ai-aws-report-finds-3006826",
+      "published_date": "2026-11-12T11:35:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pakistan arrests 20 Nigerian nationals in major drug bust in Rawalpindi, Islamabad",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/pakistan/pakistan-arrests-20-nigerian-nationals-in-major-drug-bust-in-rawalpindi-islamabad-3006825",
+      "published_date": "2026-11-12T11:28:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "China's Xi says Taiwan 'reunification' must happen as history cannot be stopped",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2044041/chinas-xi-says-taiwan-reunification-must-happen-as-history-cannot-be-stopped",
+      "published_date": "2026-11-12T11:15:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Two policemen, including ASI, martyred in attack on patrolling party in Swabi: DPO",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2044036/two-policemen-including-asi-martyred-in-attack-on-patrolling-party-in-swabi-dpo",
+      "published_date": "2026-11-12T10:26:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "High-speed diesel price dips by Rs4 per litre, petrol by Rs3",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2044067/high-speed-diesel-price-dips-by-rs4-per-litre-petrol-by-rs3",
+      "published_date": "2026-11-12T17:37:21+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "‘Doubly affected:’ Poor countries pay price as climate crises collide with shrinking aid",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/world/doubly-affected-poor-countries-pay-price-as-climate-crises-collide-with-shrinking-aid-3006860",
+      "published_date": "2026-11-12T16:35:29+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Power shutdown at Dhabeji to cause Karachi-wide water shortage tomorrow",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2043860/power-shutdown-at-dhabeji-to-cause-karachi-wide-water-shortage-tomorrow",
+      "published_date": "2026-11-12T14:53:36+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Nepra notifies Rs25.30 per unit revised special industrial tariff despite concerns",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2044061/nepra-notifies-rs2530-per-unit-revised-special-industrial-tariff-despite-concerns",
+      "published_date": "2026-11-12T14:38:32+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Pakistan urges debt-free finance at climate summit, holds talks with Türkiye",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/pakistan/pakistan-urges-debt-free-finance-at-climate-summit-holds-talks-with-türkiye-3006839",
+      "published_date": "2026-11-12T13:29:01+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Petrol goes down by Rs3, high-speed diesel by Rs4 for Nov 13",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2639970/petrol-goes-down-by-rs3-high-speed-diesel-by-rs4-for-nov-13",
+      "published_date": "2026-11-12T12:17:57+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "PM Shehbaz urges grant-based climate finance, warns against 'weaponising water' at COP31",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2639916/pm-shehbaz-urges-grant-based-climate-finance-warns-against-weaponizing-water",
+      "published_date": "2026-11-12T03:31:57+00:00",
+      "category": "Energy"
     },
     {
       "title": "World urged to tackle fossil fuels but big names skip COP31",
@@ -375,59 +424,80 @@
       "category": "Energy"
     },
     {
-      "title": "PM Shehbaz arrives in Turkiye, to address COP31 tomorrow",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2043486/pm-shehbaz-arrives-in-turkiye-to-address-cop31-tomorrow",
-      "published_date": "2026-11-10T17:40:47+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Pakistan says no threat to Tarbela Dam’s integrity after rock mass collapse",
+      "title": "Pakistan seeks foreign investors for Sukuk as Islamic bond issuance surges",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/pakistan/pakistan-says-no-threat-to-tarbela-dams-integrity-after-rock-mass-collapse-3006675",
-      "published_date": "2026-11-10T17:12:39+00:00",
-      "category": "Energy"
+      "url": "https://www.arabnews.pk/pakistan/pakistan-seeks-foreign-investors-for-sukuk-as-islamic-bond-issuance-surges-3006865",
+      "published_date": "2026-11-12T17:15:23+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Oil prices slide 2% to two-month low",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2639654/oil-prices-slide-2-to-two-month-low",
-      "published_date": "2026-11-10T16:45:28+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Iran says three oil tankers on fire in Hormuz",
+      "title": "Pakistan says exploring mineral cooperation with Saudi Arabia as joint studies continue",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/iran-says-three-oil-tankers-on-fire-in-hormuz-3006671",
-      "published_date": "2026-11-10T15:58:53+00:00",
-      "category": "Energy"
+      "url": "https://www.arabnews.pk/pakistan/pakistan-says-exploring-mineral-cooperation-with-saudi-arabia-as-joint-studies-continue-3006852",
+      "published_date": "2026-11-12T15:01:22+00:00",
+      "category": "Economy"
     },
     {
-      "title": "JI, govt agree on draft outlines for petroleum levy relief",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2639637/ji-govt-agree-on-draft-outlines-for-petroleum-levy-relief",
-      "published_date": "2026-11-10T14:14:40+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Petrol drops by Rs8, diesel by Rs7 for Nov 11",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2639635/govt-slashes-petrol-by-rs8-diesel-by-rs7-for-nov-11",
-      "published_date": "2026-11-10T13:07:35+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Wapda says no threat to Tarbela Dam's integrity, critical structures after rock collapse at project site",
+      "title": "Who is Nvidia interim CEO Colette Kress?",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2043528/wapda-says-no-threat-to-tarbela-dams-integrity-critical-structures-after-rock-collapse-at-project-site",
-      "published_date": "2026-11-10T12:42:33+00:00",
-      "category": "Energy"
+      "url": "https://www.dawn.com/news/2044062/who-is-nvidia-interim-ceo-colette-kress",
+      "published_date": "2026-11-12T14:15:34+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "At COP31, PM Shehbaz calls for grant-based finance, resilience funding for climate-vulnerable countries",
+      "source": "Dawn",
+      "url": "https://www.dawn.com/news/2044031/at-cop31-pm-shehbaz-calls-for-grant-based-finance-resilience-funding-for-climate-vulnerable-countries",
+      "published_date": "2026-11-12T13:11:38+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Future Investment Initiative sets news dates for postponed 10th edition",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/business/future-investment-initiative-sets-news-dates-for-postponed-10th-edition-3006834",
+      "published_date": "2026-11-12T12:41:56+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "KSE-100 sheds over 1,700 points amid uncertainty",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2639915/psx-sheds-1492-points-as-selling-hits-heavyweights",
+      "published_date": "2026-11-12T03:23:08+00:00",
+      "category": "Economy"
     },
     {
       "title": "External sector turning points",
       "source": "Dawn",
       "url": "https://www.dawn.com/news/2043974/external-sector-turning-points",
       "published_date": "2026-11-12T03:12:41+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Finance minister dubs mining sector a ‘game-changer’ for Pakistan’s economy at investment forum in Islamabad",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2639911/pakistan-courts-global-investors-at-minerals-investment-forum-as-provinces-outline-opportunities",
+      "published_date": "2026-11-12T02:44:09+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "AOOA accuses foreign airlines of moving $2.4b out of Pakistan annually",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2639899/aooa-accuses-foreign-airlines-of-moving-24b-out-of-pakistan-annually",
+      "published_date": "2026-11-12T01:34:26+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "PSX crosses 180k; profit-taking erases gains",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2639816/psx-crosses-180k-profit-taking-erases-gains",
+      "published_date": "2026-11-11T15:40:51+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Gold drops Rs3,400 amid global sell-off",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2639810/gold-drops-rs3400-amid-global-sell-off",
+      "published_date": "2026-11-11T15:40:51+00:00",
       "category": "Economy"
     },
     {
@@ -494,213 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Italy sees planned F-35 fighter jet spending rise by €7.3 billion",
+      "title": "Three militants, two civilians killed in car bomb attack in Pakistan’s Balochistan",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/italy-sees-planned-f-35-fighter-jet-spending-rise-by-73-billion-3006655",
-      "published_date": "2026-11-10T14:21:06+00:00",
-      "category": "Economy"
+      "url": "https://www.arabnews.pk/pakistan/three-militants-two-civilians-killed-in-car-bomb-attack-in-pakistans-balochistan-3006871",
+      "published_date": "2026-11-12T18:24:38+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Lebanon hopes to reach preliminary IMF deal as talks on banking crisis begin",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/lebanon-hopes-to-reach-preliminary-imf-deal-as-talks-on-banking-crisis-begin-3006654",
-      "published_date": "2026-11-10T14:14:14+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Saudi manufacturing registrations rise 18% as industrial activity expands",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/business/saudi-manufacturing-registrations-rise-18-as-industrial-activity-expands-3006646",
-      "published_date": "2026-11-10T12:59:32+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Syria and Jordan sign 11 agreements to strengthen economic ties",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/business/syria-and-jordan-sign-11-agreements-to-strengthen-economic-ties-3006644",
-      "published_date": "2026-11-10T12:01:42+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Extreme heat",
+      "title": "Imran's key message from jail is to 'stick firmly to the ideology': PTI secretary general",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2043437/extreme-heat",
-      "published_date": "2026-11-10T11:29:41+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2044072/imrans-key-message-from-jail-is-to-stick-firmly-to-the-ideology-pti-secretary-general",
+      "published_date": "2026-11-12T17:16:42+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Missing discussion",
+      "title": "Wrth promotes Saudi craftsmanship at Hajj exhibition in Jeddah",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/saudi-arabia/wrth-promotes-saudi-craftsmanship-at-hajj-exhibition-in-jeddah-3006864",
+      "published_date": "2026-11-12T17:12:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sindh govt to launch crackdown on encroachments on Karachi's main thoroughfares, including University Road",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2043439/missing-discussion",
-      "published_date": "2026-11-10T11:12:20+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2044074/sindh-govt-to-launch-crackdown-on-encroachments-on-karachis-main-thoroughfares-including-university-road",
+      "published_date": "2026-11-12T16:28:23+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Egypt’s annual urban inflation eases to 12.7% in October",
+      "title": "Doctors in Gaza mourn colleague killed by latest Israeli strike on hospital",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/business/egypts-annual-urban-inflation-eases-to-127-in-october-3006638",
-      "published_date": "2026-11-10T10:56:53+00:00",
-      "category": "Economy"
+      "url": "https://www.arabnews.pk/middle-east/doctors-in-gaza-mourn-colleague-killed-by-latest-israeli-strike-on-hospital-3006859",
+      "published_date": "2026-11-12T16:21:15+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Saudi Arabia opens anti-dumping probe into steel imports from China, Turkiye",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/business/saudi-arabia-opens-anti-dumping-probe-into-steel-imports-from-china-turkiye-3006636",
-      "published_date": "2026-11-10T10:32:07+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Bangladesh prosecutor says ex-PM Sheikh Hasina will be executed if she returns",
+      "title": "CEC Raja alleges federal govt wants to 'sabotage' Islamabad local govt polls",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2043510/bangladesh-prosecutor-says-ex-pm-sheikh-hasina-will-be-executed-if-she-returns",
-      "published_date": "2026-11-10T10:12:53+00:00",
-      "category": "Economy"
+      "url": "https://www.dawn.com/news/2044064/cec-raja-alleges-federal-govt-wants-to-sabotage-islamabad-local-govt-polls",
+      "published_date": "2026-11-12T15:51:17+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Lucid secures access to additional $1.75bn in PIF financing",
+      "title": "Iran says four tankers on fire in Hormuz",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/business/lucid-secures-access-to-additional-175bn-in-pif-financing-3006632",
-      "published_date": "2026-11-10T10:12:15+00:00",
-      "category": "Economy"
+      "url": "https://www.arabnews.pk/middle-east/iran-says-four-tankers-on-fire-in-hormuz-3006856",
+      "published_date": "2026-11-12T15:39:41+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Iran status quo",
+      "title": "Vessel on fire after being struck off UAE’s Ras Al-Khaimah, maritime agencies say",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/middle-east/vessel-on-fire-after-being-struck-off-uaes-ras-al-khaimah-maritime-agencies-say-3006855",
+      "published_date": "2026-11-12T15:38:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Naqvi suggests referendum as 'solution' to debate on new administrative units",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2043940/iran-status-quo",
-      "published_date": "2026-11-12T03:05:19+00:00",
+      "url": "https://www.dawn.com/news/2044043/naqvi-suggests-referendum-as-solution-to-debate-on-new-administrative-units",
+      "published_date": "2026-11-12T15:01:54+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Amid spat with Maryam, Azma challenges Salik to quit ministry",
+      "title": "One dead, four wounded in downtown Washington shooting: police chief",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/world/one-dead-four-wounded-in-downtown-washington-shooting-police-chief-3006847",
+      "published_date": "2026-11-12T14:34:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan-Sri Lanka Test hit by bad weather after Saqib Khan's heroics",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/pakistan/pakistan-sri-lanka-test-hit-by-bad-weather-after-saqib-khans-heroics-3006845",
+      "published_date": "2026-11-12T14:13:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Swiss woman with Ebola released from hospital, statement says",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/world/swiss-woman-with-ebola-released-from-hospital-statement-says-3006844",
+      "published_date": "2026-11-12T14:11:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "India probes website blocks based on forged court orders",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2043909/amid-spat-with-maryam-azma-challenges-salik-to-quit-ministry",
-      "published_date": "2026-11-12T02:40:56+00:00",
+      "url": "https://www.dawn.com/news/2044059/india-probes-website-blocks-based-on-forged-court-orders",
+      "published_date": "2026-11-12T13:59:44+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Punjab govt insists smog ‘not a political issue’ as Lahore, New Delhi gasp for air",
+      "title": "Canadian mining company signs MoU with Mari Energies in South Asia push",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2043912/punjab-govt-insists-smog-not-a-political-issue-as-lahore-new-delhi-gasp-for-air",
-      "published_date": "2026-11-12T02:31:16+00:00",
+      "url": "https://www.dawn.com/news/2044014/canadian-mining-company-signs-mou-with-mari-energies-in-south-asia-push",
+      "published_date": "2026-11-12T13:36:04+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Israeli strike kills six at southern Gaza hospital: civil defense",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/israeli-strike-kills-six-at-southern-gaza-hospital-civil-defense-3006802",
-      "published_date": "2026-11-12T01:20:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jeddah seabed cleanup removes 9.3 tonnes of waste from Red Sea marina",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/saudi-arabia/jeddah-seabed-cleanup-removes-93-tonnes-of-waste-from-red-sea-marina-3006797",
-      "published_date": "2026-11-11T23:33:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Housing protests fill Barcelona and Madrid as Spain’s workers strike ahead of election",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/housing-protests-fill-barcelona-and-madrid-as-spains-workers-strike-ahead-of-election-3006795",
-      "published_date": "2026-11-11T21:34:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Militants ambush police in Pakistan, sparking gunbattle that kills 10 officers and 18 militants",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/militants-ambush-police-in-pakistan-sparking-gunbattle-that-kills-10-officers-and-18-militants-3006790",
-      "published_date": "2026-11-11T20:31:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "10 cops martyred, 18 terrorists killed as police party comes under attack in KP's Kohat",
+      "title": "PTI lawmaker moves FCC seeking immediate release of Sohail Afridi, other party workers",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2043793/10-cops-martyred-18-terrorists-killed-as-police-party-comes-under-attack-in-kps-kohat",
-      "published_date": "2026-11-11T18:28:58+00:00",
+      "url": "https://www.dawn.com/news/2044048/pti-lawmaker-moves-fcc-seeking-immediate-release-of-sohail-afridi-other-party-workers",
+      "published_date": "2026-11-12T13:05:40+00:00",
       "category": "Local Events"
     },
     {
-      "title": "PTI lawyers meet Imran, Bushra 'for 3 hours' at Adiala jail following IHC orders",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2043779/pti-lawyers-meet-imran-bushra-for-3-hours-at-adiala-jail-following-ihc-orders",
-      "published_date": "2026-11-11T17:49:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "120 Indonesian lawmakers seek vice president’s impeachment after education credentials questioned",
+      "title": "Al-Ahsa’s Palm Village opens with 15 new experiences",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/120-indonesian-lawmakers-seek-vice-presidents-impeachment-after-education-credentials-questioned-3006773",
-      "published_date": "2026-11-11T17:12:14+00:00",
+      "url": "https://www.arabnews.pk/saudi-arabia/al-ahsas-palm-village-opens-with-15-new-experiences-3006836",
+      "published_date": "2026-11-12T13:01:47+00:00",
       "category": "Local Events"
     },
     {
-      "title": "‘I stand by it’: Chaudhry Salik sticks to Punjab corruption claims despite Maryam's ire",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2043827/i-stand-by-it-chaudhry-salik-sticks-to-punjab-corruption-claims-despite-maryams-ire",
-      "published_date": "2026-11-11T17:12:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Nothing left’: Israeli strike burns Saudi-donated tents in Gaza",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/nothing-left-israeli-strike-burns-saudi-donated-tents-in-gaza-3006771",
-      "published_date": "2026-11-11T16:46:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Faulty vehicle in President Zardari’s motorcade prompts Sindh police inquiry",
+      "title": "Naqvi makes surprise dash to Nawabshah with ‘important message’ for Zardari",
       "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2639819/faulty-vehicle-in-president-zardaris-motorcade-prompts-sindh-police-inquiry",
-      "published_date": "2026-11-11T16:07:09+00:00",
+      "url": "https://tribune.com.pk/story/2639971/naqvi-makes-surprise-dash-to-nawabshah-with-important-message-for-zardari",
+      "published_date": "2026-11-12T12:52:35+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Tight security as thousands gather for far-right Polish march",
+      "title": "Oh My Toast will make you say ‘Oh my God!’",
       "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/world/tight-security-as-thousands-gather-for-far-right-polish-march-3006765",
-      "published_date": "2026-11-11T15:52:13+00:00",
+      "url": "https://www.arabnews.pk/saudi-arabia/oh-my-toast-will-make-you-say-oh-my-god-3006832",
+      "published_date": "2026-11-12T12:17:25+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Security protocol keeps PPP leaders waiting outside Zardari House for hours",
-      "source": "The Express Tribune",
-      "url": "https://tribune.com.pk/story/2639818/security-protocol-keeps-ppp-leaders-waiting-outside-zardari-house-for-hours",
-      "published_date": "2026-11-11T15:50:14+00:00",
+      "title": "Two sisters of jailed Pakistan ex-PM Imran Khan released from prison",
+      "source": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/pakistan/two-sisters-of-jailed-pakistan-ex-pm-imran-khan-released-from-prison-3006831",
+      "published_date": "2026-11-12T12:04:24+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Nadra launches chatbot that tells families exact papers needed for succession certificates",
+      "title": "Pakistan-Sri Lanka Test hit by bad weather after Saqib Khan's heroics",
       "source": "Dawn",
-      "url": "https://www.dawn.com/news/2043817/nadra-launches-chatbot-that-tells-families-exact-papers-needed-for-succession-certificates",
-      "published_date": "2026-11-11T15:31:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Political motives suspected in killing of former Iraqi MP in Beirut",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/political-motives-suspected-in-killing-of-former-iraqi-mp-in-beirut-3006762",
-      "published_date": "2026-11-11T15:23:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli courts deny release of 14 Gaza doctors and independent exam for Abu Safiya",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/middle-east/israeli-courts-deny-release-of-14-gaza-doctors-and-independent-exam-for-abu-safiya-3006757",
-      "published_date": "2026-11-11T14:35:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan plans financial, administrative reforms at Islamabad hospital months after deadly fire",
-      "source": "Arab News Pakistan",
-      "url": "https://www.arabnews.pk/pakistan/pakistan-plans-financial-administrative-reforms-at-islamabad-hospital-months-after-deadly-fire-3006756",
-      "published_date": "2026-11-11T14:34:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Peshawar ATC reissues arrest warrant for Sohail Afridi in Radio Pakistan attack case",
-      "source": "Dawn",
-      "url": "https://www.dawn.com/news/2043786/peshawar-atc-reissues-arrest-warrant-for-sohail-afridi-in-radio-pakistan-attack-case",
-      "published_date": "2026-11-11T14:07:10+00:00",
+      "url": "https://www.dawn.com/news/2044023/pakistan-sri-lanka-test-hit-by-bad-weather-after-saqib-khans-heroics",
+      "published_date": "2026-11-12T11:37:09+00:00",
       "category": "Local Events"
     }
   ]
